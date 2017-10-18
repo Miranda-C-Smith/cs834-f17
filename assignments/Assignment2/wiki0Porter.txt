@@ -1,0 +1,1530 @@
+
+
+
+pocahonta (1995 film) - wikipedia
+document.documentel.classnam = document.documentel.classnam.replac( /(^|\s)client-noj(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespac":"","wgcanonicalspecialpagenam":fals,"wgnamespacenumb":0,"wgpagenam":"pocahonta_(1995_film)","wgtitl":"pocahonta (1995 film)","wgcurrevisionid":805049734,"wgrevisionid":805049734,"wgarticleid":399433,"wgisarticl":true,"wgisredirect":fals,"wgaction":"view","wgusernam":null,"wgusergroup":["*"],"wgcategori":["cs1 maint: unfit url","1995 film","english-languag film","disnei's pocahonta","1990s american anim film","1990s histor film","1990s music film","1990s romant drama film","american anim film","american children's anim film","american children's drama film","american comedi-drama film","american histor film","american music drama film","american romant drama film","american romant music film","american film","anim cartoon base on real peopl","anim drama film","anim music film","anim romanc film","best anim featur anni award winner","disnei renaiss","film score by alan menken","film about interraci romanc","film about nativ american","film about race and ethnic","film about racism","film featur anthropomorph charact","film set in the 1600s","film set in the powhatan confederaci","film set in the thirteen coloni","film set in virginia","film that won the best origin song academi award","film that won the best origin score academi award","walt disnei anim studio film","walt disnei pictur film"],"wgbreakfram":fals,"wgpagecontentlanguag":"en","wgpagecontentmodel":"wikitext","wgseparatortransformt":["",""],"wgdigittransformt":["",""],"wgdefaultdateformat":"dmy","wgmonthnam":["","januari","februari","march","april","mai","june","juli","august","septemb","octob","novemb","decemb"],"wgmonthnamesshort":["","jan","feb","mar","apr","mai","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagenam":"pocahonta_(1995_film)","wgrelevantarticleid":399433,"wgrequestid":"wepwsgpamfiaag1kki4aaabq","wgisprobablyedit":true,"wgrelevantpageisprobablyedit":true,"wgrestrictionedit":[],"wgrestrictionmov":[],"wgflaggedrevsparam":{"tag":{}},"wgstablerevisionid":null,"wgwikieditorenabledmodul":{"toolbar":true,"preview":fals,"publish":fals},"wgbetafeaturesfeatur":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":fals,"wgpopupsshouldsendmoduletous":fals,"wgpopupsconflictswithnavpopupgadget":fals,"wgvisualeditor":{"pagelanguagecod":"en","pagelanguagedir":"ltr","pagevariantfallback":"en","usepageimag":true,"usepagedescript":true},"wgpreferredvari":"en","wgmfexpandallsectionsuseropt":fals,"wgmfdisplaywikibasedescript":{"search":true,"nearbi":true,"watchlist":true,"taglin":fals},"wgrelatedarticl":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":fals,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelet":[],"wgcentralnoticecategoriesusinglegaci":["fundrais","fundrais"],"wgcategorytreepagecategoryopt":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespac\":fals}","wgwikibaseitemid":"q218894","wgcentralauthmobiledomain":fals,"wgcodemirroren":fals,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparam":["undo","undoaft","veswitch"],"wgeditsubmitbuttonlabelpublish":fals});mw.loader.state({"ext.gadget.charinsert-style":"readi","ext.globalcssj.user.style":"readi","ext.globalcssj.site.style":"readi","site.style":"readi","noscript":"readi","user.style":"readi","user":"readi","user.option":"readi","user.token":"load","ext.cite.style":"readi","wikibas.client.init":"readi","ext.visualeditor.desktoparticletarget.noscript":"readi","ext.ul.interlanguag":"readi","ext.wikimediabadg":"readi","skin.vector.style.experiment.print":"readi","mediawiki.legaci.share":"readi","mediawiki.legaci.commonprint":"readi","mediawiki.sectionanchor":"readi","mediawiki.skin.interfac":"readi","skin.vector.style":"readi","ext.globalcssj.user":"readi","ext.globalcssj.site":"readi"});mw.loader.implement("user.token@1dqfd7l",function ( $, jqueri, requir, modul ) {
+mw.user.token.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.readi","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahous","ext.gadget.referencetooltip","ext.gadget.watchlist-notic","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-button","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetload","ext.eventlog.subscrib","ext.wikimediaev","ext.navigationtim","ext.ul.eventlogg","ext.ul.init","ext.ul.interfac","ext.centralnotic.geoip","ext.centralnotic.startup","skin.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+pocahonta (1995 film)
+
+from wikipedia, the free encyclopedia
+
+
+					jump to:					navig, 					search
+
+
+
+pocahonta
+
+
+
+theatric releas poster
+
+
+
+direct by
+mike gabriel
+eric goldberg
+
+
+produc by
+jim pentecost
+
+
+written by
+carl binder
+susannah grant
+philip lazebnik
+
+
+stori by
+glen kean
+joe grant
+ralph zondag
+burni mattinson
+ed gombert
+kaan kalyon
+franci gleba
+robert gibb
+bruce morri
+todd kurosawa
+duncan marjoribank
+chri buck
+
+
+base on
+pocahonta
+by mike gabriel
+
+
+star
+
+
+
+iren bedard
+judi kuhn
+mel gibson
+david ogden stier
+john kassir
+russel mean
+christian bale
+linda hunt
+danni mann
+billi connolli
+joe baker
+frank welker
+michel st. john
+jame apaumut fall
+gordon tootoosi
+
+
+
+
+
+music by
+alan menken
+
+
+edit by
+h. lee peterson
+
+
+
+product
+compani
+
+
+walt disnei pictur
+walt disnei featur anim
+
+
+
+distribut by
+buena vista pictur
+
+
+
+releas date
+
+
+
+
+june 23, 1995 (1995-06-23)
+
+
+
+
+
+
+
+
+
+
+run time
+
+82 minut
+
+
+countri
+unit state
+
+
+languag
+english
+
+
+budget
+$55 million
+
+
+box offic
+$346.1 million[1]
+
+
+pocahonta is a 1995 american anim music romant-comedi-drama film produc by walt disnei featur anim for walt disnei pictur. the 33rd disnei anim featur film, the film is part of the era known as the disnei renaiss which last from 1989 to 1999. direct by mike gabriel and eric goldberg, the film is inspir by the known histori and folklor surround the nativ american woman pocahonta and portrai a fiction account of her histor encount with englishman john smith and the jamestown settler that arriv from the virginia compani. the voic cast featur iren bedard, mel gibson, david ogden stier, russel mean, christian bale, billi connolli, and linda hunt. the music score wa written by alan menken, with song written by menken and lyricist stephen schwartz.
+pocahonta wa releas on june 23, 1995 to a mix reaction from critic, who prais it anim and music but critic it stori and histor inaccuraci. nevertheless, the film wa a commerci success, gross $346 million at the worldwid box offic. pocahonta receiv two academi award for best music or comedi score for menken's score and best origin song for "color of the wind". a video game base on the film wa releas across variou platform shortli after the film's theatric releas, and the film itself wa follow by a direct-to-video sequel, entitl pocahonta ii: journei to a new world, releas on august 25, 1998.
+
+
+
+content
+
+
+1 plot
+2 cast
+3 product
+
+3.1 develop
+3.2 write
+3.3 cast
+3.4 design and anim
+
+
+4 music
+5 releas
+
+5.1 market
+5.2 box offic
+5.3 home media
+
+
+6 recept
+
+6.1 critic respons
+6.2 accolad
+6.3 histor accuraci
+
+
+7 video game
+8 refer
+9 bibliographi
+10 extern link
+
+
+
+plot[edit]
+in 1607, the susan constant sail to the new world from london, carri english settler from the virginia compani. on board ar captain john smith and the voyag's leader governor ratcliff, who seek gold to bring him wealth and statu. along the wai, the susan constant is caught in a north atlant storm, and smith save a young, inexperienc crewmat name thoma from drown. as thei approach the new world, the settler (includ smith) talk of adventur, find gold, fight 'injun', and perhap settl in the new land.
+in the powhatan tribe in tsenacommacah, north america, pocahonta, the daughter of chief powhatan, fear be possibl wed to kocoum, a brave warrior whom she see as too seriou for her own free-spirit person. powhatan give pocahonta her mother's necklac as a present. pocahonta, along with her friend, the raccoon meeko and hummingbird flit, visit grandmoth willow, a spiritu talk willow tree, and speak of a dream involv a spin arrow, and her confus regard what her path in life should be. grandmoth willow then alert pocahonta to the arriv english.
+ratcliff ha jamestown built in a wood clear and immedi ha the crewmen dig for gold. smith depart to explor the wilder and encount pocahonta. thei quickli bond, fascin by each other's world and end up fall in love, despit powhatan's order to keep awai from the english after kocoum and other warrior engag them in a fight. meanwhil, meeko meet perci, ratcliff's dog, and becom the bane of hi exist. pocahonta introduc smith to grandmoth willow and avoid two other crewmen, but pocahonta's best friend nakoma discov her relationship with smith and warn kocoum. ratcliff also learn of smith's encount and angrili warn smith against spare ani nativ he come across on pain of death.
+later, smith and pocahonta meet with grandmoth willow and plan to bring peac between the colonist and the tribe. smith and pocahonta share a kiss, while kocoum and thoma (sent by ratcliff to spy on smith) wit from afar. enrag, kocoum attack and attempt to kill smith, but thoma interven with hi musket and kill kocoum, who destroi pocahonta' necklac in the process. smith command thoma to leav just befor the tribesmen come and captur smith while kocoum's bodi is taken awai. enrag, powhatan declar war on the english, begin with smith's execut at sunris. pocahonta tri to convinc her father otherwis, but the chief refus to listen, as he is veri angri with pocahonta for disobei hi order to remain in the villag.
+thoma reach jamestown safe at night and warn the crewmen of smith's captur; after hear thi ratcliff ralli hi men to battl, us thi as an excus to annihil the tribe and find their non-exist gold. that same night, powhatan also order hi men to prepar for battl; thei ar seen put on war paint and prepar their weapon. a desper pocahonta visit grandmoth willow, where meeko hand her smith's compass. pocahonta realiz smith's compass wa the spin arrow from her real life encount, which lead her to her destini.
+just then morn come, and powhatan and hi tribe forcibl bring smith to a cliff overlook a clear for execut; right at the same time, ratcliff lead the arm colonist to the cliff to fight powhatan's warrior. just as powhatan is about to kill smith, pocahonta stop him and convinc her father to end the fight between the two group. both parti accept gracefulli, except ratcliff, who tri to kill chief powhatan in anger, but wound smith instead when he protect the chief. ratcliff is then arrest by hi crewmen, who turn on him for hurt their comrad. in the end, smith is forc to return home to receiv medic treatment, while ratcliff is also sent back to england to face justic for hi crime. smith ask pocahonta to come with him, but she choos to stai with her tribe. meeko and perci, now friend, give pocahonta her mother's necklac complet fix. smith leav without pocahonta but with powhatan's bless to return in the futur.
+cast[edit]
+
+iren bedard as pocahonta, the daughter of chief powhatan. she is an adventur woman who violat her father's strict prohibit of meet white peopl and fall in love with captain john smith. glen kean serv as the supervis anim for pocahonta.
+
+
+
+
+judi kuhn as sing voic of pocahonta
+
+
+
+
+mel gibson as john smith, the love interest of pocahonta. he is the onli settler in jamestown will to befriend the nativ due to hi love for pocahonta and accept of other cultur. john pomeroi serv as the supervis anim for john smith.
+david ogden stier as governor ratcliff, the greedi and ruthlessli ambiti governor who lead an expedit to virginia to find gold and other rich (which he want to keep for himself). unlik other disnei villain, he is base upon a combin of real-life histor figur. duncan marjoribank serv as the supervis anim for ratcliff.
+
+stier also provid the voic of wiggin, ratcliff's manserv. chri buck serv as the supervis anim for wiggin.
+
+
+john kassir as meeko, pocahonta's pet raccoon who is friendli to john smith and love eat. nik ranieri serv as the supervis anim for meeko.
+russel mean as chief powhatan, pocahonta's father and chief of the powhatan. ruben a. aquino serv as the supervis anim for powhatan.
+
+
+
+
+jim cum as sing voic of chief powhatan
+
+
+
+
+christian bale as thoma, a loyal friend of john smith. ken duncan serv as the supervis anim for thoma.
+linda hunt as grandmoth willow, a speak willow tree that act as pocahonta's guid. chri buck serv as the supervis anim for grandmoth willow.
+danni mann as perci, governor ratcliff's pet pug. chri buck serv as the supervis anim for perci.
+billi connolli and joe baker as ben and lon, two of the settler. t. daniel hofstedt serv as the supervis anim for both charact.
+frank welker as flit, pocahonta's pet hummingbird who prefer kocoum over john smith but eventu warm up to him. david pruiksma serv as the supervis anim for flit.
+michel st. john as nakoma, pocahonta's friend who secretli ador kocoum. anthoni derosa serv as the supervis anim for nakoma.
+jame apaumut fall as kocoum, a handsom, strong and brave but stern and aggress powhatan warrior who wa ask to marri pocahonta (for whom he care). he is shot and kill by thoma while try to kill john smith after he see them kiss. michael cedeno serv as the supervis anim for kocoum.
+gordon tootoosi as kekata, the shaman of the powhatan.
+
+
+
+
+jim cum as sing voic of kekata
+
+
+
+three actor in the film have been involv in other pocahonta-relat project. gordon tootoosi, who voic kekata the shaman, act as chief powhatan in pocahonta: the legend, releas the same year as thi film. christian bale, who voic thoma, and iren bedard, who provid pocahonta's speak voic, would ten year later portrai john rolf and pocahonta's mother respect in the new world.
+product[edit]
+develop[edit]
+follow the releas of the rescuer down under, director mike gabriel wa eager to collabor on a vastli differ follow-up project with veteran disnei stori artist and charact design joe grant. dure thanksgiv weekend in 1990, gabriel develop idea of classic western legend such as anni oaklei, buffalo bill, and peco bill to adapt until he conceptu the tale of pocahonta.[2] pitch hi idea at the gong show pitch meet, gabriel took a on-sheet color imag of tiger lili from peter pan and wrote the titl walt disnei's pocahonta on it, and on the back, he tape a on-sentenc pitch of "an indian princess who is torn between her father's wish to destroi the english settler and her wish to help them — a girl caught between her father and her peopl, and her love for the enemi."[3] at the time, featur anim presid peter schneider had been develop an anim version of romeo and juliet for mani year and gabriel's time pitch had mani of the same element. "we were particularli interest in explor the theme of 'if we don't learn to live with on anoth, we will destroi ourselv,'" recal schneider.[4][2] gabriel's pitch wa quickli accept becom the quickest stori turnaround in studio histori.[5]
+follow the best pictur nomin of beauti and the beast at the 64th academi award and it subsequ loss in march 1992, then-studio chairman jeffrei katzenberg opt to produc anoth anim sweep romant epic in hope of replic anoth best pictur nomin. with aladdin and the lion king too far into develop, katzenberg believ that pocahonta had a chanc, and push for the titl protagonist to be older, the romanc between pocahonta and smith to be more adult, and for the anim to be mute.[6] head of stori tom sito went on the record state he want to includ more and broader joke, but the "higher-up want it more winsom, more gentl. some of the folk were so concern about polit correct, thei didn't want to be cuckoo-wacki about it."[7] likewis, eric goldberg – follow hi work on aladdin as the supervis anim for the geni and with all of the anim unit for the lion king alreadi occupi – wa ask to co-direct pocahonta with gabriel, in which he agre to and wa given a pitch of the film.[8][9] goldberg had expect the film to be more comed and cartoonish like aladdin, but schneider told goldberg that the film would be produc in the vein of beauti and the beast,[10] and the ongo lo angel riot in 1992 further inspir him to commit to the film becaus of it racial overton.[11] the execut interfer would eventu grow too much that goldberg himself work under the pseudonym "claud rayn" for chuck jone product dure product.[10] execut paranoia reach a peak when joe grant had drawn perci wear an indian feather, by which the anim took the concept on step further by place a spanish ruff on meeko. on execut exclaim, "anim don't have the intellig to switch their cloth! thei don't even have oppos thumb." the anim would retain their concept for the film.[12]
+under katzenberg, frank well, and michael eisner, the disnei studio began a correl of hire broadwai personnel to manag the disnei anim staff on their featur film that brought such produc as ami pell to aladdin and sarah mcarthur and thoma schumach to the lion king.[13] for pocahonta, broadwai stage manag, director, and produc jame pentecost wa brought onboard where he made hi featur film debut as produc.[14] in june 1992, the filmmak embark on a research trip to the jamestown settlement where pentecost first met shirlei "littl dove" custalow-mcgowan and debbi "white dove" custalow, both descend of the powhatan indian. the trip also includ a visit to the pamunkei indian reserv, and conduct interview with historian at old dominion univers.[15] follow the research trip, custalow-mcgowan serv as a consult travel to the disnei studio three time, and while custalow-mcgowan offer her servic free, disnei paid her a $500 daili consult fee plu expens.[16] ultim, when it came to light that histor accuraci wa not be pursu to the extent she had hope, mcgowan ha voic her feel of shame she felt in conjunct with her work on the film, sai, "[she] wish[ed her] name wasn't on it".[17] addit nativ american consult were brought in to authent the cloth and war danc choreographi.[18]
+that same month, katzenberg held a meet with the featur anim staff in which he declar pocahonta to be a hit, while the concept for the lion king wa deem experiment.[19] as a result, most of the anim of walt disnei featur anim decid to work on pocahonta instead, believ it would be the more prestigi and success of the two.[20]
+write[edit]
+in januari 1993, carl binder join the project,[21] have previou expertis as a televis writer on popular sitcom such as punki brewster and televis seri such as war of the world, fridai the 13th: the seri, and top cop.[22] four month later, susannah grant (no relat to joe grant) and philip lazebnik join the write team. grant herself wa select by disnei as a screenwrit on pocahonta after win the nichol fellowship in screenwrit award by the academi of motion pictur art and scienc the year befor while still attend film school.[23] onboard as a screenwrit, she wa onli on of the mani who wa contribut the specif vision the upper manag at disnei had in mind, and collabor with nativ american consult. while work on the movi, grant wrote to a specif stori outlin, and no scene wa rewritten less than thirti-five time until it wa perfect.[24]
+stori supervisor tom sito, who becam the project's unoffici histor consult, did extens research into the earli coloni era and the stori of john smith and pocahonta, and wa confront over the histor inaccuraci from historian.[25] alreadi know that in realiti pocahonta marri john rolf, mike gabriel explain it wa felt that "the stori of pocahonta and rolf wa too complic and violent for a youth audienc" so instead, thei would focu on pocahonta's meet with john smith.[26] the filmmak discov that pocahonta wa around twelv year old and smith wa "not a veri likeabl charact", and produc jame pentecost confess that dramat licens wa inde to be taken.[27] likewis, when search for an appropri ag for pocahonta to begin her relationship with smith, glen kean explain, "we had the choic of be histor accur or social respons, so we chose the social respons side" by increas pocahonta's ag from a girl into a young woman.[28]
+on of gabriel's earli idea wa for pocahonta's mother to be embodi in a certain star in the sky that by the end of the film, she would help pocahonta find her path to smith.[29] howev, the lion king had concurr carri a similar idea of the ancestor give wisdom and guidanc to the protagonist so the idea wa discard.[11] michael eisner push for pocahonta to have a mother, lament that "we're alwai get fri for have no mother." the writer counter that powhatan wa polygam and form dynast allianc among other neighbor tribe by impregn a local squaw and give awai the child, so it wa believ that pocahonta herself probabl didn't see her mother that much.[30] "well", eisner conced, "i guess that mean we're toast."[7] ultim, her mother's spirit would becom the swirl wind that occur throughout the film.[29] for the villain, thei chose john ratcliff, whose portray wa base on actual english captain, includ john martin, christoph newport and edward maria wingfield. in realiti, it wa wingfield who despis john smith, but the filmmak prefer the sinist sound of "ratcliff".[31] the writer would continu to adapt actual event into the film such as pocahonta warn smith that the indian were after him so he could escap in the middl of the night, powhatan order the captur smith to make bead necklac to humili him, and pocahonta be captur by ratcliff (instead of samuel argal), though none of them work with the stori.[7]
+sito mention that joe grant contribut heavili toward the film,[32] as he wa the creator of redfeath, meeko, and flit.[33] redfeath wa a wise-crack turkei plan to be voic by john candi, and perci, who wa to be voic by richard e. grant, wa revis to becom mute.[34] follow the death of john candi in march 1994, co-screenwrit susannah grant decid the turkei wa inappropri for the script she co-wrote for pocahonta,[35] and a more realist approach would have the anim pantomim instead of talk.[7] joe grant state redfeath "had comic potenti–he thought he wa handsom, a ladi's man. when we decid he couldn't talk, and, have no hand, he couldn't mime..." grant would later draw a concept sketch of a hair-braid raccoon, in which glen kean anim and claim the director "love the idea and got rid of the turkei charact."[36] likewis, accord to sito, meeko wa creat becaus thei were "natur enigmat, becaus thei have littl hand and a littl mask over their face like a thief."[37] gabriel describ the inspir for flit the hummingbird where "i have hummingbird all over my backyard, [and] i thought, 'that's a great anim to anim.'"[38] accord to the director, governor ratcliff's pamper pet, perci, wa base on histori as the royalti of the time often carri small pug wherev thei went.[38]
+for the spiritu ancestor, a male charact name old man river wa origin envis, and gregori peck wa cast in the role. howev, peck realiz the charact ought to be a matern figur and reluctantli turn down the role.[39] conceiv as a tree of life whose season chang would frame the stori,[40] grandmoth willow grew out of a concept sketch of a saw-off tree with a branch point to it right drawn by grant,[41] which would serv as a narrat that would "rememb back to pocahonta 300 year earlier".[40] grant would continu to protest to have the tree be more a charact within the stori, and her charact flower into the idea of a grandmotherli spiritu advis to pocahonta.[40] becaus of katzenberg's opposit to have grandmoth willow in the stori, grant assist fellow veteran stori artist burni mattinson with come up tree pun such as "my bark is wors than my bite", "the root of all problem", and "thei're bark up the wrong tree." mattinson reluctantli ad them to hi pitch for the next morn, and dure the stori meet, he exclaim, "everybodi love it! all of a sudden: 'oh, i want her in!' 'let's build her part bigger!'"[42] the charact nakoma wa also creat to serv as the voic of reason and the practic woman.[37]
+cast[edit]
+throughout most of the product, the cast member perform their dialogu in separ record session.[43][44]
+in septemb 1992, disnei began cast actor for pocahonta tell talent agent that thei were particularli interest in nativ american actor for the project.[45] for the role of pocahonta, broadwai actress-singer judi kuhn wa hire to provid the sing voic for the eponym charact befor iren bedard wa cast. kuhn explain, "thei said, 'you ar go to do the dialogu unless we find a nativ american actress whose sing voic match your.' i wa cast befor iren, so it actual went backward."[46] bedard herself wa film lakota woman: sieg at wound knee where she wa inform by the cast director that thei were look for someon to voic the titl role. accord to bedard, she took a train to buffalo, new york where she wa walk in wear a sundress and a straw hat, and read for the part. back on the set of lakota woman, she learn that she wa cast in the role.[47] michel st. john had also audit for the role of pocahonta, and wa given the role of nakoma after bedard wa cast.[11]
+mel gibson wa cast as english settler john smith follow a desir to make "someth for my kid."[48] in a notabl contrast to previou voic actor for disnei anim featur, gibson provid the sing voic for hi charact,[49] which the actor ha describ as the most difficult part of hi role.[48] christian bale audit for the role of thoma. as he explain in an interview with disnei adventur, "the director plai with thoma be irish and scottish and younger than i am, so i had to rais my voic and do differ accent. but the more we did it, the more he becam like me--older and english."[38] richard white, the voic of gaston in beauti and the beast wa suppos to voic ratcliff, but the crew wa worri he might sound too much like gaston, so he wa replac by hi co-star david ogden stier.[50] russel mean wa cast as chief powhatan, though he express displeasur with the script in that nativ american address each other us proper name rather than the tradit "my father" or "my friend".[51] indigen canadian first nation actor gordon tootoosi wa also cast as the tribal shaman nekata.[52]
+design and anim[edit]
+
+
+
+
+the portrait engrav by simon de pass serv as on of the mani inspir for the look of pocahonta.
+
+
+renown for anim femal charact such as ariel, supervis anim glen kean wa immedi tap to draw the titular indian princess.[53] follow the demand of jeffrei katzenberg to make the titl charact "the most ideal and finest woman ever made", kean first began to sought hi inspir for hi depict for pocahonta from shirlei 'littl dove' custalow-mcgowan and debbi white dove, women he had met dure the research trip to virginia.[54] kean recal meet the women:
+
+so i turn around and there's thi beauti indian woman walk up; a nativ american. she said 'ar you glen kean? the anim that's go to do pocahonta?' i said 'well, yeah.' and then from behind anoth tree anoth woman came up and she said, 'well, my name is shirlei littl dove, and thi is my sister devi white dove, and we ar descend from pocahonta.' and as thei stood there, i mean i took a pictur of both of them, and between their face wa pocahonta' face in my mind – i could see her.[55]
+
+other inspir were charmain craig, filipino model dyna taylor, christi turlington, natali belcon, naomi campbel, jami pillow, white supermodel kate moss, and her own voic actress iren bedard.[56][57][58][59] kean also look to a 1620 depict of pocahonta from a histori book he had check out, though kean would state she wa "not exactli a candid for peopl's "most beauti" issu [so] i made a few adjust to add an asian feel to her face."[48] becaus of the complex of the color scheme, shape, and express in the anim, a total of 55 anim work on the design of pocahonta' charact alon,[60] which includ mark henn[61] and pre romanillo.[62]
+follow the closur of sullivan-bluth studio in 1993, john pomeroi, who notori resign alongsid don bluth dure work on the fox and the hound in 1979,[63] return to hi former employ, and wa assign as the supervis anim of john smith.[64] describ smith's develop throughout product, pomeroi state, "the first concept look like a real well-groom adventur. kind of predict. then we start make him a littl sloppier. we tri look where he wa sloppili dress, or where he had a coupl of dai' growth of beard...at first, smith carri a lot of gun and dagger, but eventu these were cut out. each time the design got simpler, it got better."[38] addition, pomeroi cite inspir for john smith from errol flynn and physic attribut of gibson.[65]
+initi assign as a supervis anim on the lion king, nik ranieri did charact design and test anim for timon, but move over to pocahonta grow frustrat with an indecis vision from the director. there, he wa assign to anim redfeath until jeffrei katzenberg order for the anim to be mute. find feather difficult for redfeath to gestur with, he wa again assign to anim meeko us a littl golden book anim book illustr by alic and martin provensen as refer.[66] duncan marjoribank util geometr shape to creat ratcliff. in earli draft of the charact, he had the bodi similar to a pear, but to make him appear more arrog, the anim increas the forc of graviti on hi chest so that he seem more pompou and physic threaten.[67] chri buck serv as the supervis anim for perci, wiggin, and grandmoth willow. for grandmoth willow, the face wa tradition anim by buck, while the cowl and the trunk of the tree wa digit anim under the supervis of steve goldberg. assist with the effect anim, a 3d softwar program wa emploi for the bark to be individu manipul and for the face to match with the comput-gener textur.[2] the follow supervis anim includ anthoni derosa for nakoma, michael cedeno for kocoum, ken duncan for thoma, t. daniel hofstedt for the settler lon and ben, and dave pruiksma for flit.[68] while mulan wa within it pre-product stage, 18 minut were anim by 170 anim and artist at the disnei-mgm studio.[69]
+for the film's art director, gabriel select michael giamio who share hi paint style of shape-base and secondari art detail.[70] for giaimo, he reli on a color-satur, eleg design in a less-than-realist format inspir by "prehistori caribbean theme and creatur deriv from african/mexican folk art."[70] giamio also drew the look and style of the film from the filmmak's numer visit to jamestown, virginia as well as by extens research into the coloni period such as the tall, vertic shape of the virginian pine forest set against the vast horizont landscap be incorpor into the layout aspect of the film in it us of strong vertic and horizont imageri,[14] as well as sought out inspir from the work produc by earlier disnei art design such as richard kelsei's stori sketch from hi unproduc film hiawatha,[71] eyvind earl, who work on sleep beauti,[72] and mari blair.[73]
+music[edit]
+main articl: pocahonta (soundtrack)
+howard ashman and alan menken were plan to write song for thi film onc thei were finish work on aladdin, but ashman di in 1991. follow the death of hi longtim collabor, menken wrote the remain song for aladdin with tim rice at hi home in london, which the new york-base compos found to be difficult.[74] when work on aladdin wa commenc, menken wa plan to write song for the film with rice. but kevin bannerman – the film's director of develop – state rice "wa alwai galliv around the world and it wa difficult to get him and alan togeth ... and so here wa stephen [schwartz], who had written score that we all love and we were huge fan of, and he live in the new york area." disnei immedi contact stephen schwartz, who, after work on work, rag, and children of eden, had quit theater and wa take psycholog cours at new york univers; he wa brought on board to write the lyric.[75][76] thi would mark the first time menken had collabor without ashman for a disnei anim film.[77] menken comment that their work includ moment of tension becaus schwartz wa also capabl of write music and menken had had experi with lyric. both want to us the keyboard, but thei arriv at a work strategi.[78]
+due to corpor interest in the film surround it theme of promot understand between differ group, and it inclus of violenc and threat of greater conflict along with the romanc of pocahonta and john smith, schwartz becam heavili involv in the storytel. bannerman estim that he spent a week with on of the screenwrit and help work out the overal theme of toler and cooper.[79] in june 1992, schwartz research jamestown, virginia where he absorb the atmospher and bought tape of nativ american music and english sea shanti and other music from the earli seventeenth centuri that help inspir number in the film.[80] schwartz model hi lyric write for peopl of other ethnic on that of oscar hammerstein ii and sheldon harnick.[81] "color of the wind" wa the first song to be written for the film. gabriel, goldberg, and pentecost insist that the song help defin the film's "heart and soul".[11] schwartz began "color" with a few draft idea for lyric take inspir from chief seattl's letter to the unit state congress.[82] then, menken wrote the melodi with schwartz listen at the piano and make suggest. schwartz would add lyric befor a session togeth where thei were refin.[83] "just around the riverbend", also compos by menken and schwartz, wa devis by schwartz's wife carol, with the idea that pocahonta would have a recur dream that suggest someth come her wai, pave the wai for her "i want" song.[84] the song almost did not make it into the complet film when disnei execut doubt whether her song would have the kind of impact thei want at that point. howev, schwartz state he and menken "believ in it veri strongli. inde, at on point we wrote a differ song for that spot, but alan and i were never as happi with the second song and ultim everybodi at disnei came to feel that wai, too."[85]
+the filmmak had plan for a song for when pocahonta and smith met in the glade, just befor kocoum attack hi rival and on of the settler stalk smith kill kocoum. there were an estim three to four song at thi point, includ "in the middl of the river",[86] "power magic", which wa deem too silli to have a cheer song befor kocoum's death, and "first to danc" wa anoth attempt at a happi song.[87] the love song, titl "if i never knew you", had been finish by the anim, but follow a test screen where younger audienc were not interest and the teenag felt giddi, menken wa the first to suggest the song be remov from the film, although it melodi remain in the orchestr underscor.[88] for it 2005 dvd releas, the song wa restor back to the film.
+the music score by alan menken, with lyric by stephen schwartz, receiv two academi award, includ on for the song "color of the wind".[89] the film's soundtrack wa also success, reach number-on on the billboard 200 dure the week of juli 22, 1995.[90] it end up with a tripl platinum certif.[91] "color of the wind" wa also sung by tori kelli in 2015 in the album "we love disnei".
+releas[edit]
+market[edit]
+
+
+
+
+pocahonta plai at the el capitan theatr in lo angel, california.
+
+
+to replic the promot buzz of the lion king, the four-minut music number, "color of the wind", wa releas in novemb 1994, accompani a theatric re-releas of the lion king.[92] on februari 3, 1995, disnei began it promot market campaign start in san diego, california launch a nationwid 18-week tour of fashion mall locat within twenti-five citi where a mall exhibit name pocahonta anim discoveri adventur wa creat to help promot the releas.[93][94] there, a disnei anim would guid shopper on a present tour, which featur a walk-through maze with interact lili pad, fly bird, and huge video wall, a studio workshop where visitor can becom the voic of their favorit anim charact, and an area where visitor can electron manipul imag. addition, thei would demonstr anim techniqu and discuss the design and creation of the pocahonta charact.[95] further promot tie-in includ burger king distribut 55 million toi replica of the film's charact with kid' meal, payless shoe featur a line of moccasin, and mattel peddl a barbi-like pocahonta doll.[93]
+a behind-the-scene documentari televis special titl the make of pocahonta: a legend come to life wa air on june 20, 1995, on the disnei channel where the anim, voic cast, crew, and studio head were interview on the product of the film. the special wa host by actress iren bedard.[96]
+the film had the largest premier in histori, on june 10, 1995, in new york's central park, follow by a live perform by vanessa william.[97] disnei offici estim the crowd at 100,000.[97] dignitari that attend the premier includ then-new york mayor rudi giuliani, carolin kennedi, mariah carei and then-disnei chief execut offic michael eisner.[97]
+box offic[edit]
+time with pocahonta' 400th birthdai,[2] pocahonta had a limit releas in north america on june 16, 1995, plai in onli six select theater.[98] the film gross nearli $2.7 million dure the weekend of june 16–18, stand at the eighth place in the box offic rank.[99] the wide releas follow on june 24, 1995, in 2,596 screen. studio estim initi rank pocahonta earn $30.5 million rank first beat out the previou box offic champion batman forev.[100] the figur wa later revis to $28.8 million with pocahonta fall second behind batman forev.[101] howev, the final estim place pocahonta narrowli rank first gross $29.5 million in it first weekend with batman forev fall into second place take $29.2 million.[102] by januari 1996, the film gross $141.5 million in the unit state,[103] be the fourth-highest-gross film in north america behind apollo 13, toi stori, and batman forev respect.[104] foreign wise, the film wa expect to gross $225 million outsid the unit state,[105] though foreign box offic gross eventu amount to $204,500,000.[1] cumul, pocahonta gross $346,079,773 worldwid.[1] seen as a commerci box offic disappoint in comparison to the lion king,[106] then-disnei ceo michael eisner contest in an annual sharehold' meet in januari 1996 that "pocahonta is well on it wai to be on of our most success film of all time. it equal [sic] beauti and the beast's box offic number domest, and now it ha taken europ by storm and is plai well in everi countri in which it is be shown. sale of pocahonta merchandis have been phenomen."[107]
+home media[edit]
+at first announc to be releas on march 6, 1996,[108] pocahonta wa first releas on vh and laserdisc in the unit state on februari 28, 1996, under the "masterpiec collect" lineup. some prototyp copi of the vh releas us the 1989 walt disnei classic logo, while copi produc from februari 28, 1996, onward us the standard masterpiec collect logo. a delux vh edit includ the film and a documentari on the make of the film alongsid a special edit of the art of pocahonta book and disnei-certifi lithograph print.[109] releas on novemb 13, 1996, the cav laserdisc delux edit contain the film, a histor documentari on pocahonta, and the make of pocahonta, along with ad storyboard, charact design artwork, concept art, rough anim, public and promot trailer, the delet "if i never knew you" music sequenc, and an audio commentari on a total of four doubl side disc. the releas wa also accompani with a special edit of the art of pocahonta book.[110] disnei initi ship 17 million vh copi to retail store,[111] with nine million copi sold within it first weekend exceed the vh sale of cinderella releas in the previou fall but fall short of the retail sale of the lion king.[112] by the summer of 1998, sale and rental of the vh releas had accumul to $200 million.[113]
+in januari 2000, walt disnei home video launch the gold classic collect, with pocahonta re-issu on vh and dvd on june 6, 2000.[114] the dvd contain the film in it 1.66:1 aspect ratio enhanc with 5.1 surround sound, and wa accompani with special featur includ two music video, a trivia game, the theatric trailer, and a "fun with natur" activ booklet.[115] in 2005, a 10th anniversari 2-disc special edit dvd set wa releas, which featur a new extend cut of the film (ad two perform of "if i never knew you") and numer bonu featur.
+walt disnei studio home entertain releas pocahonta, alongsid it sequel pocahonta ii: journei to a new world, on blu-rai disc as a 2-movi collect on august 21, 2012.[116] in a number of countri, howev, both pocahonta and it sequel were releas individu to the format. the blu-rai wa first releas in australia in februari 2012 and follow by a mai 30 european releas and an august 21 american releas. the american releas is packag for 2-disc dvd[117] (on film per disc) and 3-disc blu-rai combo pack, featur both film on on blu-rai in addit to the two individu dvd.[118] the blu-rai did not retain the inclus of "if i never knew you" through seamless integr, howev, onli the special featur.
+pocahonta wa re-releas yet again in 2016 as a blu-rai, dvd and digit hd combo pack, avail exclus through the disnei movi club.[119] it featur brand-new cover art, and, for the first time, a digit copi download of the film alongsid the physic releas.
+in septemb of 2017, pocahonta becam avail for onlin stream on netflix.[120]
+recept[edit]
+critic respons[edit]
+pocahonta receiv gener mix review from film critic.[101] the review aggreg websit rotten tomato report that 56% of critic gave the film a posit review base on 52 review, with an averag score of 6/10. the site's consensu state "pocahonta mean well, and ha moment of startl beauti, but it's larg a bland, uninspir effort, with uneven plot and an unfortun lack of fun."[121] metacrit, which assign a normal rate out of 100 from top review from mainstream critic, calcul a score of 58 base on 23 review, indic "mix or averag review."[122]
+roger ebert, write for the chicago sun-time, gave the film 3 out of 4 star write the film wa "the best-look of the modern disnei anim featur, and on of the more thought" though in hi print review, he wa more critic of the stori and portray of the villain ultim summar that "on a list includ mermaid, beauti, aladdin and lion king, i'd rank it fifth. it ha a lot of good intent, but a sever scoundrel shortag."[123] on the televis program siskel & ebert, ebert repeat the same sentiment, while hi partner gene siskel wa more prais of the film. both critic gave the film a "thumb up".[124] in hi print review for the chicago tribun, siskel award the film 3½ of 4 star comment that the film is a "surprisingli seriou, thought and beautifulli drawn disnei anim featur about the american birthright of exploit and racism". he prais it for "send power imag to children about threat to the natur order", restor "a certain majesti to the indian cultur", and for have "the courag that lead to the life-goe-on end."[125]
+the film's write and lack of humor receiv mix review. owen gleiberman of entertain weekli state "with dismai, i realiz that virtual everyth in the movi — everi charact, everi stori twist, everi song — is as gener as the two hygien lover. as a fairi-tale confect, a kind of west side stori in jamestown, pocahonta is pleasant to look at, and it will probabl satisfi veri small kiddi, but it's the first of the new-era disnei cartoon that feel less than anim."[126] peter traver of roll stone bemoan that there were "no funni, fast-talk anim — meeko the raccoon and flit the hummingbird remain silent pal to pocahonta and make you miss the verbal fun that nathan lane's wisecrack meerkat brought to the lion king."[127] desson how, review for the washington post, likewis critic the write as recycl "element from snow white to the lion king, with a father-child clash, a heroin's saintli pure that transform an entir peopl, a forbidden love, consult with an oracl/shaman (in thi case a tree spirit, voic by linda hunt) and the usual sideshow of funni, fuzzi anim.[128] while acknowledg the screenplai wa the "film's weakest element", janet maslin of the new york time summar that "glorious color, cleverli conceiv and set in motion with the usual disnei vigor, pocahonta is on more landmark feat of anim. it doe everyth a children's film should do except send littl viewer home hum it theme song."[129]
+accord to chief roi crazi hors of the powhatan renap nation, the film "distort histori beyond recognit" and "perpetu a dishonest and self-serv myth at the expens of the powhatan nation". roi claim that disnei refus the tribe's offer to help creat a more cultur and histor accur film.[130] an editori in the lo angel time point out america's fascin with the indian princess who wa rare shown as have anyth more import in her life than her male relationship.[131]
+cornel pewewardi argu that the film present damag stereotyp of the nativ american popul.[132] pewewardi feel that the represent of nativ charact, like grandmoth willow, meeko, and flit, as anim, ha a margin effect.[132] also, kocoum and john smith go head to head in the film fight for pocahonta' affect. it ha been argu that smith's victori over kocoum in thi arena is symbol of western europ's domin of the america and the white man's domin over men of color.[133] the lyric of the song "savag", in which the english and the nativ american each accus the other cultur of be evil and subhuman, ha been call insensit by peweardi.[132]
+accolad[edit]
+
+
+ceremoni
+recipi
+categori
+result
+
+
+academi award
+"color of the wind"
+(alan menken, compos; stephen schwartz, lyricist)
+best origin song
+won
+
+
+alan menken (compos), stephen schwartz (lyricist)
+best music or comedi score
+won
+
+
+anni award
+
+best anim featur
+won
+
+
+nik ranieri (supervis anim for "meeko")
+individu achiev for anim
+won
+
+
+chri buck (supervis anim for "grandmoth willow")
+nomin
+
+
+david pruiksma (supervis anim for "flit")
+nomin
+
+
+alan menken (compos)
+stephen schwartz (lyricist)
+best individu achiev for music in the field of anim
+won
+
+
+michael giamo (art director)
+best individu achiev for product design in anim
+won
+
+
+rasoul azadani (layout artist supervisor)
+nomin
+
+
+artio award
+brian chavann
+ruth lambert
+best cast for anim voiceov
+won
+
+
+ascap award
+"color of the wind"
+most perform song from motion pictur
+won
+
+
+
+top box offic film
+won
+
+
+bmi film music award
+alan menken (compos)
+
+won
+
+
+environment media award
+
+best featur film
+won
+
+
+golden globe award
+"color of the wind"
+best origin song
+won
+
+
+alan menken (compos)
+best origin score
+nomin
+
+
+golden reel award
+
+best sound edit – music anim
+won
+
+
+grammi award
+"color of the wind"
+best song written for a motion pictur, televis or other visual media"
+won
+
+
+young artist award
+
+best famili featur – music or comedi
+nomin
+
+
+histor accuraci[edit]
+
+pocahonta' real name wa matoaka. "pocahonta" wa onli a nicknam, and it can various be translat to "littl wanton", "play on", "littl brat" or "the naughti on".[134]
+in the film, pocahonta is a young adult; in realiti, she wa around 10 or 11 at the time john smith arriv with the virginia compani in 1607.[134]
+in the film, smith is portrai as an amiabl man; in realiti, he wa describ as have a harsh exterior by hi fellow colonist.[134]
+histor, there is no evid of a romant relationship emerg between pocahonta and john smith.[135] smith eventu recount three separ incid of be "save" by power women, so all such account must be view with some suspicion.[136]
+english colonist led by samuel argal captur pocahonta three year after john smith depart for england; she convert to christian in henricu and later marri john rolf (who appear in the sequel), who wa known for introduc tobacco as a cash crop.[135]
+there is much controversi over whether or not pocahonta actual rescu john smith from be slain by her father's tribe. mani have argu that smith fabric the stori of pocahonta save hi life in order to gain popular.[137]
+the controversi surround whether or not pocahonta save john smith exist larg becaus smith wrote two veri differ account of hi captiv. the first on, publish in 1608, includ a gener flatter descript of powhatan and hi tribe. thi first account contain no mention of almost be slain by powhatan. it wa not until smith releas hi second account around 1622 that he describ ani cruel treatment by powhatan, and hi suppos rescu by pocahonta. becaus smith's two account consist of veri differ fact, and becaus the second wa releas onli after pocahonta had gain promin in england, mani hypothes that smith embellish the stori of hi captiv with respect to pocahonta.[138]
+albeit captain of the discoveri, john ratcliff wa not the first governor of the jamestown settlement.[139]
+
+video game[edit]
+main articl: disnei's pocahonta (video game)
+a video game base on the film wa releas on the sega genesi/mega drive on januari 1, 1996.
+refer[edit]
+
+
+^ a b c "box offic mojo". box offic mojo. retriev august 10, 2013. 
+^ a b c d siegel, robert. "the make of walt disnei's pocahonta". blu-rai.com. retriev octob 5, 2013. 
+^ mallori, mike (februari 23, 2012). "pocahonta and the mous's gong show". anim. retriev mai 24, 2015. 
+^ robello 1995, p. 15-16.
+^ stack, peter (june 18, 1995). "disnei's new anim featur / meryl who? pocahonta ha summer's steamiest romanc". san francisco chronicl. retriev mai 24, 2015. 
+^ hill, jim (april 3, 2001). "roger & gene, ron & john, jeffrei & oscar, candi and ... er .. um". the laugh place. retriev mai 24, 2015. 
+^ a b c d koe & 2001 240.
+^ eric goldberg (decemb 19, 2005). "a convers with eric goldberg" (interview). interview with christian ziebarth. anim view. retriev mai 24, 2015. 
+^ elkin, michael (august 4, 1995). "nativ son goe nativ with `pocahonta'" (fee requir). the jewish expon. retriev mai 24, 2015 – via highbeam research. 
+^ a b talk about a doubl take - eric goldberg interview eric goldberg at ctnx. creativ talent network. 
+^ a b c d pocahonta two-disc 10th anniversari edit (audio commentari). mike gabriel, eric goldberg, jame pentecost. burbank, california: walt disnei home entertain. 2005. b0007ktbiu. 
+^ koe 2001, pp. 240-1.
+^ sito 2006, p. 45.
+^ a b "pocahonta inform". rec.art.disnei. mai 8, 1995. retriev mai 24, 2015. 
+^ paust, matthew (august 16, 1993). "histori come to life in disnei anim". the daili press. retriev mai 24, 2015. 
+^ nicholson, david (june 24, 1995). "a great spirit". newport new daili press. sun-sentinel. retriev mai 24, 2015. 
+^ edgerton, g.; jackson, k. (1996). "redesign pocahonta: disnei, the "white man's indian," and the market of dream". journal of popular film and televis. 2 (24): 90–98. 
+^ rickei, carri (june 18, 1995). "disnei's 'pocahonta': is it fact or fiction? what did she wear? did she style her hair? were she and john smith a pair?". the philadelphia inquir. retriev mai 30, 2015. 
+^ hahn, don (2010). wake sleep beauti. walt disnei pictur. 
+^ the lion king: platinum edit (disc 2), stori origin (dvd). walt disnei home entertain. 
+^ robello 1995, p. 72.
+^ "debbi macomb's cedar cove 1002 "reunion" – product bio" (pdf). amazon web servic. retriev mai 24, 2015. 
+^ sragow, michael (april 13, 2000). "oh, susannah!". salon. retriev mai 24, 2015. 
+^ eguruz, tari (octob 2, 2013). "word of wisdom from screenwrit susannah grant". youth art onlin. paddington art. retriev mai 24, 2015. 
+^ mallori, michael (decemb 5, 2013). "that other (sort of) thanksgiv movi". anim. retriev mai 24, 2015. 
+^ "so who doe pocahonta's hair?" (fee requir). the columbian. june 23, 2015. retriev mai 24, 2015 – via highbeam research. 
+^ mallori, michael (novemb 29, 2012). "talk turkei about pocahonta". anim. retriev mai 24, 2015. 
+^ peradotto, nicol (june 25, 1995). "indian summer how 'pocahonta' creator drew on life and legend" (fee requir). the buffalo new. retriev mai 24, 2015 – via highbeam research. 
+^ a b koe & 2001 239.
+^ sito, tom (1996). "fight to the death, but don't hurt anybodi! memori of polit correct". anim world magazin. retriev mai 24, 2015. 
+^ koe 2001, pp. 220.
+^ seidman, david (januari 19, 1995). "a 'toon man for the ag : anim: joe grant wa on disnei's origin talent team. after work on mani classic, he quit in '49. nearli 40 year later, he return, make hi mark on the latest hit". lo angel time. retriev mai 24, 2015. 
+^ canemak 1996, p. 196.
+^ kim, albert (june 23, 1995). "a whole new world?". entertain weekli. retriev mai 24, 2015. 
+^ beckerman, jim (june 23, 1995). "rewrit histori for the disnei set" (fee requir). the record. retriev mai 24, 2015 – via highbeam research. 
+^ canemak 1996, p. 196–97.
+^ a b geiz, didier (mai 3, 2010). walt's peopl: volum 9: talk disnei with the artist who knew him. xlibri. p. 506–7. isbn 978-1450087469. 
+^ a b c d ehrlich, phylli. "pocahonta: the movi, the star, the real-life stori". disnei adventur. disnei magazin publish. 5 (10). retriev mai 24, 2015. 
+^ hischak, thoma (septemb 21, 2011). disnei voic actor: a biograph dictionari. mcfarland & compani. p. 105. isbn 978-0786462711. retriev mai 20, 2015. 
+^ a b c bloom, david (mai 14, 1998). "anim not taken for grant-ed". lo angel daili new. thefreelibrari. retriev mai 24, 2015. 
+^ canemak 1996, p. 195.
+^ canemak 2010, p. 186.
+^ iren bedard (mai 11, 2005). "an interview with pocahonta – actress iren bedard reflect on voic disnei's strongest femal charact" (interview). interview with retana joi. ultim disnei. retriev mai 24, 2015. 
+^ "iren bedard". peopl. time inc. 43 (18). retriev mai 24, 2015. 
+^ romano, loi (septemb 23, 1992). "the reliabl sourc" (fee requir). the washington post. retriev mai 24, 2015 – via highbeam research. 
+^ stuart, jan (juli 10, 2001). "thankless toil no longer - star line up to provid voic in anim film". newsdai. chicago tribun. retriev mai 24, 2015. 
+^ iren bedard (octob 15, 2010). "interview with iren bedard" (interview). interview with mike gencarelli. media mike. retriev mai 24, 2015. 
+^ a b c pearlman, cindi (june 21, 1995). "10 thing to know about 'pocahonta'". the herald journal. retriev mai 24, 2015. 
+^ "flash: mel gibson sing on 'pocahonta'". entertain weekli. februari 10, 1995. retriev mai 24, 2015. 
+^ trotter, hannah (juli 5, 2011). "10 thing you never knew about disnei's pocahonta". yahoo!. archiv from the origin on septemb 20, 2013. retriev octob 5, 2013. cs1 maint: unfit url (link)
+^ dutka, elain (june 11, 1995). "the angriest actor : nativ american activist russel mean focus hi fierc will at wound knee. can a revolutionari co-exist with 'pocahonta'?". lo angel time. chinl, arizona. retriev mai 24, 2015. 
+^ o'brien, jill (march 9, 1995). "catch up with actor gordon tootoosi" (fee requir). indian countri todai. retriev mai 24, 2015 – via highbeam research. 
+^ longsdorf, ami (june 23, 1995). "the power of `pocahonta' disnei keep it indian princess polit correct". the morn call. retriev mai 24, 2015. 
+^ bradlei, deborah (june 23, 1995). "disnei give pocahonta sexiest cartoon imag ever". the free lanc-star. retriev mai 24, 2015. 
+^ glen kean (octob 7, 2014). "interview with glen kean, disnei veteran and legendari anim artist (part 1)" (interview). interview with kati steed. skwigli anim magazin. retriev mai 24, 2015. 
+^ cochran, jason (june 16, 1995). "pocahonta need an ethnic look". entertain weekli. retriev mai 30, 2015. 
+^ ramirez, anthoni (juli 6, 1995). "who in the world is dyna taylor? she mai be the face that launch a thousand movi tie-in.". the new york time. retriev mai 30, 2015. 
+^ jone, anderson (june 23, 1995). "she wa a real babe in the wood". philadelphia daili new. retriev mai 30, 2015. 
+^ edward, leigh (2 mai 1999). "the unit color of "pocahonta": synthet miscegen and disnei's multicultur". narr. ohio state univers. 7 (2): 151–52. 
+^ "pocahonta trivia". sharetv.org. retriev octob 1, 2013. 
+^ mark henn (januari 8, 2010). "the princess and the frog's supervis anim mark henn – part 2: the "disnei decad"" (interview). interview with jérémie noyer. anim view. retriev mai 30, 2015. 
+^ solomon, charl (juli 21, 2010). "priscillano romanillo di at 47; anim of 'mulan' villain and other disnei and dreamwork charact". lo angel time. retriev mai 30, 2015. 
+^ beck, jerri (1996). "don bluth goe independ". anim world network. retriev mai 24, 2015. 
+^ ghez, didier (decemb 17, 2013). "walt's peopl - volum 12: talk disnei with the artist who knew him". xlibri. retriev mai 24, 2015. 
+^ pocahonta two-disc 10th anniversari edit - creat john smith (bonu featur). john pomeroi. burbank, california: walt disnei home entertain. 2005. b0007ktbiu. 
+^ wickham, rhett (juli 25, 2003). "great anim perform: meeko as supervis by nik ranieri". the laugh place. retriev mai 24, 2015. 
+^ pocahonta two-disc 10th anniversari edit - creat ratcliff (bonu featur). duncan marjoribank. burbank, california: walt disnei home entertain. 2005. b0007ktbiu. 
+^ rebello 1995, pp. 102–120.
+^ hinman, catherin (june 25, 1995). "anim lend a hand". orlando sentinel. retriev mai 24, 2015. 
+^ a b canemak 1996, pp. 186–89.
+^ solomon, charl (1995). the disnei that never war. hyperion. pp. 176–84. isbn 978-0786863075. 
+^ sheehan, mark (june 29, 1995). "tradit - disnei anim learn from earli master". orang counti regist. chicago tribun. retriev mai 24, 2015. 
+^ king, susan (octob 17, 2011). "classic hollywood: a color tribut to disnei's mari blair". lo angel time. retriev mai 24, 2015. 
+^ laird 2014, p. 231.
+^ de gier 2008, p. 229.
+^ hill, jim (octob 1, 2008). ""defi graviti" detail stephen schwartz's sometim difficult deal with the walt disnei compani". retriev mai 24, 2015. 
+^ willman, chri (mai 28, 1995). "'pocahonta' abandon the parent crowd". lo angel time. retriev octob 5, 2013. 
+^ the music of pocahonta (documentari bonu featur). alan menken, stephen schwartz. burbank, california: walt disnei home entertain. 2005. b0007ktbiu. 
+^ laird 2014, p. 232.
+^ de gier 2008, p. 232.
+^ laird 2014, p. 232–33.
+^ "stephen schwartz comment on disnei's pocahonta" (pdf). stephenschwartz.com. 2010. retriev mai 24, 2015. 
+^ laird 2014, p. 236.
+^ laird 2014, p. 235.
+^ "sweet music to disnei's ear soundtrack' core audienc is famili affair" (fee requir). lo angel daili new. june 23, 1995. retriev mai 24, 2015 – via highbeam research. 
+^ laird 2014, p. 237.
+^ koe 2001, p. 242.
+^ "the make of 'if i never knew you'" (documentari bonu featur). alan menken, stephen schwartz, mike gabriel, eric goldberg, roi e. disnei. burbank, california: walt disnei home entertain. 2005. b0007ktbiu. 
+^ "the offici academi award databas". ampa. archiv from the origin on septemb 13, 2008. retriev septemb 1, 2008. 
+^ billboard profil
+^ morri, chri. "`pocahonta' pile up riaa metal". billboard. retriev octob 5, 2013. 
+^ eller, claudia (octob 24, 1994). "a peek at 'pocahonta' when 'lion' return". lo angel time. retriev mai 24, 2015. 
+^ a b broesk, pat (februari 3, 1995). "the pocamot". entertain weekli. retriev mai 24, 2015. 
+^ "'pocahonta' adventur at the mall". pittsburgh post-gazett. march 11, 1995. retriev mai 24, 2015. 
+^ jame, salli (februari 24, 1995). "mall shopper to see show by film studio". orlando sentinel. retriev mai 24, 2015. 
+^ managan, jennif (june 22, 1995). "heap help". chicago tribun. retriev mai 24, 2015. 
+^ a b c carri rickei (june 6, 1995). "disnei take over n.y. park for premier of 'pocahonta' to mani, the four-screen event wa woodstock for the famili.". philli.com. philadelphia media network (digit) llc. retriev juli 19, 2014. 
+^ buckland, carol (june 23, 1995). "walt disnei's 'pocahonta'". cnn. retriev mai 24, 2015. 
+^ dutka, elain (june 20, 1995). "weekend box offic". lo angel time. retriev mai 24, 2015. 
+^ natal, richard (june 26, 1995). "a 'girl movi' top the bat gui : box offic: 'pocahonta' gross an estim $30.5 million while 'batman forev' add anoth $28 million to swoop past the $100-million mark". lo angel time. retriev mai 23, 2015. 
+^ a b horn, john (june 30, 1995). "`batman forev' bloodi `pocahonta'". chicago tribun. retriev mai 24, 2015. 
+^ welko, richard (june 27, 1995). "weekend box offic : 'pocahonta' inch past 'batman'". lo angel time. retriev mai 24, 2015. 
+^ "the time film index: 1995's top 10 film". lo angel time. januari 2, 1996. retriev mai 24, 2015. 
+^ "1995 yearli box offic result". box offic mojo. amazon.com. retriev mai 24, 2015. 
+^ natal, richard (august 29, 1995). "a summer when middl class rule the box offic : movi: while the high have not been as high, there have been fewer low and more film that will take in $35 million or more.". lo angel time. retriev mai 23, 2015. 
+^ stewart, jame (2005). disneywar. new york: simon & schuster. pp. 233–234. isbn 0-684-80993-1. 
+^ eisner, michael (januari 4, 1996). disnei execut remark at sharehold' meet (speech). annual sharehold' meet. new york citi: thefreelibrari.com. retriev mai 24, 2015. 
+^ wickstrom, andi (octob 5, 1996). "'pocahonta' will be sold on video in march". the philadelphia inquir. retriev mai 24, 2015. 
+^ zad, marti (februari 23, 1996). "`pocahonta' on video for limit time". the washington post. orlando sentinel. retriev mai 24, 2015. 
+^ "delux edit: pocahonta". disneyinfo.nf. retriev mai 24, 2015. 
+^ "'pocahonta' video sell like the wind" (press releas). burbank, california: thefreelibrari.com. pr newswir. march 6, 1995. retriev mai 24, 2015. 
+^ snow, shauna (march 7, 1995). "tv & video". lo angel time. retriev mai 24, 2015. 
+^ bate, jame; eller, claudia (june 12, 1998). "bridl optim". lo angel time. retriev mai 24, 2015. 
+^ "walt disnei home video debut the "gold classic collect"". the laugh place. retriev februari 2, 2016. 
+^ "pocahonta — disnei gold collect". disnei.go.com. archiv from the origin on august 15, 2000. retriev januari 2, 2016. 
+^ "pocahonta two-movi special edit (pocahonta / pocahonta ii: journei to a new world) (three-disc blu-rai/dvd combo in blu-rai packag): mel gibson, christian bale, david ogden stier, linda hunt, iren bedard, billi connolli, jame apaumut fall, joe baker, john kassir, danni mann, russel mean, michel st. john, gordon tootoosi, frank welker, mike gabriel, eric goldberg, carl binder, susannah grant: movi & tv". amazon.com. retriev august 10, 2013. 
+^ "pocahonta two-movi special edit (pocahonta/pocahonta ii: journei to a new world)". amazon.com. retriev june 3, 2012. 
+^ "pocahonta two-movi collect (pocahonta/pocahonta ii: journei to a new world)(three-disc blu-rai/dvd combo pack in blu-rai packag)". amazon.com. retriev june 3, 2012. 
+^ pocahonta blu-rai, retriev 2016-09-05 
+^ "netflix in septemb: everyth come and go". usa todai. retriev 2017-10-09. 
+^ "pocahonta (1995)". rotten tomato. flixster. retriev mai 24, 2015. 
+^ "pocahonta review". metacrit. retriev mai 24, 2015. 
+^ ebert, roger (june 16, 1995). "pocahonta review". rogerebert.com. retriev mai 24, 2015. 
+^ "pocahonta / the glass shield / fluke (1995)". at the movi with ebert & roeper. retriev mai 24, 2015. 
+^ siskel, gene (june 16, 1995). "thought `pocahonta' a surprisingli matur film". chicago tribun. retriev mai 24, 2015. 
+^ gleiberman, owen (june 16, 1995). "pocahonta". retriev juli 29, 2017. 
+^ traver, peter (june 23, 1995). "pocahonta". roll stone. retriev juli 29, 2017. 
+^ how, desson (june 23, 1995). "a lukewarm indian summer". the washington post. retriev juli 29, 2017. 
+^ maslin, jane (june 11, 1995). "histori as buckskin-clad fairi tale". the new york time. retriev juli 29, 2017. 
+^ "the pocahonta myth - powhatan renap nation - the real stori, not disnei's distort". powhatan.org. retriev august 10, 2013. 
+^ aleiss, angela (june 24, 1995). "maiden of hollywood: 'pocahonta' is the pure express of filmmak' fantasi about indian women". lo angel time. 
+^ a b c pewewardi, cornel. "the pocahonta paradox: a cautionari tale for educ". journal of navajo educ. retriev octob 5, 2013. 
+^ kutsuzawa, kiyomi. "disnei's pocahonta: reproduct of gender, orient, and the strateg construct of racial harmoni in the disnei empir". retriev octob 5, 2013. 
+^ a b c crazi hors, chief roi. "the pocahonta myth". retriev octob 5, 2013. 
+^ a b weston, tamara (decemb 9, 2009). "top 10 disnei controversi". time magazin. retriev octob 5, 2013. 
+^ "the pocahonta myth". 
+^ birchfield, stan. "did pocahonta save captain john smith?". stanford univers. retriev octob 5, 2013. 
+^ "curriculum: 1. pocahonta". stanford univers. retriev octob 5, 2013. 
+^ "histori of jamestown". preserv virginia. retriev octob 5, 2013. 
+
+
+bibliographi[edit]
+
+
+canemak, john (1996). befor the anim begin: the art and live of disnei inspir sketch artist. hyperion book. isbn 978-0786861521. 
+canemak, john (2010). two gui name joe. disnei edit. isbn 978-1423110675. 
+de gier, carol (2008). defi graviti: the creativ career of stephen schwartz from godspel to wick. applaus theatr & cinema book. pp. 229–41. isbn 978-1557837455. 
+koenig, david (januari 28, 2001). mous under glass: secret of disnei anim & theme park. irvin, california: bonaventur press. pp. 238–45. isbn 978-0964060517. 
+laird, paul (2014). the music theater of stephen schwartz: from godspel to wick and beyond. rowman & littlefield publish. isbn 978-0810891913. 
+robello, stephen (1995). the art of pocahonta. hyperion book. isbn 978-0786861583. 
+sito, tom (octob 6, 2006). draw the line: the untold stori of the anim union from bosko to bart simpson. univers press of kentucki. isbn 978-0813124070. 
+
+
+extern link[edit]
+
+
+
+wikiquot ha quotat relat to: pocahonta
+
+
+
+
+disnei portal
+film in the unit state portal
+1990s portal
+cartoon portal
+
+
+
+offici websit
+pocahonta on imdb
+pocahonta at box offic mojo
+pocahonta at rotten tomato
+pocahonta at the big cartoon databas
+pocahonta: 10th anniversari edit dvd review and interview
+disnei's pocahonta: convers with nativ american and euro-american girl - report on focu group conduct by ami aidman with girl ag nine to thirteen
+
+
+
+
+
+
+
+v
+t
+e
+
+
+disnei's pocahonta
+
+
+
+
+
+
+pocahonta
+
+
+
+
+
+film
+
+
+
+pocahonta (1995)
+pocahonta ii: journei to a new world (1998)
+
+
+
+
+
+video game
+
+
+
+disnei's pocahonta (video game)
+disnei's anim storybook: pocahonta
+
+
+
+
+
+music
+
+
+
+"just around the riverbend"
+"color of the wind"
+"savag"
+"if i never knew you"
+
+
+
+
+
+
+
+
+ categori:disnei princess
+ portal:disnei
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+film direct by eric goldberg
+
+
+
+
+
+
+pocahonta (1995)
+fantasia 2000 (1999)
+the magic lamp 3d (2001)
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+disnei theatric anim featur
+
+
+
+walt disnei
+anim studio
+film
+
+
+
+snow white and the seven dwarf (1937)
+pinocchio (1940)
+fantasia (1940)
+dumbo (1941)
+bambi (1942)
+saludo amigo (1942)
+the three caballero (1944)
+make mine music (1946)
+fun and fanci free (1947)
+melodi time (1948)
+the adventur of ichabod and mr. toad (1949)
+cinderella (1950)
+alic in wonderland (1951)
+peter pan (1953)
+ladi and the tramp (1955)
+sleep beauti (1959)
+on hundr and on dalmatian (1961)
+the sword in the stone (1963)
+the jungl book (1967)
+the aristocat (1970)
+robin hood (1973)
+the mani adventur of winni the pooh (1977)
+the rescuer (1977)
+the fox and the hound (1981)
+the black cauldron (1985)
+the great mous detect (1986)
+oliv & compani (1988)
+the littl mermaid (1989)
+the rescuer down under (1990)
+beauti and the beast (1991)
+aladdin (1992)
+the lion king (1994)
+pocahonta (1995)
+the hunchback of notr dame (1996)
+hercul (1997)
+mulan (1998)
+tarzan (1999)
+fantasia 2000 (1999)
+dinosaur (2000)
+the emperor's new groov (2000)
+atlanti: the lost empir (2001)
+lilo & stitch (2002)
+treasur planet (2002)
+brother bear (2003)
+home on the rang (2004)
+chicken littl (2005)
+meet the robinson (2007)
+bolt (2008)
+the princess and the frog (2009)
+tangl (2010)
+winni the pooh (2011)
+wreck-it ralph (2012)
+frozen (2013)
+big hero 6 (2014)
+zootopia (2016)
+moana (2016)
+ralph break the internet: wreck-it ralph 2 (2018)
+frozen 2 (2019)
+
+
+
+
+
+live-action film
+with anim
+
+
+
+the reluct dragon (1941)
+victori through air power (1943)
+song of the south (1946)
+so dear to my heart (1948)
+mari poppin (1964)
+bedknob and broomstick (1971)
+pete's dragon (1977)
+who frame roger rabbit (1988)
+enchant (2007)
+
+
+
+
+
+disneytoon studio
+film
+
+
+
+ducktal the movi: treasur of the lost lamp (1990)
+a goofi movi (1995)
+the tigger movi (2000)
+return to never land (2002)
+the jungl book 2 (2003)
+piglet's big movi (2003)
+pooh's heffalump movi (2005)
+bambi ii (2006)
+plane (2013)
+plane: fire & rescu (2014)
+
+
+
+
+
+other disnei unit film
+
+
+
+the nightmar befor christma (1993)
+jame and the giant peach (1996)
+doug's 1st movi (1999)
+recess: school's out (2001)
+teacher's pet (2004)
+a christma carol (2009)
+gnomeo & juliet (2011)
+mar need mom (2011)
+frankenweeni (2012)
+strang magic (2015)
+
+
+
+
+
+relat list
+
+
+
+unproduc film
+
+
+
+
+
+
+
+
+ book
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+walt disnei anim studio
+
+
+
+
+
+
+
+
+list of featur film
+
+
+
+
+
+
+
+releas
+
+
+
+snow white and the seven dwarf (1937)
+pinocchio (1940)
+fantasia (1940)
+dumbo (1941)
+bambi (1942)
+saludo amigo (1942)
+the three caballero (1944)
+make mine music (1946)
+fun and fanci free (1947)
+melodi time (1948)
+the adventur of ichabod and mr. toad (1949)
+cinderella (1950)
+alic in wonderland (1951)
+peter pan (1953)
+ladi and the tramp (1955)
+sleep beauti (1959)
+on hundr and on dalmatian (1961)
+the sword in the stone (1963)
+the jungl book (1967)
+the aristocat (1970)
+robin hood (1973)
+the mani adventur of winni the pooh (1977)
+the rescuer (1977)
+the fox and the hound (1981)
+the black cauldron (1985)
+the great mous detect (1986)
+oliv & compani (1988)
+the littl mermaid (1989)
+the rescuer down under (1990)
+beauti and the beast (1991)
+aladdin (1992)
+the lion king (1994)
+pocahonta (1995)
+the hunchback of notr dame (1996)
+hercul (1997)
+mulan (1998)
+tarzan (1999)
+fantasia 2000 (1999)
+dinosaur (2000)
+the emperor's new groov (2000)
+atlanti: the lost empir (2001)
+lilo & stitch (2002)
+treasur planet (2002)
+brother bear (2003)
+home on the rang (2004)
+chicken littl (2005)
+meet the robinson (2007)
+bolt (2008)
+the princess and the frog (2009)
+tangl (2010)
+winni the pooh (2011)
+wreck-it ralph (2012)
+frozen (2013)
+big hero 6 (2014)
+zootopia (2016)
+moana (2016)
+
+
+
+
+
+upcom film
+
+
+
+ralph break the internet: wreck-it ralph 2 (2018)
+frozen 2 (2019)
+
+
+
+
+
+associ product
+
+
+
+the reluct dragon (1941)
+victori through air power (1943)
+song of the south (1946)
+so dear to my heart (1949)
+mari poppin (1964)
+bedknob and broomstick (1971)
+pete's dragon (1977)
+who frame roger rabbit (1988)
+enchant (2007)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+peopl
+
+
+
+
+
+
+
+execut
+
+
+
+edwin catmul
+roi conli
+roi e. disnei
+walt disnei
+don hahn
+jeffrei katzenberg
+john lasset
+peter schneider
+thoma schumach
+david stainton
+
+
+
+
+
+disnei's nine old men
+
+
+
+le clark
+marc davi
+olli johnston
+milt kahl
+ward kimbal
+eric larson
+john lounsberi
+wolfgang reitherman
+frank thoma
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+relat topic
+
+
+
+
+
+
+
+histori
+
+
+
+disnei anim' strike
+disnei renaiss
+
+
+
+
+
+method and
+technolog
+
+
+
+12 basic principl of anim
+comput anim product system
+disnei anim: the illus of life
+multiplan camera
+
+
+
+
+
+documentari
+
+
+
+frank and olli (1995)
+the sweatbox (2001)
+dream on silli dreamer (2005)
+wake sleep beauti (2009)
+
+
+
+
+
+other disnei
+anim unit
+
+
+
+disnei televis anim
+disneytoon studio (wda unit)
+lucasfilm anim
+marvel anim
+pixar anim studio
+circl 7 (defunct)
+
+
+
+
+
+miscellan
+
+
+
+alic comedi
+laugh-o-gram studio
+list of disnei anim short
+list of disnei theatric anim featur
+
+unproduc
+
+
+oswald the lucki rabbit
+mickei mous (film seri)
+silli symphoni
+onc upon a time
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+alan menken
+
+
+
+music
+
+
+
+god bless you, mr. rosewat (1979)
+littl shop of horror (1982)
+weird romanc (1992)
+a christma carol (1994)
+beauti and the beast (1994)
+king david (1997)
+the bellring of notr dame (1999)
+sister act (2006)
+the littl mermaid (2007)
+leap of faith (2010)
+newsi (2011)
+aladdin (2014)
+the apprenticeship of duddi kravitz (2015)
+a bronx tale (2016)
+
+
+
+
+
+music film
+
+
+
+littl shop of horror (1986)
+the littl mermaid (1989)
+beauti and the beast (1991)
+newsi (1992)
+aladdin (1992)
+pocahonta (1995)
+the hunchback of notr dame (1996)
+hercul (1997)
+home on the rang (2004)
+a christma carol (2004)
+enchant (2007)
+tangl (2010)
+beauti and the beast (2017)
+aladdin (2019)
+
+
+
+
+
+song
+
+
+
+"part of your world"
+"under the sea"
+"kiss the girl"
+"be our guest"
+"beauti and the beast"
+"friend like me"
+"a whole new world"
+"just around the riverbend"
+"color of the wind"
+"if i never knew you"
+"if i can't love her"
+"the bell of notr dame"
+"out there"
+"god help the outcast"
+"hellfir"
+"somedai"
+"go the distanc"
+"i won't sai (i'm in love)"
+"happi work song"
+"that's how you know"
+"so close"
+"ever ever after"
+"mother know best"
+"i see the light"
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+stephen schwartz
+
+
+
+music and lyric
+
+
+
+godspel
+pippin
+the magic show
+the baker's wife
+work
+
+
+children of eden
+wick
+
+captain louie
+séanc on a wet afternoon
+the princ of egypt
+
+
+
+
+
+lyric
+
+
+
+mass
+rag
+der glöckner von notr dame
+
+
+
+
+
+film work
+
+
+
+butterfli ar free (titl song)
+pocahonta (lyric)
+the hunchback of notr dame (lyric)
+the princ of egypt (song)
+enchant (lyric)
+
+
+
+
+
+televis
+
+
+
+geppetto (music and lyric)
+johnni and the sprite (theme song)
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+anni award for best anim featur
+
+
+
+
+
+
+beauti and the beast (1992)
+aladdin (1993)
+the lion king (1994)
+pocahonta (1995)
+toi stori (1996)
+cat don't danc (1997)
+mulan (1998)
+the iron giant (1999)
+toi stori 2 (2000)
+shrek (2001)
+spirit awai (2002)
+find nemo (2003)
+the incred (2004)
+wallac & gromit: the curs of the were-rabbit (2005)
+car (2006)
+ratatouil (2007)
+kung fu panda (2008)
+up (2009)
+how to train your dragon (2010)
+rango (2011)
+wreck-it ralph (2012)
+frozen (2013)
+how to train your dragon 2 (2014)
+insid out (2015)
+zootopia (2016)
+
+
+
+
+
+
+
+
+
+
+ 
+						retriev from "http://en.wikipedia.org/w/index.php?titl=pocahonta_(1995_film)&oldid=805049734"					
+categori: 1995 filmsenglish-languag filmsdisnei's pocahonta1990s american anim film1990s histor film1990s music film1990s romant drama filmsamerican anim filmsamerican children's anim filmsamerican children's drama filmsamerican comedi-drama filmsamerican histor filmsamerican music drama filmsamerican romant drama filmsamerican romant music filmsamerican filmsanim cartoon base on real peopleanim drama filmsanim music filmsanim romanc filmsbest anim featur anni award winnersdisnei renaissancefilm score by alan menkenfilm about interraci romancefilm about nativ americansfilm about race and ethnicityfilm about racismfilm featur anthropomorph charactersfilm set in the 1600sfilm set in the powhatan confederacyfilm set in the thirteen coloniesfilm set in virginiafilm that won the best origin song academi awardfilm that won the best origin score academi awardwalt disnei anim studio filmswalt disnei pictur filmshidden categori: cs1 maint: unfit url 
+
+
+
+navig menu
+
+
+person tool
+
+not log intalkcontributionscr accountlog in 
+
+
+
+namespac
+
+articl
+talk
+
+
+
+
+variant
+
+
+
+
+
+
+
+
+
+view
+
+read
+edit
+view histori
+
+
+
+more
+
+
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navig
+
+
+main pagecontentsfeatur contentcurr eventsrandom articledon to wikipediawikipedia store 
+
+
+
+interact
+
+
+helpabout wikipediacommun portalrec changescontact page 
+
+
+
+tool
+
+
+what link hererel changesupload filespeci pagesperman linkpag informationwikidata itemcit thi page 
+
+
+
+print/export
+
+
+creat a bookdownload as pdfprintabl version 
+
+
+
+in other project
+
+
+wikimedia commonswikiquot 
+
+
+
+languag
+
+
+العربيةБългарскиbrezhonegcatàČeštinacymraegdanskdeutschދިވެހިބަސްeestiΕλληνικάespañoleuskaraفارسیfrançaisgaeilgegaelggalego한국어Հայերենbahasa indonesiaÍslenskaitalianoעבריתქართულიlatinamagyarbahasa melayunederland日本語norskpolskiportuguêsromânăruna simiРусскийscotssimpl englishСрпски / srpskisrpskohrvatski / српскохрватскиsuomisvenskaУкраїнськаtiếng việtwinaraiייִדיש中文 
+edit link 
+
+
+
+
+
+ thi page wa last edit on 12 octob 2017, at 18:57.
+text is avail under the creativ common attribut-sharealik licens;
+addit term mai appli.  by us thi site, you agre to the term of us and privaci polici. wikipedia® is a regist trademark of the wikimedia foundat, inc., a non-profit organ.
+
+
+privaci polici
+about wikipedia
+disclaim
+contact wikipedia
+develop
+cooki statement
+mobil view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputim":"1.492","walltim":"1.626","ppvisitednod":{"valu":9554,"limit":1000000},"ppgeneratednod":{"valu":0,"limit":1500000},"postexpandincludes":{"valu":352789,"limit":2097152},"templatearguments":{"valu":11051,"limit":2097152},"expansiondepth":{"valu":21,"limit":40},"expensivefunctioncount":{"valu":1,"limit":500},"entityaccesscount":{"valu":1,"limit":400},"timingprofil":["100.00% 1404.160      1 -total"," 55.82%  783.793      1 templat:reflist"," 16.01%  224.748      1 templat:offici_websit"," 15.57%  218.573     43 templat:cite_web"," 15.17%  212.984     49 templat:cite_new","  4.97%   69.779      1 templat:infobox_film","  4.45%   62.480      1 templat:infobox","  4.06%   57.039     11 templat:cite_book","  3.93%   55.226      1 templat:billboardurlbynam","  3.84%   53.967      9 templat:navbox"]},"scribunto":{"limitreport-timeusag":{"valu":"0.850","limit":"10.000"},"limitreport-memusag":{"valu":8135932,"limit":52428800}},"cachereport":{"origin":"mw1182","timestamp":"20171015213804","ttl":3600,"transientcont":true}}});});(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetim":109,"wghostnam":"mw1247"});});
+
+

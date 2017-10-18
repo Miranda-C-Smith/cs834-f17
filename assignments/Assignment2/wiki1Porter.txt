@@ -1,0 +1,2133 @@
+
+
+
+virginia beach, virginia - wikipedia
+document.documentel.classnam = document.documentel.classnam.replac( /(^|\s)client-noj(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespac":"","wgcanonicalspecialpagenam":fals,"wgnamespacenumb":0,"wgpagenam":"virginia_beach,_virginia","wgtitl":"virginia beach, virginia","wgcurrevisionid":801126396,"wgrevisionid":801126396,"wgarticleid":91239,"wgisarticl":true,"wgisredirect":fals,"wgaction":"view","wgusernam":null,"wgusergroup":["*"],"wgcategori":["webarch templat wayback link","articl with inconsist citat format","us mdy date from march 2017","wikipedia articl need clarif from februari 2016","coordin on wikidata","all accuraci disput","articl with disput statement from octob 2010","all articl with unsourc statement","articl with unsourc statement from mai 2015","articl with unsourc statement from march 2017","good articl","wikipedia articl with viaf identifi","wikipedia articl with lccn identifi","wikipedia articl with isni identifi","wikipedia articl with gnd identifi","virginia beach, virginia","beach of virginia","citi in virginia","seasid resort in the unit state","surf locat in the unit state","popul coastal place in virginia","popul place establish in 1906","1906 establish in virginia","landform of virginia beach, virginia","surf in virginia"],"wgbreakfram":fals,"wgpagecontentlanguag":"en","wgpagecontentmodel":"wikitext","wgseparatortransformt":["",""],"wgdigittransformt":["",""],"wgdefaultdateformat":"dmy","wgmonthnam":["","januari","februari","march","april","mai","june","juli","august","septemb","octob","novemb","decemb"],"wgmonthnamesshort":["","jan","feb","mar","apr","mai","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagenam":"virginia_beach,_virginia","wgrelevantarticleid":91239,"wgrequestid":"wemsswpamfiaaa27n7qaaaam","wgisprobablyedit":true,"wgrelevantpageisprobablyedit":true,"wgrestrictionedit":[],"wgrestrictionmov":[],"wgflaggedrevsparam":{"tag":{}},"wgstablerevisionid":null,"wgwikieditorenabledmodul":{"toolbar":true,"preview":fals,"publish":fals},"wgbetafeaturesfeatur":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":fals,"wgpopupsshouldsendmoduletous":fals,"wgpopupsconflictswithnavpopupgadget":fals,"wgvisualeditor":{"pagelanguagecod":"en","pagelanguagedir":"ltr","pagevariantfallback":"en","usepageimag":true,"usepagedescript":true},"wgpreferredvari":"en","wgmfexpandallsectionsuseropt":fals,"wgmfdisplaywikibasedescript":{"search":true,"nearbi":true,"watchlist":true,"taglin":fals},"wgrelatedarticl":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":fals,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelet":[],"wgcentralnoticecategoriesusinglegaci":["fundrais","fundrais"],"wgcategorytreepagecategoryopt":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespac\":fals}","wgcoordin":{"lat":36.8506,"lon":-75.9779},"wgwikibaseitemid":"q49259","wgcentralauthmobiledomain":fals,"wgcodemirroren":fals,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparam":["undo","undoaft","veswitch"],"wgeditsubmitbuttonlabelpublish":fals});mw.loader.state({"ext.gadget.charinsert-style":"readi","ext.globalcssj.user.style":"readi","ext.globalcssj.site.style":"readi","site.style":"readi","noscript":"readi","user.style":"readi","user":"readi","user.option":"readi","user.token":"load","ext.math.style":"readi","ext.cite.style":"readi","wikibas.client.init":"readi","ext.visualeditor.desktoparticletarget.noscript":"readi","ext.ul.interlanguag":"readi","ext.wikimediabadg":"readi","skin.vector.style.experiment.print":"readi","mediawiki.legaci.share":"readi","mediawiki.legaci.commonprint":"readi","mediawiki.sectionanchor":"readi","mediawiki.skin.interfac":"readi","skin.vector.style":"readi","ext.globalcssj.user":"readi","ext.globalcssj.site":"readi"});mw.loader.implement("user.token@1dqfd7l",function ( $, jqueri, requir, modul ) {
+mw.user.token.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.math.script","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.readi","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahous","ext.gadget.referencetooltip","ext.gadget.watchlist-notic","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-button","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetload","ext.eventlog.subscrib","ext.wikimediaev","ext.navigationtim","ext.ul.eventlogg","ext.ul.init","ext.ul.interfac","ext.centralnotic.geoip","ext.centralnotic.startup","skin.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+virginia beach, virginia
+
+from wikipedia, the free encyclopedia
+
+
+					jump to:					navig, 					search
+
+"virginia beach" redirect here. for other us, see virginia beach (disambigu).
+
+
+virginia beach, virginia
+
+
+independ citi
+
+
+citi of virginia beach
+
+
+
+clockwis from top left: oceanfront beach; king neptun statu; town center skylin; chesapeak bai bridg-tunnel; cape henri lighthous
+
+
+
+
+
+
+
+flag
+
+seal
+
+
+
+
+
+nicknam(s): "the resort citi", "neptun citi"
+
+
+motto: landmark of our nation's begin
+
+
+
+locat in the commonwealth of virginia
+
+
+
+
+
+
+
+
+
+virginia beach, virginia
+
+
+
+
+
+locat in the contigu unit state
+
+
+coordin: 36°51′02″n 75°58′40″w﻿ / ﻿36.8506°n 75.9779°w﻿ / 36.8506; -75.9779
+
+
+countri
+ unit state of america
+
+
+state
+ virginia
+
+
+counti
+none (independ citi)
+
+
+incorpor (as town)
+1906
+
+
+incorpor (as citi)
+1952
+
+
+govern
+
+
+ • type
+council-manag
+
+
+ • mayor
+will sessom (r)
+
+
+area
+
+
+ • independ citi
+1,290 km2 (497 sq mi)
+
+
+ • land
+640 km2 (249 sq mi)
+
+
+ • water
+640 km2 (248 sq mi)
+
+
+elev
+3 m (10 ft)
+
+
+popul (2015)
+
+
+ • independ citi
+452,745 (41st)
+
+
+ • densiti
+352/km2 (911/sq mi)
+
+
+ • urban
+1,212,000
+
+
+ • metro
+1,724,876 (37th)
+
+
+time zone
+est (utc-5)
+
+
+ • summer (dst)
+edt (utc-4)
+
+
+area code(s)
+757
+
+
+fip code
+51-82000[1]
+
+
+gni featur id
+1500261[2]
+
+
+websit
+www.vbgov.com
+
+
+virginia beach is an independ citi locat on the southeastern coast of the commonwealth of virginia. as of the 2010 censu, the popul wa 437,994.[3] in 2015, the popul wa estim to be 452,745.[4] although mostli suburban in charact, it is the most popul citi in virginia and the 41st most popul citi in the nation.[5] locat on the atlant ocean at the mouth of the chesapeak bai, virginia beach is includ in the hampton road metropolitan area. thi area, known as "america's first region", also includ the independ citi of chesapeak, hampton, newport new, norfolk, portsmouth, and suffolk, as well as other smaller citi, counti, and town of hampton road.
+virginia beach is a resort citi with mile of beach and hundr of hotel, motel, and restaur along it oceanfront. everi year the citi host the east coast surf championship as well as the north american sand soccer championship, a beach soccer tournament. it is also home to sever state park, sever long-protect beach area, three militari base, a number of larg corpor, two univers, intern headquart and site of the televis broadcast studio for pat robertson's christian broadcast network (cbn), edgar cayc's associ for research and enlighten, and numer histor site. near the point where the chesapeak bai and the atlant ocean meet, cape henri wa the site of the first land of the english colonist, who eventu settl in jamestown, on april 26, 1607.
+the citi is list in the guin book of record as have the longest pleasur beach in the world. it is locat at the southern end of the chesapeak bai bridg-tunnel, the longest bridg-tunnel complex in the world.[6]
+
+
+
+content
+
+
+1 histori
+2 geographi and climat
+
+2.1 neighborhood
+2.2 climat
+
+
+3 demograph
+
+3.1 religion
+
+
+4 economi
+5 cultur
+6 sport
+7 park and recreat
+8 govern
+9 educ
+10 media
+11 infrastructur
+
+11.1 transport
+
+11.1.1 walkabl
+
+
+11.2 util
+11.3 healthcar
+
+
+12 notabl peopl
+13 sister citi
+14 in popular cultur
+15 see also
+16 note
+17 refer
+18 extern link
+
+
+
+histori[edit]
+main articl: histori of virginia beach; timelin of virginia beach, virginia; and princess ann counti, virginia
+
+
+
+
+a chesepian home
+
+
+the chesepian were the histor indigen peopl of the area now known as tidewat in virginia at the time of european encount. littl is known about them[7] but archeolog evid suggest thei mai have been relat to the carolina algonquian, or pamlico peopl. thei would have spoken on of the algonquian languag. these were common among the numer tribe of the coastal area, who made up the loos powhatan confederaci, number in the ten of thousand in popul. the chesepian occupi an area which is now defin as the independ citi of norfolk, portsmouth, chesapeak, and virginia beach.[8]
+
+
+
+
+cape henri from the air, face east-southeast
+
+
+in 1607, after a voyag of 144 dai, three ship head by captain christoph newport, and carri 105 men and boi, made their first landfal in the new world on the mainland, where the southern mouth of the chesapeak bai meet the atlant ocean. thei name it cape henri, after henri frederick, princ of wale, the eldest son of king jame i of england. these english colonist of the virginia compani of london move on from thi area, as thei were under order to seek a site further inland, which would be more shelter from ship of compet european countri. thei creat their first perman settlement on the north side of the jame river at jamestown.[9]
+adam thoroughgood (1604–1640) of king's lynn, norfolk, england is on of the earliest englishmen to settl in thi area, which wa develop as virginia beach. at the ag of 18, he had contract as an indentur servant to pai for passag to the virginia coloni in the hope of better hi life. he earn hi freedom after sever year and becam a lead citizen of the area. in 1629, he wa elect to the hous of burgess for elizabeth citti  [sic], on of four "citti" (or incorpor) which were subdivid area establish in 1619.[10]
+in 1634, the coloni wa divid into the origin eight shire of virginia, soon renam as counti. thoroughgood is credit with us the name of hi home in england when help name "new norfolk counti" in 1637. the follow year, new norfolk counti wa split into upper norfolk counti (soon renam nansemond counti) and lower norfolk counti. thoroughgood resid after 1634 wa along the lynnhaven river, name for hi home in england.
+lower norfolk counti wa larg when first organ, defin as from the atlant ocean west past the elizabeth river, encompass the entir area now within the modern citi of portsmouth, norfolk, chesapeak, and virginia beach.[10] it attract mani entrepreneur, includ william moselei with hi famili in 1648. belong to the merchant adventur guild of london, he immigr from rotterdam of the netherland, where he had been in the intern trade. he settl on land on the north side of the elizabeth river (virginia), east of what develop as norfolk.
+follow increas settlement, in 1691 lower norfolk counti wa divid to form norfolk and princess ann counti. princess ann, the easternmost counti in south hampton road, extend from cape henri at the mouth of the chesapeak bai, south to what becam the border of the north carolina coloni. it includ all of the area front the atlant ocean. princess ann counti wa known as a jurisdict from 1691 to 1963, over 250 year.[11]
+
+
+
+
+princess ann counti (1691–1963), now extinct, with virginia beach from 1895 virginia map
+
+
+in the earli centuri, thi area wa rural and develop for plantat agricultur. in the late 19th centuri, the small resort area of virginia beach develop in princess ann counti after the 1883 arriv of rail servic to the coast. the virginia beach hotel wa open and oper by the norfolk and virginia beach railroad and improv compani at the oceanfront, near the tini commun of seatack. the hotel wa foreclos and the railroad reorgan in 1887. the hotel wa upgrad and reopen in 1888 as the princess ann hotel.[12]
+in 1891, guest at the new hotel watch the wreck and rescu effort of the unit state life-save servic for the norwegian bark dictat. the ship's figurehead, which wash up on the beach sever dai later, wa erect as a monument to the victim and rescuer. it stood along the oceanfront for more than 50 year. in the 21st centuri, it inspir the pair of match norwegian ladi monument, sculpt by Ørnulf bast and instal in virginia beach and moss, norwai.[13]
+the resort initi depend on railroad and electr trollei servic. the complet of virginia beach boulevard in 1922, which extend from norfolk to the oceanfront, open the rout for automobil, buse, and truck. the passeng rail servic to the oceanfront wa eventu discontinu as traffic increas by vehicl. the grow resort of virginia beach becam an incorpor town in 1906. over the next 45 year, virginia beach continu to grow in popular as a season vacat spot. the casino were replac by amus park and famili-orient attract. in 1927 the cavali hotel open and becam a popular vacat spot.
+virginia beach gain statu as an independ citi in 1952, although ti remain between it and princess ann counti. in 1963, after voter in the two jurisdict pass a support referendum, and with the approv of the virginia gener assembl, the two polit subdivis were consolid as a new, much larger independ citi, retain the better-known name of the virginia beach resort.[14]
+the alan b. shepard civic center ("the dome"), a signific build in the citi's histori,[why?] wa construct in 1958,[15] and wa dedic to the career of former virginia beach resid and astronaut alan shepard.[16] as the area chang, the dome wa frequent us as a bingo hall. the build wa raze in 1994[15] to make room for a municip park lot and potenti futur develop.
+
+
+
+
+virginia beach town center
+
+
+real estat, defens, and tourism ar major sector of the virginia beach economi. local public and privat group have maintain a vest interest in real-estat redevelop, result in a number of joint public-privat project, such as commerci park. exampl of the public-privat develop includ the virginia beach convent center, the oceanfront hilton hotel, and the virginia beach town center. the citi assist in financ the project through the us of tax increment financ: creat special tax district and construct associ street and infrastructur to support the develop. the town center open in 2003, with relat construct continu. the convent center open in 2005.[17][18]
+the citi ha begun to run out of clear land avail for new construct north of the green line, an urban growth boundari divid the urban northern and rural southern section of the citi.[19] infil and develop of residenti neighborhood ha place a number of oper constraint on naval air station oceana, a major fighter jet base for the u.s. navi. while the airbas enjoi wide support from virginia beach at larg, the pentagon base realign and closur commiss ha propos closur of oceana within the next decad.[20]
+geographi and climat[edit]
+
+
+
+
+the chesapeak bai shore
+
+
+virginia beach is locat at 36°51′02″n 75°58′40″w﻿ / ﻿36.8506°n 75.9779°w﻿ / 36.8506; -75.9779﻿ (virginia beach)coordin: 36°51′02″n 75°58′40″w﻿ / ﻿36.8506°n 75.9779°w﻿ / 36.8506; -75.9779﻿ (virginia beach).[21]
+accord to the unit state censu bureau, the citi ha a total area of 497 squar mile (1,290 km2), of which 249 squar mile (640 km2) is land and 248 squar mile (640 km2) (49.9%) is water.[21] it is the largest citi in virginia by total area and third-largest citi land area. the averag elev is 12 feet (3.7 m) abov sea level. a major portion of the citi drain to the chesapeak bai by wai of the lynnhaven river and it tributari.
+the citi is locat at the southeastern corner of virginia in the hampton road area border the atlant ocean. the hampton road metropolitan statist area (offici known as the virginia beach-norfolk-newport new, va-nc msa) is the 37th largest in the unit state, with a total popul of 1,707,639. the area includ the virginia citi of norfolk, virginia beach, chesapeak, hampton, newport new, poquoson, portsmouth, suffolk, williamsburg, and the counti of gloucest, isl of wight, jame citi, mathew, surri, and york, as well as the north carolina counti of currituck. while virginia beach is the most popul citi within the msa, it actual current function more as a suburb. the citi of norfolk is recogn as the central busi district, while the virginia beach oceansid resort district and williamsburg ar primarili center of tourism.
+neighborhood[edit]
+
+
+
+
+virginia beach from space
+
+
+when the modern citi of virginia beach wa creat in 1963, by the consolid of the 253 squar mile (660 km2) princess ann counti with the 2 squar mile (5.2 km2) citi of virginia beach, the newli larger citi wa divid into seven borough: baysid, blackwat, kempsvil, lynnhaven, princess ann, pungo, and virginia beach.
+virginia beach ha mani distinct commun and neighborhood within it boundari, includ: alanton, aragona villag, the largest sub-divis in tidewat when complet, bai coloni, baysid, cape henri, chesapeak beach, croatan beach, great neck point, green run, kempsvil, lago mar, london bridg, lynnhaven, newtown,the north end, oceana, ocean park, pembrok manor, princess ann, pungo, red mill common, sandbridg, thalia, and thoroughgood.[22]
+climat[edit]
+the climat of virginia beach is humid subtrop (köppen: cfa). winter ar cool and snowfal is light. summer ar hot and humid. the "offici" weather statist ar record at norfolk intern airport on the extrem northwestern border of virginia beach. the mean annual temperatur is 59.6 °f (15.3 °c), with an averag annual snowfal of 5.8 inch (150 mm) at the airport to around 3.0 inch (76 mm) in the southeastern corner around back bai.[23] averag annual rainfal is higher; between 47 inch (1,200 mm) at the airport to over 50 inch (1,300 mm) per year at back bai. the wettest season ar spring and summer, although rainfal is mostli constant year round. the highest record temperatur to date wa 105 °f (41 °c) in juli 2010, and the lowest record temperatur wa −3 °f (−19 °c) in januari 1985, both be record at norfolk intern airport.[24]
+addition, the geograph locat of the citi, with respect to the princip storm track, is especi favor which is why it ha earn the reput as a vacat destin. it is south of the averag path of storm origin in the higher latitud, and north of the usual track of hurrican and other major tropic storm, with the except of hurrican isabel in 2003.[25] becaus of the moder effect of the chesapeak bai and the atlant ocean, virginia beach is the northernmost locat on the east coast in which mani speci of plant (both subtrop and tropic) will reliabl grow. spanish moss, for exampl is near the northernmost limit of it natur rang at first land state park, and is the most northerli locat where it is widespread. other plant like sabal palmetto, pindo palm, windmil palm, hardi citru, and oleand ar successfulli grown here while thei succumb to the colder winter temperatur to the north and inland to the west.
+
+
+
+climat data for norfolk intern airport, virginia (1981–2010 normal,[a] extrem 1874–present[b])
+
+
+month
+jan
+feb
+mar
+apr
+mai
+jun
+jul
+aug
+sep
+oct
+nov
+dec
+year
+
+
+record high °f (°c)
+84
+(29)
+82
+(28)
+92
+(33)
+97
+(36)
+100
+(38)
+102
+(39)
+105
+(41)
+105
+(41)
+100
+(38)
+95
+(35)
+86
+(30)
+82
+(28)
+105
+(41)
+
+
+mean maximum °f (°c)
+71.1
+(21.7)
+73.2
+(22.9)
+80.2
+(26.8)
+86.4
+(30.2)
+91.4
+(33)
+95.5
+(35.3)
+97.8
+(36.6)
+95.8
+(35.4)
+92.1
+(33.4)
+85.6
+(29.8)
+78.7
+(25.9)
+72.5
+(22.5)
+98.8
+(37.1)
+
+
+averag high °f (°c)
+48.1
+(8.9)
+50.9
+(10.5)
+58.2
+(14.6)
+67.6
+(19.8)
+75.4
+(24.1)
+83.5
+(28.6)
+87.4
+(30.8)
+85.1
+(29.5)
+79.3
+(26.3)
+70.1
+(21.2)
+61.1
+(16.2)
+52.1
+(11.2)
+68.3
+(20.2)
+
+
+averag low °f (°c)
+32.7
+(0.4)
+34.4
+(1.3)
+40.5
+(4.7)
+48.9
+(9.4)
+57.9
+(14.4)
+67.1
+(19.5)
+71.9
+(22.2)
+70.7
+(21.5)
+65.3
+(18.5)
+54.0
+(12.2)
+44.6
+(7)
+36.1
+(2.3)
+52.1
+(11.2)
+
+
+mean minimum °f (°c)
+17.6
+(−8)
+21.2
+(−6)
+27.2
+(−2.7)
+35.7
+(2.1)
+45.7
+(7.6)
+55.5
+(13.1)
+63.1
+(17.3)
+61.6
+(16.4)
+53.7
+(12.1)
+39.7
+(4.3)
+30.5
+(−0.8)
+21.7
+(−5.7)
+15.2
+(−9.3)
+
+
+record low °f (°c)
+−3
+(−19)
+2
+(−17)
+14
+(−10)
+23
+(−5)
+36
+(2)
+45
+(7)
+54
+(12)
+49
+(9)
+40
+(4)
+27
+(−3)
+17
+(−8)
+5
+(−15)
+−3
+(−19)
+
+
+averag precipit inch (mm)
+3.40
+(86.4)
+3.12
+(79.2)
+3.68
+(93.5)
+3.41
+(86.6)
+3.41
+(86.6)
+4.26
+(108.2)
+5.14
+(130.6)
+5.52
+(140.2)
+4.76
+(120.9)
+3.42
+(86.9)
+3.15
+(80)
+3.26
+(82.8)
+46.53
+(1,181.9)
+
+
+averag snowfal inch (cm)
+2.4
+(6.1)
+2.0
+(5.1)
+0.2
+(0.5)
+trace
+0
+(0)
+0
+(0)
+0
+(0)
+0
+(0)
+0
+(0)
+0
+(0)
+trace
+1.2
+(3)
+5.8
+(14.7)
+
+
+averag precipit dai (≥ 0.01 in)
+10.4
+9.5
+10.6
+10.1
+10.6
+9.9
+11.1
+10.1
+8.8
+7.6
+8.5
+9.8
+117.0
+
+
+averag snowi dai (≥ 0.1 in)
+1.6
+1.3
+0.4
+0.1
+0
+0
+0
+0
+0
+0
+0
+0.6
+4.0
+
+
+averag rel humid (%)
+66.3
+65.6
+64.6
+62.8
+68.8
+70.6
+73.3
+75.2
+74.4
+72.1
+68.5
+67.0
+69.1
+
+
+mean monthli sunshin hour
+171.5
+175.2
+229.3
+252.8
+271.7
+280.1
+278.3
+260.4
+231.4
+208.3
+175.7
+160.4
+2,695.1
+
+
+percent possibl sunshin
+56
+58
+62
+64
+62
+64
+62
+62
+62
+60
+57
+53
+61
+
+
+sourc: noaa (rel humid and sun 1961–1990)[24][26][27]
+
+
+demograph[edit]
+
+
+histor popul
+
+
+censu
+pop.
+
+%±
+
+
+1790
+7,793
+
+—
+
+
+1800
+8,859
+
+13.7%
+
+
+1810
+9,498
+
+7.2%
+
+
+1820
+8,768
+
+−7.7%
+
+
+1830
+9,102
+
+3.8%
+
+
+1840
+7,285
+
+−20.0%
+
+
+1850
+7,669
+
+5.3%
+
+
+1860
+7,714
+
+0.6%
+
+
+1870
+8,273
+
+7.2%
+
+
+1880
+9,394
+
+13.6%
+
+
+1890
+9,510
+
+1.2%
+
+
+1900
+11,192
+
+17.7%
+
+
+1910
+11,526
+
+3.0%
+
+
+1920
+13,626
+
+18.2%
+
+
+1930
+16,282
+
+19.5%
+
+
+1940
+19,984
+
+22.7%
+
+
+1950
+42,277
+
+111.6%
+
+
+1960
+77,127
+
+82.4%
+
+
+1790-1960 popul as princess ann counti
+
+
+
+
+histor popul
+
+
+censu
+pop.
+
+%±
+
+
+1910
+320
+
+—
+
+
+1920
+846
+
+164.4%
+
+
+1930
+1,719
+
+103.2%
+
+
+1940
+2,600
+
+51.3%
+
+
+1950
+5,390
+
+107.3%
+
+
+1960
+8,091
+
+50.1%
+
+
+1970
+172,106
+
+2,027.1%
+
+
+1980
+262,199
+
+52.3%
+
+
+1990
+393,069
+
+49.9%
+
+
+2000
+425,257
+
+8.2%
+
+
+2010
+437,994
+
+3.0%
+
+
+est. 2016
+452,602
+[28]
+3.3%
+
+
+u.s. decenni censu[29]
+1790-1960[30] 1900-1990[31]
+1990-2000[32]
+
+
+accord to the 2010 censu, the racial composit of virginia beach wa as follow:[33]
+
+white or caucasian: 67.7% (non-hispan white: 64.5%)
+black or african american: 19.6%
+american indian: 0.4%
+asian: 6.1% (4.0% filipino, 0.5% chines, 0.4% indian, 0.4% vietnames, 0.3% korean, 0.2% japanes)
+nativ hawaiian and other pacif island: 0.1%
+some other race: 2.0%
+two or more race: 4.0%
+hispan or latino (of ani race): 6.6% (2.2% puerto rican, 1.9% mexican, 0.3% dominican, 0.2% panamanian, 0.2% salvadoran, 0.2% cuban, 0.2% colombian)
+
+
+
+
+
+map of racial distribut in virginia beach, 2010 u.s. censu. each dot is 25 peopl: white, black, asian, hispan or other (yellow)
+
+
+as of the censu of 2000,[1] there were 425,257 peopl, 154,455 household, and 110,898 famili resid in the citi. the popul densiti wa 1,712.7 peopl per squar mile (661.3/km²). there were 162,277 hous unit at an averag densiti of 653.6 per squar mile (252.3/km²).
+the racial makeup of the citi wa: 67.7% white (64.5% non-hispan white), 19.6% african american, 0.4% nativ american, 6.1% asian, 0.1% pacif island, 2.0% from other race, and 4.0% from two or more race. 6.6% of the popul were hispan or latino of ani race.
+there were 154,455 household out of which 38.8% had children under the ag of 18 live with them, 55.7% were marri coupl live togeth, 12.4% had a femal household with no husband present, and 28.2% were non-famili. 20.4% of all household were made up of individu and 5.5% had someon live alon who wa 65 year of ag or older. the averag household size wa 2.70 and the averag famili size wa 3.14.
+the ag distribut wa 27.5% under the ag of 18, 10.0% from 18 to 24, 34.3% from 25 to 44, 19.8% from 45 to 64, and 8.4% who were 65 year of ag or older. the median ag wa 33 year. for everi 100 femal there were 98.0 male. for everi 100 femal ag 18 and over, there were 95.8 male.
+the median incom for a household in the citi wa $48,705, and the median incom for a famili wa $53,242. virginia beach had the 5th highest median famili incom among larg citi in 2003.[34] the per capita incom for the citi wa $22,365. about 5.1% of famili and 6.5% of the popul were below the poverti line, includ 8.6% of those under ag 18 and 4.7% of those ag 65 or over.
+the citi of virginia beach ha a lower crime rate than the other region citi of hampton road, newport new, norfolk, and portsmouth, which all exce nation averag crime rate. in 1999 virginia beach experienc 12 murder give the citi a murder rate of 2.7 per 100,000 peopl. for 2007, virginia beach had 16 murder, for a murder rate of 3.7 per 100,000 peopl. that wa lower than the nation averag that year of 6.9. the citi's total crime index rate for 2007 wa 221.2 per 100,000 peopl, lower than the nation averag of 320.9.[35] accord to the congression quarterli press '2008 citi crime rank: crime in metropolitan america, virginia beach, virginia rank 311th in violent crime among 385 citi contain more than 75,000 inhabit.[36]
+
+violent crime per 100,000 citizen
+
+crime
+virginia beach (2009)
+nation averag
+
+
+murder
+3.7
+6.9
+
+
+rape
+20.2
+32.2
+
+
+robberi
+127.3
+195.4
+
+
+assault
+98.6
+340.1
+
+
+burglari
+495.2
+814.5
+
+
+automobil theft
+134.4
+526.5
+
+
+religion[edit]
+34.4% of the citi's popul is affili with religi congreg, compar to the 50.2% nationwid figur. there ar 146,402 adher and 184 differ religi congreg in the citi.[37]
+
+28% cathol church
+14% southern baptist convent
+13% unit methodist church
+12% charismat church independ
+33% other
+
+economi[edit]
+
+
+
+
+tourism at the beach boost virginia beach's economi
+
+
+virginia beach is best known for it tourism but the militari and agribusi sector contribut to the citi's economi. the citi's economi also contain a larg retail compon at place such as lynnhaven mall. major compani headquart in virginia beach includ amerigroup, the christian broadcast network, oper bless intern, and stihl (american headquart). other major employ includ geico, vt and navi exchang servic command.[38] virginia beach wa rank at number 45 on forb list of best place for busi and career.
+tourism produc a larg share of virginia beach's economi. with an estim $857 million spent in tourism relat industri, 14,900 job cater to 2.75 million visitor. citi coffer benefit as visitor provid $73 million in revenu. virginia beach open a convent center in 2005 which cater to larg group meet and event. hotel not onli line the oceanfront but also cluster around virginia beach town center and other part of the citi. restaur and entertain industri also directli benefit from virginia beach's tourism.[38]
+ecotour ha a larg portion of the tourism market in virginia beach. there ar mani eco-adventur compani which offer tour on the land and on the water. coyot, fox and bobcat can be seen inland of virginia beach in fals cape state park.
+the virginia aquarium & marin scienc center conduct tour of the coast for bird sight as well as whale if the season is right. thei offer school field trip and overnight adventur into the variou surround region with a focu on educ. lesson for surf, stand up paddl and kayak ar popular in the area. the aquarium offer whale and dolphin watch tour. these tour ar offer through the aquarium and ar led by train marin-life educ. the whale watch tour ar avail in the winter month when whale visit the area. the dolphin tour ar avail in the summer month. the tour take off from the aquarium, but can be cancel due to weather.[39]
+virginia beach ha a larg agribusi sector which produc $80 million for the citi economi. on hundr-seventi-two farm exist in virginia beach, mostli below the greenlin in the southern portion of the citi. farmer ar abl to sell their good and product at the citi's farmer's market.[40][41]
+
+
+
+
+a vf-41 f-4j over na oceana in the late 1960s
+
+
+virginia beach is home to sever unit state militari base. these includ the unit state navi's na oceana and train support center hampton road, and the joint expeditionari base east locat at cape henri. addition, nab littl creek is locat mostli within the citi of virginia beach but carri a norfolk address.[42]
+na oceana is the largest employ in virginia beach; it wa decre by the 2005 brac commiss that na oceana must close unless the citi of virginia beach condemn hous in area design as "accid potenti zone." thi action ha never been the posit of the unit state navi; inde, the navi had not recommend na oceana to the brac commiss for potenti closur. the issu of closur of na oceana remain unresolv as of mai 2008 [20][dubiou – discuss]
+both na oceana and train support center hampton road ar consid to be the largest of their respect kind in the world. furthermor, locat in nearbi norfolk is the central hub of the unit state navi's atlant fleet, norfolk navi base.[43]
+cultur[edit]
+main articl: cultur in virginia beach
+
+
+
+
+adam thoroughgood hous, befor 1957 restor
+
+
+the citi is home to sever point of interest in the histor, scientif, and visual/perform art area, and ha becom a popular tourist destin in recent year. the virginia museum of contemporari art featur regularli chang exhibit in a varieti of media. exhibit featur paint, sculptur, photographi, glass, video and other visual media from internation acclaim artist as well as artist of nation and region renown. moca wa born from the annual boardwalk art show, which began in 1952 and is now the museum's largest fundrais. by oper at a nation standard, moca receiv accredit from the american allianc of museum in 2010.
+the virginia aquarium & marin scienc center (formerli the virginia marin scienc museum) is a popular aquarium near the oceanfront that featur the 300,000-gallon norfolk canyon aquarium, contain sand tiger, nurs and brown shark, as well as sting rai and other larg open-ocean dweller. there is also a 70,000-gallon sea turtl aquarium, sea turtl hatchl laboratori, hand-on ocean explor exhibit, jellyfish and octopu aquarium, and even a life-size model of a humpback whale. other featur includ the owl creek salt marsh and a natur trail.[44]
+the virginia beach amphitheat, built in 1996, featur a wide varieti of popular show and concert, rang from kenni chesnei to taylor swift to coldplai to ozzfest. the sandler center, a 1200-seat perform art theatr, open in the virginia beach town center in novemb 2007.[45] virginia beach is home to mani site of histor import and ha 18 site on the nation regist of histor place. such site includ the adam thoroughgood hous (on of the oldest surviv coloni home in virginia), the franci land hous (a 200-year-old plantat), the cape henri light and nearbi cape henri light station (a second tower), bayvil farm, de witt cottag, ferri farm plantat, dr. john miller-masuri hous, adam keel hous, old donat church, pembrok manor, pleasant hall, shirlei hall (devereaux hous), thoma murrai hous, u.s. coast guard station (seatack), upper wolfsnar, weblin hous, and wishart boush hous, and wolfsnar.[46]
+the edgar cayc hospit for research and enlighten wa establish in virginia beach in 1928 with 60 bed. cayc wa a psychic from kentucki who claim heal abil and made prophesi. cayc is known as the father of the "new ag" movement of the 1960s. cayc resid in virginia beach until he di on januari 3, 1945. hi follow ar still activ in virginia beach. the 67th street facil featur a larg privat librari of book on psychic matter, and is open to the public. the tradit beach-architectur headquart build featur massag therapi by appoint. atlant univers wa open by cayc in 1930; it close two year later but wa re-open in 1985. atlant univers wa origin intend for studi of cayc's read and research on spiritu subject.[47]
+the citi's largest festiv, the neptun festiv, attract 500,000 visitor to the oceanfront and 350,000 visitor to the air show at na oceana. celebr the citi's heritag link with norwai, event ar held in septemb in the oceanfront and town center area.[48] everi august, the american music festiv provid festiv attende with live music perform on stage all over the oceanfront, includ the beach on fifth street. the festiv end with the rock 'n' roll half marathon.[49]
+sport[edit]
+
+
+club
+leagu
+venu
+establish
+
+
+virginia beach neptun
+alpb basebal
+wheeler field
+2014
+
+
+virginia beach citi fc
+npsl soccer
+virginia beach sportsplex
+2014
+
+
+sinc norfolk contain the central busi district of hampton road, most of the major spectat sport ar locat there. while the hampton road area ha been recent consid as a viabl prospect for major-leagu profession sport, and region leader have attempt to obtain major leagu basebal, nba and nhl franchis in the recent past, no team ha yet reloc to the area.[50] hampton road is the second largest metropolitan area in the unit state without a club in a major profession sport leagu, after the austin metropolitan area.
+the norfolk admir won the ahl calder cup in 2012.
+the virginia destroy, a ufl franchis, plai at the virginia beach sportsplex until the leagu's collaps in 2012. two soccer team, the virginia beach piranha, a men's team in the usl premier develop leagu, and the hampton road piranha, a women's team in the w-leagu plai at the virginia beach sportsplex. the virginia beach sportsplex contain the central train site for the u.s. women's nation field hockei team.[citat need]
+the citi is also home to the east coast surf championship, an annual contest of more than 100 of the world's top profession surfer and an estim 400 amateur surfer. thi is north america's oldest surf contest.[citat need]
+there ar eleven golf cours open to the public in the citi, as well as four countri club layout and 36 militari hole at na oceana's aeropin cours. among the best-known public cours ar hell's point golf club and virginia beach nation, the latter of which host the virginia beach open, a nationwid tour event from 2000 to 2006.[51] also, the kingsmil resort host the kingsmil championship, an annual lpga tour tournament.
+virginia beach is host to a rock 'n' roll half marathon each year on labor dai weekend in conjunct with the american music festiv. it is on of the largest half marathon in the world. the final 3 mile (4.8 km) ar on the boardwalk.[52]
+in 2012, virginia beach wa on of sever citi try to lure the sacramento king to plai there.[53]
+park and recreat[edit]
+virginia beach is home to 210 citi park, encompass over 4,000 acr (1,600 ha), includ neighborhood park, commun park, district park, and other open space. each park is uniqu and offer someth for everyon, from wide open space to playground, picnic shelter, and ballfield.[54]
+mount trashmor park is clearli visibl from i-264 when travel to the oceanfront. the park is 165 acr (67 ha). the hill is 60 ft (18 m) high and over 800 ft (240 m) long, and wa creat by compact layer of solid wast and clean soil. it is the highest point in virginia beach. the park also featur two lake: lake windsor and lake trashmor. lake trashmor is stock with fish, but is unsanitari to fish in. resid can also take advantag of a skate park.[55]
+
+
+
+
+a japanes-style moon bridg in the miyazaki japanes garden, red wing park
+
+
+on of the major park is red wing park, a 97 acr (39 ha) park in east-central part of the citi, veri close to oceana naval air station. thi land becam a park in 1966. a uniqu featur of thi park is the miyazaki japanes garden, which is a result of it interact with it sister citi miyazaki, japan. other featur includ: the reba s. mcclanan fragranc garden, 5 picnic shelter with charcoal grill, tenni court, picklebal court, basketbal court, 2 volleybal court, handbal/racquetbal court, horsesho pit, two playground area, share-us path, garden, picnic area with charcoal grill, dog park, open field, vend machin, public restroom, a playground, wood area.[56]
+anoth major park in the citi is great neck park, a 70 acr (28 ha) park locat in the lynnhaven district. facil includ five larg group shelter, mini-shelter, famili picnic tabl and grill, three playground, horsesho pit, volleybal court, vend machin, walk trail, four basebal field, as well as a gazebo locat at the end of a scenic walkwai overlook the lynnhaven river.[57]
+
+
+
+
+peopl ride a rental surrei on the boardwalk
+
+
+the back bai nation wildlif refug, establish in 1938, is an 8,000-acr (32 km2) fresh water refug that border the atlant ocean on the east and back bai on the west. the barrier island featur larg sand dune, maritim forest, fresh water marsh, pond, ocean beach, and larg impound for winter wildfowl. it is manag by the u.s. fish and wildlif servic.[58]
+first land state park and fals cape state park ar both locat in coastal area within the citi's corpor limit as well. both offer camp facil, cabin, and outdoor recreat activ in addit to natur and histori tour.[59][60]
+munden point park is a rural park locat in the deep southern end of the citi,[61] right on the north land river.[62] it is own and maintain by the citi of virginia beach. the park featur five shelter, three basebal field, a boat ramp, boat rental, three playground, six horsesho pit, volleybal net, and light hike trail. an outdoor amphitheatr is fulli equip with electr outlet and is avail for reserv of wed, outsid classroom activ and other event. restroom, park, vend machin, playground, garden, and barbecu grill ar also avail for us. cano, boat ramp, and disc golf cours mai also be rent to go.
+addition, the famou 3 mile (4.8 km) boardwalk at the oceanfront is often pack with fascin entertain, outdoor cafe, concert and peopl. made of concret, the boardwalk link forti hotel and other attract and ha a bike path.[63]
+naval aviat monument park wa formal dedic on mai 6, 2006, by the hampton road squadron of the naval aviat foundat associ. plan sinc 1997 in partnership with the citi of virginia beach, the park featur heroic-scale statuari and relief to tell the histori of naval aviat.[64]
+pleasur hous point is an 118 acr (48 hectar) park of undevelop land on the shore of the lynnhaven river. locat just south of the lesner bridg and the chesapeak bai, it includ oyster bed, wetland and a maritim forest.[citat need] the locat wa the site of a plan condo develop that collaps in 2008. it wa acquir by the citi of virginia beach with help from the trust for public land and the chesapeak bai foundat in 2012.[65] it is on of the largest undevelop parcel of land on the lynnhaven river and will be preserv for futur gener. it is also the locat of the brock environment center which provid hand-on educ program for student to learn about the chesapeak bai.[66]
+lastli, of cours, ar the citi's abund and ampl indoor recreat facil, which often includ basketbal and racquetbal court, weight and fit train room, and swim pool. these center also plai host to mani special program for children, youth and adult. the baysid facil, for exampl, offer class in yoga and pilat, as well as variou type and style of danc, not to mention season offer for young children and senior citizen.
+virginia beach's extens park system is recogn as on of the best in the unit state. in it 2013 parkscor rank, the trust for public land report that virginia beach had the 8th best park system among the 50 most popul u.s. citi.[67] parkscor rank citi park system by a formula that analyz the citi's median park size, park acr as percent of citi area, the percent of citi resid within a half-mile of a park, spend of park servic per resid, and the number of playground per 10,000 resid.
+govern[edit]
+
+
+
+
+local law prohibit the us of profan along the boardwalk. thi sign along atlant avenu indic thi law.
+
+
+
+presidenti elect result[68]
+
+year
+republican
+democrat
+third parti
+
+
+2016
+48.4% 98,224
+44.8% 91,032
+6.8% 13,763
+
+
+2012
+50.5% 99,291
+48.0% 94,299
+1.6% 3,051
+
+
+2008
+49.9% 100,319
+49.1% 98,885
+1.0% 2,045
+
+
+2004
+59.1% 103,752
+40.2% 70,666
+0.7% 1,269
+
+
+2000
+55.9% 83,674
+41.6% 62,268
+2.6% 3,829
+
+
+1996
+50.6% 63,741
+41.4% 52,142
+8.0% 10,060
+
+
+1992
+50.0% 68,936
+32.2% 44,294
+17.8% 24,555
+
+
+1988
+68.9% 76,481
+30.4% 33,780
+0.7% 757
+
+
+1984
+74.4% 72,571
+25.3% 24,703
+0.3% 320
+
+
+1980
+60.5% 47,936
+31.4% 24,895
+8.1% 6,404
+
+
+1976
+54.5% 34,593
+40.7% 25,824
+4.9% 3,101
+
+
+1972
+76.6% 38,074
+20.9% 10,373
+2.6% 1,286
+
+
+1968
+43.2% 16,316
+26.8% 10,101
+30.0% 11,325
+
+
+1964
+44.9% 10,529
+55.0% 12,892
+0.1% 21
+
+
+1960
+42.5% 986
+56.1% 1,301
+1.5% 34
+
+
+1956
+53.3% 1,355
+43.7% 1,111
+3.0% 77
+
+
+1952
+59.8% 1,310
+40.2% 881
+
+
+
+virginia beach wa charter as a municip corpor by the gener assembl of virginia on januari 1, 1963. the citi current oper under the council–manag form of govern.[69] the citi doe not fall under the jurisdict of a counti govern, due to state law. rather, it function as an independ citi and oper as a polit subdivis of the state.
+the citi's legisl bodi consist of an eleven-member citi council. the citi manag is appoint by the council and act as the chief execut offic. through hi staff, he implement polici establish by the council.[70]
+member of the citi council normal serv four-year term and ar elect on a stagger basi in non-partisan elect. begin in 2008, gener elect ar held the first tuesdai in novemb in even-number year. in previou year, elect were held the first tuesdai in mai in even-number year. all regist voter ar elig to vote for all council member. three council member and the mayor serv on an at-larg basi. all other ar elect by district (and must live in the district thei repres): baysid, beach, centervil, kempsvil, lynnhaven, princess ann, and rose hall.[69]
+the mayor is elect to a four-year term through direct elect. the mayor presid over citi council meet, and serv as the ceremoni head and spokesperson of the citi. a vice mayor is also elect by the citi council at the first meet follow a council elect.[70] the current mayor of virginia beach is will sessom, a republican.
+citizen of virginia beach also elect five constitut offic, and candid for these offic ar permit to run with an affili polit parti. three of these offic deal substanti with public safeti and justic: the sheriff, commonwealth's attornei, and the clerk of the circuit court. the two other offic ar concern with fiscal polici: the citi treasur and the commission of the revenu.
+virginia beach is locat entir in the virginia's 2nd congression district, serv by u.s. repres scott taylor (republican).
+educ[edit]
+
+
+
+
+the current build of frank w. cox high school
+
+
+accord to the u.s. censu, 28.1% of the popul over twenti-five (vs. a nation averag of 24%) hold a bachelor's degre or higher, and 90.4% (vs. 80% nation) have a high school diploma or equival.
+the citi of virginia beach is home to virginia beach citi public school, on of the largest school system in the state (base on student enrol). virginia beach citi public school current serv 69,735 student, and includ 56 elementari school, 14 middl school, 12 high school which includ landstown, princess ann, green run, green run collegi, cox, tallwood, salem, first coloni, kellam, kempsvil, baysid, and ocean lake high school as well as a number of secondari/post-secondari specialti school and center such as the advanc technolog center (atc), which provid cours for those try to gain a place in the technolog field. ocean lake maintain a rigor math and scienc academi; baysid hous a health scienc academi, with cours in medic microbiolog, genet medicin, and pathophysiolog. salem high school hous the visual and perform art academi, prepar student for job in the fine and perform art. landstown high school contain a technolog academi, which help prepar student for job in busi market, inform technolog, and/or engin. first coloni high school is home to the legal studi academi, with cours such as forens scienc, intro to law, and legal research and write, prepar student for job in the law field. tallwood high school ha recent found a world studi academi, and princess ann, the oldest high school in the citi, is an intern baccalaur diploma programm school. princess ann us to host a special program for pregnant high schooler in the area. the program for pregnant girl wa move off of princess ann's campu and into a section of the altern school, renaiss academi, which wa complet in late 2009.[71] with onli 8 girl go on to the new program at the academi, virginia beach set to defund the program in 2010.[72] special cours ar offer at all these academi, even though thei occasion overlap cours offer at other special center, such as landstown and the atc — less than 1-mile (1.6 km) awai.[73]
+there ar also a number of privat, independ school in the citi, includ norfolk academi, our ladi of mount carmel cathol school and parish, the hebrew academi of tidewat, cape henri collegi school, bishop sullivan cathol high school (formerli norfolk cathol), baylak pine school, and virginia beach friend school.[74]
+
+
+
+
+associ for research and enlighten
+
+
+virginia beach is home to two univers: regent univers, a privat univers found by christian evangelist and leader pat robertson, which ha histor focus on graduat educ but ha recent establish an undergradu program as well.[75] atlant univers, associ with the edgar cayc organ, the associ for research and enlighten (ar), offer m.a. degre in transperson studi, with mani new ag subject thank to it edgar cayc link.[47] old dominion univers and norfolk state univers ar in nearbi norfolk and both the univers of virginia and virginia tech oper satellit campus in virginia beach.[76][77][78][79] tidewat commun colleg, a major junior colleg, also ha it largest campu locat in the citi.[80] virginia wesleyan colleg, a privat liber art colleg, is locat on the border with norfolk with the physic address of the school be in norfolk, but the major of the campu be in virginia beach.[81] ecpi univers's main campu is locat here as well. addit institut of higher educ ar locat in other commun of greater hampton road.[82]
+the virginia beach public librari system provid free access to accur and current inform and materi to all individu, and promot read as a critic life skill. the librari support the educ and leisur need of virginia beach citizen with a system of area librari, a central librari, a bookmobil, a virtual librari, the south rosemont youth librari, the wahab public law librari, the municip refer librari and the special servic for the blind and visual handicap. the librari ha a collect of more than 1,000,000 item includ special subject collect.[83]
+media[edit]
+the virginian-pilot, base in norfolk, is the daili newspap for virginia beach. other paper includ veer and the new journal and guid. insid busi focus on local busi new.[84]
+virginia wesleyan colleg publish it own newspap, the marlin chronicl.[84]
+the norfolk-virginia beach area is serv by a varieti of radio station on the fm and am dial, with tower locat around the hampton road area.[85]
+virginia beach is also serv by sever televis station. the norfolk-portsmouth-newport new design market area (dma) is the 42nd largest in the u.s. with 712,790 home (0.64% of the total u.s.).[86] the major network televis affili ar wtkr-tv 3 (cb), wavi 10 (nbc), wvec-tv 13 (abc), wtpc-tv 21 (triniti broadcast network), wgnt 27 (cw), wtvz 33 (mynetworktv), wvbt 43 (fox), and wpxv 49 (ion televis). the public broadcast servic station is whro-tv 15. virginia beach resid also can receiv independ station wsky broadcast on channel 4 from camden counti, north carolina. some can also receiv pb affili wund 2 (unc-tv), home shop network affili w14dc-d from portsmouth, daystar network religi televis station wvad-ld tv 25 from chesapeak and rtv affili wgb-ld broadcast on channel 7 from hampton. virginia beach is serv by cox cabl. directv and dish network ar also popular as an altern to cabl televis in virginia beach. in addit a larg portion of the citi is serv by verizon fio.
+virginia beach serv as the headquart for the christian broadcast network, locat adjac to regent univers. cbn's most notabl program, the 700 club origin from the virginia beach studio.[87] in 2008, virginia beach becam the home to the reel dream film festiv.
+infrastructur[edit]
+transport[edit]
+main articl: transport in virginia beach
+
+
+
+
+a hampton road transit bu travel northbound on pacif avenu in virginia beach.
+
+
+virginia beach is primarili serv by the norfolk intern airport (iata: orf, icao: korf, faa lid: orf), which is now the region's major commerci airport. the airport is locat near chesapeak bai, along the citi limit straddl neighbor norfolk.[88] seven airlin provid nonstop servic to twenti five destin. orf had 3,703,664 passeng take off or land at it facil and 68,778,934 pound of cargo were process through it facil.[89] newport new/williamsburg intern airport also provid commerci air servic for the hampton road area.[90] the chesapeak region airport provid gener aviat servic and is locat five mile (8 km) outsid the citi limit.[91] virginia beach is serv by amtrak through the norfolk and newport new station, via connect buse. the norfolk line run southwest toward suffolk, virginia, then turn northwest toward petersburg, richmond (stapl mill road), and point beyond. the newport new line run west along the virginia peninsula to williamsburg, richmond (via the downtown main street and the suburban stapl mill road station), and point beyond. a high-speed rail connect at richmond to both the northeast corridor and the southeast high speed rail corridor ar also under studi.[92]
+greyhound/trailwai provid servic from a central bu termin in adjac norfolk. the greyhound station in virginia beach is locat on laskin road, about a mile west of the oceanfront. bu servic to new york citi via the chinatown bu, todai's bu, is locat on newtown road.[93]
+the citi is connect to i-64 via i-264, which run from the oceanfront, intersect with i-64 on the east side of norfolk, and continu through downtown norfolk and portsmouth until rejoin i-64 at the terminu of both road in chesapeak where interst 664 complet the loop which form the hampton road beltwai. travel to and from virginia beach can access the hampton road beltwai in either direct from i-264 in norfolk to us a choic of the two bridg-tunnel facil to cross hampton road to reach the peninsula, williamsburg, richmond and point north. other major road includ virginia beach boulevard (u.s. rout 58), shore drive (u.s. rout 60), which connect to atlant avenu at the oceanfront, northampton blvd (u.s. rout 13), princess ann road (state rout 165), indian river road (former state rout 603), lynnhaven parkwai, independ boulevard, gener booth boulevard, and nimmo parkwai. street in the oceanfront hotel and entertain district ar arrang in a fairli regular, grid like pattern, with atlant avenu parallel to the shorelin, then pacif avenu, and arctic avenu go further inland.
+the citi is also connect to virginia's eastern shore region via the chesapeak bai bridg-tunnel (cbbt), which is the longest bridg-tunnel complex in the world and known as on of the seven engin wonder of the modern world. the cbbt, a toll facil carri u.s. rout 13.[94]
+transport within the citi, as well as the rest of hampton road is serv by a region bu servic, hampton road transit.[95] an extens of the tide light rail system from norfolk to the oceanfront is current be studi.[96] for year, virginia beach resid have debat on whether or not to extend the tide from norfolk into it border with the appar divid fall between younger and older resid and the potenti cost to virginia beach taxpay.[97] in novemb 2016, resid vote on a referendum propos that would extend the light rail from norfolk to virginia beach with 57% against the rail extens and 43% for the extens.[98]
+walkabl[edit]
+a 2011 studi by walk score rank virginia beach 39th most walkabl of fifti largest u.s. citi.[99]
+util[edit]
+water and sewer servic ar provid by the citi's depart of util. virginia beach receiv it electr from dominion virginia power which ha local sourc includ the chesapeak energi center (a ga power plant), coal-fire plant in chesapeak and southampton counti, and the surri nuclear power plant. norfolk headquart virginia natur ga, a subsidiari of agl resourc, distribut natur ga to the citi from storag plant in jame citi counti and chesapeak.
+virginia beach receiv it water from lake gaston. the virginia tidewat area ha grown faster than the local freshwat suppli. the river water ha alwai been salti, and fresh groundwat is no longer avail in most area. current, water for the tidewat area is pump from lake gaston, which straddl the virginia-north carolina border along with the blackwat and nottowai river. the pipelin is 76 mile (122 km) long and 60 inch (1,500 mm) in diamet. much of it follow the former right-of-wai of an abandon portion of the virginian railwai.[100] it is capabl of pump 60 million gallon of water per dai(60mgd), norfolk and chesapeak ar partner in the project.[101]
+the citi provid wastewat servic for resid and transport wastewat to the region hampton road sanit district treatment plant.[102]
+healthcar[edit]
+virginia beach is serv by sentara virginia beach gener hospit and sentara princess ann hospit. sentara baysid hospit ha been modifi to a stand alon emerg depart and outpati treatment center, now known as sentara independ. sentara leigh hospit is just across the citi line in norfolk.[103] beach health clinic offer basic medic servic for uninsur resid of virginia beach.
+notabl peopl[edit]
+
+
+felicia barton, semi-finalist on american idol
+genesi the greykid, artist, creativ, poet, writer
+rudi boesch, contest on survivor
+curti bush, kickbox
+gabbi dougla, olymp gymnast gold medalist
+herman goldner, mayor of st. petersburg, florida[104]
+perci harvin, nfl player
+bj leiderman, compos of theme for npr show
+michael hearst, author, musician, and compos
+marc leishman, profession golfer
+evan marriott, actor in joe millionair[105]
+bob mcdonnel, former governor of virginia[106][107][108]
+ryan mcgin, artist
+lenda murrai, ifbb profession bodybuild[109]
+juic newton, singer, songwrit
+pusha t, rapper
+j.r. reid, nba player
+pat robertson, televis preacher
+todd schnitt, radio person
+rhea seehorn, actress known for role as kim wexler in better call saul
+scott sizemor, mlb player[110]
+mark ruffalo, oscar-nomin actor; rais in virginia beach
+chri taylor, mlb player[111]
+timbaland, rapper, singer, record produc
+travi wall, contest on so you think you can danc and choreograph
+matthew e. white, songwrit and produc
+pharrel william, rapper, singer, record produc, compos and fashion design
+ryan zimmerman, mlb player[112]
+
+
+sister citi[edit]
+virginia beach's sister citi ar:[113]
+
+ bangor, northern ireland, unit kingdom
+ miyazaki, miyazaki prefectur, kyūshū, japan sinc mai 25, 1992
+ moss, norwai
+ olongapo, philippin
+coutanc, normandi, franc
+
+virginia beach ha on friendship citi:[113]
+
+ san juan del sur, nicaragua
+
+in popular cultur[edit]
+in 2015, in honor of the game's 80th birthdai, hasbro held an onlin vote in order to determin which citi would make it into an updat version of the monopoli here and now: the us edit of the game. virginia beach, virginia receiv the fourth highest number of vote in the onlin contest, earn it a green spot on the board. the top boardwalk spot went to pierr, south dakota.[114]
+see also[edit]
+
+
+geographi portal
+north america portal
+unit state portal
+virginia portal
+
+
+
+list of peopl from virginia beach
+nation regist of histor place list in virginia beach, virginia
+norwegian ladi statu
+virginia beach fire depart
+virginia beach polic depart
+virginia beach depart of em
+virginia beach volunt rescu squad
+wash wood at fals cape
+
+note[edit]
+
+
+
+^ mean monthli maxima and minima (i.e. the expect highest and lowest temperatur read at ani point dure the year or given month) calcul base on data at said locat from 1981 to 2010.
+^ offici record for norfolk kept januari 1874 to decemb 1945 at the weather bureau offic in downtown, and at norfolk int'l sinc januari 1946. for more inform, see threadex
+
+
+
+refer[edit]
+
+
+^ a b "american factfind". unit state censu bureau. archiv from the origin on septemb 11, 2013. retriev januari 31, 2008. 
+^ "us board on geograph name". unit state geolog survei. octob 25, 2007. retriev januari 31, 2008. 
+^ "state & counti quickfact". unit state censu bureau. archiv from the origin on januari 7, 2014. retriev januari 6, 2014. 
+^ "popul estim, juli 1, 2015, (v2015)". 
+^ list of unit state citi by popul
+^ melissa jone (march 15, 2005). superl usa: the largest, smallest, longest, shortest, and wackiest site in america. capit book. pp. 137–. isbn 978-1-931868-85-3. retriev octob 12, 2012. 
+^ "virginia beach histori timelin". princess ann counti/virginia beach histor societi. retriev march 19, 2008. 
+^ "cape henri memori". u.s. nation park system. retriev march 19, 2008. 
+^ moon, shep. "400 year of chang". virginia depart of environment qualiti. retriev march 19, 2008. 
+^ a b "the origin of norfolk's name". norfolk histor societi. retriev octob 9, 2007. 
+^ "norfolk becom a borough". norfolk histor societi. retriev octob 9, 2007. 
+^ jonathan mark souther, "twixt ocean and pine: the seasid resort at virginia beach, 1880-1930." m.a. thesi, univers of richmond, 1996.
+^ foss, william o., the norwegian ladi and the wreck of the dictat. virginia beach, virginia: noreg book, 2002. isbn 0-9721989-0-3
+^ "virginia beach histori". virginiabeach.com. retriev march 21, 2008. 
+^ a b "va. beach get seriou again about dome site develop". hampton road.com, bill reed, novemb 14, 2007. 
+^ "dome's memori will linger as a monument sever activ ar plan to honor the beach's now-raze former civic center". virginian pilot. archiv from the origin on march 19, 2008. retriev februari 23, 2008. 
+^ "town center". citi of virginia beach. retriev march 8, 2007. 
+^ barbara l. brewer. "phase i of virginia beach convent center set to open in june". meetingsnet. archiv from the origin on decemb 6, 2008. retriev march 21, 2008. 
+^ "virginia beach's green line: should the line hold?". virginian-pilot. retriev march 21, 2008. 
+^ a b "beach council tighten rule on build around oceana". virginian-pilot. retriev march 8, 2007. 
+^ a b "us gazett file: 2010, 2000, and 1990". unit state censu bureau. februari 12, 2011. retriev april 23, 2011. 
+^ virginia beach neighborhood histori [1]. retriev on march 20, 2008.
+^ "climat summari". 
+^ a b "nowdata - noaa onlin weather data". nation ocean and atmospher administr. retriev 2016-09-07. 
+^ inform from noaa.
+^ "station name: va norfolk intl ap". nation ocean and atmospher administr. retriev 2016-09-07. 
+^ "wmo climat normal for norfolk/intl, va 1961–1990". nation ocean and atmospher administr. retriev 2014-03-10. 
+^ "popul and hous unit estim". retriev june 9, 2017. 
+^ "u.s. decenni censu". unit state censu bureau. archiv from the origin on mai 12, 2015. retriev januari 2, 2014. 
+^ "histor censu browser". univers of virginia librari. retriev januari 2, 2014. 
+^ "popul of counti by decenni censu: 1900 to 1990". unit state censu bureau. retriev januari 2, 2014. 
+^ "censu 2000 phc-t-4. rank tabl for counti: 1990 and 2000" (pdf). unit state censu bureau. retriev januari 2, 2014. 
+^ factfind2censu.gov archiv mai 20, 2011, at the wayback machin.
+^ "median famili incom (in 2003 inflat-adjust dollar)". censu.gov. archiv from the origin on octob 13, 2004. retriev juli 2, 2010. 
+^ "virginia beach, virginia (va) profil". citi-data.com. retriev juli 2, 2010. 
+^ "cq press: citi crime rank 2008". os.cqpress.com. archiv from the origin on june 7, 2010. retriev juli 2, 2010. 
+^ "virginia beach citi, virginia". citi-data.com. retriev juli 2, 2010. 
+^ a b "econom profil". virginia beach econom develop commun. retriev march 8, 2007. 
+^ "sea adventur". virginia aquarium. retriev januari 22, 2017. 
+^ "agribusi". virginia beach econom develop commun. retriev march 8, 2007. 
+^ "farmer market". citi of virginia beach. retriev march 8, 2007. 
+^ "econom profil — militari". virginia beach econom develop commun. archiv from the origin on decemb 5, 2008. retriev march 8, 2007. 
+^ worldwid space a handbook: isbn 1-881341-13-5. www.nablc.navi.mil archiv april 21, 2009, at the wayback machin.
+^ virginia aquarium & marin scienc center|accessd=march 18, 2008
+^ sandler center for the perform art|accessd=march 18, 2008
+^ nation regist of histor place – virginia beach|accessd=march 18, 2008
+^ a b "atlant univers". retriev march 7, 2008. 
+^ "the neptun festiv". the neptun festiv. june 25, 2010. retriev juli 2, 2010. 
+^ verizon wireless american music festiv archiv juli 2, 2008, at the wayback machin.
+^ "big-leagu sport not on the horizon for norfolk". virginian pilot. archiv from the origin on mai 22, 2011. retriev march 12, 2008. 
+^ "virginia beach golf cours". thegolfcours.net. retriev march 12, 2008. 
+^ "rock and roll half marathon". elit race. archiv from the origin on april 9, 2008. retriev august 6, 2007. 
+^ taylor, nate (august 24, 2012). "virginia beach court sacramento king" – via nytim.com. 
+^ "virginia beach park". virginia beach depart of park and recreat. retriev octob 5, 2007 
+^ "mt. trashmor park". virginia beach depart of park and recreat. retriev octob 5, 2007 
+^ "red wing park". citi of virginia beach. retriev mai 29, 2017. 
+^ "great neck park". virginia beach depart of park and recreat. retriev march 20, 2008 
+^ "back bai nation wildlif refug". u.s. fish & wildlif servic, back bai nation wildlif refug. retriev march 20, 2008 
+^ "first land state park". first land state park. retriev march 20, 2008 
+^ "fals cape state park". fals cape state park. retriev march 20, 2008 
+^ "munden point". virginia bird and wildlif trail. archiv from the origin on april 6, 2008. retriev march 20, 2008 
+^ "munden point park". www.vbgov.com. citi of virginia beach, virginia. retriev august 2, 2015. 
+^ "boardwalk". virginiabeach.com. retriev march 20, 2008 
+^ naval aviat monument park. alexandria, virginia.: naval aviat foundat, wing of gold, quarterli, summer-fall, 2006, page 58.
+^ "virginia beach deal preserv a slice of natur". 
+^ "environment center open at pleasur hous point". 
+^ "virginia beach's park system rank eighth in the nation". june 6, 2013. the citi of virginia beach. retriev on juli 18, 2013.
+^ http://uselectionatla.org/result
+^ a b "virginia beach citi manag: form of govern". virginia beach citi manag. septemb 30, 2007. retriev march 7, 2008. 
+^ a b "virginia beach citi council: about us". virginia beach citi council. septemb 30, 2007. retriev march 7, 2008. 
+^ virginian-pilot, the. "virginia beach's program for pregnant girl set to move". virginian-pilot. retriev januari 30, 2017. 
+^ roth, lauren. "virginia beach cut back on program for pregnant teen". virginian-pilot. retriev januari 30, 2017. 
+^ "virginia beach citi public school: about us". virginia beach citi public school. septemb 30, 2007. archiv from the origin on februari 21, 2008. retriev march 7, 2008. 
+^ "state recogn accredit school". virginia council for privat educ. septemb 30, 2007. archiv from the origin on decemb 23, 2007. retriev march 7, 2008. 
+^ "about regent univers". regent univers. retriev decemb 11, 2007. 
+^ "about norfolk state". archiv from the origin on decemb 30, 2007. retriev januari 12, 2008. 
+^ "about old dominion". retriev januari 12, 2008. 
+^ "vt hampton road center". retriev januari 12, 2008. 
+^ "uva. hampton road center". retriev januari 12, 2008. 
+^ "tidewat commun colleg". retriev januari 12, 2008. 
+^ "about virginia wesleyan". archiv from the origin on april 4, 2008. retriev march 7, 2008. 
+^ "about ecpi". retriev march 7, 2008. 
+^ virginia beach public librari|accessd=june 18, 2008
+^ a b "hampton road new link". abyznewslink.com. retriev august 6, 2007. 
+^ "hampton road radio link". ontheradio.net. retriev august 6, 2007. 
+^ holm, gari. "nielsen report 1.1% increas in u.s. televis household for the 2006–2007 season archiv juli 5, 2009, at the wayback machin.." nielsen media research. septemb 23, 2006. retriev on septemb 28, 2007.
+^ "titl with locat includ virginia beach, virginia, usa." imdb. retriev on march 7, 2008.
+^ "norfolk intern airport mission and histori". norfolk intern airport. archiv from the origin on septemb 28, 2007. retriev octob 2, 2007. 
+^ "norfolk intern airport statist" (pdf). norfolk intern airport. archiv from the origin (pdf) on octob 25, 2007. retriev octob 2, 2007. 
+^ "newport new/williamsburg intern airport". newport new/williamsburg intern airport. retriev februari 25, 2008. 
+^ "chesapeak region airport". retriev januari 12, 2008. 
+^ "southeast high speed rail". southeast high speed rail. retriev octob 15, 2007. 
+^ "todai's bu". todai's bu. archiv from the origin on octob 8, 2007. retriev octob 10, 2007. 
+^ "chesapeak bai bridg-tunnel fact". chesapeak bai bridg and tunnel commiss. retriev novemb 23, 2006. 
+^ "hampton road transit". hrtransit.org. retriev juli 2, 2010. 
+^ "virginia beach transit extens studi | hampton road transit". gohrt.com. archiv from the origin on juli 3, 2010. retriev juli 2, 2010. 
+^ pascal, jordan. "how did the light rail debat in virginia beach becom so nasti?". virginian-pilot. retriev januari 30, 2017. 
+^ staff, wavi new (novemb 8, 2016). "virginia beach resid vote against light rail extens". wavi-tv. retriev januari 30, 2017. 
+^ "2011 citi and neighborhood rank". walk score. 2011. retriev august 28, 2011. 
+^ "va place, gaston pipelin". virginiaplac.org. retriev juli 2, 2010. 
+^ "va beach govern, depart of public util". vbgov.com. retriev juli 2, 2010. 
+^ "hampton road sanit district". hampton road sanit district. retriev march 8, 2008. 
+^ "virginia hospit and medic center". the agap center. retriev august 6, 2007. 
+^ "andrew meacham, "mayor pack idea, pipe tobacco in rich public life," septemb 15, 2010". tampa bai time. retriev june 1, 2014. 
+^ holtzclaw, mike. "evan marriott's life interrupt by unexpect tv stardom on 'joe millionair'". daili press. retriev 8 june 2017. 
+^ "governor robert f. mcdonnel's bio". governor.virginia.gov. archiv from the origin on march 4, 2010. retriev march 4, 2010. 
+^ "session 2005; mcdonnel, robert f. (bob)". virginia hous of deleg. retriev novemb 26, 2008. 
+^ "session 2003; mcdonnel, robert f. (bob)". virginia hous of deleg. retriev novemb 26, 2008. 
+^ "lenda murrai - facebook". 
+^ "scott sizemor stat". basebal almanac. retriev decemb 10, 2012. 
+^ chri taylor (basebal)
+^ "ryan zimmerman stat". basebal almanac. retriev decemb 10, 2012. 
+^ a b "sister citi directori: virginia beach, virginia". retriev 2017-05-15. 
+^ "monopoli". 
+
+
+extern link[edit]
+
+find more aboutvirginia beachat wikipedia's sister project
+
+definit from wiktionari
+media from common
+new from wikinew
+quotat from wikiquot
+text from wikisourc
+textbook from wikibook
+travel guid from wikivoyag
+learn resourc from wikivers
+
+
+
+offici websit
+convent and visitor bureau
+
+
+
+
+
+place adjac to virginia beach, virginia
+
+
+
+
+
+
+
+citi of norfolk
+northampton counti
+
+
+
+citi of chesapeak
+
+
+virginia beach, virginia
+
+
+atlant ocean
+
+
+
+currituck counti, north carolina
+
+
+
+
+
+
+
+
+
+
+
+
+articl relat to virginia beach
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+citi of virginia beach
+
+
+
+topic
+
+
+
+histori
+
+timelin
+
+
+cultur
+peopl
+sport
+media
+educ
+economi
+fire
+transport
+
+
+
+
+
+
+
+
+park
+
+
+
+first land state park
+fals cape state park
+mount trashmor
+munden point
+back bai nation wildlif refug
+
+
+
+
+
+militari
+
+
+
+naval air station oceana
+naval amphibi base littl creek
+fort stori
+
+
+
+
+
+attract
+
+
+
+adam keel hous
+adam thoroughgood hous
+atlant fun park
+atlant wildfowl heritag museum
+cape henri light
+cape henri memori
+ferri plantat hous
+franci land hous
+lynnhaven hous
+militari aviat museum
+motor world
+norwegian ladi statu
+ocean breez water park
+old coast guard station museum
+tidewat arboretum
+upper wolfsnar
+virginia aquarium
+virginia beach oceanfront
+virginia museum of contemporari art
+
+
+
+
+
+neighborhood
+
+
+
+alanton
+baysid
+chesapeak beach
+croatan beach
+great neck point
+green run
+kempsvil
+king grant
+lago mar
+london bridg
+lynnhaven
+oceana
+pembrok manor
+princess ann
+pungo
+salem
+sandbridg
+seatack
+sigma
+thalia
+town center
+
+
+
+
+
+
+
+
+hampton road metropolitan area
+virginia
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+hampton road
+
+
+
+
+virginia beach-norfolk-newport new metropolitan area
+
+
+
+citi
+
+
+
+chesapeak
+hampton
+newport new
+norfolk
+portsmouth
+poquoson
+suffolk
+virginia beach
+williamsburg
+
+
+
+
+
+counti
+
+
+
+currituck
+gloucest
+isl of wight
+jame citi
+mathew
+surri
+york
+
+
+
+
+
+town
+
+
+
+claremont
+dendron
+smithfield
+surri
+windsor
+
+
+
+
+
+sub-region
+
+
+
+south hampton road
+virginia peninsula
+
+
+
+
+
+topic
+
+
+
+transport
+peopl
+histori
+battl of hampton road
+
+
+
+
+
+
+note: citi ar independ, not be part of ani counti
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+ commonwealth of virginia
+
+
+
+
+richmond (capit)
+
+
+
+topic
+
+
+
+administr divis
+climat
+colleg and univers
+coloni
+congression district
+deleg
+environ
+furnitur
+geographi
+govern
+histori
+histor landmark
+law
+home
+music
+peopl
+right
+river
+scout
+slogan
+sport team
+state fair
+state park
+symbol
+tourist attract
+transport
+tribe
+
+
+
+
+
+seal of virginia
+
+
+
+
+societi
+
+
+
+cultur
+crime
+demograph
+economi
+educ
+media
+
+newspap
+radio
+tv
+
+
+polit
+
+
+
+
+
+region
+
+
+
+allegheni mountain
+atlant coastal plain
+blue ridg
+chesapeak bai
+cumberland mountain
+delmarva peninsula
+eastern shore
+hampton road
+middl peninsula
+northern neck
+northern virginia
+piedmont
+ridg-and-vallei appalachian
+shenandoah vallei
+south hampton road
+southsid
+southwest virginia
+tennesse vallei
+tidewat
+tri-citi
+virginia peninsula
+
+
+
+
+
+metro area
+
+
+
+blacksburg-christiansburg-radford
+bluefield
+bristol
+charlottesvil
+danvil
+harrisonburg
+lynchburg
+martinsvil
+richmond
+roanok
+staunton-waynesboro
+norfolk-virginia beach
+washington-arlington-alexandria
+winchest
+
+
+
+
+
+counti
+
+
+
+accomack
+albemarl
+alleghani
+amelia
+amherst
+appomattox
+arlington
+augusta
+bath
+bedford
+bland
+botetourt
+brunswick
+buchanan
+buckingham
+campbel
+carolin
+carrol
+charl citi
+charlott
+chesterfield
+clark
+craig
+culpep
+cumberland
+dickenson
+dinwiddi
+essex
+fairfax
+fauquier
+floyd
+fluvanna
+franklin
+frederick
+gile
+gloucest
+goochland
+grayson
+green
+greensvil
+halifax
+hanov
+henrico
+henri
+highland
+isl of wight
+jame citi
+king and queen
+king georg
+king william
+lancast
+lee
+loudoun
+louisa
+lunenburg
+madison
+mathew
+mecklenburg
+middlesex
+montgomeri
+nelson
+new kent
+northampton
+northumberland
+nottowai
+orang
+page
+patrick
+pittsylvania
+powhatan
+princ edward
+princ georg
+princ william
+pulaski
+rappahannock
+richmond
+roanok
+rockbridg
+rockingham
+russel
+scott
+shenandoah
+smyth
+southampton
+spotsylvania
+stafford
+surri
+sussex
+tazewel
+warren
+washington
+westmoreland
+wise
+wyth
+york
+
+
+
+
+
+independ
+citi
+
+
+
+alexandria
+bristol
+buena vista
+charlottesvil
+chesapeak
+coloni height
+covington
+danvil
+emporia
+fairfax
+fall church
+franklin
+fredericksburg
+galax
+hampton
+harrisonburg
+hopewel
+lexington
+lynchburg
+manassa
+manassa park
+martinsvil
+newport new
+norfolk
+norton
+petersburg
+poquoson
+portsmouth
+radford
+richmond
+roanok
+salem
+staunton
+suffolk
+virginia beach
+waynesboro
+williamsburg
+winchest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+author control
+
+
+
+worldcat ident
+viaf: 131994524
+lccn: n80060996
+isni: 0000 0004 0509 1378
+gnd: 4127130-0
+
+
+
+
+
+
+
+
+
+
+ 
+						retriev from "http://en.wikipedia.org/w/index.php?titl=virginia_beach,_virginia&oldid=801126396"					
+categori: virginia beach, virginiabeach of virginiac in virginiaseasid resort in the unit statessurf locat in the unit statespopul coastal place in virginiapopul place establish in 19061906 establish in virginialandform of virginia beach, virginiasurf in virginiahidden categori: webarch templat wayback linksarticl with inconsist citat formatsus mdy date from march 2017wikipedia articl need clarif from februari 2016coordin on wikidataal accuraci disputesarticl with disput statement from octob 2010all articl with unsourc statementsarticl with unsourc statement from mai 2015articl with unsourc statement from march 2017good articleswikipedia articl with viaf identifierswikipedia articl with lccn identifierswikipedia articl with isni identifierswikipedia articl with gnd identifi 
+
+
+
+navig menu
+
+
+person tool
+
+not log intalkcontributionscr accountlog in 
+
+
+
+namespac
+
+articl
+talk
+
+
+
+
+variant
+
+
+
+
+
+
+
+
+
+view
+
+read
+edit
+view histori
+
+
+
+more
+
+
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navig
+
+
+main pagecontentsfeatur contentcurr eventsrandom articledon to wikipediawikipedia store 
+
+
+
+interact
+
+
+helpabout wikipediacommun portalrec changescontact page 
+
+
+
+tool
+
+
+what link hererel changesupload filespeci pagesperman linkpag informationwikidata itemcit thi page 
+
+
+
+print/export
+
+
+creat a bookdownload as pdfprintabl version 
+
+
+
+in other project
+
+
+wikimedia commonswikivoyag 
+
+
+
+languag
+
+
+afrikaanالعربيةasturianuazərbaycancaتۆرکجهবাংলাbân-lâm-gúБеларускаяБеларуская (тарашкевіца)‎БългарскиboarischbrezhonegcatàcebuanoČeštinacymraegdanskdeutschdiné bizaadeestiΕλληνικάespañolesperantoeuskaraفارسیfrançaisgaeilgegàidhliggalego한국어Հայերենbahasa indonesiaitalianoעבריתkapampanganქართულიkiswahilikreiòl ayisyenКыргызчаКырык марыlatinalatvišulietuviųlumbaartmagyarМакедонскиmalagasiमराठीbahasa melayunederland日本語norskplattdüütschpolskiportuguêsromânăruna simiРусскийsarduscotsshqipsimpl englishslovenčinaslovenščinaСрпски / srpskisrpskohrvatski / српскохрватскиsuomisvenskatagalogไทยtürkçeУкраїнськаاردوtiếng việtvolapükwinarayyorùbá粵語中文 
+edit link 
+
+
+
+
+
+ thi page wa last edit on 17 septemb 2017, at 20:37.
+text is avail under the creativ common attribut-sharealik licens;
+addit term mai appli.  by us thi site, you agre to the term of us and privaci polici. wikipedia® is a regist trademark of the wikimedia foundat, inc., a non-profit organ.
+
+
+privaci polici
+about wikipedia
+disclaim
+contact wikipedia
+develop
+cooki statement
+mobil view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputim":"1.428","walltim":"1.685","ppvisitednod":{"valu":13729,"limit":1000000},"ppgeneratednod":{"valu":0,"limit":1500000},"postexpandincludes":{"valu":411869,"limit":2097152},"templatearguments":{"valu":79944,"limit":2097152},"expansiondepth":{"valu":23,"limit":40},"expensivefunctioncount":{"valu":11,"limit":500},"entityaccesscount":{"valu":1,"limit":400},"timingprofil":["100.00% 1346.621      1 -total"," 39.04%  525.767      2 templat:reflist"," 24.50%  329.983     85 templat:cite_web"," 15.33%  206.452      1 templat:infobox_settlement"," 12.01%  161.674      1 templat:infobox","  7.09%   95.518      1 templat:norfolk,_virginia_weatherbox","  6.81%   91.713      1 templat:weather_box","  5.95%   80.156      5 templat:fix","  4.50%   60.608      2 templat:us_censu_popul","  4.48%   60.292     26 templat:convert"]},"scribunto":{"limitreport-timeusag":{"valu":"0.622","limit":"10.000"},"limitreport-memusag":{"valu":12524264,"limit":52428800}},"cachereport":{"origin":"mw1247","timestamp":"20171015093901","ttl":1900800,"transientcont":fals}}});});(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetim":1794,"wghostnam":"mw1247"});});
+
+

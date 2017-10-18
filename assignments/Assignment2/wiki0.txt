@@ -1,0 +1,1530 @@
+
+
+
+Pocahontas (1995 film) - Wikipedia
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Pocahontas_(1995_film)","wgTitle":"Pocahontas (1995 film)","wgCurRevisionId":805049734,"wgRevisionId":805049734,"wgArticleId":399433,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Unfit url","1995 films","English-language films","Disney's Pocahontas","1990s American animated films","1990s historical films","1990s musical films","1990s romantic drama films","American animated films","American children's animated films","American children's drama films","American comedy-drama films","American historical films","American musical drama films","American romantic drama films","American romantic musical films","American films","Animated cartoons based on real people","Animated drama films","Animated musical films","Animated romance films","Best Animated Feature Annie Award winners","Disney Renaissance","Film scores by Alan Menken","Films about interracial romance","Films about Native Americans","Films about race and ethnicity","Films about racism","Films featuring anthropomorphic characters","Films set in the 1600s","Films set in the Powhatan Confederacy","Films set in the Thirteen Colonies","Films set in Virginia","Films that won the Best Original Song Academy Award","Films that won the Best Original Score Academy Award","Walt Disney Animation Studios films","Walt Disney Pictures films"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Pocahontas_(1995_film)","wgRelevantArticleId":399433,"wgRequestId":"WePWsgpAMFIAAG1kKI4AAABQ","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q218894","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Pocahontas (1995 film)
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+Pocahontas
+
+
+
+Theatrical release poster
+
+
+
+Directed by
+Mike Gabriel
+Eric Goldberg
+
+
+Produced by
+Jim Pentecost
+
+
+Written by
+Carl Binder
+Susannah Grant
+Philip LaZebnik
+
+
+Story by
+Glen Keane
+Joe Grant
+Ralph Zondag
+Burny Mattinson
+Ed Gombert
+Kaan Kalyon
+Francis Glebas
+Robert Gibbs
+Bruce Morris
+Todd Kurosawa
+Duncan Marjoribanks
+Chris Buck
+
+
+Based on
+Pocahontas
+by Mike Gabriel
+
+
+Starring
+
+
+
+Irene Bedard
+Judy Kuhn
+Mel Gibson
+David Ogden Stiers
+John Kassir
+Russell Means
+Christian Bale
+Linda Hunt
+Danny Mann
+Billy Connolly
+Joe Baker
+Frank Welker
+Michelle St. John
+James Apaumut Fall
+Gordon Tootoosis
+
+
+
+
+
+Music by
+Alan Menken
+
+
+Edited by
+H. Lee Peterson
+
+
+
+Production
+company
+
+
+Walt Disney Pictures
+Walt Disney Feature Animation
+
+
+
+Distributed by
+Buena Vista Pictures
+
+
+
+Release date
+
+
+
+
+June 23, 1995 (1995-06-23)
+
+
+
+
+
+
+
+
+
+
+Running time
+
+82 minutes
+
+
+Country
+United States
+
+
+Language
+English
+
+
+Budget
+$55 million
+
+
+Box office
+$346.1 million[1]
+
+
+Pocahontas is a 1995 American animated musical romantic-comedy-drama film produced by Walt Disney Feature Animation for Walt Disney Pictures. The 33rd Disney animated feature film, the film is part of the era known as the Disney Renaissance which lasted from 1989 to 1999. Directed by Mike Gabriel and Eric Goldberg, the film is inspired by the known history and folklore surrounding the Native American woman Pocahontas and portrays a fictionalized account of her historical encounter with Englishman John Smith and the Jamestown settlers that arrived from the Virginia Company. The voice cast features Irene Bedard, Mel Gibson, David Ogden Stiers, Russell Means, Christian Bale, Billy Connolly, and Linda Hunt. The musical score was written by Alan Menken, with songs written by Menken and lyricist Stephen Schwartz.
+Pocahontas was released on June 23, 1995 to a mixed reaction from critics, who praised its animation and music but criticized its story and historical inaccuracy. Nevertheless, the film was a commercial success, grossing $346 million at the worldwide box office. Pocahontas received two Academy Awards for Best Musical or Comedy Score for Menken's score and Best Original Song for "Colors of the Wind". A video game based on the film was released across various platforms shortly after the film's theatrical release, and the film itself was followed by a direct-to-video sequel, entitled Pocahontas II: Journey to a New World, released on August 25, 1998.
+
+
+
+Contents
+
+
+1 Plot
+2 Cast
+3 Production
+
+3.1 Development
+3.2 Writing
+3.3 Casting
+3.4 Design and animation
+
+
+4 Music
+5 Release
+
+5.1 Marketing
+5.2 Box office
+5.3 Home media
+
+
+6 Reception
+
+6.1 Critical response
+6.2 Accolades
+6.3 Historical accuracy
+
+
+7 Video game
+8 References
+9 Bibliography
+10 External links
+
+
+
+Plot[edit]
+In 1607, the Susan Constant sails to the New World from London, carrying English settlers from the Virginia Company. On board are Captain John Smith and the voyage's leader Governor Ratcliffe, who seeks gold to bring him wealth and status. Along the way, the Susan Constant is caught in a North Atlantic storm, and Smith saves a young, inexperienced crewmate named Thomas from drowning. As they approach the New World, the settlers (including Smith) talk of adventure, finding gold, fighting 'Injuns', and perhaps settling in the new land.
+In the Powhatan tribe in Tsenacommacah, North America, Pocahontas, the daughter of Chief Powhatan, fears being possibly wed to Kocoum, a brave warrior whom she sees as too serious for her own free-spirited personality. Powhatan gives Pocahontas her mother's necklace as a present. Pocahontas, along with her friends, the raccoon Meeko and hummingbird Flit, visit Grandmother Willow, a spiritual talking willow tree, and speaks of a dream involving a spinning arrow, and her confusion regarding what her path in life should be. Grandmother Willow then alerts Pocahontas to the arriving English.
+Ratcliffe has Jamestown built in a wooded clearing and immediately has the crewmen dig for gold. Smith departs to explore the wilderness and encounters Pocahontas. They quickly bond, fascinated by each other's worlds and end up falling in love, despite Powhatan's orders to keep away from the English after Kocoum and other warriors engage them in a fight. Meanwhile, Meeko meets Percy, Ratcliffe's dog, and becomes the bane of his existence. Pocahontas introduces Smith to Grandmother Willow and avoids two other crewmen, but Pocahontas's best friend Nakoma discovers her relationship with Smith and warns Kocoum. Ratcliffe also learns of Smith's encounters and angrily warns Smith against sparing any natives he comes across on pain of death.
+Later, Smith and Pocahontas meet with Grandmother Willow and plan to bring peace between the colonists and the tribe. Smith and Pocahontas share a kiss, while Kocoum and Thomas (sent by Ratcliffe to spy on Smith) witness from afar. Enraged, Kocoum attacks and attempts to kill Smith, but Thomas intervenes with his musket and kills Kocoum, who destroys Pocahontas' necklace in the process. Smith commands Thomas to leave just before the tribesmen come and capture Smith while Kocoum's body is taken away. Enraged, Powhatan declares war on the English, beginning with Smith's execution at sunrise. Pocahontas tries to convince her father otherwise, but the chief refuses to listen, as he is very angry with Pocahontas for disobeying his orders to remain in the village.
+Thomas reaches Jamestown safely at night and warns the crewmen of Smith's capture; after hearing this Ratcliffe rallies his men to battle, using this as an excuse to annihilate the tribe and find their non-existent gold. That same night, Powhatan also orders his men to prepare for battle; they are seen putting on war paint and preparing their weapons. A desperate Pocahontas visits Grandmother Willow, where Meeko hands her Smith's compass. Pocahontas realizes Smith's compass was the spinning arrow from her real life encounter, which leads her to her destiny.
+Just then morning comes, and Powhatan and his tribe forcibly bring Smith to a cliff overlooking a clearing for execution; right at the same time, Ratcliffe leads the armed colonists to the cliff to fight Powhatan's warriors. Just as Powhatan is about to kill Smith, Pocahontas stops him and convinces her father to end the fighting between the two groups. Both parties accept gracefully, except Ratcliffe, who tries to kill Chief Powhatan in anger, but wounds Smith instead when he protects the chief. Ratcliffe is then arrested by his crewmen, who turn on him for hurting their comrade. In the end, Smith is forced to return home to receive medical treatment, while Ratcliffe is also sent back to England to face justice for his crimes. Smith asks Pocahontas to come with him, but she chooses to stay with her tribe. Meeko and Percy, now friends, give Pocahontas her mother's necklace completely fixed. Smith leaves without Pocahontas but with Powhatan's blessing to return in the future.
+Cast[edit]
+
+Irene Bedard as Pocahontas, the daughter of Chief Powhatan. She is an adventurous woman who violates her father's strict prohibition of meeting white people and falls in love with Captain John Smith. Glen Keane served as the supervising animator for Pocahontas.
+
+
+
+
+Judy Kuhn as singing voice of Pocahontas
+
+
+
+
+Mel Gibson as John Smith, the love interest of Pocahontas. He is the only settler in Jamestown willing to befriend the natives due to his love for Pocahontas and acceptance of other cultures. John Pomeroy served as the supervising animator for John Smith.
+David Ogden Stiers as Governor Ratcliffe, the greedy and ruthlessly ambitious governor who leads an expedition to Virginia to find gold and other riches (which he wants to keep for himself). Unlike other Disney villains, he is based upon a combination of real-life historical figures. Duncan Marjoribanks served as the supervising animator for Ratcliffe.
+
+Stiers also provided the voice of Wiggins, Ratcliffe's manservant. Chris Buck served as the supervising animator for Wiggins.
+
+
+John Kassir as Meeko, Pocahontas's pet raccoon who is friendly to John Smith and loves eating. Nik Ranieri served as the supervising animator for Meeko.
+Russell Means as Chief Powhatan, Pocahontas's father and chief of the Powhatan. Ruben A. Aquino served as the supervising animator for Powhatan.
+
+
+
+
+Jim Cummings as singing voice of Chief Powhatan
+
+
+
+
+Christian Bale as Thomas, a loyal friend of John Smith. Ken Duncan served as the supervising animator for Thomas.
+Linda Hunt as Grandmother Willow, a speaking willow tree that acts as Pocahontas's guide. Chris Buck served as the supervising animator for Grandmother Willow.
+Danny Mann as Percy, Governor Ratcliffe's pet pug. Chris Buck served as the supervising animator for Percy.
+Billy Connolly and Joe Baker as Ben and Lon, two of the settlers. T. Daniel Hofstedt served as the supervising animator for both characters.
+Frank Welker as Flit, Pocahontas's pet hummingbird who prefers Kocoum over John Smith but eventually warms up to him. David Pruiksma served as the supervising animator for Flit.
+Michelle St. John as Nakoma, Pocahontas's friend who secretly adores Kocoum. Anthony DeRosa served as the supervising animator for Nakoma.
+James Apaumut Fall as Kocoum, a handsome, strong and brave but stern and aggressive Powhatan warrior who was asked to marry Pocahontas (for whom he cares). He is shot and killed by Thomas while trying to kill John Smith after he sees them kiss. Michael Cedeno served as the supervising animator for Kocoum.
+Gordon Tootoosis as Kekata, the shaman of the Powhatan.
+
+
+
+
+Jim Cummings as singing voice of Kekata
+
+
+
+Three actors in the film have been involved in other Pocahontas-related projects. Gordon Tootoosis, who voiced Kekata the shaman, acted as Chief Powhatan in Pocahontas: The Legend, released the same year as this film. Christian Bale, who voiced Thomas, and Irene Bedard, who provided Pocahontas's speaking voice, would ten years later portray John Rolfe and Pocahontas's mother respectively in The New World.
+Production[edit]
+Development[edit]
+Following the release of The Rescuers Down Under, director Mike Gabriel was eager to collaborate on a vastly different follow-up project with veteran Disney story artist and character designer Joe Grant. During Thanksgiving weekend in 1990, Gabriel developed ideas of classic western legends such as Annie Oakley, Buffalo Bill, and Pecos Bill to adapt until he conceptualized the tale of Pocahontas.[2] Pitching his idea at the Gong Show pitch meeting, Gabriel took a one-sheet color image of Tiger Lily from Peter Pan and wrote the title Walt Disney's Pocahontas on it, and on the back, he taped a one-sentence pitch of "an Indian princess who is torn between her father's wishes to destroy the English settlers and her wishes to help them — a girl caught between her father and her people, and her love for the enemy."[3] At the time, Feature Animation president Peter Schneider had been developing an animated version of Romeo and Juliet for many years and Gabriel's timely pitch had many of the same elements. "We were particularly interested in exploring the theme of 'If we don't learn to live with one another, we will destroy ourselves,'" recalled Schneider.[4][2] Gabriel's pitch was quickly accepted becoming the quickest story turnaround in studio history.[5]
+Following the Best Picture nomination of Beauty and the Beast at the 64th Academy Awards and its subsequent loss in March 1992, then-studio chairman Jeffrey Katzenberg opted to produce another animated sweeping romantic epic in hopes of replicating another Best Picture nomination. With Aladdin and The Lion King too far into development, Katzenberg believed that Pocahontas had a chance, and pushed for the title protagonist to be older, the romance between Pocahontas and Smith to be more adult, and for the animals to be mute.[6] Head of Story Tom Sito went on the record stating he wanted to include more and broader jokes, but the "higher-ups wanted it more winsome, more gentle. Some of the folks were so concerned about political correctness, they didn't want to be cuckoo-wacky about it."[7] Likewise, Eric Goldberg – following his work on Aladdin as the supervising animator for the Genie and with all of the animation units for The Lion King already occupied – was asked to co-direct Pocahontas with Gabriel, in which he agreed to and was given a pitch of the film.[8][9] Goldberg had expected the film to be more comedic and cartoonish like Aladdin, but Schneider told Goldberg that the film would be produced in the vein of Beauty and the Beast,[10] and the ongoing Los Angeles riots in 1992 further inspired him to commit to the film because of its racial overtones.[11] The executive interference would eventually grow too much that Goldberg himself worked under the pseudonym "Claude Raynes" for Chuck Jones Productions during production.[10] Executive paranoia reached a peak when Joe Grant had drawn Percy wearing an Indian feather, by which the animators took the concept one step further by placing a Spanish ruff on Meeko. One executive exclaimed, "Animals don't have the intelligence to switch their clothes! They don't even have opposing thumbs." The animators would retain their concept for the film.[12]
+Under Katzenberg, Frank Wells, and Michael Eisner, the Disney studios began a correlation of hiring Broadway personnel to manage the Disney animation staff on their feature films that brought such producers as Amy Pell to Aladdin and Sarah McArthur and Thomas Schumacher to The Lion King.[13] For Pocahontas, Broadway stage manager, director, and producer James Pentecost was brought onboard where he made his feature film debut as producer.[14] In June 1992, the filmmakers embarked on a research trip to the Jamestown Settlement where Pentecost first met Shirley "Little Dove" Custalow-McGowan and Debbie "White Dove" Custalow, both descendants of the Powhatan Indians. The trip also included a visit to the Pamunkey Indian Reservation, and conducted interviews with historians at Old Dominion University.[15] Following the research trip, Custalow-McGowan served as a consultant traveling to the Disney studios three times, and while Custalow-McGowan offered her services free, Disney paid her a $500 daily consulting fee plus expenses.[16] Ultimately, when it came to light that historical accuracy was not being pursued to the extent she had hoped, McGowan has voiced her feelings of shame she felt in conjunction with her work on the film, saying, "[she] wish[ed her] name wasn't on it".[17] Additional Native American consultants were brought in to authenticate the clothing and war dance choreography.[18]
+That same month, Katzenberg held a meeting with the Feature Animation staff in which he declared Pocahontas to be a hit, while the concept for The Lion King was deemed experimental.[19] As a result, most of the animators of Walt Disney Feature Animation decided to work on Pocahontas instead, believing it would be the more prestigious and successful of the two.[20]
+Writing[edit]
+In January 1993, Carl Binder joined the project,[21] having previous expertise as a television writer on popular sitcoms such as Punky Brewster and television series such as War of the Worlds, Friday the 13th: The Series, and Top Cops.[22] Four months later, Susannah Grant (no relation to Joe Grant) and Philip LaZebnik joined the writing team. Grant herself was selected by Disney as a screenwriter on Pocahontas after winning the Nicholl Fellowships in Screenwriting awarded by the Academy of Motion Picture Arts and Sciences the year before while still attending film school.[23] Onboard as a screenwriter, she was only one of the many who was contributing the specific vision the upper management at Disney had in mind, and collaborated with Native American consultants. While working on the movie, Grant wrote to a specific story outline, and no scene was rewritten less than thirty-five times until it was perfect.[24]
+Story supervisor Tom Sito, who became the project's unofficial historical consultant, did extensive research into the early colonial era and the story of John Smith and Pocahontas, and was confronted over the historical inaccuracies from historians.[25] Already knowing that in reality Pocahontas married John Rolfe, Mike Gabriel explained it was felt that "the story of Pocahontas and Rolfe was too complicated and violent for a youthful audience" so instead, they would focus on Pocahontas's meeting with John Smith.[26] The filmmakers discovered that Pocahontas was around twelve years old and Smith was "not a very likeable character", and producer James Pentecost confessed that dramatic license was indeed to be taken.[27] Likewise, when searching for an appropriate age for Pocahontas to begin her relationship with Smith, Glen Keane explained, "We had the choice of being historically accurate or socially responsible, so we chose the socially responsible side" by increasing Pocahontas's age from a girl into a young woman.[28]
+One of Gabriel's early ideas was for Pocahontas's mother to be embodied in a certain star in the sky that by the end of the film, she would help Pocahontas find her path to Smith.[29] However, The Lion King had concurrently carried a similar idea of the ancestors giving wisdom and guidance to the protagonist so the idea was discarded.[11] Michael Eisner pushed for Pocahontas to have a mother, lamenting that "We're always getting fried for having no mothers." The writers countered that Powhatan was polygamous and formed dynastic alliances among other neighboring tribes by impregnating a local squaw and giving away the child, so it was believed that Pocahontas herself probably didn't see her mother that much.[30] "Well", Eisner conceded, "I guess that means we're toasted."[7] Ultimately, her mother's spirit would become the swirling wind that occurs throughout the film.[29] For the villain, they chose John Ratcliffe, whose portrayal was based on actual English captains, including John Martin, Christopher Newport and Edward Maria Wingfield. In reality, it was Wingfield who despised John Smith, but the filmmakers preferred the sinister sound of "Ratcliffe".[31] The writers would continue to adapt actual events into the film such as Pocahontas warning Smith that the Indians were after him so he could escape in the middle of the night, Powhatan ordering the captured Smith to make bead necklaces to humiliate him, and Pocahontas being captured by Ratcliffe (instead of Samuel Argall), though none of them worked with the story.[7]
+Sito mentioned that Joe Grant contributed heavily towards the film,[32] as he was the creator of Redfeather, Meeko, and Flit.[33] Redfeather was a wise-cracking turkey planning to be voiced by John Candy, and Percy, who was to be voiced by Richard E. Grant, was revised to become mute.[34] Following the death of John Candy in March 1994, co-screenwriter Susannah Grant decided the turkey was inappropriate for the script she co-wrote for Pocahontas,[35] and a more realistic approach would have the animals pantomime instead of talking.[7] Joe Grant stated Redfeather "had comic potential–he thought he was handsome, a lady's man. When we decided he couldn't talk, and, having no hands, he couldn't mime..." Grant would later draw a concept sketch of a hair-braiding raccoon, in which Glen Keane animated and claimed the directors "loved the idea and got rid of the turkey character."[36] Likewise, according to Sito, Meeko was created because they were "naturally enigmatic, because they have little hands and a little mask over their face like a thief."[37] Gabriel described the inspiration for Flit the hummingbird where "I have hummingbirds all over my backyard, [and] I thought, 'That's a great animal to animate.'"[38] According to the directors, Governor Ratcliffe's pampered pet, Percy, was based on history as the royalty of the time often carried small pugs wherever they went.[38]
+For the spiritual ancestor, a male character named Old Man River was originally envisioned, and Gregory Peck was cast in the role. However, Peck realized the character ought to be a maternal figure and reluctantly turned down the role.[39] Conceived as a Tree of Life whose seasonal changes would frame the story,[40] Grandmother Willow grew out of a concept sketch of a sawed-off tree with a branch pointing to its right drawn by Grant,[41] which would serve as a narrator that would "remember back to Pocahontas 300 years earlier".[40] Grant would continue to protest to have the tree be more a character within the story, and her character flowered into the idea of a grandmotherly spiritual adviser to Pocahontas.[40] Because of Katzenberg's opposition to having Grandmother Willow in the story, Grant assisted fellow veteran story artist Burny Mattinson with coming up tree puns such as "My bark is worse than my bite", "The roots of all problems", and "They're barking up the wrong tree." Mattinson reluctantly added them to his pitch for the next morning, and during the story meeting, he exclaimed, "Everybody loved it! All of a sudden: 'Oh, I want her in!' 'Let's build her part bigger!'"[42] The character Nakoma was also created to serve as the voice of reason and the practical woman.[37]
+Casting[edit]
+Throughout most of the production, the cast members performed their dialogue in separate recording sessions.[43][44]
+In September 1992, Disney began casting actors for Pocahontas telling talent agents that they were particularly interested in Native American actors for the project.[45] For the role of Pocahontas, Broadway actress-singer Judy Kuhn was hired to provide the singing voice for the eponymous character before Irene Bedard was cast. Kuhn explained, "They said, 'You are going to do the dialogue unless we find a Native American actress whose singing voice matched yours.' I was cast before Irene, so it actually went backwards."[46] Bedard herself was filming Lakota Woman: Siege at Wounded Knee where she was informed by the casting director that they were looking for someone to voice the title role. According to Bedard, she took a train to Buffalo, New York where she was walked in wearing a sundress and a straw hat, and read for the part. Back on the set of Lakota Woman, she learned that she was cast in the role.[47] Michelle St. John had also auditioned for the role of Pocahontas, and was given the role of Nakoma after Bedard was cast.[11]
+Mel Gibson was cast as English settler John Smith following a desire to make "something for my kids."[48] In a notable contrast to previous voice actors for Disney animated features, Gibson provided the singing voice for his character,[49] which the actor has described as the most difficult part of his role.[48] Christian Bale auditioned for the role of Thomas. As he explained in an interview with Disney Adventures, "the directors played with Thomas being Irish and Scottish and younger than I am, so I had to raise my voice and do different accents. But the more we did it, the more he became like me--older and English."[38] Richard White, the voice of Gaston in Beauty and the Beast was supposed to voice Ratcliffe, but the crew was worried he might sound too much like Gaston, so he was replaced by his co-star David Ogden Stiers.[50] Russell Means was cast as Chief Powhatan, though he expressed displeasure with the script in that Native Americans addressed each other using proper names rather than the traditional "my father" or "my friend".[51] Indigenous Canadian First Nation actor Gordon Tootoosis was also cast as the tribal shaman Nekata.[52]
+Design and animation[edit]
+
+
+
+
+The portrait engraving by Simon de Passe served as one of the many inspirations for the look of Pocahontas.
+
+
+Renowned for animating female characters such as Ariel, supervising animator Glen Keane was immediately tapped to draw the titular Indian princess.[53] Following the demands of Jeffrey Katzenberg to make the title character "the most idealized and finest woman ever made", Keane first began to sought his inspirations for his depictions for Pocahontas from Shirley 'Little Dove' Custalow-McGowan and Debbie White Dove, women he had met during the research trip to Virginia.[54] Keane recalled meeting the women:
+
+So I turned around and there's this beautiful Indian woman walking up; a Native American. She said 'Are you Glen Keane? The animator that's going to do Pocahontas?' I said 'Well, yeah.' And then from behind another tree another woman came up and she said, 'Well, my name is Shirley Little Dove, and this is my sister Devi White Dove, and we are descended from Pocahontas.' And as they stood there, I mean I took a picture of both of them, and between their faces was Pocahontas' face in my mind – I could see her.[55]
+
+Other inspirations were Charmaine Craig, Filipino model Dyna Taylor, Christy Turlington, Natalie Belcon, Naomi Campbell, Jamie Pillow, white supermodel Kate Moss, and her own voice actress Irene Bedard.[56][57][58][59] Keane also looked to a 1620 depiction of Pocahontas from a history book he had checked out, though Keane would state she was "not exactly a candidate for People's "Most Beautiful" issue [so] I made a few adjustments to add an Asian feeling to her face."[48] Because of the complexity of the color schemes, shapes, and expressions in the animation, a total of 55 animators worked on the design of Pocahontas' character alone,[60] which included Mark Henn[61] and Pres Romanillos.[62]
+Following the closure of Sullivan-Bluth Studios in 1993, John Pomeroy, who notoriously resigned alongside Don Bluth during work on The Fox and the Hound in 1979,[63] returned to his former employer, and was assigned as the supervising animator of John Smith.[64] Describing Smith's development throughout production, Pomeroy stated, "The first concepts looked like a real well-groomed adventurer. Kind of predictable. Then we started making him a little sloppier. We tried looks where he was sloppily dressed, or where he had a couple of days' growth of beard...At first, Smith carried a lot of guns and daggers, but eventually these were cut out. Each time the design got simpler, it got better."[38] Additionally, Pomeroy cited inspiration for John Smith from Errol Flynn and physical attributes of Gibson.[65]
+Initially assigned as a supervising animator on The Lion King, Nik Ranieri did character designs and test animation for Timon, but moved over to Pocahontas growing frustrated with an indecisive vision from the directors. There, he was assigned to animate Redfeather until Jeffrey Katzenberg ordered for the animals to be mute. Finding feathers difficult for Redfeather to gesture with, he was again assigned to animate Meeko using a Little Golden Books animal book illustrated by Alice and Martin Provensen as reference.[66] Duncan Marjoribanks utilized geometric shapes to create Ratcliffe. In early drafts of the character, he had the body similar to a pear, but to make him appear more arrogant, the animator increased the force of gravity on his chest so that he seemed more pompous and physically threatening.[67] Chris Buck served as the supervising animator for Percy, Wiggins, and Grandmother Willow. For Grandmother Willow, the face was traditionally animated by Buck, while the cowl and the trunk of the tree was digitally animated under the supervision of Steve Goldberg. Assisted with the effect animators, a 3D software program was employed for the bark to be individually manipulated and for the face to match with the computer-generated texture.[2] The following supervising animators included Anthony DeRosa for Nakoma, Michael Cedeno for Kocoum, Ken Duncan for Thomas, T. Daniel Hofstedt for the settlers Lon and Ben, and Dave Pruiksma for Flit.[68] While Mulan was within its pre-production stages, 18 minutes were animated by 170 animators and artists at the Disney-MGM Studios.[69]
+For the film's art director, Gabriel selected Michael Giamio who shared his painting style of shape-based and secondary art details.[70] For Giaimo, he relied on a color-saturated, elegant designs in a less-than-realistic format inspired by "prehistory Caribbean themes and creatures derived from African/Mexican folk art."[70] Giamio also drew the look and style of the film from the filmmaker's numerous visits to Jamestown, Virginia as well as by extensive research into the colonial period such as the tall, vertical shapes of the Virginian pine forests set against the vast horizontal landscapes being incorporated into the layout aspect of the film in its use of strong vertical and horizontal imagery,[14] as well as sought out inspiration from the works produced by earlier Disney art designers such as Richard Kelsey's story sketches from his unproduced film Hiawatha,[71] Eyvind Earle, who worked on Sleeping Beauty,[72] and Mary Blair.[73]
+Music[edit]
+Main article: Pocahontas (soundtrack)
+Howard Ashman and Alan Menken were planning to write songs for this film once they were finished working on Aladdin, but Ashman died in 1991. Following the death of his longtime collaborator, Menken wrote the remaining songs for Aladdin with Tim Rice at his home in London, which the New York-based composer found to be difficult.[74] When work on Aladdin was commenced, Menken was planning to write songs for the film with Rice. But Kevin Bannerman – the film's director of development – stated Rice "was always gallivanting around the world and it was difficult to get him and Alan together ... And so here was Stephen [Schwartz], who had written scores that we all loved and we were huge fans of, and he lived in the New York area." Disney immediately contacted Stephen Schwartz, who, after working on Working, Rags, and Children of Eden, had quit theater and was taking psychology courses at New York University; he was brought on board to write the lyrics.[75][76] This would mark the first time Menken had collaborated without Ashman for a Disney animated film.[77] Menken commented that their work included moments of tension because Schwartz was also capable of writing music and Menken had had experience with lyrics. Both wanted to use the keyboard, but they arrived at a working strategy.[78]
+Due to corporate interest in the film surrounding its theme of promoting understanding between different groups, and its inclusion of violence and threats of greater conflict along with the romance of Pocahontas and John Smith, Schwartz became heavily involved in the storytelling. Bannerman estimated that he spent a week with one of the screenwriters and helped work out the overall themes of tolerance and cooperation.[79] In June 1992, Schwartz researched Jamestown, Virginia where he absorbed the atmosphere and bought tapes of Native American music and English sea shanties and other music from the early seventeenth century that helped inspire numbers in the film.[80] Schwartz modeled his lyrical writing for people of other ethnicities on that of Oscar Hammerstein II and Sheldon Harnick.[81] "Colors of the Wind" was the first song to be written for the film. Gabriel, Goldberg, and Pentecost insisted that the song help define the film's "heart and soul".[11] Schwartz began "Colors" with a few draft ideas for lyrics taking inspiration from Chief Seattle's letter to the United States Congress.[82] Then, Menken wrote the melody with Schwartz listening at the piano and making suggestions. Schwartz would add lyrics before a session together where they were refined.[83] "Just Around the Riverbend", also composed by Menken and Schwartz, was devised by Schwartz's wife Carole, with the idea that Pocahontas would have a recurring dream that suggested something coming her way, paving the way for her "I want" song.[84] The song almost did not make it into the completed film when Disney executives doubted whether her song would have the kind of impact they wanted at that point. However, Schwartz stated he and Menken "believed in it very strongly. Indeed, at one point we wrote a different song for that spot, but Alan and I were never as happy with the second song and ultimately everybody at Disney came to feel that way, too."[85]
+The filmmakers had planned for a song for when Pocahontas and Smith met in the glade, just before Kocoum attacks his rival and one of the settlers stalking Smith kills Kocoum. There were an estimated three to four songs at this point, including "In the Middle of the River",[86] "Powerful Magic", which was deemed too silly to have a cheerful song before Kocoum's death, and "First to Dance" was another attempt at a happy song.[87] The love song, titled "If I Never Knew You", had been finished by the animators, but following a test screening where younger audiences were not interested and the teenagers felt giddy, Menken was the first to suggest the song be removed from the film, although its melody remained in the orchestral underscoring.[88] For its 2005 DVD release, the song was restored back to the film.
+The musical score by Alan Menken, with lyrics by Stephen Schwartz, received two Academy Awards, including one for the song "Colors of the Wind".[89] The film's soundtrack was also successful, reaching number-one on the Billboard 200 during the week of July 22, 1995.[90] It ended up with a triple platinum certification.[91] "Colors of the Wind" was also sung by Tori Kelly in 2015 in the album "We Love Disney".
+Release[edit]
+Marketing[edit]
+
+
+
+
+Pocahontas playing at the El Capitan Theatre in Los Angeles, California.
+
+
+To replicate the promotional buzz of The Lion King, the four-minute musical number, "Colors of the Wind", was released in November 1994, accompanying a theatrical re-release of The Lion King.[92] On February 3, 1995, Disney began its promotional marketing campaign starting in San Diego, California launching a nationwide 18-week tour of fashion malls located within twenty-five cities where a mall exhibit named Pocahontas Animation Discovery Adventure was created to help promote the release.[93][94] There, a Disney animator would guide shoppers on a presentation tour, which featured a walk-through maze with interactive lily pads, flying birds, and huge video wall, a studio workshop where visitors can become the voice of their favorite animated character, and an area where visitors can electronically manipulate images. Additionally, they would demonstrate animation techniques and discuss the design and creation of the Pocahontas character.[95] Further promotional tie-ins included Burger King distributed 55 million toy replicas of the film's characters with kids' meals, Payless Shoes featured a line of moccasins, and Mattel peddled a Barbie-like Pocahontas doll.[93]
+A behind-the-scenes documentary television special titled The Making of Pocahontas: A Legend Comes to Life was aired on June 20, 1995, on the Disney Channel where the animators, voice cast, crew, and studio heads were interviewed on the production of the film. The special was hosted by actress Irene Bedard.[96]
+The film had the largest premiere in history, on June 10, 1995, in New York's Central Park, followed by a live performance by Vanessa Williams.[97] Disney officials estimated the crowd at 100,000.[97] Dignitaries that attended the premiere included then-New York Mayor Rudy Giuliani, Caroline Kennedy, Mariah Carey and then-Disney Chief Executive Officer Michael Eisner.[97]
+Box office[edit]
+Timed with Pocahontas' 400th birthday,[2] Pocahontas had a limited release in North America on June 16, 1995, playing in only six selected theaters.[98] The film grossed nearly $2.7 million during the weekend of June 16–18, standing at the eighth place in the box office ranking.[99] The wide release followed on June 24, 1995, in 2,596 screens. Studio estimates initially ranked Pocahontas earning $30.5 million ranking first beating out the previous box office champion Batman Forever.[100] The figure was later revised to $28.8 million with Pocahontas falling second behind Batman Forever.[101] However, the final estimates placed Pocahontas narrowly ranking first grossing $29.5 million in its first weekend with Batman Forever falling into second place taking $29.2 million.[102] By January 1996, the film grossed $141.5 million in the United States,[103] being the fourth-highest-grossing film in North America behind Apollo 13, Toy Story, and Batman Forever respectively.[104] Foreign wise, the film was expected to gross $225 million outside the United States,[105] though foreign box office grosses eventually amounted to $204,500,000.[1] Cumulatively, Pocahontas grossed $346,079,773 worldwide.[1] Seen as a commercial box office disappointment in comparison to The Lion King,[106] then-Disney CEO Michael Eisner contested in an annual shareholders' meeting in January 1996 that "Pocahontas is well on its way to being one of our most successful films of all time. It equalled [sic] Beauty and the Beast's box office numbers domestically, and now it has taken Europe by storm and is playing well in every country in which it is being shown. Sales of Pocahontas merchandise have been phenomenal."[107]
+Home media[edit]
+At first announced to be released on March 6, 1996,[108] Pocahontas was first released on VHS and laserdisc in the United States on February 28, 1996, under the "Masterpiece Collection" lineup. Some prototype copies of the VHS release used the 1989 Walt Disney Classics logo, while copies produced from February 28, 1996, onwards used the standard Masterpiece Collection logo. A deluxe VHS edition included the film and a documentary on the making of the film alongside a special edition of The Art of Pocahontas book and Disney-certified lithograph prints.[109] Released on November 13, 1996, the CAV laserdisc Deluxe Edition contained the film, a historical documentary on Pocahontas, and The Making of Pocahontas, along with added storyboards, character design artwork, concept art, rough animation, publicity and promotional trailers, the deleted "If I Never Knew You" musical sequence, and an audio commentary on a total of four double sided discs. The release was also accompanied with a Special Edition of the Art of Pocahontas book.[110] Disney initially shipped 17 million VHS copies to retail stores,[111] with nine million copies sold within its first weekend exceeding the VHS sales of Cinderella released in the previous fall but falling short of the retail sales of The Lion King.[112] By the summer of 1998, sales and rentals of the VHS release had accumulated to $200 million.[113]
+In January 2000, Walt Disney Home Video launched the Gold Classic Collection, with Pocahontas re-issued on VHS and DVD on June 6, 2000.[114] The DVD contained the film in its 1.66:1 aspect ratio enhanced with 5.1 surround sound, and was accompanied with special features including two music videos, a trivia game, the theatrical trailer, and a "Fun with Nature" activity booklet.[115] In 2005, a 10th Anniversary 2-disc Special Edition DVD set was released, which featured a new extended cut of the film (adding two performances of "If I Never Knew You") and numerous bonus features.
+Walt Disney Studios Home Entertainment released Pocahontas, alongside its sequel Pocahontas II: Journey to a New World, on Blu-ray Disc as a 2-Movie Collection on August 21, 2012.[116] In a number of countries, however, both Pocahontas and its sequel were released individually to the format. The Blu-ray was first released in Australia in February 2012 and followed by a May 30 European release and an August 21 American release. The American release is packaged for 2-disc DVD[117] (one film per disc) and 3-disc Blu-ray combo pack, featuring both films on one Blu-ray in addition to the two individual DVDs.[118] The Blu-ray did not retain the inclusion of "If I Never Knew You" through seamless integration, however, only the special features.
+Pocahontas was re-released yet again in 2016 as a Blu-Ray, DVD and Digital HD combo pack, available exclusively through the Disney Movie Club.[119] It featured brand-new cover art, and, for the first time, a digital copy download of the film alongside the physical release.
+In September of 2017, Pocahontas became available for online streaming on Netflix.[120]
+Reception[edit]
+Critical response[edit]
+Pocahontas received generally mixed reviews from film critics.[101] The review aggregation website Rotten Tomatoes reports that 56% of critics gave the film a positive review based on 52 reviews, with an average score of 6/10. The site's consensus states "Pocahontas means well, and has moments of startling beauty, but it's largely a bland, uninspired effort, with uneven plotting and an unfortunate lack of fun."[121] Metacritic, which assigns a normalized rating out of 100 from top reviews from mainstream critics, calculated a score of 58 based on 23 reviews, indicating "mixed or average reviews."[122]
+Roger Ebert, writing for the Chicago Sun-Times, gave the film 3 out of 4 stars writing the film was "the best-looking of the modern Disney animated features, and one of the more thoughtful" though in his print review, he was more critical of the story and portrayal of the villain ultimately summarizing that "on a list including Mermaid, Beauty, Aladdin and Lion King, I'd rank it fifth. It has a lot of good intentions, but a severe scoundrel shortage."[123] On the television program Siskel & Ebert, Ebert repeated the same sentiment, while his partner Gene Siskel was more praising of the film. Both critics gave the film a "Thumbs Up".[124] In his print review for the Chicago Tribune, Siskel awarded the film 3½ of 4 stars commenting that the film is a "surprisingly serious, thoughtful and beautifully drawn Disney animated feature about the American birthright of exploitation and racism". He praised it for "sending powerful images to children about threats to the natural order", restoring "a certain majesty to the Indian culture", and for having "the courage that leads to the life-goes-on ending."[125]
+The film's writing and lack of humor received mixed reviews. Owen Gleiberman of Entertainment Weekly stated "With dismay, I realize that virtually everything in the movie — every character, every story twist, every song — is as generic as the two hygienic lovers. As a fairy-tale confection, a kind of West Side Story in Jamestown, Pocahontas is pleasant to look at, and it will probably satisfy very small kiddies, but it's the first of the new-era Disney cartoons that feels less than animated."[126] Peter Travers of Rolling Stone bemoaned that there were "no funny, fast-talking animals — Meeko the raccoon and Flit the hummingbird remain silent pals to Pocahontas and make you miss the verbal fun that Nathan Lane's wisecracking meerkat brought to The Lion King."[127] Desson Howe, reviewing for The Washington Post, likewise criticized the writing as recycling "elements from Snow White to The Lion King, with a father-child clash, a heroine's saintly pureness that transforms an entire people, a forbidden love, consultations with an oracle/shaman (in this case a tree spirit, voiced by Linda Hunt) and the usual sideshow of funny, fuzzy animals.[128] While acknowledging the screenplay was the "film's weakest element", Janet Maslin of The New York Times summarized that "Gloriously colorful, cleverly conceived and set in motion with the usual Disney vigor, Pocahontas is one more landmark feat of animation. It does everything a children's film should do except send little viewers home humming its theme song."[129]
+According to Chief Roy Crazy Horse of the Powhatan Renape Nation, the film "distorts history beyond recognition" and "perpetuates a dishonest and self-serving myth at the expense of the Powhatan Nation". Roy claims that Disney refused the tribe's offers to help create a more culturally and historically accurate film.[130] An editorial in the Los Angeles Times pointed out America's fascination with the Indian princess who was rarely shown as having anything more important in her life than her male relationships.[131]
+Cornel Pewewardy argues that the film presents damaging stereotypes of the Native American population.[132] Pewewardy feels that the representation of Native characters, like Grandmother Willow, Meeko, and Flit, as animals, has a marginalizing effect.[132] Also, Kocoum and John Smith go head to head in the film fighting for Pocahontas' affection. It has been argued that Smith's victory over Kocoum in this arena is symbolic of Western Europe's domination of the Americas and the white man's domination over men of color.[133] The lyrics of the song "Savages", in which the English and the Native Americans each accuse the other culture of being evil and subhuman, has been called insensitive by Peweardy.[132]
+Accolades[edit]
+
+
+Ceremony
+Recipient
+Category
+Result
+
+
+Academy Awards
+"Colors of the Wind"
+(Alan Menken, Composer; Stephen Schwartz, Lyricist)
+Best Original Song
+Won
+
+
+Alan Menken (Composer), Stephen Schwartz (Lyricist)
+Best Musical or Comedy Score
+Won
+
+
+Annie Awards
+
+Best Animated Feature
+Won
+
+
+Nik Ranieri (Supervising Animator for "Meeko")
+Individual Achievement for Animation
+Won
+
+
+Chris Buck (Supervising Animator for "Grandmother Willow")
+Nominated
+
+
+David Pruiksma (Supervising Animator for "Flit")
+Nominated
+
+
+Alan Menken (Composer)
+Stephen Schwartz (Lyricist)
+Best Individual Achievement for Music in the Field of Animation
+Won
+
+
+Michael Giamo (Art Director)
+Best Individual Achievement for Production Design in Animation
+Won
+
+
+Rasoul Azadani (Layout Artistic Supervisor)
+Nominated
+
+
+Artios Awards
+Brian Chavanne
+Ruth Lambert
+Best Casting for Animated Voiceover
+Won
+
+
+ASCAP Awards
+"Colors of the Wind"
+Most Performed Songs from Motion Pictures
+Won
+
+
+
+Top Box Office Films
+Won
+
+
+BMI Film Music Awards
+Alan Menken (Composer)
+
+Won
+
+
+Environmental Media Awards
+
+Best Feature Film
+Won
+
+
+Golden Globe Awards
+"Colors of the Wind"
+Best Original Song
+Won
+
+
+Alan Menken (Composer)
+Best Original Score
+Nominated
+
+
+Golden Reel Awards
+
+Best Sound Editing – Music Animation
+Won
+
+
+Grammy Awards
+"Colors of the Wind"
+Best Song Written for a Motion Picture, Television or Other Visual Media"
+Won
+
+
+Young Artist Awards
+
+Best Family Feature – Musical or Comedy
+Nominated
+
+
+Historical accuracy[edit]
+
+Pocahontas' real name was Matoaka. "Pocahontas" was only a nickname, and it can variously be translated to "little wanton", "playful one", "little brat" or "the naughty one".[134]
+In the film, Pocahontas is a young adult; in reality, she was around 10 or 11 at the time John Smith arrived with the Virginia Company in 1607.[134]
+In the film, Smith is portrayed as an amiable man; in reality, he was described as having a harsh exterior by his fellow colonists.[134]
+Historically, there is no evidence of a romantic relationship emerging between Pocahontas and John Smith.[135] Smith eventually recounted three separate incidents of being "saved" by powerful women, so all such accounts must be viewed with some suspicion.[136]
+English colonists led by Samuel Argall captured Pocahontas three years after John Smith departed for England; she converted to Christianity in Henricus and later married John Rolfe (who appears in the sequel), who was known for introducing tobacco as a cash crop.[135]
+There is much controversy over whether or not Pocahontas actually rescued John Smith from being slain by her father's tribe. Many have argued that Smith fabricated the story of Pocahontas saving his life in order to gain popularity.[137]
+The controversy surrounding whether or not Pocahontas saved John Smith exists largely because Smith wrote two very different accounts of his captivity. The first one, published in 1608, included a generally flattering description of Powhatan and his tribe. This first account contained no mention of almost being slain by Powhatan. It was not until Smith released his second account around 1622 that he described any cruel treatment by Powhatan, and his supposed rescue by Pocahontas. Because Smith's two accounts consist of very different facts, and because the second was released only after Pocahontas had gained prominence in England, many hypothesize that Smith embellished the story of his captivity with respect to Pocahontas.[138]
+Albeit captain of The Discovery, John Ratcliffe was not the first governor of the Jamestown Settlement.[139]
+
+Video game[edit]
+Main article: Disney's Pocahontas (video game)
+A video game based on the film was released on the Sega Genesis/Mega Drive on January 1, 1996.
+References[edit]
+
+
+^ a b c "Box Office Mojo". Box Office Mojo. Retrieved August 10, 2013. 
+^ a b c d Siegel, Robert. "The Making of Walt Disney's Pocahontas". blu-ray.com. Retrieved October 5, 2013. 
+^ Mallory, Mike (February 23, 2012). "Pocahontas and The Mouse's Gong Show". Animation. Retrieved May 24, 2015. 
+^ Robello 1995, p. 15-16.
+^ Stack, Peter (June 18, 1995). "Disney's new animated feature / Meryl Who? Pocahontas Has Summer's Steamiest Romance". San Francisco Chronicle. Retrieved May 24, 2015. 
+^ Hill, Jim (April 3, 2001). "Roger & Gene, Ron & John, Jeffrey & Oscar, Candy and ... er .. um". The Laughing Place. Retrieved May 24, 2015. 
+^ a b c d Koeing & 2001 240.
+^ Eric Goldberg (December 19, 2005). "A Conversation with Eric Goldberg" (Interview). Interview with Christian Ziebarth. Animated Views. Retrieved May 24, 2015. 
+^ Elkin, Michael (August 4, 1995). "Native son goes native with `Pocahontas'" (Fee required). The Jewish Exponent. Retrieved May 24, 2015 – via HighBeam Research. 
+^ a b Talk about a Double Take - Eric Goldberg Interviews Eric Goldberg at CTNX. Creative Talent Network. 
+^ a b c d Pocahontas Two-Disc 10th Anniversary Edition (Audio commentary). Mike Gabriel, Eric Goldberg, James Pentecost. Burbank, California: Walt Disney Home Entertainment. 2005. B0007KTBIU. 
+^ Koeing 2001, pp. 240-1.
+^ Sito 2006, p. 45.
+^ a b "Pocahontas Information". rec.arts.disney. May 8, 1995. Retrieved May 24, 2015. 
+^ Paust, Matthew (August 16, 1993). "History Coming To Life In Disney Animation". The Daily Press. Retrieved May 24, 2015. 
+^ Nicholson, David (June 24, 1995). "A Great Spirit". Newport News Daily Press. Sun-Sentinel. Retrieved May 24, 2015. 
+^ Edgerton, G.; Jackson, K. (1996). "Redesigning Pocahontas: Disney, The "White Man's Indian," And The Marketing Of Dreams". Journal of Popular Film and Television. 2 (24): 90–98. 
+^ Rickey, Carrie (June 18, 1995). "Disney's 'Pocahontas': Is It Fact Or Fiction? What Did She Wear? Did She Style Her Hair? Were She And John Smith A Pair?". The Philadelphia Inquirer. Retrieved May 30, 2015. 
+^ Hahn, Don (2010). Waking Sleeping Beauty. Walt Disney Pictures. 
+^ The Lion King: Platinum Edition (Disc 2), Story Origins (DVD). Walt Disney Home Entertainment. 
+^ Robello 1995, p. 72.
+^ "Debbie Macomber's Cedar Cove 1002 "Reunion" – Production Bios" (PDF). Amazon Web Services. Retrieved May 24, 2015. 
+^ Sragow, Michael (April 13, 2000). "Oh, Susannah!". Salon. Retrieved May 24, 2015. 
+^ Eguruze, Tari (October 2, 2013). "Words of Wisdom from Screenwriter Susannah Grant". Youth Arts Online. Paddington Arts. Retrieved May 24, 2015. 
+^ Mallory, Michael (December 5, 2013). "That Other (Sort of) Thanksgiving Movie". Animation. Retrieved May 24, 2015. 
+^ "So who does Pocahontas's hair?" (Fee required). The Columbian. June 23, 2015. Retrieved May 24, 2015 – via HighBeam Research. 
+^ Mallory, Michael (November 29, 2012). "Talking Turkey About Pocahontas". Animation. Retrieved May 24, 2015. 
+^ Peradotto, Nicole (June 25, 1995). "Indian summer How 'Pocahontas' creators drew on life and legend" (Fee required). The Buffalo News. Retrieved May 24, 2015 – via HighBeam Research. 
+^ a b Koeing & 2001 239.
+^ Sito, Tom (1996). "Fight To The Death, But Don't Hurt Anybody! Memories of Political Correctness". Animation World Magazine. Retrieved May 24, 2015. 
+^ Koeing 2001, pp. 220.
+^ Seidman, David (January 19, 1995). "A 'Toon Man for the Ages : Animation: Joe Grant was on Disney's original talent team. After working on many classics, he quit in '49. Nearly 40 years later, he returned, making his mark on the latest hits". Los Angeles Times. Retrieved May 24, 2015. 
+^ Canemaker 1996, p. 196.
+^ Kim, Albert (June 23, 1995). "A Whole New World?". Entertainment Weekly. Retrieved May 24, 2015. 
+^ Beckerman, Jim (June 23, 1995). "Rewriting History for the Disney Set" (Fee required). The Record. Retrieved May 24, 2015 – via HighBeam Research. 
+^ Canemaker 1996, p. 196–97.
+^ a b Geiz, Didier (May 3, 2010). Walt's People: Volume 9: Talking Disney with the Artists Who Knew Him. Xlibris. p. 506–7. ISBN 978-1450087469. 
+^ a b c d Ehrlich, Phyllis. "Pocahontas: The Movie, the Stars, the Real-Life Story". Disney Adventures. Disney Magazine Publishing. 5 (10). Retrieved May 24, 2015. 
+^ Hischak, Thomas (September 21, 2011). Disney Voice Actors: A Biographical Dictionary. McFarland & Company. p. 105. ISBN 978-0786462711. Retrieved May 20, 2015. 
+^ a b c Bloom, David (May 14, 1998). "Animators Not Taken for Grant-ed". Los Angeles Daily News. TheFreeLibrary. Retrieved May 24, 2015. 
+^ Canemaker 1996, p. 195.
+^ Canemaker 2010, p. 186.
+^ Irene Bedard (May 11, 2005). "An Interview with Pocahontas – Actress Irene Bedard reflects on voicing Disney's strongest female character" (Interview). Interview with Retana Joy. Ultimate Disney. Retrieved May 24, 2015. 
+^ "Irene Bedard". People. Time Inc. 43 (18). Retrieved May 24, 2015. 
+^ Romano, Lois (September 23, 1992). "The Reliable Source" (Fee required). The Washington Post. Retrieved May 24, 2015 – via HighBeam Research. 
+^ Stuart, Jan (July 10, 2001). "Thankless toil no longer - Stars line up to provide voices in animated films". Newsday. Chicago Tribune. Retrieved May 24, 2015. 
+^ Irene Bedard (October 15, 2010). "Interview with Irene Bedard" (Interview). Interview with Mike Gencarelli. Media Mikes. Retrieved May 24, 2015. 
+^ a b c Pearlman, Cindy (June 21, 1995). "10 Things to Know About 'Pocahontas'". The Herald Journal. Retrieved May 24, 2015. 
+^ "Flashes: Mel Gibson sings on 'Pocahontas'". Entertainment Weekly. February 10, 1995. Retrieved May 24, 2015. 
+^ Trotter, Hannah (July 5, 2011). "10 Things You Never Knew About Disney's Pocahontas". Yahoo!. Archived from the original on September 20, 2013. Retrieved October 5, 2013. CS1 maint: Unfit url (link)
+^ Dutka, Elaine (June 11, 1995). "The Angriest Actor : Native American activist Russell Means focused his fierce will at Wounded Knee. Can a revolutionary co-exist with 'Pocahontas'?". Los Angeles Times. Chinle, Arizona. Retrieved May 24, 2015. 
+^ O'Brien, Jill (March 9, 1995). "Catching up with actor Gordon Tootoosis" (Fee required). Indian Country Today. Retrieved May 24, 2015 – via HighBeam Research. 
+^ Longsdorf, Amy (June 23, 1995). "The Power Of `Pocahontas' Disney Keeps Its Indian Princess Politically Correct". The Morning Call. Retrieved May 24, 2015. 
+^ Bradley, Deborah (June 23, 1995). "Disney Gives Pocahontas Sexiest Cartoon Image Ever". The Free Lance-Star. Retrieved May 24, 2015. 
+^ Glen Keane (October 7, 2014). "Interview with Glen Keane, Disney veteran and legendary animation artist (Part 1)" (Interview). Interview with Katie Steed. Skwigly Animation Magazine. Retrieved May 24, 2015. 
+^ Cochran, Jason (June 16, 1995). "Pocahontas needed an ethnic look". Entertainment Weekly. Retrieved May 30, 2015. 
+^ Ramirez, Anthony (July 6, 1995). "Who in the world is Dyna Taylor? She may be the face that launched a thousand movie tie-ins.". The New York Times. Retrieved May 30, 2015. 
+^ Jones, Anderson (June 23, 1995). "She Was A Real Babe In The Woods". Philadelphia Daily News. Retrieved May 30, 2015. 
+^ Edwards, Leigh (2 May 1999). "The United Colors of "Pocahontas": Synthetic Miscegenation and Disney's Multiculturalism". Narrative. Ohio State University. 7 (2): 151–52. 
+^ "Pocahontas Trivia". sharetv.org. Retrieved October 1, 2013. 
+^ Mark Henn (January 8, 2010). "The Princess And The Frog's Supervising Animator Mark Henn – Part 2: The "Disney Decade"" (Interview). Interview with Jérémie Noyer. Animated Views. Retrieved May 30, 2015. 
+^ Solomon, Charles (July 21, 2010). "Priscillano Romanillos dies at 47; animator of 'Mulan' villain and other Disney and DreamWorks characters". Los Angeles Times. Retrieved May 30, 2015. 
+^ Beck, Jerry (1996). "Don Bluth Goes Independent". Animation World Network. Retrieved May 24, 2015. 
+^ Ghez, Didier (December 17, 2013). "Walt's People - Volume 12: Talking Disney With the Artists Who Knew Him". Xlibris. Retrieved May 24, 2015. 
+^ Pocahontas Two-Disc 10th Anniversary Edition - Creating John Smith (Bonus feature). John Pomeroy. Burbank, California: Walt Disney Home Entertainment. 2005. B0007KTBIU. 
+^ Wickham, Rhett (July 25, 2003). "Great Animated Performances: Meeko as Supervised by Nik Ranieri". The Laughing Place. Retrieved May 24, 2015. 
+^ Pocahontas Two-Disc 10th Anniversary Edition - Creating Ratcliffe (Bonus feature). Duncan Marjoribanks. Burbank, California: Walt Disney Home Entertainment. 2005. B0007KTBIU. 
+^ Rebello 1995, pp. 102–120.
+^ Hinman, Catherine (June 25, 1995). "Animators Lend a Hand". Orlando Sentinel. Retrieved May 24, 2015. 
+^ a b Canemaker 1996, pp. 186–89.
+^ Solomon, Charles (1995). The Disney That Never War. Hyperion. pp. 176–84. ISBN 978-0786863075. 
+^ Sheehan, Mark (June 29, 1995). "Tradition - Disney Animators Learn From Early Masters". Orange County Register. Chicago Tribune. Retrieved May 24, 2015. 
+^ King, Susan (October 17, 2011). "Classic Hollywood: A colorful tribute to Disney's Mary Blair". Los Angeles Times. Retrieved May 24, 2015. 
+^ Laird 2014, p. 231.
+^ de Giere 2008, p. 229.
+^ Hill, Jim (October 1, 2008). ""Defying Gravity" details Stephen Schwartz's sometimes difficult dealings with the Walt Disney Company". Retrieved May 24, 2015. 
+^ Willman, Chris (May 28, 1995). "'Pocahontas' Abandons the Parental Crowd". Los Angeles Times. Retrieved October 5, 2013. 
+^ The Music of Pocahontas (Documentary bonus feature). Alan Menken, Stephen Schwartz. Burbank, California: Walt Disney Home Entertainment. 2005. B0007KTBIU. 
+^ Laird 2014, p. 232.
+^ de Giere 2008, p. 232.
+^ Laird 2014, p. 232–33.
+^ "Stephen Schwartz Comments on Disney's Pocahontas" (PDF). stephenschwartz.com. 2010. Retrieved May 24, 2015. 
+^ Laird 2014, p. 236.
+^ Laird 2014, p. 235.
+^ "Sweet music to Disney's ears soundtracks' core audience is family affair" (Fee required). Los Angeles Daily News. June 23, 1995. Retrieved May 24, 2015 – via HighBeam Research. 
+^ Laird 2014, p. 237.
+^ Koeing 2001, p. 242.
+^ "The Making of 'If I Never Knew You'" (Documentary bonus feature). Alan Menken, Stephen Schwartz, Mike Gabriel, Eric Goldberg, Roy E. Disney. Burbank, California: Walt Disney Home Entertainment. 2005. B0007KTBIU. 
+^ "The Official Academy Awards Database". AMPAS. Archived from the original on September 13, 2008. Retrieved September 1, 2008. 
+^ Billboard profile
+^ Morris, Chris. "`Pocahontas' piles up RIAA metal". Billboard. Retrieved October 5, 2013. 
+^ Eller, Claudia (October 24, 1994). "A Peek at 'Pocahontas' When 'Lion' Returns". Los Angeles Times. Retrieved May 24, 2015. 
+^ a b Broeske, Pat (February 3, 1995). "The Pocamotion". Entertainment Weekly. Retrieved May 24, 2015. 
+^ "'Pocahontas' Adventure at the Mall". Pittsburgh Post-Gazette. March 11, 1995. Retrieved May 24, 2015. 
+^ James, Sallie (February 24, 1995). "Mall Shoppers To See Show By Film Studio". Orlando Sentinel. Retrieved May 24, 2015. 
+^ Managan, Jennifer (June 22, 1995). "Heaping Helpings". Chicago Tribune. Retrieved May 24, 2015. 
+^ a b c Carrie Rickey (June 6, 1995). "Disney Takes Over N.y. Park For Premiere Of 'Pocahontas' To Many, The Four-screen Event Was Woodstock For The Family.". philly.com. Philadelphia Media Network (Digital) LLC. Retrieved July 19, 2014. 
+^ Buckland, Carol (June 23, 1995). "Walt Disney's 'Pocahontas'". CNN. Retrieved May 24, 2015. 
+^ Dutka, Elaine (June 20, 1995). "Weekend Box Office". Los Angeles Times. Retrieved May 24, 2015. 
+^ Natale, Richard (June 26, 1995). "A 'Girl Movie' Tops the Bat Guys : Box office: 'Pocahontas' grosses an estimated $30.5 million while 'Batman Forever' adds another $28 million to swoop past the $100-million mark". Los Angeles Times. Retrieved May 23, 2015. 
+^ a b Horn, John (June 30, 1995). "`Batman Forever' Bloodies `Pocahontas'". Chicago Tribune. Retrieved May 24, 2015. 
+^ Welkos, Richard (June 27, 1995). "Weekend Box Office : 'Pocahontas' Inches Past 'Batman'". Los Angeles Times. Retrieved May 24, 2015. 
+^ "The Times Film Index: 1995's Top 10 Films". Los Angeles Times. January 2, 1996. Retrieved May 24, 2015. 
+^ "1995 Yearly Box Office Results". Box Office Mojo. Amazon.com. Retrieved May 24, 2015. 
+^ Natale, Richard (August 29, 1995). "A Summer When Middle Class Ruled the Box Office : Movies: While the highs have not been as high, there have been fewer lows and more films that will take in $35 million or more.". Los Angeles Times. Retrieved May 23, 2015. 
+^ Stewart, James (2005). DisneyWar. New York: Simon & Schuster. pp. 233–234. ISBN 0-684-80993-1. 
+^ Eisner, Michael (January 4, 1996). Disney Executives Remarks at Shareholders' Meeting (Speech). Annual shareholders' meeting. New York City: TheFreeLibrary.com. Retrieved May 24, 2015. 
+^ Wickstrom, Andy (October 5, 1996). "'Pocahontas' Will Be Sold On Video In March". The Philadelphia Inquirer. Retrieved May 24, 2015. 
+^ Zad, Martie (February 23, 1996). "`Pocahontas' On Video For Limited Time". The Washington Post. Orlando Sentinel. Retrieved May 24, 2015. 
+^ "Deluxe Edition: Pocahontas". disneyinfo.nf. Retrieved May 24, 2015. 
+^ "'Pocahontas' Video Sells Like the Wind" (Press release). Burbank, California: TheFreeLibrary.com. PR Newswire. March 6, 1995. Retrieved May 24, 2015. 
+^ Snow, Shauna (March 7, 1995). "Tv & Video". Los Angeles Times. Retrieved May 24, 2015. 
+^ Bates, James; Eller, Claudia (June 12, 1998). "Bridled Optimism". Los Angeles Times. Retrieved May 24, 2015. 
+^ "Walt Disney Home Video Debuts the "Gold Classic Collection"". The Laughing Place. Retrieved February 2, 2016. 
+^ "Pocahontas — Disney Gold Collection". Disney.go.com. Archived from the original on August 15, 2000. Retrieved January 2, 2016. 
+^ "Pocahontas Two-Movie Special Edition (Pocahontas / Pocahontas II: Journey To A New World) (Three-Disc Blu-ray/DVD Combo in Blu-ray Packaging): Mel Gibson, Christian Bale, David Ogden Stiers, Linda Hunt, Irene Bedard, Billy Connolly, James Apaumut Fall, Joe Baker, John Kassir, Danny Mann, Russell Means, Michelle St. John, Gordon Tootoosis, Frank Welker, Mike Gabriel, Eric Goldberg, Carl Binder, Susannah Grant: Movies & TV". Amazon.com. Retrieved August 10, 2013. 
+^ "Pocahontas Two-Movie Special Edition (Pocahontas/Pocahontas II: Journey to a New World)". Amazon.com. Retrieved June 3, 2012. 
+^ "Pocahontas Two-Movie Collection (Pocahontas/Pocahontas II: Journey to a New World)(Three-Disc Blu-ray/DVD Combo Pack in Blu-ray Packaging)". Amazon.com. Retrieved June 3, 2012. 
+^ Pocahontas Blu-ray, retrieved 2016-09-05 
+^ "Netflix in September: Everything coming and going". USA TODAY. Retrieved 2017-10-09. 
+^ "Pocahontas (1995)". Rotten Tomatoes. Flixster. Retrieved May 24, 2015. 
+^ "Pocahontas Reviews". Metacritic. Retrieved May 24, 2015. 
+^ Ebert, Roger (June 16, 1995). "Pocahontas review". rogerebert.com. Retrieved May 24, 2015. 
+^ "Pocahontas / The Glass Shield / Fluke (1995)". At the Movies with Ebert & Roeper. Retrieved May 24, 2015. 
+^ Siskel, Gene (June 16, 1995). "Thoughtful `Pocahontas' A Surprisingly Mature Film". Chicago Tribune. Retrieved May 24, 2015. 
+^ Gleiberman, Owen (June 16, 1995). "Pocahontas". Retrieved July 29, 2017. 
+^ Travers, Peter (June 23, 1995). "Pocahontas". Rolling Stone. Retrieved July 29, 2017. 
+^ Howe, Desson (June 23, 1995). "A Lukewarm Indian Summer". The Washington Post. Retrieved July 29, 2017. 
+^ Maslin, Jane (June 11, 1995). "History as Buckskin-Clad Fairy Tale". The New York Times. Retrieved July 29, 2017. 
+^ "The Pocahontas Myth - Powhatan Renape Nation - the real story, not Disney's Distortion". Powhatan.org. Retrieved August 10, 2013. 
+^ Aleiss, Angela (June 24, 1995). "Maidens of Hollywood: 'Pocahontas' is the Pure Expression of Filmmakers' Fantasies about Indian Women". Los Angeles Times. 
+^ a b c Pewewardy, Cornel. "The Pocahontas Paradox: A Cautionary Tale for Educators". Journal of Navajo Education. Retrieved October 5, 2013. 
+^ Kutsuzawa, Kiyomi. "Disney's Pocahontas: reproduction of gender, orientalism, and the strategic construction of racial harmony in the Disney empire". Retrieved October 5, 2013. 
+^ a b c Crazy Horse, Chief Roy. "The Pocahontas Myth". Retrieved October 5, 2013. 
+^ a b Weston, Tamara (December 9, 2009). "Top 10 Disney Controversies". TIME Magazine. Retrieved October 5, 2013. 
+^ "The Pocahontas Myth". 
+^ Birchfield, Stan. "Did Pocahontas Save Captain John Smith?". Stanford University. Retrieved October 5, 2013. 
+^ "Curriculum: 1. Pocahontas". Stanford University. Retrieved October 5, 2013. 
+^ "History of Jamestown". Preservation Virginia. Retrieved October 5, 2013. 
+
+
+Bibliography[edit]
+
+
+Canemaker, John (1996). Before the Animation Begins: The Art and Lives of Disney Inspirational Sketch Artists. Hyperion Books. ISBN 978-0786861521. 
+Canemaker, John (2010). Two Guys Named Joe. Disney Editions. ISBN 978-1423110675. 
+de Giere, Carol (2008). Defying Gravity: The Creative Career of Stephen Schwartz from Godspell to Wicked. Applause Theatre & Cinema Books. pp. 229–41. ISBN 978-1557837455. 
+Koenig, David (January 28, 2001). Mouse Under Glass: Secrets of Disney Animation & Theme Parks. Irvine, California: Bonaventure Press. pp. 238–45. ISBN 978-0964060517. 
+Laird, Paul (2014). The Musical Theater of Stephen Schwartz: From Godspell to Wicked and Beyond. Rowman & Littlefield Publishers. ISBN 978-0810891913. 
+Robello, Stephen (1995). The Art of Pocahontas. Hyperion Books. ISBN 978-0786861583. 
+Sito, Tom (October 6, 2006). Drawing the Line: The Untold Story of the Animation Unions from Bosko to Bart Simpson. University Press of Kentucky. ISBN 978-0813124070. 
+
+
+External links[edit]
+
+
+
+Wikiquote has quotations related to: Pocahontas
+
+
+
+
+Disney portal
+Film in the United States portal
+1990s portal
+Cartoon portal
+
+
+
+Official website
+Pocahontas on IMDb
+Pocahontas at Box Office Mojo
+Pocahontas at Rotten Tomatoes
+Pocahontas at The Big Cartoon DataBase
+Pocahontas: 10th Anniversary Edition DVD Review and Interview
+Disney's Pocahontas: Conversations with Native American and Euro-American Girls - Report on focus groups conducted by Amy Aidman with girls ages nine to thirteen
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Disney's Pocahontas
+
+
+
+
+
+
+Pocahontas
+
+
+
+
+
+Films
+
+
+
+Pocahontas (1995)
+Pocahontas II: Journey to a New World (1998)
+
+
+
+
+
+Video games
+
+
+
+Disney's Pocahontas (video game)
+Disney's Animated Storybook: Pocahontas
+
+
+
+
+
+Music
+
+
+
+"Just Around the Riverbend"
+"Colors of the Wind"
+"Savages"
+"If I Never Knew You"
+
+
+
+
+
+
+
+
+ Category:Disney Princess
+ Portal:Disney
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Films directed by Eric Goldberg
+
+
+
+
+
+
+Pocahontas (1995)
+Fantasia 2000 (1999)
+The Magic Lamp 3D (2001)
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Disney theatrical animated features
+
+
+
+Walt Disney
+Animation Studios
+films
+
+
+
+Snow White and the Seven Dwarfs (1937)
+Pinocchio (1940)
+Fantasia (1940)
+Dumbo (1941)
+Bambi (1942)
+Saludos Amigos (1942)
+The Three Caballeros (1944)
+Make Mine Music (1946)
+Fun and Fancy Free (1947)
+Melody Time (1948)
+The Adventures of Ichabod and Mr. Toad (1949)
+Cinderella (1950)
+Alice in Wonderland (1951)
+Peter Pan (1953)
+Lady and the Tramp (1955)
+Sleeping Beauty (1959)
+One Hundred and One Dalmatians (1961)
+The Sword in the Stone (1963)
+The Jungle Book (1967)
+The Aristocats (1970)
+Robin Hood (1973)
+The Many Adventures of Winnie the Pooh (1977)
+The Rescuers (1977)
+The Fox and the Hound (1981)
+The Black Cauldron (1985)
+The Great Mouse Detective (1986)
+Oliver & Company (1988)
+The Little Mermaid (1989)
+The Rescuers Down Under (1990)
+Beauty and the Beast (1991)
+Aladdin (1992)
+The Lion King (1994)
+Pocahontas (1995)
+The Hunchback of Notre Dame (1996)
+Hercules (1997)
+Mulan (1998)
+Tarzan (1999)
+Fantasia 2000 (1999)
+Dinosaur (2000)
+The Emperor's New Groove (2000)
+Atlantis: The Lost Empire (2001)
+Lilo & Stitch (2002)
+Treasure Planet (2002)
+Brother Bear (2003)
+Home on the Range (2004)
+Chicken Little (2005)
+Meet the Robinsons (2007)
+Bolt (2008)
+The Princess and the Frog (2009)
+Tangled (2010)
+Winnie the Pooh (2011)
+Wreck-It Ralph (2012)
+Frozen (2013)
+Big Hero 6 (2014)
+Zootopia (2016)
+Moana (2016)
+Ralph Breaks the Internet: Wreck-It Ralph 2 (2018)
+Frozen 2 (2019)
+
+
+
+
+
+Live-action films
+with animation
+
+
+
+The Reluctant Dragon (1941)
+Victory Through Air Power (1943)
+Song of the South (1946)
+So Dear to My Heart (1948)
+Mary Poppins (1964)
+Bedknobs and Broomsticks (1971)
+Pete's Dragon (1977)
+Who Framed Roger Rabbit (1988)
+Enchanted (2007)
+
+
+
+
+
+DisneyToon Studios
+films
+
+
+
+DuckTales the Movie: Treasure of the Lost Lamp (1990)
+A Goofy Movie (1995)
+The Tigger Movie (2000)
+Return to Never Land (2002)
+The Jungle Book 2 (2003)
+Piglet's Big Movie (2003)
+Pooh's Heffalump Movie (2005)
+Bambi II (2006)
+Planes (2013)
+Planes: Fire & Rescue (2014)
+
+
+
+
+
+Other Disney units films
+
+
+
+The Nightmare Before Christmas (1993)
+James and the Giant Peach (1996)
+Doug's 1st Movie (1999)
+Recess: School's Out (2001)
+Teacher's Pet (2004)
+A Christmas Carol (2009)
+Gnomeo & Juliet (2011)
+Mars Needs Moms (2011)
+Frankenweenie (2012)
+Strange Magic (2015)
+
+
+
+
+
+Related lists
+
+
+
+Unproduced films
+
+
+
+
+
+
+
+
+ Book
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Walt Disney Animation Studios
+
+
+
+
+
+
+
+
+List of feature films
+
+
+
+
+
+
+
+Released
+
+
+
+Snow White and the Seven Dwarfs (1937)
+Pinocchio (1940)
+Fantasia (1940)
+Dumbo (1941)
+Bambi (1942)
+Saludos Amigos (1942)
+The Three Caballeros (1944)
+Make Mine Music (1946)
+Fun and Fancy Free (1947)
+Melody Time (1948)
+The Adventures of Ichabod and Mr. Toad (1949)
+Cinderella (1950)
+Alice in Wonderland (1951)
+Peter Pan (1953)
+Lady and the Tramp (1955)
+Sleeping Beauty (1959)
+One Hundred and One Dalmatians (1961)
+The Sword in the Stone (1963)
+The Jungle Book (1967)
+The Aristocats (1970)
+Robin Hood (1973)
+The Many Adventures of Winnie the Pooh (1977)
+The Rescuers (1977)
+The Fox and the Hound (1981)
+The Black Cauldron (1985)
+The Great Mouse Detective (1986)
+Oliver & Company (1988)
+The Little Mermaid (1989)
+The Rescuers Down Under (1990)
+Beauty and the Beast (1991)
+Aladdin (1992)
+The Lion King (1994)
+Pocahontas (1995)
+The Hunchback of Notre Dame (1996)
+Hercules (1997)
+Mulan (1998)
+Tarzan (1999)
+Fantasia 2000 (1999)
+Dinosaur (2000)
+The Emperor's New Groove (2000)
+Atlantis: The Lost Empire (2001)
+Lilo & Stitch (2002)
+Treasure Planet (2002)
+Brother Bear (2003)
+Home on the Range (2004)
+Chicken Little (2005)
+Meet the Robinsons (2007)
+Bolt (2008)
+The Princess and the Frog (2009)
+Tangled (2010)
+Winnie the Pooh (2011)
+Wreck-It Ralph (2012)
+Frozen (2013)
+Big Hero 6 (2014)
+Zootopia (2016)
+Moana (2016)
+
+
+
+
+
+Upcoming films
+
+
+
+Ralph Breaks the Internet: Wreck-It Ralph 2 (2018)
+Frozen 2 (2019)
+
+
+
+
+
+Associated productions
+
+
+
+The Reluctant Dragon (1941)
+Victory Through Air Power (1943)
+Song of the South (1946)
+So Dear to My Heart (1949)
+Mary Poppins (1964)
+Bedknobs and Broomsticks (1971)
+Pete's Dragon (1977)
+Who Framed Roger Rabbit (1988)
+Enchanted (2007)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+People
+
+
+
+
+
+
+
+Executives
+
+
+
+Edwin Catmull
+Roy Conli
+Roy E. Disney
+Walt Disney
+Don Hahn
+Jeffrey Katzenberg
+John Lasseter
+Peter Schneider
+Thomas Schumacher
+David Stainton
+
+
+
+
+
+Disney's Nine Old Men
+
+
+
+Les Clark
+Marc Davis
+Ollie Johnston
+Milt Kahl
+Ward Kimball
+Eric Larson
+John Lounsbery
+Wolfgang Reitherman
+Frank Thomas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Related topics
+
+
+
+
+
+
+
+History
+
+
+
+Disney animators' strike
+Disney Renaissance
+
+
+
+
+
+Methods and
+technologies
+
+
+
+12 basic principles of animation
+Computer Animation Production System
+Disney Animation: The Illusion of Life
+Multiplane camera
+
+
+
+
+
+Documentaries
+
+
+
+Frank and Ollie (1995)
+The Sweatbox (2001)
+Dream On Silly Dreamer (2005)
+Waking Sleeping Beauty (2009)
+
+
+
+
+
+Other Disney
+animation units
+
+
+
+Disney Television Animation
+DisneyToon Studios (WDAS unit)
+Lucasfilm Animation
+Marvel Animation
+Pixar Animation Studios
+Circle 7 (defunct)
+
+
+
+
+
+Miscellaneous
+
+
+
+Alice Comedies
+Laugh-O-Gram Studio
+List of Disney animated shorts
+List of Disney theatrical animated features
+
+unproduced
+
+
+Oswald the Lucky Rabbit
+Mickey Mouse (film series)
+Silly Symphonies
+Once Upon a Time
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Alan Menken
+
+
+
+Musicals
+
+
+
+God Bless You, Mr. Rosewater (1979)
+Little Shop of Horrors (1982)
+Weird Romance (1992)
+A Christmas Carol (1994)
+Beauty and the Beast (1994)
+King David (1997)
+The Bellringer of Notre Dame (1999)
+Sister Act (2006)
+The Little Mermaid (2007)
+Leap of Faith (2010)
+Newsies (2011)
+Aladdin (2014)
+The Apprenticeship of Duddy Kravitz (2015)
+A Bronx Tale (2016)
+
+
+
+
+
+Musical films
+
+
+
+Little Shop of Horrors (1986)
+The Little Mermaid (1989)
+Beauty and the Beast (1991)
+Newsies (1992)
+Aladdin (1992)
+Pocahontas (1995)
+The Hunchback of Notre Dame (1996)
+Hercules (1997)
+Home on the Range (2004)
+A Christmas Carol (2004)
+Enchanted (2007)
+Tangled (2010)
+Beauty and the Beast (2017)
+Aladdin (2019)
+
+
+
+
+
+Songs
+
+
+
+"Part of Your World"
+"Under the Sea"
+"Kiss the Girl"
+"Be Our Guest"
+"Beauty and the Beast"
+"Friend Like Me"
+"A Whole New World"
+"Just Around the Riverbend"
+"Colors of the Wind"
+"If I Never Knew You"
+"If I Can't Love Her"
+"The Bells of Notre Dame"
+"Out There"
+"God Help the Outcasts"
+"Hellfire"
+"Someday"
+"Go the Distance"
+"I Won't Say (I'm in Love)"
+"Happy Working Song"
+"That's How You Know"
+"So Close"
+"Ever Ever After"
+"Mother Knows Best"
+"I See the Light"
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Stephen Schwartz
+
+
+
+Music and lyrics
+
+
+
+Godspell
+Pippin
+The Magic Show
+The Baker's Wife
+Working
+
+
+Children of Eden
+Wicked
+
+Captain Louie
+Séance on a Wet Afternoon
+The Prince of Egypt
+
+
+
+
+
+Lyrics
+
+
+
+MASS
+Rags
+Der Glöckner von Notre Dame
+
+
+
+
+
+Film work
+
+
+
+Butterflies Are Free (title song)
+Pocahontas (lyrics)
+The Hunchback of Notre Dame (lyrics)
+The Prince of Egypt (songs)
+Enchanted (lyrics)
+
+
+
+
+
+Television
+
+
+
+Geppetto (music and lyrics)
+Johnny and the Sprites (theme song)
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Annie Award for Best Animated Feature
+
+
+
+
+
+
+Beauty and the Beast (1992)
+Aladdin (1993)
+The Lion King (1994)
+Pocahontas (1995)
+Toy Story (1996)
+Cats Don't Dance (1997)
+Mulan (1998)
+The Iron Giant (1999)
+Toy Story 2 (2000)
+Shrek (2001)
+Spirited Away (2002)
+Finding Nemo (2003)
+The Incredibles (2004)
+Wallace & Gromit: The Curse of the Were-Rabbit (2005)
+Cars (2006)
+Ratatouille (2007)
+Kung Fu Panda (2008)
+Up (2009)
+How to Train Your Dragon (2010)
+Rango (2011)
+Wreck-It Ralph (2012)
+Frozen (2013)
+How to Train Your Dragon 2 (2014)
+Inside Out (2015)
+Zootopia (2016)
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Pocahontas_(1995_film)&oldid=805049734"					
+Categories: 1995 filmsEnglish-language filmsDisney's Pocahontas1990s American animated films1990s historical films1990s musical films1990s romantic drama filmsAmerican animated filmsAmerican children's animated filmsAmerican children's drama filmsAmerican comedy-drama filmsAmerican historical filmsAmerican musical drama filmsAmerican romantic drama filmsAmerican romantic musical filmsAmerican filmsAnimated cartoons based on real peopleAnimated drama filmsAnimated musical filmsAnimated romance filmsBest Animated Feature Annie Award winnersDisney RenaissanceFilm scores by Alan MenkenFilms about interracial romanceFilms about Native AmericansFilms about race and ethnicityFilms about racismFilms featuring anthropomorphic charactersFilms set in the 1600sFilms set in the Powhatan ConfederacyFilms set in the Thirteen ColoniesFilms set in VirginiaFilms that won the Best Original Song Academy AwardFilms that won the Best Original Score Academy AwardWalt Disney Animation Studios filmsWalt Disney Pictures filmsHidden categories: CS1 maint: Unfit url 
+
+
+
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+In other projects
+
+
+Wikimedia CommonsWikiquote 
+
+
+
+Languages
+
+
+العربيةБългарскиBrezhonegCatalàČeštinaCymraegDanskDeutschދިވެހިބަސްEestiΕλληνικάEspañolEuskaraفارسیFrançaisGaeilgeGaelgGalego한국어ՀայերենBahasa IndonesiaÍslenskaItalianoעבריתქართულიLatinaMagyarBahasa MelayuNederlands日本語NorskPolskiPortuguêsRomânăRuna SimiРусскийScotsSimple EnglishСрпски / srpskiSrpskohrvatski / српскохрватскиSuomiSvenskaУкраїнськаTiếng ViệtWinarayייִדיש中文 
+Edit links 
+
+
+
+
+
+ This page was last edited on 12 October 2017, at 18:57.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.492","walltime":"1.626","ppvisitednodes":{"value":9554,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":352789,"limit":2097152},"templateargumentsize":{"value":11051,"limit":2097152},"expansiondepth":{"value":21,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1404.160      1 -total"," 55.82%  783.793      1 Template:Reflist"," 16.01%  224.748      1 Template:Official_website"," 15.57%  218.573     43 Template:Cite_web"," 15.17%  212.984     49 Template:Cite_news","  4.97%   69.779      1 Template:Infobox_film","  4.45%   62.480      1 Template:Infobox","  4.06%   57.039     11 Template:Cite_book","  3.93%   55.226      1 Template:BillboardURLbyName","  3.84%   53.967      9 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.850","limit":"10.000"},"limitreport-memusage":{"value":8135932,"limit":52428800}},"cachereport":{"origin":"mw1182","timestamp":"20171015213804","ttl":3600,"transientcontent":true}}});});(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":109,"wgHostname":"mw1247"});});
+
+

@@ -1,0 +1,2133 @@
+
+
+
+Virginia Beach, Virginia - Wikipedia
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Virginia_Beach,_Virginia","wgTitle":"Virginia Beach, Virginia","wgCurRevisionId":801126396,"wgRevisionId":801126396,"wgArticleId":91239,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles with inconsistent citation formats","Use mdy dates from March 2017","Wikipedia articles needing clarification from February 2016","Coordinates on Wikidata","All accuracy disputes","Articles with disputed statements from October 2010","All articles with unsourced statements","Articles with unsourced statements from May 2015","Articles with unsourced statements from March 2017","Good articles","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with GND identifiers","Virginia Beach, Virginia","Beaches of Virginia","Cities in Virginia","Seaside resorts in the United States","Surfing locations in the United States","Populated coastal places in Virginia","Populated places established in 1906","1906 establishments in Virginia","Landforms of Virginia Beach, Virginia","Surfing in Virginia"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Virginia_Beach,_Virginia","wgRelevantArticleId":91239,"wgRequestId":"WeMsswpAMFIAAA27n7QAAAAM","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgCoordinates":{"lat":36.8506,"lon":-75.9779},"wgWikibaseItemId":"Q49259","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","skins.vector.styles.experimental.print":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Virginia Beach, Virginia
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+"Virginia Beach" redirects here. For other uses, see Virginia Beach (disambiguation).
+
+
+Virginia Beach, Virginia
+
+
+Independent city
+
+
+City of Virginia Beach
+
+
+
+Clockwise from top left: Oceanfront beaches; King Neptune statue; Town Center skyline; Chesapeake Bay Bridge-Tunnel; Cape Henry Lighthouses
+
+
+
+
+
+
+
+Flag
+
+Seal
+
+
+
+
+
+Nickname(s): "The Resort City", "Neptune City"
+
+
+Motto: Landmarks of Our Nation's Beginning
+
+
+
+Location in the Commonwealth of Virginia
+
+
+
+
+
+
+
+
+
+Virginia Beach, Virginia
+
+
+
+
+
+Location in the contiguous United States
+
+
+Coordinates: 36°51′02″N 75°58′40″W﻿ / ﻿36.8506°N 75.9779°W﻿ / 36.8506; -75.9779
+
+
+Country
+ United States of America
+
+
+State
+ Virginia
+
+
+County
+None (Independent city)
+
+
+Incorporated (as town)
+1906
+
+
+Incorporated (as city)
+1952
+
+
+Government
+
+
+ • Type
+Council-manager
+
+
+ • Mayor
+Will Sessoms (R)
+
+
+Area
+
+
+ • Independent city
+1,290 km2 (497 sq mi)
+
+
+ • Land
+640 km2 (249 sq mi)
+
+
+ • Water
+640 km2 (248 sq mi)
+
+
+Elevation
+3 m (10 ft)
+
+
+Population (2015)
+
+
+ • Independent city
+452,745 (41st)
+
+
+ • Density
+352/km2 (911/sq mi)
+
+
+ • Urban
+1,212,000
+
+
+ • Metro
+1,724,876 (37th)
+
+
+Time zone
+EST (UTC-5)
+
+
+ • Summer (DST)
+EDT (UTC-4)
+
+
+Area code(s)
+757
+
+
+FIPS code
+51-82000[1]
+
+
+GNIS feature ID
+1500261[2]
+
+
+Website
+www.vbgov.com
+
+
+Virginia Beach is an independent city located on the southeastern coast of the Commonwealth of Virginia. As of the 2010 census, the population was 437,994.[3] In 2015, the population was estimated to be 452,745.[4] Although mostly suburban in character, it is the most populous city in Virginia and the 41st most populous city in the nation.[5] Located on the Atlantic Ocean at the mouth of the Chesapeake Bay, Virginia Beach is included in the Hampton Roads metropolitan area. This area, known as "America's First Region", also includes the independent cities of Chesapeake, Hampton, Newport News, Norfolk, Portsmouth, and Suffolk, as well as other smaller cities, counties, and towns of Hampton Roads.
+Virginia Beach is a resort city with miles of beaches and hundreds of hotels, motels, and restaurants along its oceanfront. Every year the city hosts the East Coast Surfing Championships as well as the North American Sand Soccer Championship, a beach soccer tournament. It is also home to several state parks, several long-protected beach areas, three military bases, a number of large corporations, two universities, International headquarters and site of the television broadcast studios for Pat Robertson's Christian Broadcasting Network (CBN), Edgar Cayce's Association for Research and Enlightenment, and numerous historic sites. Near the point where the Chesapeake Bay and the Atlantic Ocean meet, Cape Henry was the site of the first landing of the English colonists, who eventually settled in Jamestown, on April 26, 1607.
+The city is listed in the Guinness Book of Records as having the longest pleasure beach in the world. It is located at the southern end of the Chesapeake Bay Bridge-Tunnel, the longest bridge-tunnel complex in the world.[6]
+
+
+
+Contents
+
+
+1 History
+2 Geography and climate
+
+2.1 Neighborhoods
+2.2 Climate
+
+
+3 Demographics
+
+3.1 Religion
+
+
+4 Economy
+5 Culture
+6 Sports
+7 Parks and recreation
+8 Government
+9 Education
+10 Media
+11 Infrastructure
+
+11.1 Transportation
+
+11.1.1 Walkability
+
+
+11.2 Utilities
+11.3 Healthcare
+
+
+12 Notable people
+13 Sister cities
+14 In popular culture
+15 See also
+16 Notes
+17 References
+18 External links
+
+
+
+History[edit]
+Main articles: History of Virginia Beach; Timeline of Virginia Beach, Virginia; and Princess Anne County, Virginia
+
+
+
+
+A Chesepian home
+
+
+The Chesepian were the historic indigenous people of the area now known as Tidewater in Virginia at the time of European encounter. Little is known about them[7] but archeological evidence suggests they may have been related to the Carolina Algonquian, or Pamlico people. They would have spoken one of the Algonquian languages. These were common among the numerous tribes of the coastal area, who made up the loose Powhatan Confederacy, numbering in the tens of thousands in population. The Chesepian occupied an area which is now defined as the independent cities of Norfolk, Portsmouth, Chesapeake, and Virginia Beach.[8]
+
+
+
+
+Cape Henry from the air, facing east-southeast
+
+
+In 1607, after a voyage of 144 days, three ships headed by Captain Christopher Newport, and carrying 105 men and boys, made their first landfall in the New World on the mainland, where the southern mouth of the Chesapeake Bay meets the Atlantic Ocean. They named it Cape Henry, after Henry Frederick, Prince of Wales, the eldest son of King James I of England. These English colonists of the Virginia Company of London moved on from this area, as they were under orders to seek a site further inland, which would be more sheltered from ships of competing European countries. They created their first permanent settlement on the north side of the James River at Jamestown.[9]
+Adam Thoroughgood (1604–1640) of King's Lynn, Norfolk, England is one of the earliest Englishmen to settle in this area, which was developed as Virginia Beach. At the age of 18, he had contracted as an indentured servant to pay for passage to the Virginia Colony in the hopes of bettering his life. He earned his freedom after several years and became a leading citizen of the area. In 1629, he was elected to the House of Burgesses for Elizabeth Cittie  [sic], one of four "citties" (or incorporations) which were subdivided areas established in 1619.[10]
+In 1634, the Colony was divided into the original eight shires of Virginia, soon renamed as counties. Thoroughgood is credited with using the name of his home in England when helping name "New Norfolk County" in 1637. The following year, New Norfolk County was split into Upper Norfolk County (soon renamed Nansemond County) and Lower Norfolk County. Thoroughgood resided after 1634 was along the Lynnhaven River, named for his home in England.
+Lower Norfolk County was large when first organized, defined as from the Atlantic Ocean west past the Elizabeth River, encompassing the entire area now within the modern cities of Portsmouth, Norfolk, Chesapeake, and Virginia Beach.[10] It attracted many entrepreneurs, including William Moseley with his family in 1648. Belonging to the Merchant Adventurers Guild of London, he immigrated from Rotterdam of the Netherlands, where he had been in the international trade. He settled on land on the north side of the Elizabeth River (Virginia), east of what developed as Norfolk.
+Following increased settlement, in 1691 Lower Norfolk County was divided to form Norfolk and Princess Anne counties. Princess Anne, the easternmost county in South Hampton Roads, extended from Cape Henry at the mouth of the Chesapeake Bay, south to what became the border of the North Carolina colony. It included all of the area fronting the Atlantic Ocean. Princess Anne County was known as a jurisdiction from 1691 to 1963, over 250 years.[11]
+
+
+
+
+Princess Anne County (1691–1963), now extinct, with Virginia Beach from 1895 Virginia map
+
+
+In the early centuries, this area was rural and developed for plantation agriculture. In the late 19th century, the small resort area of Virginia Beach developed in Princess Anne County after the 1883 arrival of rail service to the coast. The Virginia Beach Hotel was opened and operated by the Norfolk and Virginia Beach Railroad and Improvement Company at the oceanfront, near the tiny community of Seatack. The hotel was foreclosed and the railroad reorganized in 1887. The hotel was upgraded and reopened in 1888 as the Princess Anne Hotel.[12]
+In 1891, guests at the new hotel watched the wreck and rescue efforts of the United States Life-Saving Service for the Norwegian bark Dictator. The ship's figurehead, which washed up on the beach several days later, was erected as a monument to the victims and rescuers. It stood along the oceanfront for more than 50 years. In the 21st century, it inspired the pair of matching Norwegian Lady Monuments, sculpted by Ørnulf Bast and installed in Virginia Beach and Moss, Norway.[13]
+The resort initially depended on railroad and electric trolley service. The completion of Virginia Beach Boulevard in 1922, which extended from Norfolk to the oceanfront, opened the route for automobiles, buses, and trucks. The passenger rail service to the oceanfront was eventually discontinued as traffic increased by vehicle. The growing resort of Virginia Beach became an incorporated town in 1906. Over the next 45 years, Virginia Beach continued to grow in popularity as a seasonal vacation spot. The casinos were replaced by amusement parks and family-oriented attractions. In 1927 The Cavalier Hotel opened and became a popular vacation spot.
+Virginia Beach gained status as an independent city in 1952, although ties remained between it and Princess Anne County. In 1963, after voters in the two jurisdictions passed a supporting referendum, and with the approval of the Virginia General Assembly, the two political subdivisions were consolidated as a new, much larger independent city, retaining the better-known name of the Virginia Beach resort.[14]
+The Alan B. Shepard Civic Center ("The Dome"), a significant building in the city's history,[why?] was constructed in 1958,[15] and was dedicated to the career of former Virginia Beach resident and astronaut Alan Shepard.[16] As the area changed, the Dome was frequently used as a bingo hall. The building was razed in 1994[15] to make room for a municipal parking lot and potential future development.
+
+
+
+
+Virginia Beach Town Center
+
+
+Real estate, defense, and tourism are major sectors of the Virginia Beach economy. Local public and private groups have maintained a vested interest in real-estate redevelopment, resulting in a number of joint public-private projects, such as commercial parks. Examples of the public-private development include the Virginia Beach Convention Center, the Oceanfront Hilton Hotel, and the Virginia Beach Town Center. The city assisted in financing the project through the use of tax increment financing: creating special tax districts and constructing associated street and infrastructure to support the developments. The Town Center opened in 2003, with related construction continuing. The Convention Center opened in 2005.[17][18]
+The city has begun to run out of clear land available for new construction north of the Green Line, an urban growth boundary dividing the urban northern and rural southern sections of the city.[19] Infill and development of residential neighborhoods has placed a number of operating constraints on Naval Air Station Oceana, a major fighter jet base for the U.S. Navy. While the airbase enjoys wide support from Virginia Beach at large, the Pentagon Base Realignment and Closure commission has proposed closure of Oceana within the next decade.[20]
+Geography and climate[edit]
+
+
+
+
+The Chesapeake Bay shore
+
+
+Virginia Beach is located at 36°51′02″N 75°58′40″W﻿ / ﻿36.8506°N 75.9779°W﻿ / 36.8506; -75.9779﻿ (Virginia Beach)Coordinates: 36°51′02″N 75°58′40″W﻿ / ﻿36.8506°N 75.9779°W﻿ / 36.8506; -75.9779﻿ (Virginia Beach).[21]
+According to the United States Census Bureau, the city has a total area of 497 square miles (1,290 km2), of which 249 square miles (640 km2) is land and 248 square miles (640 km2) (49.9%) is water.[21] It is the largest city in Virginia by total area and third-largest city land area. The average elevation is 12 feet (3.7 m) above sea level. A major portion of the city drains to the Chesapeake Bay by way of the Lynnhaven River and its tributaries.
+The city is located at the southeastern corner of Virginia in the Hampton Roads area bordering the Atlantic Ocean. The Hampton Roads Metropolitan Statistical Area (officially known as the Virginia Beach-Norfolk-Newport News, VA-NC MSA) is the 37th largest in the United States, with a total population of 1,707,639. The area includes the Virginia cities of Norfolk, Virginia Beach, Chesapeake, Hampton, Newport News, Poquoson, Portsmouth, Suffolk, Williamsburg, and the counties of Gloucester, Isle of Wight, James City, Mathews, Surry, and York, as well as the North Carolina county of Currituck. While Virginia Beach is the most populated city within the MSA, it actually currently functions more as a suburb. The city of Norfolk is recognized as the central business district, while the Virginia Beach oceanside resort district and Williamsburg are primarily centers of tourism.
+Neighborhoods[edit]
+
+
+
+
+Virginia Beach from space
+
+
+When the modern city of Virginia Beach was created in 1963, by the consolidation of the 253 square miles (660 km2) Princess Anne County with the 2 square miles (5.2 km2) City of Virginia Beach, the newly larger city was divided into seven boroughs: Bayside, Blackwater, Kempsville, Lynnhaven, Princess Anne, Pungo, and Virginia Beach.
+Virginia Beach has many distinctive communities and neighborhoods within its boundaries, including: Alanton, Aragona Village, the largest sub-division in Tidewater when completed, Bay Colony, Bayside, Cape Henry, Chesapeake Beach, Croatan Beach, Great Neck Point, Green Run, Kempsville, Lago Mar, London Bridge, Lynnhaven, Newtown,The North End, Oceana, Ocean Park, Pembroke Manor, Princess Anne, Pungo, Red Mill Commons, Sandbridge, Thalia, and Thoroughgood.[22]
+Climate[edit]
+The climate of Virginia Beach is humid subtropical (Köppen: Cfa). Winters are cool and snowfall is light. Summers are hot and humid. The "official" weather statistics are recorded at Norfolk International Airport on the extreme northwestern border of Virginia Beach. The mean annual temperature is 59.6 °F (15.3 °C), with an average annual snowfall of 5.8 inches (150 mm) at the airport to around 3.0 inches (76 mm) in the southeastern corner around Back Bay.[23] Average annual rainfall is higher; between 47 inches (1,200 mm) at the airport to over 50 inches (1,300 mm) per year at Back Bay. The wettest seasons are spring and summer, although rainfall is mostly constant year round. The highest recorded temperature to date was 105 °F (41 °C) in July 2010, and the lowest recorded temperature was −3 °F (−19 °C) in January 1985, both being recorded at Norfolk International Airport.[24]
+Additionally, the geographic location of the city, with respect to the principal storm tracks, is especially favorable which is why it has earned the reputation as a vacation destination. It is south of the average path of storms originating in the higher latitudes, and north of the usual tracks of hurricanes and other major tropical storms, with the exception of Hurricane Isabel in 2003.[25] Because of the moderating effects of the Chesapeake Bay and the Atlantic Ocean, Virginia Beach is the northernmost location on the east coast in which many species of plants (both subtropical and tropical) will reliably grow. Spanish moss, for example is near the northernmost limit of its natural range at First Landing State Park, and is the most northerly location where it is widespread. Other plants like Sabal palmetto, Pindo Palm, Windmill Palm, Hardy Citrus, and Oleander are successfully grown here while they succumb to the colder winter temperatures to the north and inland to the west.
+
+
+
+Climate data for Norfolk International Airport, Virginia (1981–2010 normals,[a] extremes 1874–present[b])
+
+
+Month
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+Year
+
+
+Record high °F (°C)
+84
+(29)
+82
+(28)
+92
+(33)
+97
+(36)
+100
+(38)
+102
+(39)
+105
+(41)
+105
+(41)
+100
+(38)
+95
+(35)
+86
+(30)
+82
+(28)
+105
+(41)
+
+
+Mean maximum °F (°C)
+71.1
+(21.7)
+73.2
+(22.9)
+80.2
+(26.8)
+86.4
+(30.2)
+91.4
+(33)
+95.5
+(35.3)
+97.8
+(36.6)
+95.8
+(35.4)
+92.1
+(33.4)
+85.6
+(29.8)
+78.7
+(25.9)
+72.5
+(22.5)
+98.8
+(37.1)
+
+
+Average high °F (°C)
+48.1
+(8.9)
+50.9
+(10.5)
+58.2
+(14.6)
+67.6
+(19.8)
+75.4
+(24.1)
+83.5
+(28.6)
+87.4
+(30.8)
+85.1
+(29.5)
+79.3
+(26.3)
+70.1
+(21.2)
+61.1
+(16.2)
+52.1
+(11.2)
+68.3
+(20.2)
+
+
+Average low °F (°C)
+32.7
+(0.4)
+34.4
+(1.3)
+40.5
+(4.7)
+48.9
+(9.4)
+57.9
+(14.4)
+67.1
+(19.5)
+71.9
+(22.2)
+70.7
+(21.5)
+65.3
+(18.5)
+54.0
+(12.2)
+44.6
+(7)
+36.1
+(2.3)
+52.1
+(11.2)
+
+
+Mean minimum °F (°C)
+17.6
+(−8)
+21.2
+(−6)
+27.2
+(−2.7)
+35.7
+(2.1)
+45.7
+(7.6)
+55.5
+(13.1)
+63.1
+(17.3)
+61.6
+(16.4)
+53.7
+(12.1)
+39.7
+(4.3)
+30.5
+(−0.8)
+21.7
+(−5.7)
+15.2
+(−9.3)
+
+
+Record low °F (°C)
+−3
+(−19)
+2
+(−17)
+14
+(−10)
+23
+(−5)
+36
+(2)
+45
+(7)
+54
+(12)
+49
+(9)
+40
+(4)
+27
+(−3)
+17
+(−8)
+5
+(−15)
+−3
+(−19)
+
+
+Average precipitation inches (mm)
+3.40
+(86.4)
+3.12
+(79.2)
+3.68
+(93.5)
+3.41
+(86.6)
+3.41
+(86.6)
+4.26
+(108.2)
+5.14
+(130.6)
+5.52
+(140.2)
+4.76
+(120.9)
+3.42
+(86.9)
+3.15
+(80)
+3.26
+(82.8)
+46.53
+(1,181.9)
+
+
+Average snowfall inches (cm)
+2.4
+(6.1)
+2.0
+(5.1)
+0.2
+(0.5)
+trace
+0
+(0)
+0
+(0)
+0
+(0)
+0
+(0)
+0
+(0)
+0
+(0)
+trace
+1.2
+(3)
+5.8
+(14.7)
+
+
+Average precipitation days (≥ 0.01 in)
+10.4
+9.5
+10.6
+10.1
+10.6
+9.9
+11.1
+10.1
+8.8
+7.6
+8.5
+9.8
+117.0
+
+
+Average snowy days (≥ 0.1 in)
+1.6
+1.3
+0.4
+0.1
+0
+0
+0
+0
+0
+0
+0
+0.6
+4.0
+
+
+Average relative humidity (%)
+66.3
+65.6
+64.6
+62.8
+68.8
+70.6
+73.3
+75.2
+74.4
+72.1
+68.5
+67.0
+69.1
+
+
+Mean monthly sunshine hours
+171.5
+175.2
+229.3
+252.8
+271.7
+280.1
+278.3
+260.4
+231.4
+208.3
+175.7
+160.4
+2,695.1
+
+
+Percent possible sunshine
+56
+58
+62
+64
+62
+64
+62
+62
+62
+60
+57
+53
+61
+
+
+Source: NOAA (relative humidity and sun 1961–1990)[24][26][27]
+
+
+Demographics[edit]
+
+
+Historical population
+
+
+Census
+Pop.
+
+%±
+
+
+1790
+7,793
+
+—
+
+
+1800
+8,859
+
+13.7%
+
+
+1810
+9,498
+
+7.2%
+
+
+1820
+8,768
+
+−7.7%
+
+
+1830
+9,102
+
+3.8%
+
+
+1840
+7,285
+
+−20.0%
+
+
+1850
+7,669
+
+5.3%
+
+
+1860
+7,714
+
+0.6%
+
+
+1870
+8,273
+
+7.2%
+
+
+1880
+9,394
+
+13.6%
+
+
+1890
+9,510
+
+1.2%
+
+
+1900
+11,192
+
+17.7%
+
+
+1910
+11,526
+
+3.0%
+
+
+1920
+13,626
+
+18.2%
+
+
+1930
+16,282
+
+19.5%
+
+
+1940
+19,984
+
+22.7%
+
+
+1950
+42,277
+
+111.6%
+
+
+1960
+77,127
+
+82.4%
+
+
+1790-1960 Population as Princess Anne County
+
+
+
+
+Historical population
+
+
+Census
+Pop.
+
+%±
+
+
+1910
+320
+
+—
+
+
+1920
+846
+
+164.4%
+
+
+1930
+1,719
+
+103.2%
+
+
+1940
+2,600
+
+51.3%
+
+
+1950
+5,390
+
+107.3%
+
+
+1960
+8,091
+
+50.1%
+
+
+1970
+172,106
+
+2,027.1%
+
+
+1980
+262,199
+
+52.3%
+
+
+1990
+393,069
+
+49.9%
+
+
+2000
+425,257
+
+8.2%
+
+
+2010
+437,994
+
+3.0%
+
+
+Est. 2016
+452,602
+[28]
+3.3%
+
+
+U.S. Decennial Census[29]
+1790-1960[30] 1900-1990[31]
+1990-2000[32]
+
+
+According to the 2010 Census, the racial composition of Virginia Beach was as follows:[33]
+
+White or Caucasian: 67.7% (Non-Hispanic White: 64.5%)
+Black or African American: 19.6%
+American Indian: 0.4%
+Asian: 6.1% (4.0% Filipino, 0.5% Chinese, 0.4% Indian, 0.4% Vietnamese, 0.3% Korean, 0.2% Japanese)
+Native Hawaiian and Other Pacific Islander: 0.1%
+Some other race: 2.0%
+Two or more races: 4.0%
+Hispanic or Latino (of any race): 6.6% (2.2% Puerto Rican, 1.9% Mexican, 0.3% Dominican, 0.2% Panamanian, 0.2% Salvadoran, 0.2% Cuban, 0.2% Colombian)
+
+
+
+
+
+Map of racial distribution in Virginia Beach, 2010 U.S. Census. Each dot is 25 people: White, Black, Asian, Hispanic or Other (yellow)
+
+
+As of the census of 2000,[1] there were 425,257 people, 154,455 households, and 110,898 families residing in the city. The population density was 1,712.7 people per square mile (661.3/km²). There were 162,277 housing units at an average density of 653.6 per square mile (252.3/km²).
+The racial makeup of the city was: 67.7% White (64.5% non-Hispanic white), 19.6% African American, 0.4% Native American, 6.1% Asian, 0.1% Pacific Islander, 2.0% from other races, and 4.0% from two or more races. 6.6% of the population were Hispanic or Latino of any race.
+There were 154,455 households out of which 38.8% had children under the age of 18 living with them, 55.7% were married couples living together, 12.4% had a female householder with no husband present, and 28.2% were non-families. 20.4% of all households were made up of individuals and 5.5% had someone living alone who was 65 years of age or older. The average household size was 2.70 and the average family size was 3.14.
+The age distribution was 27.5% under the age of 18, 10.0% from 18 to 24, 34.3% from 25 to 44, 19.8% from 45 to 64, and 8.4% who were 65 years of age or older. The median age was 33 years. For every 100 females there were 98.0 males. For every 100 females age 18 and over, there were 95.8 males.
+The median income for a household in the city was $48,705, and the median income for a family was $53,242. Virginia Beach had the 5th highest median family income among large cities in 2003.[34] The per capita income for the city was $22,365. About 5.1% of families and 6.5% of the population were below the poverty line, including 8.6% of those under age 18 and 4.7% of those age 65 or over.
+The city of Virginia Beach has a lower crime rate than the other regional cities of Hampton Roads, Newport News, Norfolk, and Portsmouth, which all exceed national average crime rates. In 1999 Virginia Beach experienced 12 murders giving the city a murder rate of 2.7 per 100,000 people. For 2007, Virginia Beach had 16 murders, for a murder rate of 3.7 per 100,000 people. That was lower than the national average that year of 6.9. The city's total crime index rate for 2007 was 221.2 per 100,000 people, lower than the national average of 320.9.[35] According to the Congressional Quarterly Press '2008 City Crime Rankings: Crime in Metropolitan America, Virginia Beach, Virginia ranks 311th in violent crime among 385 cities containing more than 75,000 inhabitants.[36]
+
+Violent crimes per 100,000 citizens
+
+Crime
+Virginia Beach (2009)
+National Average
+
+
+Murder
+3.7
+6.9
+
+
+Rape
+20.2
+32.2
+
+
+Robbery
+127.3
+195.4
+
+
+Assault
+98.6
+340.1
+
+
+Burglary
+495.2
+814.5
+
+
+Automobile Theft
+134.4
+526.5
+
+
+Religion[edit]
+34.4% of the city's population is affiliated with religious congregations, compared to the 50.2% nationwide figure. There are 146,402 adherents and 184 different religious congregations in the city.[37]
+
+28% Catholic Church
+14% Southern Baptist Convention
+13% United Methodist Church
+12% Charismatic Churches Independent
+33% Others
+
+Economy[edit]
+
+
+
+
+Tourism at the beach boosts Virginia Beach's economy
+
+
+Virginia Beach is best known for its tourism but the military and agribusiness sectors contribute to the city's economy. The city's economy also contains a large retail component at places such as Lynnhaven Mall. Major companies headquartered in Virginia Beach include Amerigroup, the Christian Broadcasting Network, Operation Blessing International, and Stihl (American headquarters). Other major employers include GEICO, VT and Navy Exchange Service Command.[38] Virginia Beach was ranked at number 45 on Forbes list of best places for business and careers.
+Tourism produces a large share of Virginia Beach's economy. With an estimated $857 million spent in tourism related industries, 14,900 jobs cater to 2.75 million visitors. City coffers benefit as visitors provide $73 million in revenue. Virginia Beach opened a Convention Center in 2005 which caters to large group meetings and events. Hotels not only line the oceanfront but also cluster around Virginia Beach Town Center and other parts of the city. Restaurants and entertainment industries also directly benefit from Virginia Beach's tourism.[38]
+Ecotourism has a large portion of the tourism market in Virginia Beach. There are many eco-adventures companies which offer tours on the land and on the water. Coyotes, foxes and bobcats can be seen inland of Virginia Beach in False Cape State Park.
+The Virginia Aquarium & Marine Science Center conducts tours of the coast for bird sightings as well as whales if the season is right. They offer school field trips and overnight adventures into the various surrounding regions with a focus on education. Lessons for surfing, stand up paddling and kayaking are popular in the area. The aquarium offers whale and dolphin watching tours. These tours are offered through the aquarium and are led by trained marine-life educators. The whale watching tours are available in the winter months when whales visit the area. The dolphin tours are available in the summer months. The tours take off from the aquarium, but can be cancelled due to weather.[39]
+Virginia Beach has a large agribusiness sector which produces $80 million for the city economy. One hundred-seventy-two farms exist in Virginia Beach, mostly below the greenline in the southern portion of the city. Farmers are able to sell their goods and products at the city's Farmer's Market.[40][41]
+
+
+
+
+A VF-41 F-4J over NAS Oceana in the late 1960s
+
+
+Virginia Beach is home to several United States Military bases. These include the United States Navy's NAS Oceana and Training Support Center Hampton Roads, and the Joint Expeditionary Base East located at Cape Henry. Additionally, NAB Little Creek is located mostly within the city of Virginia Beach but carries a Norfolk address.[42]
+NAS Oceana is the largest employer in Virginia Beach; it was decreed by the 2005 BRAC Commission that NAS Oceana must close unless the city of Virginia Beach condemns houses in areas designated as "Accident Potential Zones." This action has never been the position of the United States Navy; indeed, the Navy had not recommended NAS Oceana to the BRAC Commission for potential closure. The issue of closure of NAS Oceana remains unresolved as of May 2008 [20][dubious – discuss]
+Both NAS Oceana and Training Support Center Hampton Roads are considered to be the largest of their respective kind in the world. Furthermore, located in nearby Norfolk is the central hub of the United States Navy's Atlantic Fleet, Norfolk Navy Base.[43]
+Culture[edit]
+Main article: Culture in Virginia Beach
+
+
+
+
+Adam Thoroughgood House, before 1957 restoration
+
+
+The city is home to several points of interest in the historical, scientific, and visual/performing arts areas, and has become a popular tourist destination in recent years. The Virginia Museum of Contemporary Art features regularly changing exhibitions in a variety of media. Exhibitions feature painting, sculpture, photography, glass, video and other visual media from internationally acclaimed artists as well as artists of national and regional renown. MOCA was born from the annual Boardwalk Art Show, which began in 1952 and is now the museum's largest fundraiser. By operating at a national standard, MOCA received accreditation from the American Alliance of Museums in 2010.
+The Virginia Aquarium & Marine Science Center (formerly the Virginia Marine Science Museum) is a popular aquarium near the oceanfront that features the 300,000-gallon Norfolk Canyon Aquarium, containing sand tiger, nurse and brown sharks, as well as sting rays and other large open-ocean dwellers. There is also a 70,000-gallon sea turtle aquarium, sea turtle hatchling laboratory, hands-on ocean exploration exhibits, jellyfish and octopus aquariums, and even a life-size model of a humpback whale. Other features include the Owls Creek salt marsh and a nature trail.[44]
+The Virginia Beach Amphitheater, built in 1996, features a wide variety of popular shows and concerts, ranging from Kenny Chesney to Taylor Swift to Coldplay to Ozzfest. The Sandler Center, a 1200-seat performing arts theatre, opened in the Virginia Beach Town Center in November 2007.[45] Virginia Beach is home to many sites of historical importance and has 18 sites on the National Register of Historic Places. Such sites include the Adam Thoroughgood House (one of the oldest surviving colonial homes in Virginia), the Francis Land House (a 200-year-old plantation), the Cape Henry Lights and nearby Cape Henry Light Station (a second tower), Bayville Farm, De Witt Cottage, Ferry Farm Plantation, Dr. John Miller-Masury House, Adam Keeling House, Old Donation Church, Pembroke Manor, Pleasant Hall, Shirley Hall (Devereaux House), Thomas Murray House, U.S. Coast Guard Station (Seatack), Upper Wolfsnare, Weblin House, and Wishart Boush House, and Wolfsnare.[46]
+The Edgar Cayce Hospital for Research and Enlightenment was established in Virginia Beach in 1928 with 60 beds. Cayce was a psychic from Kentucky who claimed healing abilities and made prophesies. Cayce is known as the father of the "New Age" movement of the 1960s. Cayce resided in Virginia Beach until he died on January 3, 1945. His followers are still active in Virginia Beach. The 67th street facility features a large private library of books on psychic matters, and is open to the public. The traditional beach-architecture headquarters building features massage therapy by appointment. Atlantic University was opened by Cayce in 1930; it closed two years later but was re-opened in 1985. Atlantic University was originally intended for study of Cayce's readings and research on spiritual subjects.[47]
+The city's largest festival, the Neptune Festival, attracts 500,000 visitors to the oceanfront and 350,000 visitors to the air show at NAS Oceana. Celebrating the city's heritage link with Norway, events are held in September in the oceanfront and Town Center areas.[48] Every August, the American Music Festival provides festival attendees with live music performed on stages all over the oceanfront, including the beach on Fifth Street. The festival ends with the Rock 'n' Roll Half Marathon.[49]
+Sports[edit]
+
+
+Club
+League
+Venue
+Established
+
+
+Virginia Beach Neptunes
+ALPB Baseball
+Wheeler Field
+2014
+
+
+Virginia Beach City FC
+NPSL Soccer
+Virginia Beach Sportsplex
+2014
+
+
+Since Norfolk contains the central business district of Hampton Roads, most of the major spectator sports are located there. While the Hampton Roads area has been recently considered as a viable prospect for major-league professional sports, and regional leaders have attempted to obtain Major League Baseball, NBA and NHL franchises in the recent past, no team has yet relocated to the area.[50] Hampton Roads is the second largest metropolitan area in the United States without a club in a major professional sports league, after the Austin metropolitan area.
+The Norfolk Admirals won the AHL Calder Cup in 2012.
+The Virginia Destroyers, a UFL franchise, played at the Virginia Beach Sportsplex until the league's collapse in 2012. Two soccer teams, the Virginia Beach Piranhas, a men's team in the USL Premier Development League, and the Hampton Roads Piranhas, a women's team in the W-League play at the Virginia Beach Sportsplex. The Virginia Beach Sportsplex contains the central training site for the U.S. women's national field hockey team.[citation needed]
+The city is also home to the East Coast Surfing Championships, an annual contest of more than 100 of the world's top professional surfers and an estimated 400 amateur surfers. This is North America's oldest surfing contest.[citation needed]
+There are eleven golf courses open to the public in the city, as well as four country club layouts and 36 military holes at NAS Oceana's Aeropines course. Among the best-known public courses are Hell's Point Golf Club and Virginia Beach National, the latter of which hosted the Virginia Beach Open, a Nationwide Tour event from 2000 to 2006.[51] Also, the Kingsmill Resort hosts the Kingsmill Championship, an annual LPGA Tour tournament.
+Virginia Beach is host to a Rock 'n' Roll Half Marathon each year on Labor Day weekend in conjunction with the American Music Festival. It is one of the largest Half Marathons in the world. The final 3 miles (4.8 km) are on the boardwalk.[52]
+In 2012, Virginia Beach was one of several cities trying to lure the Sacramento Kings to play there.[53]
+Parks and recreation[edit]
+Virginia Beach is home to 210 city parks, encompassing over 4,000 acres (1,600 ha), including neighborhood parks, community parks, district parks, and other open spaces. Each park is unique and offers something for everyone, from wide open spaces to playgrounds, picnic shelters, and ballfields.[54]
+Mount Trashmore Park is clearly visible from I-264 when traveling to the oceanfront. The park is 165 acres (67 ha). The hill is 60 ft (18 m) high and over 800 ft (240 m) long, and was created by compacting layers of solid waste and clean soil. It is the highest point in Virginia Beach. The park also features two lakes: Lake Windsor and Lake Trashmore. Lake Trashmore is stocked with fish, but is unsanitary to fish in. Residents can also take advantage of a skate park.[55]
+
+
+
+
+A Japanese-style moon bridge in the Miyazaki Japanese Garden, Red Wing Park
+
+
+One of the major parks is Red Wing Park, a 97 acres (39 ha) park in east-central part of the city, very close to Oceana Naval Air Station. This land became a park in 1966. A unique feature of this park is the Miyazaki Japanese Garden, which is a result of its interactions with its sister city Miyazaki, Japan. Other features include: the Reba S. McClanan Fragrance Garden, 5 picnic shelters with charcoal grills, tennis courts, pickleball courts, basketball court, 2 volleyball courts, handball/racquetball court, horseshoe pits, two playground areas, shared-use paths, gardens, picnic areas with charcoal grills, dog park, open fields, vending machines, public restrooms, a playground, wooded areas.[56]
+Another major park in the city is Great Neck Park, a 70 acres (28 ha) park located in the Lynnhaven District. Facilities include five large group shelters, mini-shelters, family picnic tables and grills, three playgrounds, horseshoe pits, volleyball courts, vending machines, walking trails, four baseball fields, as well as a gazebo located at the end of a scenic walkway overlooking the Lynnhaven River.[57]
+
+
+
+
+People riding a rental surrey on the boardwalk
+
+
+The Back Bay National Wildlife Refuge, established in 1938, is an 8,000-acre (32 km2) fresh water refuge that borders the Atlantic Ocean on the east and Back Bay on the west. The barrier islands feature large sand dunes, maritime forests, fresh water marshes, ponds, ocean beach, and large impoundments for wintering wildfowl. It is managed by the U.S. Fish and Wildlife Service.[58]
+First Landing State Park and False Cape State Park are both located in coastal areas within the city's corporate limits as well. Both offer camping facilities, cabins, and outdoor recreation activities in addition to nature and history tours.[59][60]
+Munden Point Park is a rural park located in the deep southern end of the city,[61] right on The North Landing River.[62] It is owned and maintained by the city of Virginia Beach. The park features five shelters, three baseball fields, a boat ramp, boat rentals, three playgrounds, six horseshoe pits, volleyball nets, and light hiking trails. An outdoor amphitheatre is fully equipped with electrical outlets and is available for reservations of weddings, outside classroom activities and other events. Restrooms, parking, vending machines, playgrounds, gardens, and barbecue grills are also available for use. Canoes, boat ramps, and disc golf courses may also be rented to go.
+Additionally, the famous 3 miles (4.8 km) boardwalk at the oceanfront is often packed with fascinating entertainment, outdoor cafes, concerts and people. Made of concrete, the boardwalk links forty hotels and other attractions and has a bike path.[63]
+Naval Aviation Monument Park was formally dedicated on May 6, 2006, by the Hampton Roads Squadron of the Naval Aviation Foundation Association. Planned since 1997 in partnership with the City of Virginia Beach, the park features heroic-scale statuary and reliefs to tell the history of Naval Aviation.[64]
+Pleasure House Point is an 118 acres (48 hectares) park of undeveloped land on the shore of the Lynnhaven River. Located just south of the Lesner Bridge and the Chesapeake Bay, it includes oyster beds, wetlands and a maritime forest.[citation needed] The location was the site of a planned condo development that collapsed in 2008. It was acquired by the City of Virginia Beach with help from the Trust for Public Land and the Chesapeake Bay Foundation in 2012.[65] It is one of the largest undeveloped parcels of land on the Lynnhaven River and will be preserved for future generations. It is also the location of the Brock Environmental Center which provides hands-on educational programs for students to learn about the Chesapeake Bay.[66]
+Lastly, of course, are the city's abundant and ample indoor recreational facilities, which often include basketball and racquetball courts, weight and fitness training rooms, and swimming pools. These centers also play host to many special programs for children, youth and adults. The Bayside facility, for example, offers classes in yoga and pilates, as well as various types and styles of dance, not to mention seasonal offerings for young children and senior citizens.
+Virginia Beach's extensive park system is recognized as one of the best in the United States. In its 2013 ParkScore ranking, The Trust for Public Land reported that Virginia Beach had the 8th best park system among the 50 most populous U.S. cities.[67] ParkScore ranks city park systems by a formula that analyzes the city's median park size, park acres as percent of city area, the percent of city residents within a half-mile of a park, spending of park services per resident, and the number of playgrounds per 10,000 residents.
+Government[edit]
+
+
+
+
+Local law prohibits the use of profanity along the boardwalk. This sign along Atlantic Avenue indicates this law.
+
+
+
+Presidential Elections Results[68]
+
+Year
+Republican
+Democratic
+Third Parties
+
+
+2016
+48.4% 98,224
+44.8% 91,032
+6.8% 13,763
+
+
+2012
+50.5% 99,291
+48.0% 94,299
+1.6% 3,051
+
+
+2008
+49.9% 100,319
+49.1% 98,885
+1.0% 2,045
+
+
+2004
+59.1% 103,752
+40.2% 70,666
+0.7% 1,269
+
+
+2000
+55.9% 83,674
+41.6% 62,268
+2.6% 3,829
+
+
+1996
+50.6% 63,741
+41.4% 52,142
+8.0% 10,060
+
+
+1992
+50.0% 68,936
+32.2% 44,294
+17.8% 24,555
+
+
+1988
+68.9% 76,481
+30.4% 33,780
+0.7% 757
+
+
+1984
+74.4% 72,571
+25.3% 24,703
+0.3% 320
+
+
+1980
+60.5% 47,936
+31.4% 24,895
+8.1% 6,404
+
+
+1976
+54.5% 34,593
+40.7% 25,824
+4.9% 3,101
+
+
+1972
+76.6% 38,074
+20.9% 10,373
+2.6% 1,286
+
+
+1968
+43.2% 16,316
+26.8% 10,101
+30.0% 11,325
+
+
+1964
+44.9% 10,529
+55.0% 12,892
+0.1% 21
+
+
+1960
+42.5% 986
+56.1% 1,301
+1.5% 34
+
+
+1956
+53.3% 1,355
+43.7% 1,111
+3.0% 77
+
+
+1952
+59.8% 1,310
+40.2% 881
+
+
+
+Virginia Beach was chartered as a municipal corporation by the General Assembly of Virginia on January 1, 1963. The city currently operates under the council–manager form of government.[69] The city does not fall under the jurisdiction of a county government, due to state law. Rather, it functions as an independent city and operates as a political subdivision of the state.
+The city's legislative body consists of an eleven-member city council. The city manager is appointed by the council and acts as the chief executive officer. Through his staff, he implements policies established by the council.[70]
+Members of the city council normally serve four-year terms and are elected on a staggered basis in non-partisan elections. Beginning in 2008, general elections are held the first Tuesday in November in even-numbered years. In previous years, elections were held the first Tuesday in May in even-numbered years. All registered voters are eligible to vote for all council members. Three council members and the mayor serve on an at-large basis. All others are elected by district (and must live in the district they represent): Bayside, Beach, Centerville, Kempsville, Lynnhaven, Princess Anne, and Rose Hall.[69]
+The mayor is elected to a four-year term through direct election. The mayor presides over city council meetings, and serves as the ceremonial head and spokesperson of the city. A vice mayor is also elected by the city council at the first meeting following a council election.[70] The current mayor of Virginia Beach is Will Sessoms, a Republican.
+Citizens of Virginia Beach also elect five constitutional officers, and candidates for these offices are permitted to run with an affiliated political party. Three of these offices deal substantially with public safety and justice: the sheriff, commonwealth's attorney, and the clerk of the circuit court. The two other offices are concerned with fiscal policy: the city treasurer and the commissioner of the revenue.
+Virginia Beach is located entirely in the Virginia's 2nd congressional district, served by U.S. Representative Scott Taylor (Republican).
+Education[edit]
+
+
+
+
+The current building of Frank W. Cox High School
+
+
+According to the U.S. Census, 28.1% of the population over twenty-five (vs. a national average of 24%) hold a bachelor's degree or higher, and 90.4% (vs. 80% nationally) have a high school diploma or equivalent.
+The city of Virginia Beach is home to Virginia Beach City Public Schools, one of the largest school systems in the state (based on student enrollment). Virginia Beach City Public Schools currently serves 69,735 students, and includes 56 elementary schools, 14 middle schools, 12 high schools which include Landstown, Princess Anne, Green Run, Green Run Collegiate, Cox, Tallwood, Salem, First Colonial, Kellam, Kempsville, Bayside, and Ocean Lakes High Schools as well as a number of secondary/post-secondary specialty schools and centers such as the Advanced Technology Center (ATC), which provides courses for those trying to gain a place in the technology field. Ocean Lakes maintains a rigorous math and science academy; Bayside houses a health sciences academy, with courses in medical microbiology, genetic medicine, and pathophysiology. Salem High school houses the Visual and Performing Arts Academy, preparing students for jobs in the Fine and Performing Arts. Landstown High School contains a Technology Academy, which helps prepare students for jobs in Business Marketing, Information Technology, and/or Engineering. First Colonial High School is home to the Legal Studies Academy, with courses such as Forensic Science, Intro to Law, and Legal Research and Writing, preparing students for jobs in the law field. Tallwood High School has recently founded a world studies academy, and Princess Anne, the oldest high school in the city, is an International Baccalaureate Diploma Programme school. Princess Anne used to host a special program for pregnant high schoolers in the area. The program for pregnant girls was moved off of Princess Anne's campus and into a section of the alternative school, Renaissance Academy, which was completed in late 2009.[71] With only 8 girls going on to the new program at the Academy, Virginia Beach set to defund the program in 2010.[72] Specialized courses are offered at all these academies, even though they occasionally overlap courses offered at other specialized centers, such as Landstown and the ATC — less than 1-mile (1.6 km) away.[73]
+There are also a number of private, independent schools in the city, including Norfolk Academy, Our Lady of Mount Carmel Catholic School and Parish, The Hebrew Academy of Tidewater, Cape Henry Collegiate School, Bishop Sullivan Catholic High School (formerly Norfolk Catholic), Baylake Pines School, and Virginia Beach Friends School.[74]
+
+
+
+
+Association for Research and Enlightenment
+
+
+Virginia Beach is home to two universities: Regent University, a private university founded by Christian evangelist and leader Pat Robertson, which has historically focused on graduate education but has recently established an undergraduate program as well.[75] Atlantic University, associated with the Edgar Cayce organization, the Association for Research and Enlightenment (ARE), offers M.A. degrees in Transpersonal Studies, with many New Age subjects thanks to its Edgar Cayce link.[47] Old Dominion University and Norfolk State University are in nearby Norfolk and both the University of Virginia and Virginia Tech operate satellite campuses in Virginia Beach.[76][77][78][79] Tidewater Community College, a major junior college, also has its largest campus located in the city.[80] Virginia Wesleyan College, a private liberal arts college, is located on the border with Norfolk with the physical address of the school being in Norfolk, but the majority of the campus being in Virginia Beach.[81] ECPI University's main campus is located here as well. Additional institutions of higher education are located in other communities of greater Hampton Roads.[82]
+The Virginia Beach Public Library System provides free access to accurate and current information and materials to all individuals, and promotes reading as a critical life skill. The library supports the educational and leisure needs of Virginia Beach citizens with a system of area libraries, a Central Library, a Bookmobile, a virtual library, the South Rosemont Youth Library, the Wahab Public Law Library, the Municipal Reference Library and the Special Services for the Blind and Visually Handicapped. The Library has a collection of more than 1,000,000 items including special subject collections.[83]
+Media[edit]
+The Virginian-Pilot, based in Norfolk, is the daily newspaper for Virginia Beach. Other papers include Veer and the New Journal and Guide. Inside Business focuses on local business news.[84]
+Virginia Wesleyan College publishes its own newspaper, The Marlin Chronicle.[84]
+The Norfolk-Virginia Beach area is served by a variety of radio stations on the FM and AM dials, with towers located around the Hampton Roads area.[85]
+Virginia Beach is also served by several television stations. The Norfolk-Portsmouth-Newport News designated market area (DMA) is the 42nd largest in the U.S. with 712,790 homes (0.64% of the total U.S.).[86] The major network television affiliates are WTKR-TV 3 (CBS), WAVY 10 (NBC), WVEC-TV 13 (ABC), WTPC-TV 21 (Trinity Broadcasting Network), WGNT 27 (CW), WTVZ 33 (MyNetworkTV), WVBT 43 (Fox), and WPXV 49 (ION Television). The Public Broadcasting Service station is WHRO-TV 15. Virginia Beach residents also can receive independent station WSKY broadcasting on channel 4 from Camden County, North Carolina. Some can also receive PBS affiliate WUND 2 (UNC-TV), Home Shopping Network affiliate W14DC-D from Portsmouth, Daystar Network religious television station WVAD-LD TV 25 from Chesapeake and RTV affiliate WGBS-LD broadcasting on channel 7 from Hampton. Virginia Beach is served by Cox Cable. DirecTV and Dish Network are also popular as an alternative to cable television in Virginia Beach. In addition a large portion of the city is served by Verizon FIOS.
+Virginia Beach serves as the headquarters for the Christian Broadcasting Network, located adjacent to Regent University. CBN's most notable program, The 700 Club originates from the Virginia Beach studios.[87] In 2008, Virginia Beach became the home to the Reel Dreams Film Festival.
+Infrastructure[edit]
+Transportation[edit]
+Main article: Transportation in Virginia Beach
+
+
+
+
+A Hampton Roads Transit bus travels northbound on Pacific Avenue in Virginia Beach.
+
+
+Virginia Beach is primarily served by the Norfolk International Airport (IATA: ORF, ICAO: KORF, FAA LID: ORF), which is now the region's major commercial airport. The airport is located near Chesapeake Bay, along the city limits straddling neighboring Norfolk.[88] Seven airlines provide nonstop services to twenty five destinations. ORF had 3,703,664 passengers take off or land at its facility and 68,778,934 pounds of cargo were processed through its facilities.[89] Newport News/Williamsburg International Airport also provides commercial air service for the Hampton Roads area.[90] The Chesapeake Regional Airport provides general aviation services and is located five miles (8 km) outside the city limits.[91] Virginia Beach is served by Amtrak through the Norfolk and Newport News stations, via connecting buses. The Norfolk line runs southwest toward Suffolk, Virginia, then turns northwest toward Petersburg, Richmond (Staples Mill Road), and points beyond. The Newport News line runs west along the Virginia Peninsula to Williamsburg, Richmond (via the downtown Main Street and the suburban Staples Mill Road stations), and points beyond. A high-speed rail connection at Richmond to both the Northeast Corridor and the Southeast High Speed Rail Corridor are also under study.[92]
+Greyhound/Trailways provides service from a central bus terminal in adjacent Norfolk. The Greyhound station in Virginia Beach is located on Laskin Road, about a mile west of the oceanfront. Bus services to New York City via the Chinatown bus, Today's Bus, is located on Newtown Road.[93]
+The city is connected to I-64 via I-264, which runs from the oceanfront, intersects with I-64 on the east side of Norfolk, and continues through downtown Norfolk and Portsmouth until rejoining I-64 at the terminus of both roads in Chesapeake where Interstate 664 completes the loop which forms the Hampton Roads Beltway. Travelers to and from Virginia Beach can access the Hampton Roads Beltway in either direction from I-264 in Norfolk to use a choice of the two bridge-tunnel facilities to cross Hampton Roads to reach the Peninsula, Williamsburg, Richmond and points north. Other major roads include Virginia Beach Boulevard (U.S. Route 58), Shore Drive (U.S. Route 60), which connects to Atlantic Avenue at the oceanfront, Northampton Blvd (U.S. Route 13), Princess Anne Road (State Route 165), Indian River Road (former State Route 603), Lynnhaven Parkway, Independence Boulevard, General Booth Boulevard, and Nimmo Parkway. Streets in the oceanfront hotel and entertainment district are arranged in a fairly regular, grid like pattern, with Atlantic Avenue parallel to the shoreline, then Pacific Avenue, and Arctic Avenue going further inland.
+The city is also connected to Virginia's Eastern Shore region via the Chesapeake Bay Bridge-Tunnel (CBBT), which is the longest bridge-tunnel complex in the world and known as one of the Seven Engineering Wonders of the Modern World. The CBBT, a tolled facility carries U.S. Route 13.[94]
+Transportation within the city, as well as the rest of Hampton Roads is served by a regional bus service, Hampton Roads Transit.[95] An extension of The Tide light rail system from Norfolk to the oceanfront is currently being studied.[96] For years, Virginia Beach residents have debated on whether or not to extend The Tide from Norfolk into its borders with the apparent divide falling between younger and older residents and the potential cost to Virginia Beach taxpayers.[97] In November 2016, residents voted on a referendum proposing that would extend the light rail from Norfolk to Virginia Beach with 57% against the rail extension and 43% for the extension.[98]
+Walkability[edit]
+A 2011 study by Walk Score ranked Virginia Beach 39th most walkable of fifty largest U.S. cities.[99]
+Utilities[edit]
+Water and sewer services are provided by the City's Department of Utilities. Virginia Beach receives its electricity from Dominion Virginia Power which has local sources including the Chesapeake Energy Center (a gas power plant), coal-fired plants in Chesapeake and Southampton County, and the Surry Nuclear Power Plant. Norfolk headquartered Virginia Natural Gas, a subsidiary of AGL Resources, distributes natural gas to the city from storage plants in James City County and Chesapeake.
+Virginia Beach receives its water from Lake Gaston. The Virginia Tidewater area has grown faster than the local freshwater supply. The river water has always been salty, and fresh groundwater is no longer available in most areas. Currently, water for the Tidewater area is pumped from Lake Gaston, which straddles the Virginia-North Carolina border along with the Blackwater and Nottoway rivers. The pipeline is 76 miles (122 km) long and 60 inches (1,500 mm) in diameter. Much of its follows the former right-of-way of an abandoned portion of the Virginian Railway.[100] It is capable of pumping 60 million gallons of water per day(60MGD), Norfolk and Chesapeake are partners in the project.[101]
+The city provides wastewater services for residents and transports wastewater to the regional Hampton Roads Sanitation District treatment plants.[102]
+Healthcare[edit]
+Virginia Beach is served by Sentara Virginia Beach General Hospital and Sentara Princess Anne Hospital. Sentara Bayside Hospital has been modified to a stand alone Emergency Department and outpatient treatment center, now known as Sentara Independence. Sentara Leigh Hospital is just across the city line in Norfolk.[103] Beach Health clinic offers basic medical services for uninsured residents of Virginia Beach.
+Notable people[edit]
+
+
+Felicia Barton, semi-finalist on American Idol
+Genesis the Greykid, artist, creative, poet, writer
+Rudy Boesch, contestant on Survivor
+Curtis Bush, kickboxer
+Gabby Douglas, Olympic gymnastics gold medalist
+Herman Goldner, mayor of St. Petersburg, Florida[104]
+Percy Harvin, NFL player
+BJ Leiderman, composer of themes for NPR shows
+Michael Hearst, author, musician, and composer
+Marc Leishman, professional golfer
+Evan Marriott, actor in Joe Millionaire[105]
+Bob McDonnell, former Governor of Virginia[106][107][108]
+Ryan McGinness, artist
+Lenda Murray, IFBB professional bodybuilder[109]
+Juice Newton, singer, songwriter
+Pusha T, rapper
+J.R. Reid, NBA player
+Pat Robertson, television preacher
+Todd Schnitt, radio personality
+Rhea Seehorn, actress known for role as Kim Wexler in Better Call Saul
+Scott Sizemore, MLB player[110]
+Mark Ruffalo, Oscar-nominated actor; raised in Virginia Beach
+Chris Taylor, MLB player[111]
+Timbaland, rapper, singer, record producer
+Travis Wall, contestant on So You Think You Can Dance and choreographer
+Matthew E. White, songwriter and producer
+Pharrell Williams, rapper, singer, record producer, composer and fashion designer
+Ryan Zimmerman, MLB player[112]
+
+
+Sister cities[edit]
+Virginia Beach's Sister Cities are:[113]
+
+ Bangor, Northern Ireland, United Kingdom
+ Miyazaki, Miyazaki Prefecture, Kyūshū, Japan since May 25, 1992
+ Moss, Norway
+ Olongapo, Philippines
+Coutances, Normandy, France
+
+Virginia Beach has one Friendship City:[113]
+
+ San Juan del Sur, Nicaragua
+
+In popular culture[edit]
+In 2015, in honor of the game's 80th birthday, Hasbro held an online vote in order to determine which cities would make it into an updated version of the Monopoly Here and Now: The US Edition of the game. Virginia Beach, Virginia received the fourth highest number of votes in the online contest, earning it a green spot on the board. The top Boardwalk spot went to Pierre, South Dakota.[114]
+See also[edit]
+
+
+Geography portal
+North America portal
+United States portal
+Virginia portal
+
+
+
+List of people from Virginia Beach
+National Register of Historic Places listings in Virginia Beach, Virginia
+Norwegian Lady Statues
+Virginia Beach Fire Department
+Virginia Beach Police Department
+Virginia Beach Department of EMS
+Virginia Beach Volunteer Rescue Squad
+Wash Woods at False Cape
+
+Notes[edit]
+
+
+
+^ Mean monthly maxima and minima (i.e. the expected highest and lowest temperature readings at any point during the year or given month) calculated based on data at said location from 1981 to 2010.
+^ Official records for Norfolk kept January 1874 to December 1945 at the Weather Bureau Office in downtown, and at Norfolk Int'l since January 1946. For more information, see Threadex
+
+
+
+References[edit]
+
+
+^ a b "American FactFinder". United States Census Bureau. Archived from the original on September 11, 2013. Retrieved January 31, 2008. 
+^ "US Board on Geographic Names". United States Geological Survey. October 25, 2007. Retrieved January 31, 2008. 
+^ "State & County QuickFacts". United States Census Bureau. Archived from the original on January 7, 2014. Retrieved January 6, 2014. 
+^ "Population estimates, July 1, 2015, (V2015)". 
+^ List of United States cities by population
+^ Melissa Jones (March 15, 2005). Superlatives USA: The Largest, Smallest, Longest, Shortest, and Wackiest Sites in America. Capital Books. pp. 137–. ISBN 978-1-931868-85-3. Retrieved October 12, 2012. 
+^ "Virginia Beach History Timeline". Princess Anne County/Virginia Beach Historical Society. Retrieved March 19, 2008. 
+^ "Cape Henry Memorial". U.S. National Park System. Retrieved March 19, 2008. 
+^ Moon, Shep. "400 Years of Change". Virginia Department of Environmental Quality. Retrieved March 19, 2008. 
+^ a b "The Origins of Norfolk's Name". Norfolk Historical Society. Retrieved October 9, 2007. 
+^ "Norfolk Becomes a Borough". Norfolk Historical Society. Retrieved October 9, 2007. 
+^ Jonathan Mark Souther, "Twixt Ocean and Pines: The Seaside Resort at Virginia Beach, 1880-1930." M.A. thesis, University of Richmond, 1996.
+^ Foss, William O., The Norwegian Lady and the Wreck of the Dictator. Virginia Beach, Virginia: Noreg Books, 2002. ISBN 0-9721989-0-3
+^ "Virginia Beach History". VirginiaBeach.com. Retrieved March 21, 2008. 
+^ a b "Va. Beach getting serious again about Dome site development". Hampton Roads.com, Bill Reed, November 14, 2007. 
+^ "Dome's memory will linger as a monument several activities are planned to honor the beach's now-razed former civic center". Virginian Pilot. Archived from the original on March 19, 2008. Retrieved February 23, 2008. 
+^ "Town Center". City of Virginia Beach. Retrieved March 8, 2007. 
+^ Barbara L. Brewer. "Phase I of Virginia Beach Convention Center Set to Open in June". Meetingsnet. Archived from the original on December 6, 2008. Retrieved March 21, 2008. 
+^ "VIRGINIA BEACH'S GREEN LINE: SHOULD THE LINE HOLD?". Virginian-Pilot. Retrieved March 21, 2008. 
+^ a b "Beach council tightens rules on building around Oceana". Virginian-Pilot. Retrieved March 8, 2007. 
+^ a b "US Gazetteer files: 2010, 2000, and 1990". United States Census Bureau. February 12, 2011. Retrieved April 23, 2011. 
+^ Virginia Beach Neighborhood History [1]. Retrieved on March 20, 2008.
+^ "Climate Summary". 
+^ a b "NowData - NOAA Online Weather Data". National Oceanic and Atmospheric Administration. Retrieved 2016-09-07. 
+^ Information from NOAA.
+^ "Station Name: VA NORFOLK INTL AP". National Oceanic and Atmospheric Administration. Retrieved 2016-09-07. 
+^ "WMO Climate Normals for NORFOLK/INTL, VA 1961–1990". National Oceanic and Atmospheric Administration. Retrieved 2014-03-10. 
+^ "Population and Housing Unit Estimates". Retrieved June 9, 2017. 
+^ "U.S. Decennial Census". United States Census Bureau. Archived from the original on May 12, 2015. Retrieved January 2, 2014. 
+^ "Historical Census Browser". University of Virginia Library. Retrieved January 2, 2014. 
+^ "Population of Counties by Decennial Census: 1900 to 1990". United States Census Bureau. Retrieved January 2, 2014. 
+^ "Census 2000 PHC-T-4. Ranking Tables for Counties: 1990 and 2000" (PDF). United States Census Bureau. Retrieved January 2, 2014. 
+^ Factfinder2census.gov Archived May 20, 2011, at the Wayback Machine.
+^ "Median Family Income (In 2003 Inflation-adjusted Dollars)". Census.gov. Archived from the original on October 13, 2004. Retrieved July 2, 2010. 
+^ "Virginia Beach, Virginia (VA) profile". City-data.com. Retrieved July 2, 2010. 
+^ "CQ Press: City Crime Rankings 2008". Os.cqpress.com. Archived from the original on June 7, 2010. Retrieved July 2, 2010. 
+^ "Virginia Beach city, Virginia". City-data.com. Retrieved July 2, 2010. 
+^ a b "Economic Profile". Virginia Beach Economic Development Community. Retrieved March 8, 2007. 
+^ "Sea Adventures". Virginia Aquarium. Retrieved January 22, 2017. 
+^ "Agribusiness". Virginia Beach Economic Development Community. Retrieved March 8, 2007. 
+^ "Farmers Market". City of Virginia Beach. Retrieved March 8, 2007. 
+^ "Economic Profile — Military". Virginia Beach Economic Development Community. Archived from the original on December 5, 2008. Retrieved March 8, 2007. 
+^ Worldwide Space A Handbook: ISBN 1-881341-13-5. www.nablc.navy.mil Archived April 21, 2009, at the Wayback Machine.
+^ Virginia Aquarium & Marine Science Center|accessdate=March 18, 2008
+^ Sandler Center for the Performing Arts|accessdate=March 18, 2008
+^ National Register of Historic Places – Virginia Beach|accessdate=March 18, 2008
+^ a b "Atlantic University". Retrieved March 7, 2008. 
+^ "The Neptune Festival". The Neptune Festival. June 25, 2010. Retrieved July 2, 2010. 
+^ Verizon Wireless American Music Festival Archived July 2, 2008, at the Wayback Machine.
+^ "Big-league sports not on the horizon for Norfolk". Virginian Pilot. Archived from the original on May 22, 2011. Retrieved March 12, 2008. 
+^ "Virginia Beach Golf Courses". Thegolfcourses.net. Retrieved March 12, 2008. 
+^ "Rock and Roll Half Marathon". Elite Racing. Archived from the original on April 9, 2008. Retrieved August 6, 2007. 
+^ Taylor, Nate (August 24, 2012). "Virginia Beach Courts Sacramento Kings" – via NYTimes.com. 
+^ "Virginia Beach Parks". Virginia Beach Department of Parks and Recreation. Retrieved October 5, 2007 
+^ "Mt. Trashmore Park". Virginia Beach Department of Parks and Recreation. Retrieved October 5, 2007 
+^ "Red Wing Park". City of Virginia Beach. Retrieved May 29, 2017. 
+^ "Great Neck Park". Virginia Beach Department of Parks and Recreation. Retrieved March 20, 2008 
+^ "Back Bay National Wildlife Refuge". U.S. Fish & Wildlife Service, Back Bay National Wildlife Refuge. Retrieved March 20, 2008 
+^ "First Landing State Park". First Landing State Park. Retrieved March 20, 2008 
+^ "False Cape State Park". False Cape State Park. Retrieved March 20, 2008 
+^ "Munden Point". Virginia Birding and Wildlife Trail. Archived from the original on April 6, 2008. Retrieved March 20, 2008 
+^ "Munden Point Park". www.vbgov.com. City of Virginia Beach, Virginia. Retrieved August 2, 2015. 
+^ "Boardwalk". Virginiabeach.com. Retrieved March 20, 2008 
+^ Naval Aviation Monument Park. Alexandria, Virginia.: Naval Aviation Foundation, Wings of Gold, quarterly, Summer-Fall, 2006, page 58.
+^ "Virginia Beach deal preserves a slice of nature". 
+^ "Environmental center opens at Pleasure House Point". 
+^ "Virginia Beach's Park System Ranks Eighth in the Nation". June 6, 2013. The City of Virginia Beach. Retrieved on July 18, 2013.
+^ http://uselectionatlas.org/RESULTS
+^ a b "Virginia Beach City Manager: Form of Government". Virginia Beach City Manager. September 30, 2007. Retrieved March 7, 2008. 
+^ a b "Virginia Beach City Council: About Us". Virginia Beach City Council. September 30, 2007. Retrieved March 7, 2008. 
+^ Virginian-Pilot, The. "Virginia Beach's program for pregnant girls set to move". Virginian-Pilot. Retrieved January 30, 2017. 
+^ Roth, Lauren. "Virginia Beach cuts back on program for pregnant teens". Virginian-Pilot. Retrieved January 30, 2017. 
+^ "Virginia Beach City Public Schools: About Us". Virginia Beach City Public Schools. September 30, 2007. Archived from the original on February 21, 2008. Retrieved March 7, 2008. 
+^ "State Recognized Accredited Schools". Virginia Council for Private Education. September 30, 2007. Archived from the original on December 23, 2007. Retrieved March 7, 2008. 
+^ "About Regent University". Regent University. Retrieved December 11, 2007. 
+^ "About Norfolk State". Archived from the original on December 30, 2007. Retrieved January 12, 2008. 
+^ "About Old Dominion". Retrieved January 12, 2008. 
+^ "VT Hampton Roads Center". Retrieved January 12, 2008. 
+^ "UVa. Hampton Roads Center". Retrieved January 12, 2008. 
+^ "Tidewater Community College". Retrieved January 12, 2008. 
+^ "About Virginia Wesleyan". Archived from the original on April 4, 2008. Retrieved March 7, 2008. 
+^ "About ECPI". Retrieved March 7, 2008. 
+^ Virginia Beach Public Library|accessdate=June 18, 2008
+^ a b "Hampton Roads News Links". abyznewslinks.com. Retrieved August 6, 2007. 
+^ "Hampton Roads Radio Links". ontheradio.net. Retrieved August 6, 2007. 
+^ Holmes, Gary. "Nielsen Reports 1.1% increase in U.S. Television Households for the 2006–2007 Season Archived July 5, 2009, at the Wayback Machine.." Nielsen Media Research. September 23, 2006. Retrieved on September 28, 2007.
+^ "Titles with locations including Virginia Beach, Virginia, USA." IMDB. Retrieved on March 7, 2008.
+^ "Norfolk International Airport Mission and History". Norfolk International Airport. Archived from the original on September 28, 2007. Retrieved October 2, 2007. 
+^ "Norfolk International Airport Statistics" (PDF). Norfolk International Airport. Archived from the original (PDF) on October 25, 2007. Retrieved October 2, 2007. 
+^ "Newport News/Williamsburg International Airport". Newport News/Williamsburg International Airport. Retrieved February 25, 2008. 
+^ "Chesapeake Regional Airport". Retrieved January 12, 2008. 
+^ "Southeast High Speed Rail". Southeast High Speed Rail. Retrieved October 15, 2007. 
+^ "Today's Bus". Today's Bus. Archived from the original on October 8, 2007. Retrieved October 10, 2007. 
+^ "Chesapeake Bay Bridge-Tunnel Facts". Chesapeake Bay Bridge and Tunnel Commission. Retrieved November 23, 2006. 
+^ "Hampton Roads Transit". Hrtransit.org. Retrieved July 2, 2010. 
+^ "Virginia Beach Transit Extension Study | Hampton Roads Transit". Gohrt.com. Archived from the original on July 3, 2010. Retrieved July 2, 2010. 
+^ Pascale, Jordan. "How did the light rail debate in Virginia Beach become so nasty?". Virginian-Pilot. Retrieved January 30, 2017. 
+^ Staff, WAVY News (November 8, 2016). "Virginia Beach residents vote against light rail extension". WAVY-TV. Retrieved January 30, 2017. 
+^ "2011 City and Neighborhood Rankings". Walk Score. 2011. Retrieved August 28, 2011. 
+^ "VA Places, Gaston Pipeline". Virginiaplaces.org. Retrieved July 2, 2010. 
+^ "VA Beach Government, Department of Public Utilities". Vbgov.com. Retrieved July 2, 2010. 
+^ "Hampton Roads Sanitation District". Hampton Roads Sanitation District. Retrieved March 8, 2008. 
+^ "Virginia Hospitals and Medical Centers". The Agape Center. Retrieved August 6, 2007. 
+^ "Andrew Meacham, "Mayor packed ideas, pipe tobacco in rich public life," September 15, 2010". Tampa Bay Times. Retrieved June 1, 2014. 
+^ Holtzclaw, Mike. "Evan Marriott's life interrupted by unexpected TV stardom on 'Joe Millionaire'". Daily Press. Retrieved 8 June 2017. 
+^ "Governor Robert F. McDonnell's bio". Governor.virginia.gov. Archived from the original on March 4, 2010. Retrieved March 4, 2010. 
+^ "Session 2005; McDonnell, Robert F. (Bob)". Virginia House of Delegates. Retrieved November 26, 2008. 
+^ "Session 2003; McDonnell, Robert F. (Bob)". Virginia House of Delegates. Retrieved November 26, 2008. 
+^ "Lenda Murray - Facebook". 
+^ "Scott Sizemore Stats". Baseball Almanac. Retrieved December 10, 2012. 
+^ Chris Taylor (baseball)
+^ "Ryan Zimmerman Stats". Baseball Almanac. Retrieved December 10, 2012. 
+^ a b "Sister Cities Directory: Virginia Beach, Virginia". Retrieved 2017-05-15. 
+^ "Monopoly". 
+
+
+External links[edit]
+
+Find more aboutVirginia Beachat Wikipedia's sister projects
+
+Definitions from Wiktionary
+Media from Commons
+News from Wikinews
+Quotations from Wikiquote
+Texts from Wikisource
+Textbooks from Wikibooks
+Travel guide from Wikivoyage
+Learning resources from Wikiversity
+
+
+
+Official website
+Convention and Visitors Bureau
+
+
+
+
+
+Places adjacent to Virginia Beach, Virginia
+
+
+
+
+
+
+
+City of Norfolk
+Northampton County
+
+
+
+City of Chesapeake
+
+
+Virginia Beach, Virginia
+
+
+Atlantic Ocean
+
+
+
+Currituck County, North Carolina
+
+
+
+
+
+
+
+
+
+
+
+
+Articles relating to Virginia Beach
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+City of Virginia Beach
+
+
+
+Topics
+
+
+
+History
+
+Timeline
+
+
+Culture
+People
+Sports
+Media
+Education
+Economy
+Fire
+Transportation
+
+
+
+
+
+
+
+
+Parks
+
+
+
+First Landing State Park
+False Cape State Park
+Mount Trashmore
+Munden Point
+Back Bay National Wildlife Refuge
+
+
+
+
+
+Military
+
+
+
+Naval Air Station Oceana
+Naval Amphibious Base Little Creek
+Fort Story
+
+
+
+
+
+Attractions
+
+
+
+Adam Keeling House
+Adam Thoroughgood House
+Atlantic Fun Park
+Atlantic Wildfowl Heritage Museum
+Cape Henry Light
+Cape Henry Memorial
+Ferry Plantation House
+Francis Land House
+Lynnhaven House
+Military Aviation Museum
+Motor World
+Norwegian Lady Statues
+Ocean Breeze Water Park
+Old Coast Guard Station Museum
+Tidewater Arboretum
+Upper Wolfsnare
+Virginia Aquarium
+Virginia Beach Oceanfront
+Virginia Museum of Contemporary Art
+
+
+
+
+
+Neighborhoods
+
+
+
+Alanton
+Bayside
+Chesapeake Beach
+Croatan Beach
+Great Neck Point
+Green Run
+Kempsville
+Kings Grant
+Lago Mar
+London Bridge
+Lynnhaven
+Oceana
+Pembroke Manor
+Princess Anne
+Pungo
+Salem
+Sandbridge
+Seatack
+Sigma
+Thalia
+Town Center
+
+
+
+
+
+
+
+
+Hampton Roads Metropolitan Area
+Virginia
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Hampton Roads
+
+
+
+
+Virginia Beach-Norfolk-Newport News Metropolitan Area
+
+
+
+Cities
+
+
+
+Chesapeake
+Hampton
+Newport News
+Norfolk
+Portsmouth
+Poquoson
+Suffolk
+Virginia Beach
+Williamsburg
+
+
+
+
+
+Counties
+
+
+
+Currituck
+Gloucester
+Isle of Wight
+James City
+Mathews
+Surry
+York
+
+
+
+
+
+Towns
+
+
+
+Claremont
+Dendron
+Smithfield
+Surry
+Windsor
+
+
+
+
+
+Sub-regions
+
+
+
+South Hampton Roads
+Virginia Peninsula
+
+
+
+
+
+Topics
+
+
+
+Transportation
+People
+History
+Battle of Hampton Roads
+
+
+
+
+
+
+Note: Cities are independent, not being part of any county
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+ Commonwealth of Virginia
+
+
+
+
+Richmond (capital)
+
+
+
+Topics
+
+
+
+Administrative divisions
+Climate
+Colleges and universities
+Colony
+Congressional Districts
+Delegations
+Environment
+Furniture
+Geography
+Government
+History
+Historic Landmarks
+Law
+Homes
+Music
+People
+Rights
+Rivers
+Scouting
+Slogan
+Sports teams
+State Fair
+State parks
+Symbols
+Tourist attractions
+Transportation
+Tribes
+
+
+
+
+
+Seal of Virginia
+
+
+
+
+Society
+
+
+
+Culture
+Crime
+Demographics
+Economy
+Education
+Media
+
+Newspapers
+Radio
+TV
+
+
+Politics
+
+
+
+
+
+Regions
+
+
+
+Allegheny Mountains
+Atlantic Coastal Plain
+Blue Ridge
+Chesapeake Bay
+Cumberland Mountains
+Delmarva Peninsula
+Eastern Shore
+Hampton Roads
+Middle Peninsula
+Northern Neck
+Northern Virginia
+Piedmont
+Ridge-and-Valley Appalachians
+Shenandoah Valley
+South Hampton Roads
+Southside
+Southwest Virginia
+Tennessee Valley
+Tidewater
+Tri-Cities
+Virginia Peninsula
+
+
+
+
+
+Metro areas
+
+
+
+Blacksburg-Christiansburg-Radford
+Bluefield
+Bristol
+Charlottesville
+Danville
+Harrisonburg
+Lynchburg
+Martinsville
+Richmond
+Roanoke
+Staunton-Waynesboro
+Norfolk-Virginia Beach
+Washington-Arlington-Alexandria
+Winchester
+
+
+
+
+
+Counties
+
+
+
+Accomack
+Albemarle
+Alleghany
+Amelia
+Amherst
+Appomattox
+Arlington
+Augusta
+Bath
+Bedford
+Bland
+Botetourt
+Brunswick
+Buchanan
+Buckingham
+Campbell
+Caroline
+Carroll
+Charles City
+Charlotte
+Chesterfield
+Clarke
+Craig
+Culpeper
+Cumberland
+Dickenson
+Dinwiddie
+Essex
+Fairfax
+Fauquier
+Floyd
+Fluvanna
+Franklin
+Frederick
+Giles
+Gloucester
+Goochland
+Grayson
+Greene
+Greensville
+Halifax
+Hanover
+Henrico
+Henry
+Highland
+Isle of Wight
+James City
+King and Queen
+King George
+King William
+Lancaster
+Lee
+Loudoun
+Louisa
+Lunenburg
+Madison
+Mathews
+Mecklenburg
+Middlesex
+Montgomery
+Nelson
+New Kent
+Northampton
+Northumberland
+Nottoway
+Orange
+Page
+Patrick
+Pittsylvania
+Powhatan
+Prince Edward
+Prince George
+Prince William
+Pulaski
+Rappahannock
+Richmond
+Roanoke
+Rockbridge
+Rockingham
+Russell
+Scott
+Shenandoah
+Smyth
+Southampton
+Spotsylvania
+Stafford
+Surry
+Sussex
+Tazewell
+Warren
+Washington
+Westmoreland
+Wise
+Wythe
+York
+
+
+
+
+
+Independent
+cities
+
+
+
+Alexandria
+Bristol
+Buena Vista
+Charlottesville
+Chesapeake
+Colonial Heights
+Covington
+Danville
+Emporia
+Fairfax
+Falls Church
+Franklin
+Fredericksburg
+Galax
+Hampton
+Harrisonburg
+Hopewell
+Lexington
+Lynchburg
+Manassas
+Manassas Park
+Martinsville
+Newport News
+Norfolk
+Norton
+Petersburg
+Poquoson
+Portsmouth
+Radford
+Richmond
+Roanoke
+Salem
+Staunton
+Suffolk
+Virginia Beach
+Waynesboro
+Williamsburg
+Winchester
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Authority control
+
+
+
+WorldCat Identities
+VIAF: 131994524
+LCCN: n80060996
+ISNI: 0000 0004 0509 1378
+GND: 4127130-0
+
+
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Virginia_Beach,_Virginia&oldid=801126396"					
+Categories: Virginia Beach, VirginiaBeaches of VirginiaCities in VirginiaSeaside resorts in the United StatesSurfing locations in the United StatesPopulated coastal places in VirginiaPopulated places established in 19061906 establishments in VirginiaLandforms of Virginia Beach, VirginiaSurfing in VirginiaHidden categories: Webarchive template wayback linksArticles with inconsistent citation formatsUse mdy dates from March 2017Wikipedia articles needing clarification from February 2016Coordinates on WikidataAll accuracy disputesArticles with disputed statements from October 2010All articles with unsourced statementsArticles with unsourced statements from May 2015Articles with unsourced statements from March 2017Good articlesWikipedia articles with VIAF identifiersWikipedia articles with LCCN identifiersWikipedia articles with ISNI identifiersWikipedia articles with GND identifiers 
+
+
+
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+In other projects
+
+
+Wikimedia CommonsWikivoyage 
+
+
+
+Languages
+
+
+AfrikaansالعربيةAsturianuAzərbaycancaتۆرکجهবাংলাBân-lâm-gúБеларускаяБеларуская (тарашкевіца)‎БългарскиBoarischBrezhonegCatalàCebuanoČeštinaCymraegDanskDeutschDiné bizaadEestiΕλληνικάEspañolEsperantoEuskaraفارسیFrançaisGaeilgeGàidhligGalego한국어ՀայերենBahasa IndonesiaItalianoעבריתKapampanganქართულიKiswahiliKreyòl ayisyenКыргызчаКырык марыLatinaLatviešuLietuviųLumbaartMagyarМакедонскиMalagasyमराठीBahasa MelayuNederlands日本語NorskPlattdüütschPolskiPortuguêsRomânăRuna SimiРусскийSarduScotsShqipSimple EnglishSlovenčinaSlovenščinaСрпски / srpskiSrpskohrvatski / српскохрватскиSuomiSvenskaTagalogไทยTürkçeУкраїнськаاردوTiếng ViệtVolapükWinarayYorùbá粵語中文 
+Edit links 
+
+
+
+
+
+ This page was last edited on 17 September 2017, at 20:37.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.428","walltime":"1.685","ppvisitednodes":{"value":13729,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":411869,"limit":2097152},"templateargumentsize":{"value":79944,"limit":2097152},"expansiondepth":{"value":23,"limit":40},"expensivefunctioncount":{"value":11,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1346.621      1 -total"," 39.04%  525.767      2 Template:Reflist"," 24.50%  329.983     85 Template:Cite_web"," 15.33%  206.452      1 Template:Infobox_settlement"," 12.01%  161.674      1 Template:Infobox","  7.09%   95.518      1 Template:Norfolk,_Virginia_weatherbox","  6.81%   91.713      1 Template:Weather_box","  5.95%   80.156      5 Template:Fix","  4.50%   60.608      2 Template:US_Census_population","  4.48%   60.292     26 Template:Convert"]},"scribunto":{"limitreport-timeusage":{"value":"0.622","limit":"10.000"},"limitreport-memusage":{"value":12524264,"limit":52428800}},"cachereport":{"origin":"mw1247","timestamp":"20171015093901","ttl":1900800,"transientcontent":false}}});});(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":1794,"wgHostname":"mw1247"});});
+
+

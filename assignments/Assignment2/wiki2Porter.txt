@@ -1,0 +1,2002 @@
+
+
+
+old dominion univers - wikipedia
+document.documentel.classnam = document.documentel.classnam.replac( /(^|\s)client-noj(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespac":"","wgcanonicalspecialpagenam":fals,"wgnamespacenumb":0,"wgpagenam":"old_dominion_univers","wgtitl":"old dominion univers","wgcurrevisionid":805471081,"wgrevisionid":805471081,"wgarticleid":308123,"wgisarticl":true,"wgisredirect":fals,"wgaction":"view","wgusernam":null,"wgusergroup":["*"],"wgcategori":["articl with a promot tone from juli 2016","all articl with a promot tone","page us deprec imag syntax","coordin on wikidata","all articl with unsourc statement","articl with unsourc statement from juli 2016","old dominion univers","univers and colleg in virginia","educ institut establish in 1930","public univers","univers and colleg accredit by the southern associ of colleg and school","educ in norfolk, virginia","magnet levit","distanc educ institut","tourist attract in norfolk, virginia","1930 establish in virginia"],"wgbreakfram":fals,"wgpagecontentlanguag":"en","wgpagecontentmodel":"wikitext","wgseparatortransformt":["",""],"wgdigittransformt":["",""],"wgdefaultdateformat":"dmy","wgmonthnam":["","januari","februari","march","april","mai","june","juli","august","septemb","octob","novemb","decemb"],"wgmonthnamesshort":["","jan","feb","mar","apr","mai","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagenam":"old_dominion_univers","wgrelevantarticleid":308123,"wgrequestid":"wevx@apaek0aae0epaiaaaad","wgisprobablyedit":true,"wgrelevantpageisprobablyedit":true,"wgrestrictionedit":[],"wgrestrictionmov":[],"wgflaggedrevsparam":{"tag":{}},"wgstablerevisionid":null,"wgwikieditorenabledmodul":{"toolbar":true,"preview":fals,"publish":fals},"wgbetafeaturesfeatur":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":fals,"wgpopupsshouldsendmoduletous":fals,"wgpopupsconflictswithnavpopupgadget":fals,"wgvisualeditor":{"pagelanguagecod":"en","pagelanguagedir":"ltr","pagevariantfallback":"en","usepageimag":true,"usepagedescript":true},"wgpreferredvari":"en","wgmfexpandallsectionsuseropt":fals,"wgmfdisplaywikibasedescript":{"search":true,"nearbi":true,"watchlist":true,"taglin":fals},"wgrelatedarticl":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":fals,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelet":[],"wgcentralnoticecategoriesusinglegaci":["fundrais","fundrais"],"wgcategorytreepagecategoryopt":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespac\":fals}","wgcoordin":{"lat":36.88654,"lon":-76.30522},"wgwikibaseitemid":"q1474100","wgcentralauthmobiledomain":fals,"wgcodemirroren":fals,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparam":["undo","undoaft","veswitch"],"wgeditsubmitbuttonlabelpublish":fals});mw.loader.state({"ext.gadget.charinsert-style":"readi","ext.globalcssj.user.style":"readi","ext.globalcssj.site.style":"readi","site.style":"readi","noscript":"readi","user.style":"readi","user":"readi","user.option":"readi","user.token":"load","ext.math.style":"readi","ext.cite.style":"readi","mediawiki.page.galleri.style":"readi","wikibas.client.init":"readi","ext.visualeditor.desktoparticletarget.noscript":"readi","ext.ul.interlanguag":"readi","ext.wikimediabadg":"readi","skin.vector.style.experiment.print":"readi","mediawiki.legaci.share":"readi","mediawiki.legaci.commonprint":"readi","mediawiki.sectionanchor":"readi","mediawiki.skin.interfac":"readi","skin.vector.style":"readi","ext.globalcssj.user":"readi","ext.globalcssj.site":"readi"});mw.loader.implement("user.token@1dqfd7l",function ( $, jqueri, requir, modul ) {
+mw.user.token.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.math.script","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.readi","jqueri.tablesort","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahous","ext.gadget.referencetooltip","ext.gadget.watchlist-notic","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-button","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetload","ext.eventlog.subscrib","ext.wikimediaev","ext.navigationtim","ext.ul.eventlogg","ext.ul.init","ext.ul.interfac","ext.centralnotic.geoip","ext.centralnotic.startup","skin.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+old dominion univers
+
+from wikipedia, the free encyclopedia
+
+
+					jump to:					navig, 					search
+
+
+
+
+
+
+
+thi articl contain content that is written like an advertis. pleas help improv it by remov promot content and inappropri extern link, and by ad encycloped content written from a neutral point of view. (juli 2016) (learn how and when to remov thi templat messag)
+
+
+
+
+old dominion univers
+
+
+univers seal
+
+
+
+
+former name
+
+norfolk divis of the colleg of william and mari (1930–1962)
+old dominion colleg (1962–1969)
+
+
+motto
+idea fusion[1]
+
+
+type
+public univers
+research univers
+space-grant
+sea-grant
+
+
+establish
+1930
+
+
+endow
+$213.7 million[2]
+
+
+presid
+john r. broderick
+
+
+
+academ staff
+
+1,023
+
+
+student
+25,000[3]
+
+
+undergradu
+19,612
+
+
+postgradu
+5,058
+
+
+locat
+norfolk, virginia, unit state
+36°53′12″n 76°18′19″w﻿ / ﻿36.88654°n 76.30522°w﻿ / 36.88654; -76.30522coordin: 36°53′12″n 76°18′19″w﻿ / ﻿36.88654°n 76.30522°w﻿ / 36.88654; -76.30522
+
+
+campu
+urban, 251 acr (102 ha)
+
+
+color
+
+slate blue and silver[4]
+         
+
+
+athlet
+ncaa divis i – c-usa
+
+
+nicknam
+monarch
+
+
+affili
+sura
+cumu
+
+
+sport
+18 varsiti team
+
+
+mascot
+big blue
+
+
+websit
+www.odu.edu
+
+
+
+
+
+old dominion univers, also known as odu, is a public, co-educ research univers locat in norfolk, virginia, unit state, with two satellit campus in the hampton road area. it wa establish in 1930 as the norfolk divis of the colleg of william & mari and is now on of the largest univers in virginia with an enrol of 24,670 student for the 2014-2015 academ year. it campu cover over 251 acr (1.02 km2) straddl the citi neighborhood of larchmont, highland park, and lambert's point, approxim five mile (8.0 km) from downtown norfolk.
+old dominion univers is classifi as a carnegi doctor, higher research activ univers.[5] old dominion univers provid nearli $2 billion annual to the region economi.[6] the univers offer 168 undergradu and graduat degre program to over 24,000 student and is on of the nation's largest provid of onlin distanc learn cours. old dominion univers ha approxim 124,000 alumni in all 50 state and 67 countri. old dominion univers deriv it name from on of virginia's state nicknam, "the old dominion", given to the state by king charl ii of england for remain loyal to the crown dure the english civil war.
+
+
+
+content
+
+
+1 histori
+
+1.1 presid
+
+
+2 academ
+
+2.1 accredit
+
+
+3 school and colleg
+
+3.1 colleg of art and letter
+3.2 strome colleg of busi
+3.3 darden colleg of educ
+3.4 batten colleg of engin and technolog
+3.5 colleg of health scienc
+3.6 colleg of scienc
+3.7 distanc learn
+
+
+4 research
+
+4.1 research at old dominion univers
+4.2 climat chang and sea level rise initi (ccslri)
+4.3 maritim institut
+4.4 virginia model, analysi & simul center (vmasc)
+
+
+5 campu
+
+5.1 the norfolk campu
+5.2 the univers librari
+5.3 univers villag
+5.4 campu ministri
+5.5 maglev
+
+
+6 student life
+
+6.1 residenti life
+6.2 student tradit
+6.3 student recreat
+6.4 rotc program
+6.5 student organ
+6.6 greek life
+
+
+7 athlet
+
+7.1 odu-vcu rivalri
+7.2 men's basketbal
+7.3 women's basketbal
+7.4 monarch footbal
+7.5 men's soccer
+7.6 wrestl
+7.7 row
+7.8 cheerlead (co-ed)
+7.9 the old dominion athlet foundat
+7.10 monarch maniac
+
+
+8 notabl faculti
+9 notabl alumni
+10 refer
+11 extern link
+
+
+
+histori[edit]
+
+
+
+
+jac chandler
+
+
+the foundat of old dominion univers began in the mind of administr and offici at the colleg of william and mari in the first decad of the twentieth centuri. notabl among these men were robert m. hugh, a w&m board of visitor member from 1893–1917, and j.a.c. chandler, the 18th presid of that school.[7][8] in 1924 after becom the director of the william and mari extens in norfolk, joseph heali began organ class and find locat for faculti and staff. he along with the collect effort of robert m. hugh, dr. j.a.c. chandler, and a.h. foreman, a two-year branch divis wa establish on march 13, 1930.[7][9] on septemb 12, 1930 the norfolk divis of the colleg of william and mari held their first class with 206 student (125 men and 81 women) in the old larchmont school build which wa an abandon elementari school on hampton boulevard. on septemb 3, 1930 h. edgar timmerman becom the divis's first director.[10]
+
+
+
+
+origin sign from the norfolk divis
+
+
+"the divis," as it wa affection call, which start out in the old larchmont school build and allow peopl with less mean to attend a school of higher educ for two year.[7] tuition for the first year wa 50 usd.[7] the follow septemb, virginia polytechn institut, more commonli known as virginia tech, began offer class at "the divis," expand the number of cours taught.[7] old dominion began educ teacher and engin. creat in the first year of the great depress, the colleg benefit from feder fund as part of presid franklin d. roosevelt's new deal.[7] the public work administr provid fund for the administr build, now rollin hall, and foreman field, name after a.h foreman, an earli propon of the colleg.[7] lewi warrington webb first join the faculti in 1932 as an instructor of engin and would later be call "the father of old dominion." after serv 10 year as an instructor at the norfolk divis of the colleg of william and mari, he wa appoint assist director in 1942. he also serv as director of the defens and war train program at the colleg from 1940-1944. through it defens and train class, the norfolk divis make an invalu contribut to the war effort. the program also allow the school to remain open dure a period when most young men were serv their countri. the program attract mani women, who learn aircraft repair, draft and other war-relat subject. in 1946 webb wa appoint director of the norfolk divis. dr. webb's dream wa to see the norfolk divis becom an independ institut. the two-year norfolk divis rapidli evolv into a four-year institut, and he saw that dream fulfil in 1962 when the norfolk divis gain it independ from william and mari. on februari 16, 1962, the william and mari system wa dissolv under gener assembl legisl which wa sign by gov. alberti s. harrison. later that year the norfolk divis wa renam to the old dominion colleg.[9] dr. webb serv as the first presid of old dominion colleg from 1962-1969. frank batten, who wa the publish of the virginian-pilot and the ledger-star and member of the norfolk divis's advisori board wa chosen as the first rector of old dominion colleg on mai 27, 1962. he held the posit of rector until 1970 and the colleg of engin wa name in hi honor in 2004. in 1964 the first student live on campu in the first dormitori, rodger and gresham hall which were name after member of the advisori board. in 1969 old dominion colleg transit to old dominion univers under the leadership of presid jame l. bugg, jr. dure bugg's tenur the first doctor program were establish along with a univers-wide govern structur in which faculti, administr and student were repres. bugg also re-establish the armi rotc program that wa origin creat in 1948 but wa abandon becaus of the outbreak of the korean war.[11][12]
+
+
+
+
+old larchmont school build were the first class were held
+
+
+in the 1970s, dure the tenur of presid alfr b. rollin jr. old dominion began mutual partnership between region organ such as nasa, the u.s. navi, eastern virginia medic school and norfolk state univers. thi wa a result of dr. rollin goal of becom the lead educ institut in the hampton road area. under rollin, the univers expand it state and privat fund, improv student servic and introduc an honor program along with mani other improv to the univers. in 1971 the univers establish it own campu polic forc and hire sever polic offic to patrol the campu. 1977 the virginia campu polic act wa made into a law, the univers help train local and campu polic offic and the campu polic offic were given full polic author on and around the campu ground.[13]
+from these humbl begin the colleg grew southward along hampton boulevard, turn an empti field into a sprawl campu. after complet at the norfolk divis, student would move on to school offer degre or would seek career local. "the divis" began by educ teacher and engin. in 1962, it becam an autonom four-year colleg under the name old dominion colleg. consider growth in enrol, the expans of research facil and prepar for the addit of graduat program led the board to seek and receiv univers statu in 1969.[7] sinc thi time, the univers ha continu to grow and now ha an enrol of over 24,000 student.[14]
+presid[edit]
+
+
+
+
+current presid john r. broderick
+
+
+
+
+director and presid[10][15]
+
+
+name
+tenur
+
+
+h. edgar timmerman
+1930-1932
+
+
+edward l. gwathmei
+1932
+
+
+william t. hodg
+1933-1941
+
+
+lewi w. webb, jr.†
+1946–1969
+
+
+jame l. bugg, jr.
+1969–1976
+
+
+alfr b. rollin, jr.
+1976–1985
+
+
+joseph m. marchello
+1985–1988
+
+
+william b. spong, jr.
+1989–1990
+
+
+jame v. koch
+1990–2001
+
+
+roseann runt
+2001–2008
+
+
+john r. broderick
+2008–present
+
+
+† – webb wa the director of norfolk divis of the colleg of william and mari from 1946–1962.
+
+
+academ[edit]
+
+
+univers rank
+
+
+nation
+
+
+forb[17]
+551
+
+
+u.s. new & world report[18]
+210
+
+
+washington monthli[19]
+141[16]
+
+
+global
+
+
+time[20]
+351-400
+
+
+as a comprehens univers, old dominion univers offer and develop liber art, scienc, technolog and profession program. the univers offer 73 bachelor's degre in variou field and 60 master's and 35 doctor degre.[21] odu's teletechnet distanc learn program is on of the nation's largest and account for nearli on third of student enrol. odu distanc learn is affili with the southern region educ board's electron campu. odu is on of the few univers in the us to offer mba concentr in maritim, transport, and port logist manag and also ha well-respect program in marin scienc, coastal and transport engin.[22]
+becaus hampton road is a major intern maritim and commerc center, the univers ha a special mission for the commonwealth of virginia in commerc, and in intern affair and cultur. with the princip marin and aerospac activ of the commonwealth concentr in hampton road, the univers ha a signific commit to scienc, engin and technolog, specif in marin scienc, aerospac and other field of major import to the region. mani depart conduct cooper research with nasa. due to it locat in a larg metropolitan area, old dominion univers place particular emphasi on urban issu, includ educ and health care, and on fine and perform art.[21]
+accredit[edit]
+old dominion univers is accredit by the southern associ of colleg and school commiss on colleg (sac/coc) to award baccalaur, master, educ specialist, and doctor degre. the batten colleg of engin and technolog is accredit by the engin accredit commiss of abet. the strome colleg of busi is aacsb accredit. the darden colleg of educ, the colleg of art and letter and the colleg of scienc ar accredit by nation council for accredit of teacher educ.[citat need]
+school and colleg[edit]
+colleg of art and letter[edit]
+
+
+
+
+batten art and letter build
+
+
+thi colleg maintain 15 depart and program, which offer degre in the human, art, and social scienc. the depart includ asian studi, art, commun and theater art, english, foreign languag & literatur, gai cultur studi, intern studi, intern studi-graduat program (gpi), interdisciplinari studi, music, histori, philosophi and religi studi, sociolog and crimin justic, polit scienc and geographi, and women's studi.
+within the theatr art depart, film and video studi is offer. the depart of commun and theatr art offer two degre program that meet the need of most student interest in film and video studi. the program in commun offer ba/bs degre with an concentr in film studi. class focu on the principl and aesthet of film histori, theori, genr, and critic. the program in theatr art offer a ba degre in theatr with an emphasi in digit film make. class focu on all the practic aspect of digit filmmak.[23] the depart of music is hous in the diehn fine and perform art build. diehn is the home of the odu symphoni orchestra (oduso), wind ensembl, concert choir, jazz choir, jazz ensembl, monarch march band as well as other smaller ensembl like the diehn string quartet and diehn choral. student at odu pursu a degre in music have a choic of bachelor's degre in music perform, music educ, music histori, and music. the diehn build also hous the wilson g. chandler recit hall, where perform of the diehn concert seri and student recit ar held. odu offer sever track of studi within the english depart, includ: literatur, journal, creativ write, linguist, and profession write.
+strome colleg of busi[edit]
+thi colleg offer graduat program as well as bachelor's degre program in 11 depart, includ school of account, busi analyt, depart of econom, depart of financ, inform technolog & decis scienc, intern busi, depart of market, depart of manag, maritim and suppli chain manag, and the school of public servic. the strome colleg of busi also offer an mba program as well as execut develop program.
+in summer 2010, a new public servic minor wa start with the motto, "the minor that matter."[citat need]
+in 2014, the colleg wa renam to the strome colleg of busi after the strome famili donat $11 million to the colleg.[24]
+darden colleg of educ[edit]
+offer undergradu and graduat degre in six academ depart.[25] program includ: educ leadership and school administr, counsel, human servic, higher educ, exercis scienc, athlet train, sport manag, physic educ, recreat and tourism studi, earli childhood educ, speech patholog, special educ, fashion merchandis, instruct design and technolog, busi and industri train, commun colleg teach, and technolog educ.[25] the darden colleg of educ also work in collabor with other academ colleg to prepar teacher in field of secondari educ, such as english educ and biologi educ, among other. student complet a major in the field thei wish to teach, in addit to educ coursework, practica, and student teach.[26]
+batten colleg of engin and technolog[edit]
+
+
+
+
+engin system build
+
+
+grant undergradu and graduat degre in 9 engin disciplin, includ civil, aerospac, environment, electr, model and simul, engin manag, comput, mechan, system, biomed engin and engin technolog and offer interest concentr, includ coastal engin, transport engin, experiment aeronaut, laser and plasma engin, bioelectr, comput engin, and ship mainten, repair, and oper. in 2010, the frank batten colleg of engin and technolog will becom the first colleg in the unit state offer all degre in the emerg disciplin of model and simul (b.s., m.e., m.s., d.eng., ph.d.).[27]
+in 2014, the colleg of engin open the new engin system build which brought ad laboratori, design and offic space.
+colleg of health scienc[edit]
+thi colleg is compos of five health-relat school and grant certif, bachelor's degre, master's degre, and doctor degre. the school includ the school of medic laboratori and radiat scienc, commun and environment health, nurs, physic therapi and the gene w. hirschfeld school of dental hygien.
+
+
+
+
+colleg of scienc build
+
+
+colleg of scienc[edit]
+offer degre program in chemistri and biochemistri, biolog scienc, comput scienc, psycholog, mathemat, physic, and ocean, earth and atmospher scienc. the depart of ocean, earth and atmospher scienc ha develop an expertis in the specialti field of ocean margin and coastal system process.[citat need] also in the colleg of scienc, the colleg offer a degre in profession commun, a combin of both commun and busi.
+distanc learn[edit]
+old dominion univers began offer distanc learn cours in 1994 through teletechnet, a satellit deliveri system.[28] todai, odu offer 60 undergradu and graduat program through video stream, satellit, 2-wai, web conferenc, and onlin deliveri.[29] depend on the program, student mai take class onlin or by attend on of nearli 50 odu partner locat in virginia, arizona, or washington state.[30] odu also offer program design to be taken by militari personnel on deploy.[31]
+research[edit]
+
+
+
+
+
+
+thi articl contain content that is written like an advertis. pleas help improv it by remov promot content and inappropri extern link, and by ad encycloped content written from a neutral point of view. (juli 2016) (learn how and when to remov thi templat messag)
+
+
+
+old dominion univers research team gener $88 million in annual fund through more than 400 ongo project. support by grant from nsf, nih, depart of energi, and dod, among other, have alreadi made ground-break advanc in sever field.
+research at old dominion univers[edit]
+
+center for advanc engin environ
+climat chang and sea level rise initi (ccslri)
+frank reidi research center for bioelectr
+maritim institut
+virginia coastal energi research consortium
+virginia model, analysi & simul center (vmasc)
+
+climat chang and sea level rise initi (ccslri)[edit]
+odu's climat chang and sea level rise initi (ccslri) ha facilit research and educ in all aspect of climat chang and alleg result sea level rise. becaus of old dominion's uniqu locat there is special emphasi on adapt to increas flood becaus of sea level rise. there ar mani other aspect of climat chang affect coastal citi such as public health or disast prepared that the initi also address.
+maritim institut[edit]
+old dominion univers's maritim institut wa creat through a univers/busi commun partnership in hampton road. it function is to provid maritim, port and logist manag educ, train and research to meet region, nation and intern need.
+at the octob, 2011 annual meet of the intern associ of maritim economist (iam) in santiago (chile), univers rank worldwid in port research for the period 1980-2009 were announc. in these rank, odu wa rank eighth in the world, second onli to the univers of washington in the western hemispher.[32]
+virginia model, analysi & simul center (vmasc)[edit]
+
+
+
+
+vmasc facil
+
+
+the virginia model, analysi and simul center (vmasc) is a univers-wide multidisciplinari research center that emphas model, simul, and visual (ms&v) research, develop and educ.[33]
+vmasc is on of the world's lead research center for comput model, simul, and visual.[citat need] the mission of the center is to conduct collabor ms&v research and develop, provid expertis to govern agenc and industri, and to promot old dominion univers, hampton road and virginia as a center of ms&v activ. annual, the center conduct approxim $10m in fund research.
+old dominion univers is a state-assist institut and on of onli four virginia school in the carnegi research univers (high research activ) categori. the univers offer a rang of model & simul degre option from bachelor's to ph.d.
+the hampton road region is home to the joint and coalit train (jcw), the us armi's train and doctrin command, the militari transport manag command, nato alli command transform, the arm forc staff colleg, the u.s. navi's command oper test and evalu forc, the naval sea system command, and the space and naval warfar center. in addit, the depart of energi's jefferson lab, nasa-langlei research center and numer region industri ar import user of ms&v technolog. the econom valu of ms&v-relat busi activ in hampton road is estim to be over $500m.
+vmasc concentr on eight core model and simul appli research area: transport, homeland secur and militari defens, virtual environ, social scienc, medicin & health, care, game-base learn, m&s interoper, system scienc.
+campu[edit]
+the norfolk campu[edit]
+old dominion univers ha undergon extens growth. the swell of new construct wa kick off in 2001 with the build of the ted constant convoc center. thi 8,600 seat arena ha becom the home of both men's and women's basketbal, as well as a premier venu for concert and other perform. the "ted" as it is affection call by student and alumni is part of a $55 million 75-acr (30 ha) develop known as the univers villag.
+
+
+
+
+monarch fountain dure homecom
+
+
+student hous ha grown at odu. the quad, a collect of six new residenti build—ireland hous (2006), virginia hous (2007), scotland hous (2008), franc hous (2009), england hous (2009), dominion hous (2009)—and offic bring old dominion univers closer to it goal of becom a more residenti univers. construct alongsid the quad is the new student recreat and well center. the center offer intramur and extramur for the student and staff. odu ha expand it sport facil, recent complet the folk-steven indoor tenni center and the powhatan sport complex,[34] a 48,000-squar-foot (4,500 m2) facil that hous the intercollegi athlet program of field hockei, women's lacross, and footbal. anoth footbal-relat project wa the renov of old dominion univers's histor foreman field for the sport's reintroduct in 2009.
+among the facil ar the fulli autom perri librari, laboratori in the scienc and engin, the e.v. william engin and comput scienc build, and the new system research build. the campu is also home to pretlow planetarium, the lion child studi center, facil for clinic work in the health scienc, a modern oceanographi and physic build, the gornto teletechnet center and the diehn fine and perform art center. recent addit includ the student success center and learn common, an orchid conservatori and research build, as well as renov to the technolog build and the batten art and letter build.
+in 2015, old dominion univers start construct on the new educ build and a new 45,000 sf student dine facil.[35]
+the univers librari[edit]
+
+
+
+
+patricia w. and j. dougla perri librari
+
+
+the old dominion univers librari ar the patricia w. and j. dougla perri librari, the f. ludwig diehn compos room, and the elis n. hofheim art librari. the librari contain over 3 million item—book, govern public, journal and serial, microform, music score, record, and map.[36] after month of renov, the perri librari first floor wa transform into the learn common which open in 2011.
+univers villag[edit]
+establish in 1995, the real estat foundat ha taken the lead in the develop of the univers villag, a mix us develop includ retail, residenti and offic build. the result of it work ar visibl to all in the form of the univers villag apart, restaur, shop, the north villag park garag, the innov research park, marriott springhil suit hotel, and campu bookstor.[37] merchant includ: perfectli frank, borjo coffeehous, rais cane's chicken finger, starbuck's, sakura sushi bar, tropic smoothi cafe, zero's sub, recoveri sport grill, la herradura restaur, mojo bone, insomnia cooki, jimmi john's.
+campu ministri[edit]
+odu student can join campu ministri which ar coordin by the univers chaplain's associ (uca). ministri includ the unit methodist, baptist, roman cathol, episcopalian, presbyterian and lutheran denomination sponsor ministri. intervars christian fellowship ha a presenc at odu and ar member of the uca. each of these church ha a campu ministri presenc at odu, as doe hillel: the foundat for jewish campu life, and the tidewat islam center, which serv the muslim commun at odu.
+maglev[edit]
+in 1999, odu agre to work with american maglev technogi of atlanta to construct an on-campu student transport link of less than on mile—us a smart train / dumb track design in which most sensor, magnet, and comput were locat on the train rather than the track.[38] with cost and safeti concern, sever other institut of higher learn reject the project. while project to cost less to build per mile than exist system, the odu maglev wa never oper. after deplet it $14 million budget, a groundbreak wa held in 2001, the project wa complet in 2002; and the technolog fail: the vehicl lost it "float" and come to a full friction stop on top of the rail, damag much of the system. american maglev and odu dissolv their relationship and the project becam an intern univers research project.[39][40][41] in octob 2006, the research team perform an unschedul test of the car that went smoothli. the system wa subsequ remov from the power grid for nearbi construct.[42] in februari 2009, the team retest the sled and wa success despit power outag on campu. odu subsequ partner with a massachusett-base compani to test anoth maglev train. magnemot inc. wa expect to bring it prototyp maglev vehicl, about the size of a van, to the campu to test in 2010.[43]
+student life[edit]
+residenti life[edit]
+
+demograph of student bodi (fall 2014)[44]
+
+african american
+26.2%
+
+
+nativ american
+0.4%
+
+
+asian american
+4.5%
+
+
+hispan american
+6.7%
+
+
+pacif island
+0.5%
+
+
+white american
+52.7%
+
+
+mulit-race (not hispan/latino)
+5.6%
+
+
+other/unknown
+3.4%
+
+
+odu's current residenti hall capac is around 4,600 student in 14 dormitori or student apart on campu. all freshmen ar guarante hous, 77% of freshmen and 24% of all student live in colleg hous.[45]
+
+
+
+
+resid hall on the old dominion quad
+
+
+
+
+campu resid hall
+
+
+
+
+dominion hous
+england hous
+foundat hous
+gresham main
+gresham east
+ireland hous
+nusbaum
+the odu inn
+powhatan villag
+roger main
+
+
+
+
+roger east
+scotland hous
+virginia hous
+whitehurst
+
+
+
+univers villag apart
+
+chesapeak hous
+hampton hous
+newport new hous
+poquoson hous
+portsmouth hous
+smithfield hous
+suffolk hous
+virginia beach hous
+williamsburg hous
+
+
+
+
+student tradit[edit]
+
+
+
+
+old dominion univers seal
+
+
+walk across the old dominion univers seal is a rite of passag for graduat student on graduat dai. legend ha it that undergradu should never walk across the univers seal locat on kaufman mall. whoever doe so will not graduat from old dominion in four year.[46]
+student recreat[edit]
+
+
+
+
+old dominion univers student recreat center
+
+
+the student recreat center is locat in the middl of the odu campu adjac to the rosan runt quad. the facil includ: 15,000 sq. ft. multi-level fit center with strength, cardio, and free-weight, indoor swim pool, indoor run track, 3 court gymnasium, multipurpos court, 3 group exercis studio, cycl studio, 3 racquetbal court,pro shop, outdoor adventur and rental center, bike and skate shop and an indoor climb wall.[47]
+the odu outdoor adventur program allow student to take organ trip and particip in activ such as hike, mountain bike, camp, surf, yoga, rock climb, snowboard and ski.
+the univers fit center (ufc) wa design to accommod old dominion's grow commun. the ufc is locat on monarch wai between 42nd and 43rd street and is equip with user-friendli lifefit cardio and weight machin.[48]
+rotc program[edit]
+the odu armi rotc battalion wa establish in septemb 1969 in the darden colleg of educ. the first cadet were commiss on juli 4, 1971. as of spring of 2008, odu ha been recogn as have the sixth largest armi rotc unit out of 262 program found nationwid.[49]
+it navi rotc program is run in conjunct with the neighbor campus of norfolk state univers and hampton univers. the hampton road naval reserv offic train corp is on of the largest offic train battalion in the us, consist of over 250 sailor, marin, and midshipmen, with an abov averag prior enlist presenc.
+student organ[edit]
+old dominion univers recogn over 300 student organ with over 8000 student member. these group includ profession organ, honor societi, religi organ, minor student, and group for student with common interest and major as well as a varieti of tradit, multicultur, and profession soror and fratern. the student govern associ ha direct author over student organ.
+greek life[edit]
+old dominion ha a complex and divers greek system with fourteen fratern and eleven soror. greek life is not activ at old dominon, 6% of men ar in fratern and 5% of women ar in soror.there ar also a wide varieti of servic fratern activ on campu.
+
+
+nic
+phc
+nphc
+nmgc
+other
+
+
+kappa sigma (f)
+zeta tau alpha (s)
+alpha kappa alpha (s)
+lambda upsilon lambda (f)
+alpha phi omega (co ed)
+
+
+kappa delta rho (f)
+pi beta phi (s)
+alpha phi alpha (f)
+mu sigma upsilon (s)
+alpha kappa psi (co ed)
+
+
+lambda chi alpha (f)
+alpha phi (s)
+delta sigma theta (s)
+sigma lambda upsilon (s)
+theta tau (co ed)
+
+
+phi kappa tau (f)
+alpha xi delta (s)
+iota phi theta (f)
+
+gamma sigma sigma (s)
+
+
+sigma nu (f)
+delta zeta (s)
+kappa alpha psi (f)
+
+sigma alpha iota (f)
+
+
+pi kappa alpha (f)
+kappa delta (s)
+omega psi phi (f)
+
+
+
+
+sigma phi epsilon (f)
+sigma sigma sigma (s)
+phi beta sigma (f)
+
+
+
+
+tau kappa epsilon (f)
+
+sigma gamma rho (s)
+
+
+
+
+theta chi (f)
+
+zeta phi beta (s)
+
+
+
+
+pi kappa phi (f)
+
+
+
+
+
+
+sigma pi (f)
+
+
+
+
+
+
+phi gamma delta (f)
+
+
+
+
+
+
+kappa alpha order (f)
+
+
+
+
+
+
+athlet[edit]
+main articl: old dominion monarch and ladi monarch
+old dominion's 18 athlet team ar known as the monarch (men's team, plu field hockei, women's lacross, and co sail) and ladi monarch (all other women's team) and mostli compet in the ncaa divis i confer usa (c-usa). old dominion univers athlet team have captur 28 team nation championship and four individu titl. the school's best-known sport team is the ladi monarch basketbal team, which ha won three nation championship in 1979 (aiaw), 1980 (aiaw) and 1985 (ncaa). the ladi monarch also made it to the 1997 women's ncaa championship game, lose to tennesse. odu athlet team have won a further 28 nation championship includ 15 in men's and women's sail and 9 in women's field hockei. the ladi monarch' nine nation titl in field hockei ar in ncaa record book for most titl in that sport by the same school.
+in addit, old dominion's athlet team have captur 49 championship in the coloni athlet associ.
+on march 2010, dr. wood selig becam the new athlet director. previous, dr. selig wa the athlet director at western kentucki.[50]
+on mai 17, 2012 old dominion announc it would move to c-usa on juli 1, 2013. four odu sport which ar not sponsor by c-usa have outsid affili. in 2013, the wrestl team becam an associ of the mid-american confer[51] and the field hockei team join the reconfigur big east confer.[52] the women's lacross team spent the 2014 season (plai in the 2013–14 school year) as an independ befor join the atlant sun confer.[53] final, the women's row team join the big 12 confer in 2014–15 after the big 12 effect took over c-usa row.[54] most recent, the men's swim and dive team, which wa left without a confer affili for two year becaus c-usa sponsor the sport onli for women, join the coastal collegi swim associ, later renam the coastal collegi sport associ, effect with the 2015–16 season.[55]
+odu-vcu rivalri[edit]
+main articl: vcu-odu basketbal rivalri
+virginia commonwealth univers is odu's archriv, mainli becaus of the similar between the two school. both school were onc part of the colleg of william and mari and both ar urban research univers locat just 90 mile apart.[56]
+men's basketbal[edit]
+main articl: old dominion monarch basketbal
+
+
+
+
+old dominion's ted constant convoc center
+
+
+the old dominion univers monarch (men's) basketbal team have captur six caa championship titl (1992, 1995, 1997, 2005, 2010, and 2011) sinc their confer admiss in 1992, which is the most among all caa school. in 2007, thei receiv an at-larg bid to the ncaa tournament, when the team went 24-8 and finish 37th in rpi. that season includ a notabl 13-point win at 8th rank georgetown. their most recent trip to the ncaa tournament wa with an automat bid after captur the 2010 caa titl. dure the ncaa tournament, the 11th seed monarch manag a 1-point first-round upset over the 6th seed fight irish of notr dame.
+in 2002 odu open the ted constant convoc center for the 2002-2003 basketbal season. "the ted" ha 8,600 fulli cushion seat, 16 luxuri suit, and a state-of-the-art scoreboard. in addit to be us for home basketbal game, the constant center host famili-orient event as well as concert, lectur, and commenc ceremoni.
+women's basketbal[edit]
+main articl: old dominion ladi monarch basketbal
+old dominion also hold an import place in the histori of women's collegi athlet, have award the first athlet scholarship to ani woman in the state of virginia for a varsiti sport when nanci lieberman wa award a scholarship to plai women's basketbal.
+the old dominion ladi monarch basketbal team ha won three nation championship. in 1979 and 1980, the ladi monarch were aiaw champion. in 1985, thei captur the ncaa divis i nation championship with a 70-65 win over the univers of georgia. in addit, the ladi monarch have captur five sun belt confer championship titl (1983, 1984, 1985, 1987 and 1990), and captur 17 caa championship titl, win everi year from 1991-92 to 2007–08.
+monarch footbal[edit]
+main articl: old dominion monarch footbal
+the histori of footbal at odu began with the norfolk divis, which had a footbal team until 1941 known as the norfolk divis brave. the program dissolv due to a rule against freshman player and a $10,000 debt.[57]
+on june 14, 2005, it board of visitor approv by a 14-0 vote the creation of an ncaa divis i team, which began plai on septemb 5, 2009.
+on februari 9, 2007, odu's athlet director jim jarrett announc that bobbi wilder, the associ head footbal coach at the univers of main, would be the head footbal coach at old dominion univers. the team sign it first class in 2008. as is the case with mani new footbal program, all player on the 2008 monarch footbal team were redshirt, and when ad with the 2009 sign class and transfer from i-a school, form the nucleu of the school's first footbal team. initi, odu compet as an fc program (formerli i-aa), and wa independ for two year befor join the coloni athlet associ for the 2011 season.
+the final record for old dominion's 2009 footbal program wa 9-2, at the time the best win record ever for a first-year collegi footbal program. thi record is now held by mercer univers who finish 10-2 in 2013.[58] old dominion's footbal program had continu success in 2010 finish 8-3. in the follow year, old dominion's footbal program finish their 2011-2012 season with a 10-3 record, and an 11-2 record for their 2012-2013 season which gain nation attent. as the school's footbal program began to grow along with the univers itself, old dominion's potenti wa realiz by sever commission for colleg footbal, particularli by confer usa. old dominion offici join confer usa (c-usa) on juli 1, 2013 leav behind their former confer affili with the coloni athlet associ (caa).[59] thei won their first c-usa game against rice owl on septemb 20, 2014.[60]
+foreman field, formerli the field hockei and women's lacross team' home venu, ha been renov to accommod the new footbal program. field hockei and women's lacross team have been reloc to the powhatan sport complex.
+as of the 2015 season the odu footbal program ha sold out everi home game that ha ever been plai at foreman field, 48 consecut sellout.
+
+
+
+
+
+panoram of the 2015 old dominion vs nc state footbal game
+
+
+men's soccer[edit]
+main articl: old dominion monarch soccer
+wrestl[edit]
+old dominion univers monarch wrestl team wa establish in 1957. the school's departur from the caa forc the wrestl team to becom an associ member of the mid-american confer, as confer usa doe not sponsor wrestl. the old dominion head wrestl coach is steve martin, current in hi tenth season with the program.[61]
+row[edit]
+the odu row club (odurc) ha been under the recreat sport depart sinc 1985. the club is fulli student-run and is fund larg by the student member of the club. odurc ha been veri success in recent year, as it ha increas it membership. ad outstand volunt coach in recent year ha rais the competit of the team greatli, and the men's club won a nation championship in mai, 2008. todai, male and femal rower continu to compet as a club; in 2008 row also becam a varsiti sport for femal student, and a full-time coach wa hire for the new women's team. within their first year at varsiti level, the women's team place at a nation competit. the decis to elev onli the women's team to varsiti statu wa made to keep odu compliant with titl ix regul, provid balanc to the increas spend on men's athlet that a footbal program brought.[62]
+cheerlead (co-ed)[edit]
+led by head coach carmen harri, the old dominion univers cheer squad is a safe, profession and athlet program. it energet team consist of athlet who ar also student. the cheer squad, along with the old dominion dynasti danc team, perform at all footbal home game as well as most footbal awai game. thei also perform at all men and women's basketbal home game, and occasion a home soccer or basebal game. along with their practic, game, competit, and other event, odu cheerlead ar requir to activ particip in all fundrais effort and volunt work under their spirit squad program.[63]
+the old dominion athlet foundat[edit]
+the old dominion athlet foundat (odaf) is the offici booster club for old dominion athlet. the old dominion athlet foundat wa previous known as the big blue club, or the old dominion univers intercollegi foundat. the chang from those to odaf occur march 1, 2011. the old dominion athlet foundat ha an 501-c-3 design as a non-profit organ.[64]
+monarch maniac[edit]
+monarch maniac wa the student (undergradu and graduat) group that support all the athlet program at old dominion univers. the group is for student to show their school spirit and pride at all athlet event. the group is administ by the offic of student activ and leadership. in order to becom a member, there is a $20 membership fee and onc paid, you receiv benefit. all member receiv a t-shirt, earli entri to the footbal and basketbal game, giveawai dure the game, prioriti seat for select awai game, view parti and a membership card which allow discount at sponsor vendor in norfolk.[65]
+notabl faculti[edit]
+
+
+name
+depart
+notabl
+refer
+
+
+mohammad ataul karim
+
+a bangladeshi american, known for hi mani origin contribut in a number of differ topic includ biophys, electro-optic displai, and optic comput.
+
+
+
+g. william whitehurst
+
+kaufman lectur in public affair and professor of polit scienc and histori. serv as u.s. repres for the second district of virginia from 1968 to 1987. he is the namesak for on of the resid hall at odu on the elizabeth river.
+
+
+
+ingo heidbrink
+histori
+maritim historian and professor of histori known for hi variou contribut to methodolog of maritim histori, fisheri histori, and interdisciplinari cooper. heidbrink held the offic of secretari gener of the intern commiss for maritim histori - the global umbrella organ for research in maritim histor, and is co-presid of the north atlant fisheri histori associ.
+
+
+
+mounir laroussi
+electr & comput engin
+laroussi is a tunisian scientist, and is known for hi work in plasma scienc, especi low temperatur plasma and their biomed applic. he publish semin paper on the interact of low temperatur plasma with biolog cell, to inactiv bacteria and protein, to assist in wound heal, to destroi some type of cancer cell, and to plai an activ role in variou other medic therapi. in 2009 the institut of electr and electron engin (ieee) elev mounir laroussi to the grade of fellow for hi import contribut to the biomed applic of plasma[3]. he wa also award the inaugur achiev award from the intern societi on plasma medicin in septemb 2010. perhap mounir laroussi's best known invent is a devic call the plasma pencil. he serv as an elect member of the administr committe (2002–2005) and the plasma scienc and applic execut committe (2005–2007) of the ieee nuclear and plasma scienc societi (npss). he ha also serv as a guest editor of the ieee transact on plasma scienc, and of plasma process and polym, a wilei-vch journal. mounir laroussi wa the recipi of the ieee millennium medal, 2000.
+
+
+
+mark mostert
+associ professor of special educ
+associ professor of special educ at old dominion from 2000 - 2002. professor, of special educ at regent univers author and lectur on eugen, facilit commun and "useless eater.
+
+
+
+notabl alumni[edit]
+main articl: list of old dominion univers alumni
+
+
+
+
+
+
+
+ben bailei
+
+
+
+
+
+
+
+
+
+kent bazemor
+
+
+
+
+
+
+
+
+
+michael bloomfield
+
+
+
+
+
+
+
+
+
+ann donovan
+
+
+
+
+
+
+
+
+
+william j. fallon
+
+
+
+
+
+
+
+
+
+benjamin s. griffin
+
+
+
+
+
+
+
+
+
+jai harri
+
+
+
+
+
+
+
+
+
+oliv purnel
+
+
+
+
+
+
+
+
+
+dave twardzik
+
+
+
+
+
+
+
+
+
+justin verland
+
+
+
+
+
+
+
+
+
+nanci lieberman
+
+
+
+
+refer[edit]
+
+
+^ "new at old dominion univers". odu.edu. retriev 29 mai 2015. 
+^ "u.s. and canadian institut list by fiscal year (fy) 2014 endow market valu and chang* in endow market valu from fy2013 to fy2014" (pdf). nacubo.org. retriev 2016-05-06. 
+^ "univers fact & figur - old dominion univers". odu.edu. 2016-04-05. retriev 2016-05-06. 
+^ "color palett & font - old dominion univers". odu.edu. retriev 2016-02-01. 
+^ "old dominion univers : idea fusion : 2014 - 2019 strateg plan" (pdf). odu.edu. retriev 2016-05-06. 
+^ "research & impact - old dominion univers". odu.edu. retriev 2016-02-01. 
+^ a b c d e f g h rutyna, richard a. & john w. kuehl. old dominion univers: heritag and horizon. norfolk, va. : don co., 1987.
+^ "odu librari exhibit - odu 75th anniversari - 2005". lib.odu.edu. retriev 2016-05-06. 
+^ a b "univers histori - old dominion univers". odu.edu. retriev 2016-02-01. 
+^ a b "annal of the colleg of william and mari in norfolk : the first decad : 1930-1940" (pdf). odu.edu (revis ed.). retriev 2016-05-06. 
+^ "jame l. bugg, jr. - old dominion univers". odu.edu. 2013-05-23. retriev 2016-02-01. 
+^ "75 great moment in odu histori - old dominion univers". odu.edu. retriev 2016-02-01. 
+^ "alfr b. rollin, jr. - old dominion univers". odu.edu. retriev 2016-02-01. 
+^ "undergradu statist". admiss.odu.edu. retriev 2012-02-18. 
+^ "past presid - old dominion univers". odu.edu. 2013-10-18. retriev 2016-02-01. 
+^ "2014 nation univers rank". washington monthli. n.d. retriev mai 26, 2015. 
+^ "america's top colleg". forb. juli 5, 2016. 
+^ "best colleg 2017: nation univers rank". u.s. new & world report. septemb 12, 2016. 
+^ "2016 rank - nation univers". washington monthli. retriev septemb 6, 2016. 
+^ "world univers rank 2016-17". the educ ltd. retriev septemb 21, 2016. 
+^ a b "major goal of the univers" (pdf). retriev 2012-02-18. 
+^ "old dominion univers (odu) at norfolk, virginia". edumaritim.com. retriev 29 mai 2015. 
+^ "degre program". odu.edu. retriev 2011-10-05. 
+^ "about the colleg - old dominion univers". odu.edu. retriev 2016-02-01. 
+^ a b "darden colleg of educ". educ.odu.edu. retriev 2014-08-15. 
+^ "major & program | undergradu admiss | old dominion univers | norfolk, va". admiss.odu.edu. retriev 2012-02-18. 
+^ "bachelor of scienc in model and simul engin". eng.odu.edu. retriev 2012-02-18. 
+^ "right where you ar - odu distanc learn". dl.odu.edu. retriev 2012-01-10. 
+^ "program - odu distanc learn". dl.odu.edu. retriev 2012-01-10. 
+^ "how it work - odu distanc learn". dl.odu.edu. retriev 2012-01-10. 
+^ "militari and veteran - odu distanc learn". dl.odu.edu. retriev 2012-01-10. 
+^ "archiv copi". archiv from the origin on octob 8, 2015. retriev februari 27, 2015. 
+^ "virginia model, analysi & simul center - old dominion univers". vmasc.odu.edu. 2016-04-27. retriev 2016-05-06. 
+^ "ground broken on odu's $17 million powhatan sport center | sport | pilotonlin.com". hamptonroad.com. 2007-08-03. retriev 2016-05-06. 
+^ "capit project - old dominion univers". odu.edu. 2015-08-31. retriev 2016-02-01. 
+^ "archiv copi". archiv from the origin on mai 30, 2015. retriev mai 29, 2015. 
+^ "archiv copi". archiv from the origin on august 3, 2009. retriev novemb 30, 2009. 
+^ giusti, michael (12 june 2002). "maglev train make track to va". new-journalonlin.org. 
+^ "maglev develop project". eng.odu.edu. retriev 2012-02-18. 
+^ "the student voic: will the maglev ever run?". dominion univers. retriev 5 februari 2007. 
+^ "presid runt comment on statu of maglev". dominion colleg of scienc newslett. retriev 5 februari 2007. 
+^ the virginian pilot. on the move. 10 novemb 2006.
+^ "odu scientist have liftoff on maglev experi". the virginian pilot. 18 februari 2009. 
+^ "student demograph". csuf. 2014. retriev juli 2, 2015. 
+^ "old dominion univers overview - collegedata colleg profil". collegedata.com. retriev 2016-02-01. 
+^ "campu tradit - old dominion univers". odu.edu. retriev 2016-02-01. 
+^ "sport & fit - old dominion univers". odu.edu. 2015-12-21. retriev 2016-02-01. 
+^ "univers villag fit center - old dominion univers". odu.edu. 2016-01-26. retriev 2016-02-01. 
+^ jone, matthew (2008-03-30). "rank of odu's armi rotc swell to largest in it histori". hamptonroad.com. retriev 2012-02-18. 
+^ jon gold, ross bjork name western kentucki univers a.d., lo angel daili new, march 12, 2010
+^ "mac add wrestl member" (press releas). mid-american confer. septemb 19, 2012. retriev septemb 20, 2012. 
+^ ewart, brian (mai 1, 2013). "templ join new big east in lacross, field hockei". vuhoop.com. sb nation. retriev june 5, 2013. 
+^ "a-sun welcom old dominion as women's lacross affili" (press releas). atlant sun confer. june 29, 2013. retriev juli 2, 2013. 
+^ "big 12 invit affili to row championship" (press releas). big 12 confer. januari 31, 2014. retriev june 12, 2014. 
+^ "odu men's swim to join the ccsa" (press releas). old dominion monarch and ladi monarch. juli 16, 2015. retriev juli 20, 2015. 
+^ 21 jan. "vcu/odu: the rivalri is just differ…". caahoop.com. retriev 2012-02-18. 
+^ "special section-75 great moment in odu histori". odu.edu. retriev 2016-05-06. 
+^ "mercer footbal ha winningest debut season in ncaa divis i histori". gpb.org. 2013-11-25. retriev 2014-08-15. 
+^ fairbank, dave. "odu make calcul leap to confer usa." dailypress.com. newport new va., daili press, 17 mai 2012. web. 18 juli 2013.
+^ barnett, zach (2014-09-21). "old dominion, north texa made confer usa histori on saturdai". colleg footbal talk. nbc sport. retriev 2014-09-21. 
+^ "odu athlet: wrestl team" (pdf). old dominion univers athlet. retriev 2014-01-01. 
+^ "odu row club team captur nation championship". odu.edu. 2008-06-04. retriev 2012-02-18. 
+^ "archiv copi". archiv from the origin on march 25, 2012. retriev april 2, 2012. 
+^ "archiv copi". archiv from the origin on decemb 6, 2007. retriev januari 15, 2008. 
+^ "monarch maniac". studentaffair.odu.edu. retriev 2012-02-18. 
+
+
+extern link[edit]
+
+offici websit
+old dominion athlet websit
+
+
+
+
+
+
+
+v
+t
+e
+
+
+old dominion univers
+
+
+
+
+locat in: norfolk, virginia
+
+
+
+academ
+
+
+
+program
+art and letter
+busi
+colleg of educ
+colleg of engin and technolog
+health scienc
+scienc
+
+
+miscellan
+center for advanc engin environ
+virginia model, analysi and simul center
+
+
+
+
+
+athlet
+
+
+
+confer usa
+men's basketbal
+women's basketbal
+big blue (mascot)
+basebal
+bud metheni basebal complex
+folk-steven indoor tenni center
+footbal
+men's soccer
+foreman field
+monarch and ladi monarch
+monarch maniac
+odu fieldhous
+odu soccer complex
+powhatan sport complex
+ted constant convoc center
+
+
+
+
+
+ground
+
+
+
+librari
+patricia w. and j. dougla perri librari
+f. ludwig diehn compos room
+elis n. hofheim art librari
+robert m. hugh memori librari
+
+
+campu
+growth
+imag
+maglev system
+student recreat
+univers villag
+
+
+
+
+
+histori
+
+
+
+histori
+king charl ii
+the colleg of william & mari
+
+the colleg of william & mari
+
+
+virginia polytechn institut
+
+
+
+
+
+media
+
+
+
+monarch magazin
+the mace & crown
+monarch vision
+wodu
+
+
+
+
+
+peopl
+
+
+
+alumni
+faculti
+
+
+
+
+
+student life
+
+
+
+greek life
+rotc
+row program
+organ
+monarch march band
+tradit
+
+
+
+
+
+
+
+
+found: 1930
+student: 24,670
+endow: 213.7 million
+ common
+ categori
+
+
+
+
+
+
+
+
+
+
+link to relat articl
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+colleg and univers in virginia
+
+
+
+privat
+
+
+
+appalachian colleg of pharmaci
+appalachian school of law
+art institut of virginia beach
+art institut of washington
+atlant univers
+averett univers
+baptist theolog seminari at richmond
+bluefield colleg
+bon secour memori colleg of nurs
+bridgewat colleg
+christendom colleg
+cordoba univers
+devri univers
+eastern mennonit univers
+ecpi univers
+edward via colleg of osteopath medicin
+emori and henri colleg
+ferrum colleg
+georg washington univers virginia campu
+hampden–sydnei colleg
+hampton univers
+hartland colleg
+hollin univers
+jefferson colleg of health scienc
+john leland center for theolog studi
+liberti univers
+lynchburg colleg
+mari baldwin univers
+marymount univers
+patrick henri colleg
+randolph colleg
+randolph–macon colleg
+regent univers
+roanok colleg
+shenandoah univers
+southern virginia univers
+stratford univers
+sweet briar colleg
+union theolog seminari & presbyterian school of christian educ
+univers of manag and technolog
+univers of the potomac
+univers of richmond
+virginia intern univers
+virginia theolog seminari
+virginia union univers
+virginia univers of lynchburg
+virginia wesleyan colleg
+washington and lee univers
+westwood colleg
+
+
+
+
+
+public
+
+
+
+christoph newport univers
+colleg of william & mari
+eastern virginia medic school
+georg mason univers
+jame madison univers
+joint forc staff colleg
+longwood univers
+marin corp univers
+norfolk state univers
+old dominion univers
+radford univers
+richard bland colleg
+univers of mari washington
+univers of virginia
+univers of virginia's colleg at wise
+virginia commonwealth univers
+virginia commun colleg system
+virginia militari institut
+virginia polytechn institut and state univers
+virginia state univers
+virginia–maryland region colleg of veterinari medicin
+
+
+
+
+
+defunct
+
+
+
+blackston colleg for girl
+elizabeth colleg
+frederick colleg
+gibb colleg
+marion colleg
+saint paul's colleg
+sullin colleg
+univers of northern virginia
+virginia intermont colleg
+
+
+
+
+
+
+
+
+complet list
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+southeastern univers research associ
+
+
+
+standard member
+
+
+
+alabama
+uab
+uahuntsvil
+arkansa
+auburn
+baylor
+cathol
+ucf
+christoph newport
+clemson
+delawar
+duke
+east carolina
+florida
+florida atlant
+florida tech
+fiu
+florida state
+georg mason
+georg washington
+georgetown
+georgia
+georgia tech
+georgia state
+hampton
+houston
+jame madison
+kentucki
+ul lafayett
+lsu
+louisiana tech
+maryland
+umbc
+mit
+memphi
+miami
+ol miss
+mississippi state
+new orlean
+norfolk state
+north carolina a&t
+north carolina
+nc state
+oklahoma
+old dominion
+regina
+rice
+richmond
+south carolina
+south florida
+southern miss
+tennesse
+texa
+texa a&m
+tulan
+vanderbilt
+virginia
+vcu
+virginia tech
+virginia state
+west virginia
+william & mari
+
+
+
+
+
+affili member
+
+
+
+idaho state
+ohio
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+confer usa
+
+
+
+full member
+
+
+
+charlott 49er
+florida atlant owl
+fiu panther
+louisiana tech bulldog/ladi techster
+marshal thunder herd
+middl tennesse blue raider
+north texa mean green
+old dominion monarch/ladi monarch
+rice owl
+southern miss golden eagl/ladi eagl
+uab blazer
+utep miner
+utsa roadrunn
+western kentucki hilltopp/ladi topper
+
+
+
+
+
+men's soccer affili member
+
+
+
+kentucki wildcat
+new mexico lobo
+south carolina gamecock
+
+
+
+
+
+histori
+
+
+
+metro confer
+great midwest confer
+2010–13 confer usa realign
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+atlant sun confer
+
+
+
+full member
+
+
+
+florida gulf coast eagl
+jacksonvil dolphin
+kennesaw state owl
+lipscomb bison
+njit highland
+north florida osprei
+south carolina upstat spartan
+stetson hatter
+
+
+
+
+
+futur member
+
+
+
+north alabama lion (join in 2018)
+
+
+
+
+
+women's lacross associ
+
+
+
+central michigan chippewa
+coastal carolina chanticl
+delawar state hornet
+detroit titan
+furman paladin
+howard ladi bison
+kent state golden flash (join in 2018)
+mercer bear
+old dominion monarch
+wofford terrier
+
+
+
+
+
+beach volleybal associ
+
+
+
+coastal carolina chanticl
+mercer bear
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+big east confer
+
+
+
+full
+member
+
+
+
+butler bulldog
+creighton bluejai
+depaul blue demon
+georgetown hoya
+marquett golden eagl
+provid friar
+st. john's red storm
+seton hall pirat
+villanova wildcat
+xavier musket
+
+
+
+
+
+associ
+member
+
+
+
+cincinnati bearcat (women's lacross; leav in 2018)
+connecticut huski (field hockei, women's lacross; lacross leav in 2018)
+denver pioneer (men's lacross, women's lacross)
+florida gator (women's lacross; leav in 2018)
+liberti ladi flame (field hockei)
+old dominion monarch (field hockei)
+quinnipiac bobcat (field hockei)
+templ owl (field hockei, women's lacross; lacross leav in 2018)
+vanderbilt commodor (women's lacross; leav in 2018)
+
+
+
+
+
+histori
+
+
+
+big east confer (1979–2013)
+2010–13 big east realign
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+big 12 confer
+
+
+
+full member
+
+
+
+baylor bear and ladi bear
+iowa state cyclon
+kansa jayhawk
+kansa state wildcat
+oklahoma sooner
+oklahoma state cowboi and cowgirl
+tcu horn frog
+texa longhorn
+texa tech red raider and ladi raider
+west virginia mountain
+
+
+
+
+
+
+
+
+associ member
+
+
+
+air forc falcon (wrestl)
+alabama crimson tide (women's row)
+denver pioneer (women's gymnast)
+fresno state bulldog (wrestl)
+north dakota state bison (wrestl)
+northern colorado bear (wrestl)
+northern iowa panther (wrestl)
+old dominion ladi monarch (women's row)
+south dakota state jackrabbit (wrestl)
+tennesse volunt (women's row)
+utah vallei wolverin (wrestl)
+wyom cowboi (wrestl)
+
+
+
+
+
+championship & award
+
+
+
+confer champion
+all-time footbal team
+
+
+
+
+
+histori
+
+
+
+big eight confer
+southwest confer
+1996 confer realign
+2010–13 big 12 realign
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+coastal collegi sport associ
+
+
+
+men's
+swim & dive
+
+
+
+florida atlant owl
+gardner–webb runnin' bulldog
+howard bison
+incarn word cardin
+njit highland
+old dominion monarch
+
+
+
+
+
+women's
+swim & dive
+
+
+
+campbel ladi camel
+florida gulf coast eagl
+gardner–webb runnin' bulldog
+georgia southern eagl
+howard ladi bison
+incarn word cardin
+liberti ladi flame
+unc ashevil bulldog
+north florida osprei
+
+
+
+
+
+beach
+volleybal
+
+
+
+charleston cougar
+fiu panther
+florida atlant owl
+florida state seminol
+georgia state panther
+lsu tiger
+south carolina gamecock
+tulan green wave
+uab blazer
+unc wilmington seahawk
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+mid-american confer
+
+
+
+east divis
+
+
+
+akron zip
+bowl green falcon
+buffalo bull
+kent state golden flash
+miami redhawk
+ohio bobcat
+
+
+
+
+
+west divis
+
+
+
+ball state cardin
+central michigan chippewa
+eastern michigan eagl
+northern illinoi huski
+toledo rocket
+western michigan bronco
+
+
+
+
+
+affili
+
+
+
+appalachian state mountain (field hockei)
+binghamton bearcat (men's tenni)
+evansvil purpl ac (men's swim and dive)
+longwood lancer (field hockei)
+missouri tiger (wrestl)
+missouri state bear (field hockei, men's swim and dive)
+old dominion monarch (wrestl)
+siu edwardsvil cougar (men's soccer; wrestl join in 2018)
+southern illinoi saluki (men's swim and dive)
+west virginia mountain (men's soccer)
+
+
+
+
+
+season
+
+
+
+1946–47
+1947–48
+1948–49
+1949–50
+1950–51
+1951–52
+1952–53
+1953–54
+1954–55
+1955–56
+1956–57
+1957–58
+1958–59
+1959–60
+1960–61
+1961–62
+1962–63
+1963–64
+1964–65
+1965–66
+1966–67
+1967–68
+1968–69
+1969–70
+1970–71
+1971–72
+1972–73
+1973–74
+1974–75
+1975–76
+1976–77
+1977–78
+1978–79
+1979–80
+1980–81
+1981–82
+1982–83
+1983–84
+1984–85
+1985–86
+1986–87
+1987–88
+1988–89
+1989–90
+1990–91
+1991–92
+1992–93
+1993–94
+1994–95
+1995–96
+1996–97
+1997–98
+1998–99
+1999–00
+2000–01
+2001–02
+2002–03
+2003–04
+2004–05
+2005–06
+2006–07
+2007–08
+2008–09
+2009–10
+2010–11
+2011–12
+2012–13
+2013–14
+2014–15
+2015–16
+2016–17
+2017–18
+
+
+
+
+
+championship
+
+
+
+confer champion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+						retriev from "http://en.wikipedia.org/w/index.php?titl=old_dominion_univers&oldid=805471081"					
+categori: old dominion universityunivers and colleg in virginiaeduc institut establish in 1930public universitiesunivers and colleg accredit by the southern associ of colleg and schoolseduc in norfolk, virginiamagnet levitationdist educ institutionstourist attract in norfolk, virginia1930 establish in virginiahidden categori: articl with a promot tone from juli 2016all articl with a promot tonepag us deprec imag syntaxcoordin on wikidataal articl with unsourc statementsarticl with unsourc statement from juli 2016 
+
+
+
+navig menu
+
+
+person tool
+
+not log intalkcontributionscr accountlog in 
+
+
+
+namespac
+
+articl
+talk
+
+
+
+
+variant
+
+
+
+
+
+
+
+
+
+view
+
+read
+edit
+view histori
+
+
+
+more
+
+
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navig
+
+
+main pagecontentsfeatur contentcurr eventsrandom articledon to wikipediawikipedia store 
+
+
+
+interact
+
+
+helpabout wikipediacommun portalrec changescontact page 
+
+
+
+tool
+
+
+what link hererel changesupload filespeci pagesperman linkpag informationwikidata itemcit thi page 
+
+
+
+print/export
+
+
+creat a bookdownload as pdfprintabl version 
+
+
+
+in other project
+
+
+wikimedia common 
+
+
+
+languag
+
+
+تۆرکجهdeutschespañolفارسیfrançaisnederlandsnorsksimpl english中文 
+edit link 
+
+
+
+
+
+ thi page wa last edit on 15 octob 2017, at 16:39.
+text is avail under the creativ common attribut-sharealik licens;
+addit term mai appli.  by us thi site, you agre to the term of us and privaci polici. wikipedia® is a regist trademark of the wikimedia foundat, inc., a non-profit organ.
+
+
+privaci polici
+about wikipedia
+disclaim
+contact wikipedia
+develop
+cooki statement
+mobil view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputim":"0.936","walltim":"1.115","ppvisitednod":{"valu":5022,"limit":1000000},"ppgeneratednod":{"valu":0,"limit":1500000},"postexpandincludes":{"valu":387740,"limit":2097152},"templatearguments":{"valu":96522,"limit":2097152},"expansiondepth":{"valu":12,"limit":40},"expensivefunctioncount":{"valu":2,"limit":500},"entityaccesscount":{"valu":1,"limit":400},"timingprofil":["100.00%  871.342      1 -total"," 43.01%  374.795      1 templat:reflist"," 30.00%  261.441     55 templat:cite_web"," 14.34%  124.979      1 templat:infobox_univers"," 12.83%  111.792      1 templat:infobox"," 10.30%   89.760      9 templat:navbox","  9.39%   81.813      1 templat:navbox","  6.15%   53.614      4 templat:citat_need","  5.59%   48.715      4 templat:fix","  5.39%   46.955      1 templat:old_dominion_univers"]},"scribunto":{"limitreport-timeusag":{"valu":"0.473","limit":"10.000"},"limitreport-memusag":{"valu":10184255,"limit":52428800}},"cachereport":{"origin":"mw1218","timestamp":"20171017025905","ttl":1900800,"transientcont":fals}}});});(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetim":1221,"wghostnam":"mw1218"});});
+
+

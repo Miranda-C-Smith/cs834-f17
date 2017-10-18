@@ -1,0 +1,1620 @@
+
+
+
+breed-specif legisl - wikipedia
+document.documentel.classnam = document.documentel.classnam.replac( /(^|\s)client-noj(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespac":"","wgcanonicalspecialpagenam":fals,"wgnamespacenumb":0,"wgpagenam":"breed-specif_legisl","wgtitl":"breed-specif legisl","wgcurrevisionid":799642592,"wgrevisionid":799642592,"wgarticleid":730110,"wgisarticl":true,"wgisredirect":fals,"wgaction":"view","wgusernam":null,"wgusergroup":["*"],"wgcategori":["all articl with dead extern link","articl with dead extern link from juli 2017","articl with perman dead extern link","cs1 danish-languag sourc (da)","cs1 spanish-languag sourc (es)","cs1 french-languag sourc (fr)","cs1 norwegian-languag sourc (no)","cs1 romanian-languag sourc (ro)","articl with dead extern link from novemb 2016","articl with limit geograph scope from novemb 2016","usa-centric","all articl with link need disambigu","articl with link need disambigu from april 2015","dog law"],"wgbreakfram":fals,"wgpagecontentlanguag":"en","wgpagecontentmodel":"wikitext","wgseparatortransformt":["",""],"wgdigittransformt":["",""],"wgdefaultdateformat":"dmy","wgmonthnam":["","januari","februari","march","april","mai","june","juli","august","septemb","octob","novemb","decemb"],"wgmonthnamesshort":["","jan","feb","mar","apr","mai","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagenam":"breed-specif_legisl","wgrelevantarticleid":730110,"wgrequestid":"weqxyapaicwa8i--qaaabc","wgisprobablyedit":true,"wgrelevantpageisprobablyedit":true,"wgrestrictionedit":[],"wgrestrictionmov":[],"wgflaggedrevsparam":{"tag":{}},"wgstablerevisionid":null,"wgwikieditorenabledmodul":{"toolbar":true,"preview":fals,"publish":fals},"wgbetafeaturesfeatur":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":fals,"wgpopupsshouldsendmoduletous":fals,"wgpopupsconflictswithnavpopupgadget":fals,"wgvisualeditor":{"pagelanguagecod":"en","pagelanguagedir":"ltr","pagevariantfallback":"en","usepageimag":true,"usepagedescript":true},"wgpreferredvari":"en","wgmfexpandallsectionsuseropt":fals,"wgmfdisplaywikibasedescript":{"search":true,"nearbi":true,"watchlist":true,"taglin":fals},"wgrelatedarticl":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":fals,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelet":[],"wgcentralnoticecategoriesusinglegaci":["fundrais","fundrais"],"wgcategorytreepagecategoryopt":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespac\":fals}","wgwikibaseitemid":"q8514196","wgcentralauthmobiledomain":fals,"wgcodemirroren":fals,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparam":["undo","undoaft","veswitch"],"wgeditsubmitbuttonlabelpublish":fals});mw.loader.state({"ext.gadget.charinsert-style":"readi","ext.globalcssj.user.style":"readi","ext.globalcssj.site.style":"readi","site.style":"readi","noscript":"readi","user.style":"readi","user":"readi","user.option":"readi","user.token":"load","ext.cite.style":"readi","wikibas.client.init":"readi","ext.visualeditor.desktoparticletarget.noscript":"readi","ext.ul.interlanguag":"readi","ext.wikimediabadg":"readi","skin.vector.style.experiment.print":"readi","mediawiki.legaci.share":"readi","mediawiki.legaci.commonprint":"readi","mediawiki.sectionanchor":"readi","mediawiki.skin.interfac":"readi","skin.vector.style":"readi","ext.globalcssj.user":"readi","ext.globalcssj.site":"readi"});mw.loader.implement("user.token@1dqfd7l",function ( $, jqueri, requir, modul ) {
+mw.user.token.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.readi","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahous","ext.gadget.referencetooltip","ext.gadget.watchlist-notic","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-button","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetload","ext.eventlog.subscrib","ext.wikimediaev","ext.navigationtim","ext.ul.eventlogg","ext.ul.init","ext.ul.interfac","ext.centralnotic.geoip","ext.centralnotic.startup","skin.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+breed-specif legisl
+
+from wikipedia, the free encyclopedia
+
+
+					jump to:					navig, 					search
+
+
+
+
+
+
+
+the exampl and perspect in thi articl deal primarili with the unit state and do not repres a worldwid view of the subject. you mai improv thi articl, discuss the issu on the talk page, or creat a new articl, as appropri. (novemb 2016) (learn how and when to remov thi templat messag)
+
+
+
+
+
+
+
+2000 a muzzl pit bull-type dog
+
+
+breed-specif legisl is a law pass by a legisl bodi pertain to a specif breed or breed of domest anim. in practic, it gener refer to law pertain to a specif dog breed or breed.
+some jurisdict have enact breed-specif legisl in respons to a number of well-public incid involv pit bull-type dog or other dog breed commonli us in dog fight, and some govern organ such as the unit state armi[1] and marin corp[2] have taken administr action as well. thi legisl rang from outright ban on the possess of these dog, to restrict and condit on ownership, and often establish a legal presumpt that these dog ar prima faci legal "danger" or "viciou". in respons, some state-level govern in the unit state have prohibit or restrict the abil of municip govern within those state to enact breed-specif legisl.[3]
+it is gener settl in case law that jurisdict in the unit state and canada have the right to enact breed-specif legisl; howev, the appropri and effect of breed-specif legisl in prevent dog bite fatal and injuri is disput.[4] on point of view is that certain dog breed ar a public safeti issu that merit action such as ban ownership, mandatori spai/neuter for all dog of these breed, mandatori microchip implant and liabil insur, or prohibit peopl convict of a feloni from own them.[5][6] anoth point of view is that comprehens "dog bite" legisl, coupl with better consum educ and legal mandat respons pet keep practic, is a better solut than breed-specif legisl to the problem of danger dog.[7][8] a third point of view is that breed-specif legisl should not ban breed entir, but should strictli regul the condit under which specif breed could be own, e.g., forbid certain class of individu from own them, specifi public area in which thei would be prohibit, and establish condit, such as requir a dog to wear a muzzl, for take dog from specif breed into public place.[9] final, some govern, such as that of australia, have forbidden the import of specif breed and ar requir the spai/neuter of all exist dog of these breed in an attempt to elimin the popul slowli through natur attrit.[10][11]
+a studi by the us center for diseas control and prevent (cdc) in 2000 conclud that while fatal attack on human appear to be a breed-specif problem (pit bull-type dog and rottweil), other breed mai bite and caus fatal at higher rate, and that sinc fatal attack repres a small proport of dog bite injuri to human, there ar better altern for prevent of dog bite than breed-specif ordin.[12] given mani media sourc incorrectli report that thi studi suggest that pit bull-type dog and rottweil ar disproportion more danger than other dog breed, the american veterinari medic associ whose journal publish the origin articl releas a statement detail that thi studi "cannot be us to infer ani breed specif risk for dog bite fatal".[13]
+
+
+
+content
+
+
+1 australia
+2 canada
+
+2.1 sampl of legisl
+2.2 legal challeng
+
+
+3 ireland
+4 unit kingdom
+5 unit state
+
+5.1 sampl of legisl
+5.2 legal challeng
+
+5.2.1 feder court
+
+5.2.1.1 sentel v. new orlean and carrollton railroad compani
+5.2.1.2 vanat v. villag of south point
+5.2.1.3 american dog owner ass'n, inc. v. dade counti, fla.
+5.2.1.4 american canin feder, v. citi of aurora, co
+
+
+5.2.2 state court
+
+5.2.2.1 arkansa
+5.2.2.2 colorado
+5.2.2.3 florida
+5.2.2.4 kansa
+5.2.2.5 kentucki
+5.2.2.6 massachusett
+5.2.2.7 new mexico
+5.2.2.8 new york
+5.2.2.9 ohio
+5.2.2.10 texa
+5.2.2.11 texa health and safeti code
+5.2.2.12 washington
+5.2.2.13 wisconsin
+
+
+
+
+
+
+6 worldwid
+7 refer
+
+
+
+australia[edit]
+the import of the dogo argentino, fila brasileiro, japanes tosa, american pit bull terrier and perro de presa canario or presa canario into australia is absolut prohibit.[14]
+
+
+state
+date
+type
+detail
+
+
+new south wale
+januari 58, 2006
+restrict
+the follow dog ar restrict dog...:
+
+(a) american pit bull terrier or pit bull terrier,
+
+
+(b) japanes tosa,
+
+
+(c) dogo argentino,
+
+
+(d) fila brasileiro,
+
+
+(d1) ani other dog of a breed, kind or descript whose import into australia is prohibit by or under the custom act 1901 of the commonwealth,
+
+
+(e) ani dog declar by an authoris offic of a council...to be a restrict dog,
+
+
+(f) ani other dog of a breed, kind or descript prescrib by the regul for the purpos of thi section.[15]
+
+restrict dog mai not be sold, given awai, or acquir, and must be spai/neuter. thei must be muzzl when in public, wear a special red-and-yellow collar, and mai onli be handl by a compet adult over the ag of 18. the dog must live a secur enclosur when at home, and the owner must post "warn: danger dog" sign on their properti. the owner must also regist the dog with the local govern and notifi the govern if the dog attack a person or anim, cannot be found, di, ha move out of the area, or is now live at a differ locat within the local govern's jurisdict.[16]
+
+
+
+queensland
+juli 1, 2009
+restrict
+a dog of a breed prohibit from import into australia under the australian custom act of 1901 is consid "restrict". breed current prohibit under commonwealth legisl ar the dogo argentino; fila brasileiro; japanes tosa; american pit bull terrier (or pit bull terrier); and perro de presa canario (or presa canario).
+a person who own a "restrict" dog must:
+
+keep the dog within a child-proof enclosur
+displai warn sign at the entranc to the properti where the dog is locat
+muzzl the dog in public and have it under effect control at all time
+ensur the dog is spai/neuter, wear a collar and a prescrib tag, and is microchip.[17][18]|-
+
+
+
+
+south australia
+juli 1, 2004
+restrict
+the dogo argentino; fila brasileiro; japanes tosa; american pit bull terrier (or pit bull terrier); and perro de presa canario (or presa canario) ar consid "prescrib breed". owner of prescrib breed:
+
+must muzzl their dog and ensur thei ar under effect control by mean of physic restraint
+must spai/neuter their dog
+mai not sell or give awai their dog, or advertis to sell or give awai their dog[19]
+
+
+
+
+victoria
+novemb 2, 2005
+restrict
+"restrict breed" dog ar defin as those dog prohibit from be import by the commonwealth custom (prohibit import) regul 1956, includ the dogo argentino, the japanes tosa, the fila brasileiro, the perro de presa canario (or presa canario) and the american pit bull terrier (or pit bull terrier). of these, the pit bull terrier and the perro de presa canario ar the onli breed current known to exist in australia.[20] restrict on these breed includ:
+
+a permit is requir for a person to have more than two of a restrict breed;
+escap-proof and child-proof enclosur;
+perman identif us microchip technolog;
+owner must notifi their council if the dog escap, di or there is a chang of ownership;
+in the case of a chang of ownership, owner must advis prospect owner that the dog is a restrict breed;
+dog must be leash and muzzl when in public place;
+conspicu "bewar: restrict dog" sign must be displai on properti access point; and
+minor ar not to own a restrict breed or be in charg of a restrict breed in public place.[21]
+
+
+
+
+western australia
+march 2006
+restrict
+the follow dog breed ar restrict:
+
+dogo argentino (argentinean mastiff)
+fila brasileiro (brazilian mastiff)
+japanes tosa
+american pit bull terrier and pit bull terrier breed
+perro de presa canario or presa canario
+and ani dog of a mix breed that visibl contain ani of these breed.
+
+all restrict breed dog must be muzzl, leash and control by an adult who is physic capabl of handl the dog, in ani environ except prescrib enclosur. restrict breed dog ar also requir to be sterilis unless there ar extenu circumst relat to the anim's physic condit or medic treatment. owner of these breed ar requir to displai of warn sign where these dog ar kept, meet stringent fenc requir, notifi the local govern of chang in the dog statu (move, di, etc..), and ensur their dog wear danger dog collar.[22]
+
+
+
+canada[edit]
+the canadian feder govern doe not regul pit bull-type dog, but on provinci govern and some municip govern in canada have enact breed-specif legisl ban or restrict pit bull-type dog. the follow tabl discuss a sampl of the restrict in forc.
+sampl of legisl[edit]
+
+
+provinc
+local
+date
+type
+detail
+
+
+ontario
+all
+august 29, 2005
+ban
+except as permit by thi act or the regul, no person shall,
+
+(a) own a pit bull;
+
+
+(b) breed a pit bull;
+
+
+(c) transfer a pit bull, whether by sale, gift or otherwis;
+
+
+(d) abandon a pit bull other than to a pound oper by or on behalf of a municip, ontario or a design bodi;
+
+
+(e) allow a pit bull in hi or her possess to strai;
+
+
+(f) import a pit bull into ontario; or
+
+
+(g) train a pit bull for fight.[23]
+
+
+pit bull ar "grandfath" if thei were own by an ontario resid on august 29, 2005, or born in ontario within 90 dai after august 29, 2005. these dog ar subject to strict regul and control, includ the follow:
+
+thei must be muzzl and kept on a leash no more than 1.8 meter long when in public or not on enclos properti
+thei must be spai or neuter unless a veterinarian certifi the dog is physic unfit to be anesthet
+thei ar automat euthan if a court find thei have bitten, attack, or pose a menac, or if their owner ar found to be in violat of the law or a relat court order.
+their owner ar entir liabl for ani and all damag caus by a bite or an attack[24]
+
+a document purport to be sign by a member of the colleg of veterinarian of ontario state that a dog is a pit bull within the mean of thi act is receiv in evid in a prosecut for an offenc under thi act as proof, in the absenc of evid to the contrari, that the dog is a pit bull for the purpos of thi act, without proof of the signatur and without proof that the signatori is a member of the colleg.[23]
+
+
+
+manitoba
+winnipeg
+june 1, 1990
+ban
+"pit bull dog" mean
+
+(i) pit bull terrier; or
+
+
+(ii) staffordshir bull terrier; or
+
+
+(iii) american staffordshir terrier; or
+
+
+(iv) american pit bull terrier; or
+
+
+(v) dogo argentino; or
+
+
+(vi) ani dog which ha the appear and physic characterist predominantli conform to the standard for ani of the abov breed, as establish by the canadian kennel club or the american kennel club or the unit kennel club ...as determin by a veterinarian licens to practic in manitoba.
+
+...ani pit bull dog within the citi of winnipeg is and shall be conclus deem a danger dog. ...no person shall keep or harbour ani pit bull dog regardless of ag on or after june 1, 1990, except where the owner ha a valid danger dog licenc for that dog which ha been issu prior to that date.[25][26]
+
+
+
+legal challeng[edit]
+
+
+
+
+ralli in front of the ontario legisl build in toronto support repeal of breed-specif legisl in ontario
+
+
+in cochran v. ontario (attornei gener), 2007 canlii 9231 (on s.c.), ms. catherin cochran su the provinc of ontario to prevent it from enforc the dog owner's liabil act (dola) ban on pit bull-type dog, argu that the law wa unconstitution broad becaus the ban wa grossli disproportion to the risk pit bull pose to public safeti, and that the law wa unconstitution vagu becaus fail to provid an intellig definit of pit bull. she also argu that a provis allow the crown to introduc as evid a veterinarian's certif certifi that the dog is a pit bull violat the right to a fair trial and the presumpt of innoc.
+the presid judg rule that the dola wa not overbroad becaus,
+
+"the evid with respect to the danger of pit bull, although conflict and inconclus, is suffici, in my opinion, to constitut a 'reason apprehens of harm'. in the face of conflict evid as to the feasibl of less restrict mean to protect the public, it wa open to the legislatur to decid to restrict the ownership of all pit bull."[27]
+
+the presid judg found the term "a pit bull terrier" wa unconstitution vagu sinc it could includ an undefin number of dog similar to the american pit bull terrier, american staffordshir terrier, and staffordshir bull terrier.[27] the judg also rule that the govern's abil to introduc a veterinarian's certif certifi that the dog is a pit bull creat a mandatori presumpt that the dog wa a pit bull, and that thi place an unconstitut burden of proof upon the defend.[27] ms. cochran and the attornei gener of ontario appeal differ aspect of the decis to the court of appeal for ontario.[28] in cochran v. ontario (2008 onca 718), the court of appeal revers the lower court's rule:
+
+it agre with the lower court judg in find that the "overbreadth" claim fail becaus the legislatur had act on a "reason apprehens of harm".
+it disagre that the definit of pit bull in the act wa insuffici precis and restor the origin word of "pit bull terrier" on the basi that, when read in the context of "a more comprehens definit", the phrase "a pit bull terrier" wa suffici precis.
+it revers the trial court and found that the govern's abil to introduc a veterinarian's certif certifi a dog wa a pit bull would constitut proof onli if the defend fail to answer the claim: it wa therefor a tactic burden, rather an evidentiari burden.[29]
+
+on june 11, 2009 the suprem court of canada declin to hear further appeal of the case, therebi uphold the ontario ban on pit bull.[28]
+ireland[edit]
+the control of dog regul 1998 place control on 11 breed of dog:
+
+american pit bull terrier
+english bull terrier
+staffordshir bull terrier
+bull mastiff
+doberman pinscher
+german shepherd (alsatian)
+rhodesian ridgeback
+rottweil
+japanes akita
+japanes tosa
+bandog
+
+these dog, or strain and cross thereof, must be kept on a strong, short lead (less than 2 metr / 6'7") by a person over 16 year of ag who is capabl of control them. the dog/s must be secur muzzl too.[30] a recent studi conduct in ireland found that dog bite injuri significantli increas sinc the introduct of such legisl, although data from befor the introduct of the ban wa not includ.[31] the studi report that dog bite hospitalis mai rise as a result of target dog breed due to reinforc incorrect stereotyp of the danger of certain breed and assum the safeti of other simpli due to their breed mai result in peopl incorrectli interact with dog from both categori.[31]
+unit kingdom[edit]
+main articl: danger dog act 1991
+in the unit kingdom the main piec of breed-specif legisl is the danger dog act 1991, which make it illeg to own ani 'special control dog' without specif exempt from a court. the dog have to be muzzl and kept on a lead in public, thei must be regist and insur, neuter, tattoo and receiv microchip implant. the act also ban the breed, sale and exchang of these dog, even if thei ar on the 'index of exempt dog'.[32]
+four type of dog ar specif identifi by the act:
+
+pit bull terrier
+japanes tosa
+dogo argentino
+fila brasileiro
+
+the act also cover cross-breed of the abov four type of dog. danger dog ar classifi by "type", not by breed label. thi mean that whether a dog is prohibit under the act will depend on a judgement about it physic characterist, and whether thei match the descript of a prohibit "type". thi assess of the physic characterist is made by a court.
+the act appli in england, wale and scotland,[33] with the danger dog (northern ireland) order 1991 have a similar effect in northern ireland.[34]
+unit state[edit]
+the unit state feder govern ha not enact breed-specif legisl, but the marin corp[2] ha ban "larg dog breed with a predisposit toward aggress or danger behavior",[2] includ pit bull-type dog (among other breed) in on-base hous and privat hous, as have a number of unit state armi,[1] u.s. air forc and navi instal. sever hundr municip govern in the unit state have enact breed-specif legisl ban or restrict pit bull-type dog and a few other breed.[4]
+sampl of legisl[edit]
+
+
+state
+local
+date
+type
+detail
+
+
+arkansa
+
+
+not
+
+
+
+
+maumel
+april 6, 1998
+ban
+ban breed of dog ar ban entir and mai not be own or kept within the citi. ban breed of dog ar ani of the follow:
+
+american pit bull terrier.
+staffordshir bull terrier.
+american staffordshir terrier.
+american bulldog.
+ani dog whose sire or dam is a dog of a breed which is defin as a ban breed of dog under thi section.
+ani dog whose owner regist, defin, admit or otherwis identifi the dog as be of a ban breed.
+ani dog conform or substanti conform to the breed of american pit bull terrier, american staffordshir terrier, staffordshir bull terrier, or american bulldog as defin by the unit kennel club or american kennel club.
+ani dog which is of the breed commonli refer to as "pit bull" and commonli recogniz and identifi as such.
+ani viciou dog which is found at larg in violat of section 10-90.[35]
+
+
+
+
+colorado
+
+
+
+
+
+
+
+aurora
+octob 25, 2005
+ban
+it [is] unlaw for ani person to have, own, possess, keep, exercis control over, maintain, harbor, transport, or sell within the citi ani pit bull or restrict breed of dog.
+"pit bull" ... is defin as ani dog that is an american pit bull terrier, american staffordshir terrier, staffordshir bull terrier, or ani dog displai the major of physic trait of ani on (1) or more of the abov breed, or ani dog exhibit those distinguish characterist which substanti conform to the standard establish by the american kennel club or unit kennel club for ani of the abov breed.
+"restrict breed of dog" shall mean ani american bulldog (old countri bulldog), dogo argentino, canari dog (canari island dog, presa canario, perro de presa canario), presa mallorquin (perro de presa mallorquin, ca de bou), tosa inu (tosa fight dog, japanes fight dog, japanes mastiff), cane corso (cane di macellaio, sicilian branchiero), fila brasileiro or ani dog displai the major of physic trait of ani on (1) or more of the abov breed.
+owner of pit bull dog and restrict dog licens within 60 dai of the ordin's effect date could keep their dog onli under restrict condit, includ:
+
+if the dog is licens, spai/neuter, vaccin against rabi, and ha microchip identif;
+the owner is at least 21 year old and ha at least $100,000 us liabil insur
+the dog is kept indoor or lock in a secur pen, with govern-provid warn sign post at entranc to the properti;
+when off the properti, the dog must be kept in a secur transport contain or must wear a muzzl while held on a four-foot long non-extens leash;
+the dog mai not be sold or transfer to anyon outsid the owner's immedi famili
+the owner must notifi the govern immedi if the dog is loos, stolen, at-larg, unconfin, ha maul, bitten, attack, threaten, or in ani wai menac anoth anim or human, or ha di.[36]
+
+
+
+
+
+denver
+juli 31, 1989
+suspend from april 21, 2004 to mai 8, 2005
+
+ban
+it [is] unlaw for ani person to own, possess, keep, exercis control over, maintain, harbor, transport, or sell within the citi ani pit bull.
+a "pit bull" ... is defin as ani dog that is an american pit bull terrier, american staffordshir terrier, staffordshir bull terrier, or ani dog displai the major of physic trait of ani on (1) or more of the abov breed, or ani dog exhibit those distinguish characterist which substanti conform to the standard establish by the american kennel club or unit kennel club for ani of the abov breed. the a.k.c. and u.k.c. standard for the abov breed ar on file in the offic of the clerk and record, ex officio clerk of the citi and counti of denver, at citi clerk file no. 89457.
+the law allow owner of pit bull live in denver in juli 1989 to keep them provid the owner:
+
+regist the dog with the citi and allow the citi to tattoo it with the registr number
+wa at least 21 year old
+had $100,000 us in liabil insur
+kept the dog confin
+did not sell or otherwis transfer the dog to anyon except someon in the owner's immedi famili.
+post a sign of specifi dimens and letter ("pit bull dog") at everi possibl entranc to the properti where the dog wa kept.[37]
+
+
+
+
+florida
+
+
+
+
+
+
+
+miami-dade counti
+1989
+ban
+"it is illeg in miami-dade counti to own ani dog which substanti conform to a pit bull breed dog, unless it wa special regist with miami-dade counti prior to 1989. acquisit or keep of a pit bull dog: $500.00 fine and counti court action to forc the remov of the anim from miami-dade counti."[38]
+
+
+iowa
+
+
+
+
+
+
+council bluff
+novemb 9, 2004[39]
+ban
+"it shall be unlaw for ani person to own, possess, keep, exercis control over, maintain, harbor, transport, or sell within the citi of council bluff, iowa, ani pit bull....a "pit bull" is defin as ani dog that is an american pit bull terrier, american staffordshir terrier, staffordshir bull terrier, or ani dog displai the major of physic trait of ani on or more of the abov breed (more so than ani other breed), or ani dog exhibit those distinguish characterist which substanti conform to the standard establish by the american kennel club or unit kennel club for ani of the abov breed. the a.k.c. and u.k.c. standard for the abov breed ar on file in the offic of the director of public health."[40]
+
+
+
+sioux citi
+septemb 15, 2008
+ban new dog
+"current pit bull owner [as of septemb 15, 2008] who keep their dog regist can keep their pet but not to replac it with anoth pit bull when it di. the ban exempt the human societi, anim control, dog particip in dog show, and puppi born to pit bull in the citi, up to six month of ag.
+
+ani pit bull not in complianc will be impound, and the owner given 10 dai to pai the impound cost and produc evid the dog will be perman remov from sioux citi. otherwis it will be put down.[41][42]
+
+
+
+kansa
+
+
+
+
+
+
+
+overland park
+septemb 21, 1987; amend juli 17, 2007
+ban
+"no person shall own, keep, or harbor ani danger anim in the citi of overland park....
+"for the purpos of thi chapter "danger anim" mean and includ...ani pit bull dog. "pit bull dog" is defin to mean ani and all of the follow dog:
+
+a. the staffordshir bull terrier breed of dog;
+
+
+b. the american staffordshir terrier breed of dog;
+
+
+c. the american pit bull terrier breed of dog;
+
+
+d. dog which have the appear and characterist of be predomin of the breed of dog known as staffordshir bull terrier, american pit bull terrier, or american staffordshir terrier.
+
+"the registr of a dog at ani time in ani jurisdict as a pit bull or ani of the dog list abov shall constitut prima faci evid the anim is prohibit by thi section. "all owner, keeper or harbor of regist pit bull dog or wolf hybrid must within ten (10) dai of the effect date of thi ordin provid proof to the citi clerk of public liabil insur in a singl incid amount of $300,000.00 for bodili injuri to or death of ani person or person or for damag to properti own by ani person which mai result from the ownership, keep or mainten of such anim."[43]
+note: the ordin wa amend in 2007 to increas liabil insur requir from $50,000 to $300,000
+
+
+
+kentucki
+
+
+
+
+
+
+
+union counti
+januari 1, 2008
+restrict
+a viciou dog (pit bull and wolf-hybrid) shall be annual regist and fee paid. a fee of $50.00, name, address, and telephon number of owner, address (place of harbor), identif, genu, speci, name, gender, color, distinguish mark, size, weight, and (2) two color photograph befor dog can be regist. owner must also have proof of rabi shot, and proof of spai or neuter, otherwis written statement from veterinarian for reason[44]
+
+
+maryland
+
+
+
+
+
+
+
+princ georg's counti
+1996
+ban new dog
+"effect februari 3, 1997, in complianc with the princ georg's counti code, section 3-185.01, it is illeg to own or harbor a non-regist pit bull in princ georg's counti. to legal own a pit bull in the counti, your pet must have been regist with the anim manag group prior to februari 3, 1997 and maintain a current pit bull registr. the registr tag must be worn by the pit bull at all time. all pit bull with expir registr ar consid illeg and will be impound, and the owner mai be fine or face crimin prosecut. if your regist pit bull produc a litter, the puppi ar consid illeg and must leav princ georg's counti. citizen and resid ar prohibit by law from sell or give awai pit bull in princ georg's counti.
+"the code also requir that pit bull be maintain within a build or secur kennel if kept outdoor for ani length of time. in addit, the code state that pit bull outsid of a build or kennel must be under the control of an adult and secur by an unbreak leash. violat to thi provis will result in fine up to $1,000 or a sentenc of not more than six month imprison.
+"pit bull includ ani and all of the follow breed of dog: staffordshir bull terrier; american staffordshir terrier; american pit bull terrier; or dog that exhibit the characterist of a pit bull more than ani other breed of dog."[45]
+
+
+
+michigan
+
+
+
+
+
+
+livingston counti
+mai 20, 2008
+restrict
+"no pit bull terrier, american pit bull terrier, american staffordshir terrier, american bulldog, argentin dogo, mix (aka bulli breed) or ani aggress anim will be adopt or place from livingston counti anim control
+
+strai bulli breed and aggress anim will be held for the state mandat hold period (pend owner claim). if not claim the anim will be human euthan
+owner mai claim their aggress anim after thei show reason proof of ownership and pai fee. further, anim control depart will refer matter to prosecutor's offic for a determin regard potenti prosecut for violat of law.
+the livingston counti anim control staff ha sole discretionari author to deem an anim to be aggress or to be a bulli breed"[46]
+
+
+
+
+
+melvindal
+april 4, 1990
+ban
+pit bull or pit bull terrier mean and refer to ani canin (purebr or hybrid) which exhibit those phenotyp characterist which:
+
+substanti conform to the breed standard establish by the american kennel club for american staffordshir terrier or staffordshir bull terrier; or
+substanti conform to the breed standard establish by the unit kennel club for american pit bull terrier;
+the standard of the american kennel club and the unit kennel club refer to herein shall remain on file with the clerk of the citi. technic defici in the dog's conform to the standard of thi definit shall not be constru to indic that the subject dog is not a pit bull terrier under thi divis.
+
+it is unlaw for ani person to acquir, possess or maintain, within the citi ani pit bull terrier except for dog own prior to april 4, 1990. penalti: $100 or up to 30 dai in jail for everi dai a pit bull is within the citi limit.[47]
+
+
+
+missouri
+
+
+
+
+
+
+
+independ
+august 28, 2006
+ban new dog
+pit bull ar onli allow in the citi limit if thei were regist befor august 28, 2006. no new pit bull ar allow to regist after thi date.[48]
+owner of pit bull alreadi live in independ have to regist and microchip the dog, and the pit bull must also be spai or neuter....owner of pit bull ... have to carri $300,000 in liabil insur and face stiffer fine and jail time if there is a problem.[49]
+
+
+
+
+kearnei
+juli 7, 2007
+ban new dog
+"it shall be unlaw to keep, harbor, own or in ani wai possess within the corpor limit of the citi of kearnei, missouri, ani pit bull dog; provid, that pit bull dog resid in the citi on the date of passag of thi section [juli 2, 2007] mai be kept within the citi subject to the standard and requir herein set forth. "pit bull dog" is defin to mean:
+
+the bull terrier breed of dog;
+staffordshir bull terrier breed of dog;
+the american pit bull terrier breed of dog;
+the american staffordshir terrier breed of dog;
+dog of mix breed or other breed than abov list which breed or mix breed is known as pit bull, pit bull dog or pit bull terrier;
+ani dog which ha the appear and characterist of be predominantli of the breed of bull terrier, staffordshir bull terrier, american pit bull terrier, american staffordshir terrier; ani other breed commonli known as pit bull, pit bull dog or pit bull terrier or a combin of ani of these breed.
+a pit bull mai be identifi as ani dog which exhibit those distinguish characterist that substanti conform to the standard establish by the american kennel club or unit kennel club as describ in the identif checklist which is on file in the citi offic. an identif us the abov standard shall be prima faci proof and creat a rebutt presumpt that a dog is a pit bull."
+
+the owner of ani pit bull legal resid within the citi must:
+
+regist the dog with the citi and provid two identif photograph of the dog to the citi
+secur confin the dog, and never tether the dog to an inanim object
+post warn sign ("bewar of dog – pit bull")
+obtain a $300,000 usd liabil insur polici
+report the death, departur out of the citi, or birth of ani offspr of the dog
+never sell the dog to anyon in the citi unless thei ar live in the same locat as the current owner
+ani puppi born of a pit bull must leav the citi at six week of ag.[50]
+
+
+
+
+
+springfield
+april 13, 2006
+ban new dog
+it is unlaw for ani person to own, possess, keep, exercis control over, maintain, harbor, transport, or sell within the citi ani pit bull. pit bull mean ani dog that is an american pit bull terrier, american staffordshir terrier, staffordshir bull terrier, or ani dog displai the major of physic trait of ani on or more of the abov breed, or ani dog exhibit those distinguish characterist which substanti conform to the standard establish by the american kennel club or unit kennel club for ani of the abov breed. the a.k.c. and u.k.c. standard for the abov breed ar on file in the offic of the citi clerk.
+peopl own pit bull on april 13, 2006 must:
+
+regist their dog with the citi govern
+microchip and spai/neuter the dog.
+notifi the citi within 5 dai if the dog is lost, stolen, di, or ha a litter.
+remov ani pit bull puppi from the citi limit or turn them over to the citi to be euthan
+post a sign state "pit bull dog" in two-inch letter at each possibl entranc to the owner's properti[51]
+
+
+
+
+ohio
+
+
+
+
+
+
+
+garfield height
+octob 24, 2007
+ban
+no person shall own, keep, harbor or have on public or privat properti a pit bull dog as hereinaft defin within the municip limit of the citi of garfield height, ohio (citi).
+"pit bull dog" as us in thi section mean ani dog whose blood line includ that of a staffordshir bull terrier, american staffordshir terrier, american pit bull or american pit bull terrier, or ani other dog whose appear and characterist render it identifi as partial of on or more of such breed.[52]
+
+
+
+
+toledo
+januari 9, 2009
+restrict
+
+(a) no person or organ or corpor shall own, keep, harbor or provid susten for more than on dog commonli known as a pit bull or pit bull mix breed dog, regardless of ag, in the citi of toledo, with the except of puppi commonli known as pit bull or pit bull mix breed for which the owner ha file an ownership acknowledg form in person with the dog warden of luca counti, prior to reach seven (7) dai of ag. the ownership of these puppi must be transfer accord to ohio r.c. 955.11(b) and (d) befor thei ar three (3) month of ag. addition, thi section requir that all dog commonli known as pit bull or pit bull mix breed dog ar requir, when off the owner' premis, to be secur confin as describ in ohio r. c. 955.22 and muzzl.
+(b) ani pit bull which is outsid the premis of the dog owner shall be kept on a leash and muzzl until the dog's return to the premis of ownership.
+(c) whoever violat thi section is guilti of a misdemeanor of the first degre. each dai that a violat of thi section exist shall constitut a separ offens.
+(d) ani pit bull or pit bull mix breed dog which ha been seiz in connect with a violat of thi section mai be order destroi or return to it owner onli on the condit that the dog is first spai or neuter at the owner's expens.[53]
+
+
+
+rhode island
+
+
+
+
+
+
+
+pawtucket
+januari 1, 2004
+ban
+"it shall be unlaw for ani person to own, possess, keep, exercis control over, maintain, harbor, transport, or sell within the citi ani pit bull dog." citi of pawtucket municip code, chapter 116, articl iv, section 116-37.1.
+
+
+tennesse
+
+
+
+
+
+
+
+statewid
+januari 2013
+propos state legisl struck down in 2013
+hb 0621 present by brenda gilmor januari 31, 2013 propos $25,000 in liabil insur coverag for owner of dog that fall within the state of tennesse's "danger breed" categori [54]
+
+
+
+citi ordin in tennesse
+variou
+ban
+list of 13 citi in tennesse with local level pit bull ban or breed specif ordin: brownsvil, ducktown, dyer, etowah, fayetvil, lookout mountain, moscow, nashvil, selmer, signal mountain, south pittsburg, sparta, springfield.[55]
+
+
+
+sparta (watertown, tennesse)
+august 2005
+registr
+activ citi ordin requir pit bull registri with the citi of watertown, tn in addit to: minimum of $50,000 of liabil insur, mandatori muzzl & leash in public place, "bewar of dog" sign post, confin without possibl of escap unless wear muzzl and leash under the control of owner, identifi photo for record, and registr with citi upon chang resid or transfer or ownership.[56]
+
+
+washington
+
+
+
+
+
+
+
+enumclaw
+1990
+ban
+"pit bull dog" mean ani dog over the ag of six month known by the owner to be a pit bull terrier. pit bull terrier shall mean ani bull terrier, american pit bull terrier, or staffordshir bull terrier or american staffordshir terrier breed of dog or ani mix breed of dog which contain as an element of it breed the breed of bull terrier, american pit bull terrier, staffordshir bull terrier or american staffordshir terrier so as to be identifi as partial of the breed bull terrier, american pit bull terrier, staffordshir bull terrier or american staffordshir terrier.
+it is unlaw to keep, or harbor, own or in ani wai possess a pit bull dog within the citi.[57]
+
+
+
+
+royal citi
+januari 12, 2007
+ban
+section 6.04.020: ...a "danger dog" also includ:
+
+ani dog known by the owner to be a pit bull terrier, which shall be defin as ani american pit bull terrier, staffordshir bull terrier, american bulldog or american staffordshir terrier breed of dog or ani mix breed of dog which contain as an element of it breed the breed of american pit bull terrier, staffordshir bull terrier, american bulldog or american staffordshir terrier as to be identifi as partial of such breed (hereaft a "pit bull dog").
+ani dog known by the owner to be a rottweil breed of dog or ani mix breed of dog which contain as an element of it breed the breed of rottweil as to be identifi as partial of such breed (hereaft a "rottweil dog").
+
+no on shall keep, possess or harbor a danger dog, as defin by section 6.04.020 within the citi.[58]
+
+
+
+
+yakima
+juli 28, 1987
+ban
+"pit bull dog" mean ani pit bull terrier. "pit bull terrier" mean ani american pit bull terrier, staffordshir bull terrier, american bulldog or american staffordshir terrier breed of dog or ani mix breed of dog which contain as an element of it breed the breed of american pit bull terrier, staffordshir bull terrier, american bulldog or american staffordshir terrier so as to be identifi as partial of the breed american pit bull terrier, staffordshir bull terrier, american bulldog or american staffordshir terrier.
+it is unlaw to keep, or harbor, own or in ani wai possess a pit bull dog within the citi of yakima. violat of thi section is a gross misdemeanor. the minimum fine for a violat of thi section shall be two hundr fifti dollar for the first offens and five hundr dollar for a second or subsequ offens, which fine shall not be suspend or defer. for purpos of thi section, proof of a prior violat shall not requir proof that the same pit bull dog is involv. each dai of violat shall be a separ offens.
+thi [doe] not appli to pit bull dog which: (1) do not resid in the citi of yakima, (2) ar brought into the citi for the purpos of particip in a dog show or canin sport event for which the owner is abl to show proof of entri, and (3) do not remain in the citi of yakima for a period exceed nineti-six consecut hour.[59]
+
+
+
+west virginia
+
+
+
+
+
+
+
+wheel
+januari 17, 2006
+restrict
+definit:
+"canari dog." ani canari dog or perro do presa canario, or ani mix breed of dog which contain, as an element or it breed, the breed of canari dog or perro do presa canario as to be identifi as partial of the breed canari dog or perro de presa canario. if there is a question of whether a particular canin fit the definit herein; it will be suffici to show identif of a canin as either a pure bred or belong to a mix breed if a member of the american veterinari medic associ (avma) would identifi the canin as such.
+"pit bull terrier." ani staffordshir bull terrier, american pit bull terrier, or american staffordshir terrier breed or dog, or ani mix breed of dog which contain, as an element of it breed, the breed of staffordshir bull terrier, american pit bull terrier, or american staffordshir terrier, as to be identifi as partial of the breed of staffordshir bull terrier or american staffordshir terrier. if there is a question of whether a particular canin fit the definit herein; it will be suffici to show identif of a canin as either a pure bred or belong to a mix breed if a member of the american veterinari medic associ (avma) would identifi the canin as such.
+"viciou dog." ani dog that, without provoc, meet ani of the follow requir:
+
+ha kill or caus seriou injuri to ani person;
+ha caus injuri, other than kill or seriou injuri, to ani person or ha kill anoth dog;
+while off the premis of the owner, bite or caus physic harm to a human be, domest anim, or felin;
+while on the premis of the owner or premis under control of the owner, bite or otherwis caus physic harm to mail carrier, util worker, citi of wheel employe, deliveri person, or ani polic or emerg person; or
+belong to the breed that is commonli known as a pit bull terrier, canari dog, and american bull dog. the ownership, keep or harbor of such a breed of dog shall be prima-faci evid of the ownership, keep or harbor of a viciou dog.
+
+owner of viciou dog must:
+
+secur confin their dog
+leash and muzzl their dog when the dog ar not confin
+post "bewar of dog" sign at entranc point to their properti
+procur $100,000 us in liabil insur
+spai/neuter the dog
+notifi the govern if the dog escap, or if it bite a person or an anim[60]
+
+
+
+
+wisconsin
+
+
+
+
+
+
+
+south milwauke
+march 17, 1989
+ban
+"pit bull" as us in thi ordin mean: ani pit bull terrier, which shall be defin as ani american pit bull terrier or staffordshir bull terrier or american staffordshir terrier breed of dog, or ani mix breed of dog which contain as an element of it breed the breed of american pit bull terrier or staffordshir bull terrier or american staffordshir terrier as to be identifi as partial of the breed of american pit bull terrier or staffordshir bull terrier or american staffordshir bull terrier.
+no person shall harbor, keep or maintain within the citi limit of the citi of south milwauke ani pit bull which wa not current regist and licens by the citi of south milwauke on or befor april 1, 1989. thi prohibit shall not be appli to anim be transport through the citi limit of the citi of south milwauke within a on-hour period of time and to dog exempt under sec. 174.005 and 174.006.
+a pup born to a femal pit bull licens and regist pursuant to paragraph 8(a) and 13 hereof shall be remov from the citi of south milwauke befor the date on which it is requir to be licens pursuant to chapter 174, wi. stat.[61]
+
+
+
+legal challeng[edit]
+court challeng to breed-specif legisl on constitut ground have been larg unsuccess. dana m. campbel summar the legal challeng and the gener court find as of juli 2009:
+
+court case challeng bsl have focus on constitut concern such as substant due process, equal protect, and vagu. most bsl will surviv the minimum scrutini analysi allow by the due process claus of the constitut's fifth and fourteenth amend becaus there is no fundament right at issu. thi analysi requir that the law be challeng must be ration relat to a legitim govern goal or purpos. becaus state and local jurisdict enjoi broad polic power, includ protect the public's safeti and welfar, court have not had troubl find that bsl is ration relat to the goal of protect the public from allegedli danger breed.
+thi ha caus big problem for mani who us them as polic, guid or other servic dog, as thei ar not alwai exclud, and in some case ar confisc and put down.
+
+challeng base on equal protect argument ar similarli difficult to sustain. here court ar look at whether there is a ration purpos for treat pit bull breed differ from other dog breed. dog owner have attack the ration purpos requir by argu either that bsl is over-inclus, becaus it ban all dog of a breed when onli certain individu within the breed have proven to be viciou, or under-inclus, becaus mani type of dog have injur peopl and the bsl fail to includ those other breed. howev, again under minimum scrutini review, bsl will surviv as long as the govern can establish that the bsl is ration relat to it purpos, even if the law is found to be over-inclus or under-inclus.
+
+claim that bsl is unconstitution vagu have brought dog owner mix success. procedur due process requir that law provid the public with suffici notic of the activ or conduct be regul or ban. here owner of pit bull or other ban breed argu that the breed ban law do not adequ defin just what is a "pit bull" (or other ban breed) for purpos of the ban. anoth argument is that the law ar too vagu to help the dog-own public or the bsl enforc agenc—such as anim control or polic—to be abl to identifi whether a dog fall under the bsl if the dog wa adopt with an unknown origin or is a mix breed.[4]
+feder court[edit]
+sentel v. new orlean and carrollton railroad compani[edit]
+in sentel v. new orlean and carrollton railroad compani, 166 u.s. 698 (1897), mr. sentel su the new orlean and carrollton railroad compani to recov the valu of hi femal newfoundland dog that he alleg to have been neglig kill by the railroad compani. the compani claim that louisiana law held that onli peopl who licens their dog were entitl to sue for compens if the dog were kill, and that mr. sentel wa not entitl to damag sinc he had not licens hi dog. the trial court in orlean parish found for mr. sentel and award him $250 us, so the railroad compani appeal to the louisiana court of appeal, which revers the decis of the trial court. the louisiana suprem court declin to hear the case, so mr. sentel then appeal to the suprem court of the unit state, which agre to hear the case.
+the suprem court rule against mr. sentel and establish the preced in u.s. jurisprud that the regul of dog wa within the polic power of the state, and that the dog were not as valuabl as hors, cattl, sheep, or other domest anim:
+
+it is true that under the fourteenth amend, no state can depriv a person of hi life, liberti, or properti without due process of law, but in determin what is due process of law, we ar bound to consid the natur of the properti, the necess for it sacrific, and the extent to which it ha heretofor been regard as within the polic power. so far as properti is inoffens or harmless, it can onli be condemn or destroi by legal proceed, with due notic to the owner; but, so far as it is danger to the safeti or health of the commun, due process of law mai author it summari destruct....
+
+
+although dog ar ordinarili harmless, thei preserv some of their hereditari wolfish instinct, which occasion break forth in the destruct of sheep and other helpless anim. other, too small to attack these anim, ar simpli viciou, noisi, and pestil. as their depred ar often commit at night, it is usual imposs to identifi the dog or to fix the liabil upon the owner, who, moreov, is like to be pecuniarili irrespons [irrespons with monei]. in short, the damag ar usual such as ar beyond the reach of judici process, and legisl of a drastic natur is necessari to protect person and properti from destruct and annoy. such legisl is clearli within the polic power of the state. it ordinarili take the form of a licens tax, and the identif of the dog by a collar and tag, upon which the name of the owner is sometim requir to be engrav, but other remedi ar not uncommon.[62]
+vanat v. villag of south point[edit]
+in vanat v. villag of south point, 717 f. supp. 1236 (d. ohio 1989), the ohio feder district court held that the crimin ordin of south point, ohio prohibit the own or harbor of pit bull terrier within the villag limit wa not overli broad, conclud:
+
+the court conclud that the definit of a pit bull terrier in thi ordin ar not unconstitution vagu. an ordinari person could easili refer to a dictionari, a dog buyer's guid or ani dog book for guidanc and instruct; also, the american kennel club and unit kennel club have set forth standard for staffordshir bull terrier and american staffordshir terrier to help determin whether a dog is describ by ani on of them. while it mai be true that some definit contain descript which lack "mathemat certainti," such precis and definit is not essenti to constitution.
+
+the court made the follow find of fact when it determin the villag show that pit bull terrier ar uniqu danger and therefor, ar proper subject of the villag's polic power for the protect of the public's health and welfar:
+
+
+pit bull ... possess the qualiti of game, which is not a total clear concept, but which can be describ as the propens to catch and maul an attack victim unrelentingli until death occur, or as the continu tenac and tendenc to attack repeatedli for the purpos of kill. it is clear that the unquantifi, unpredict aggress and game of pit bull make them uniqu danger.
+pit bull have the follow distinct behavior characterist: a) grasp strength, b) climb and hang abil, c) weight pull abil, d) a histori of frenzi, which is the trait of unusu relentless feroc or the extrem concentr on fight and attack, e) a histori of catch, fight, and kill instinct, f) the abil to be extrem destruct and aggress, g) highli toler of pain, h) great bite strength, i) undi tenac and courag and thei ar highli unpredict.
+while these trait, tendenc or abil ar not uniqu to pit bull exclus, pit bull will have these instinct and phenotyp characterist; most significantli, such characterist can be latent and mai appear without warn or provoc.
+the breed histori of pit bull make it imposs to rule out a violent propens for ani on dog as game and aggress can be hidden for year. given the pit bull's genet physic strength and abil, a pit bull alwai pose the possibl of danger; given the pit bull's breed histori as a fight dog and the latenc of it aggress and game, the pit bull pose a danger distinct from other breed of dog which do not so uniformli share those trait.
+while pit bull ar not the onli breed of dog which can be danger or viciou, it is reason to singl out the breed to anticip and avoid the danger aggress which mai be undetect in a pit bull.[63]
+
+
+american dog owner ass'n, inc. v. dade counti, fla.[edit]
+in american dog owner ass'n, inc. v. dade counti, fla., 728 f.supp. 1533 (s.d.fla.,1989), dog owner su in the feder district court of florida to prevent dade counti from enforc a pit bull ban, claim that there is no such thing as a pit bull dog but rather three separ breed; howev, their own expert wit repeatedli identifi dog from the three separ breed as "pit bull dog" dure the trial. the court upheld the dade counti ordin, conclud:
+
+base upon the substanti evid present at trial, thi court find that dade counti ordin no. 89-022 provid suffici guidanc to dog owner, both in it explicit refer to pit bull dog, and in it definit section, to enabl pit bull owner to determin whether their dog fall within the proscript of the ordin....certainli there ar some applic of the ordin which pass constitut muster. as long as the enact is not impermiss vagu in all it applic, thi court must uphold it constitution. upon consider of the evid present at trial, the plead, memoranda, exhibit and argument of counsel and upon applic of the control author, thi court find that plaintiff have fail to meet their burden of proof and that the court is requir to uphold the constitution of dade counti ordin no. 089-22.[64]
+
+american canin feder, v. citi of aurora, co[edit]
+in american canin feder and florenc vianzon v. citi of aurora, colorado, 618 f.supp.2d 1271 (2009), the plaintiff su in the unit state district court for the district of colorado to prevent aurora, colorado from enforc a pit bull ban on the ground that the law wa unconstitution vagu, that the law wa an abus of the citi's polic power, and that the ban repres an unconstitut take of properti. the court reject each of these claim base on exist legal preced and upheld the citi's ordin.[65]
+state court[edit]
+arkansa[edit]
+in holt v. citi of maumel, 817 s.w.2d 208 (ar., 1991), mr. steel holt su the citi of maumel, arkansa in 1988 in an attempt to have it prohibit against pit bull overturn on the ground that the ordin wa impermiss vagu, that it wa unreason to ban pit bull-type dog, and that the citi's board of director commit a breach of contract by pass a pit bull ordin that it had previous agre to forego; mr. holt also ask that the citi pai compensatori damag, punit damag, and hi attornei's fee. the pulaski counti circuit court made a summari judgment dismiss the suit, and mr. holt appeal. in 1991, the arkansa suprem court affirm the circuit court's decis, find that the pit bull ordin wa not impermiss vagu, that the restrict were reason, and that ani agreement made by the citi to limit it own legisl power wa null and void sinc the citi's first duti wa to protect the public interest.[66]
+colorado[edit]
+in colorado dog fancier, inc. v. citi and counti of denver, 820 p.2d 644, colo., 1991, the colorado suprem court upheld a denver citi ordin that dog owner had complain wa unconstitut, along the follow line:
+
+the dog owner claim the ordin wa fundament unfair and therefor violat their right to procedur due process by forc them to meet the burden of prove their dog wa not a pit bull; howev, the higher court found the ordin wa not fundament unfair provid the citi wa requir to prove that dog were pit bull by the civil standard of "preponder of evid" rather than the crimin standard of "beyond a reason doubt."
+the dog owner claim the ordin violat substant due process by creat a legisl presumpt that a pit bull owner knowingli and voluntarili possess a pit bull, and becaus it allow the us of non-scientif evid (e.g., expert opinion) to prove a dog is a pit bull; howev, the higher court determin the ordin preserv substant due process by provid dog owner with a constitution adequ post-impound hear, and revers the trial court's imposit of a pre-impound hear; in addit, the citi wa not requir to prove a dog wa a pit bull with mathemat certainti, and could us expert opinion and non-scientif evid to prove it case in court.
+the dog owner felt the citi ordin treat all pit bull and substanti similar dog as inher danger and wa, therefor, unconstitution overbroad; howev, the higher court rule that outsid the limit area of fundament constitut right such as, for exampl, first amend right of speech or associ, a statut mai not be attack as overbroad.
+the dog owner felt the term "pit bull" wa imprecis and, thu, unconstitution vagu becaus the averag dog owner is not afford fair warn of the act prohibit by the ordin; howev, the higher court found the standard for determin whether a dog is a pit bull ar readili access to dog owner, and becaus most dog owner ar capabl of determin the breed or phenotyp of their dog, the trial court properli determin that the ordin provid adequ notic to dog owner and is not unconstitution vagu.
+the dog owner argu that the ordin violat the equal protect claus by creat an irrat distinct between on who own a dog with the physic characterist of a pit bull and on who own a dog lack those characterist; howev, the higher court rule that there wa ampl evid to establish a ration relationship between the citi's classif of certain dog as pit bull and the legitim government purpos of protect the health and safeti of the citi's resid and dog, and thu the ordin did not violat the dog owner' right to equal protect of the law.
+the ordin is an abus of the citi's polic power and constitut an unconstitut take of privat properti; howev, the higher court note that, in colorado, dog ar accord qualifi properti statu and ar, thu, subject to the proper exercis of polic power for the protect of the public's health, safeti, and welfar.[67]
+
+in citi & counti of denver v. state of colorado, 04cv3756, denver challeng a 2004 law pass by the colorado gener assembl that prohibit breed specif law on the ground that the state law violat the citi's home rule author in regard to anim control legisl. the denver district court judg rule in favor of denver, find that:
+
+the state fail to provid ani new evid to undermin the origin 1990 trial court's decis regard the differ between pit bull and other dog.
+the citi had provid new evid to provid addit support for the origin 1990 trial court's decis.
+the 2000 cdc studi on fatal dog bite attack wa irrelev to the narrow issu identifi in the 1990 trial court's decis
+the state of colorado had fail to meet it burden of proof to establish beyond a reason doubt that no ration basi for denver's pit bull ban exist[68]
+
+florida[edit]
+in state of florida v. peter, 534 so.2d 760 (fla.app. 3 dist. 1988), the florida third district court of appeal review the citi of north miami ordin regul the ownership of pit bull dog within the citi limit, and held: (1) the ordin did not violat the equal protect claus of the unit state constitut sinc the citi's action in light of the evid wa neither arbitrari or irrat; (2) the ordin's requir to obtain liabil insur did not violat due process sinc the citi had the right to regul dog under it polic power; (3) the definit of "pit bull" wa not unconstitution vagu, cite substanti preced that law requir "substanti conform" with a standard ar not consid vagu; and that mathemat certainti of a dog's ident as a pit bull wa not requir for a legal determin that a dog wa in fact a pit bull.[69]
+kansa[edit]
+in hearn v. citi of overland park, 772 p.2d 758 (kan. 1989), the suprem court of kansa review the rule of a counti court that overturn an ordin of the citi of overland park regul the ownership of pit bull dog within the citi limit, and held: (1) the ordin is not unconstitution vagu or overbroad; (2) the ordin doe not violat the due process right of plaintiff under the unit state and kansa constitut; (3) the ordin doe not violat the equal protect claus of the unit state and kansa constitut; and (4) the district court did not err in dismiss the plaintiff' claim for damag pursuant to 42 u.s.c. § 1983 (1982).[70]
+kentucki[edit]
+in bess v. bracken counti fiscal court, 210 s.w.3d 177 (ky.app.,2006), the kentucki court of appeal review a bracken counti ordin that ban pit bull terrier. the appel (mr. bess and mr. poe) had sought a temporari injunct against the ordin in the bracken counti circuit court. the circuit court dismiss the motion on the ground that the polic power of the fiscal court allow it to ban pit bull terrier and seiz them without compens. the appel appeal on the ground that
+
+(1) that the ordin is inconsist with kr (kentucki revis statut) chapter 258 and specif with the definit of "viciou dog" contain in kr 258.095;
+(2) that it impermiss allow the forfeitur of properti without compens;
+(3) that it deni dog owner procedur due process; and
+(4) that it imped the right of nonresid owner of pit bull terrier to travel through bracken counti.
+
+the appeal court upheld the bracken counti ordin, find that
+
+(1) the breed-specif ordin supplement, rather than replac or supersed, the definit of a "viciou dog" in the state statut;
+(2) the ban of pit bull terrier wa permiss under the polic power, and that properti seiz under the polic power wa not subject to compens
+(3) dog owner had the right of appeal to the circuit court under the ordin, so the right of due process wa preserv; and
+(4) the ordin did not discrimin against non-resid pit bull owner, and that the appel had not provid ani evid that travel with a pet "occupi a posit fundament to the concept of a feder union."[71]
+
+massachusett[edit]
+in american dog owner ass'n, inc. v. citi of lynn, 404 mass. 73, 533 n.e.2d 642 (mass.,1989), the massachusett suprem judici court review a seri of ordin enact by lynn, massachusett target dog various refer to as "american staffordshir terrier[s], a/k/a american pit bull terrier[s] or bull terrier[s]" (juli 1985); "american staffordshir, staffordshir pit bull terrier or bull terrier, hereinaft refer to as 'pit bull'" (june 1986); and ""american staffordshir, staffordshir pit bull terrier, bull terrier or ani mixtur thereof" (septemb 1986).
+the suprem judici court determin that the issu wa technic moot sinc each of the ordin in question had been repeal by passag of a subsequ "pit bull" ordin in june 1987; howev, the court specif observ (but did not rule) that the 1987 ordin reli on the "common understand and usag" of the name of the breed in question, and warn that
+
+the lynn pit bull ban ordin depend for enforc on the subject understand of dog offic of the appear of an ill-defin "breed," leav dog owner to guess at what conduct or dog "look" is prohibit, and requir "proof" of a dog's "type" which, unless the dog is regist, mai be imposs to furnish. such a law give unleash discret to the dog offic charg with it enforc, and clearli reli on their subject specul whether a dog's physic characterist make it what is "commonli understood" to be a "pit bull."[72]
+
+as a result of thi case, breed-specif legisl in the unit state often reli on the publish standard of the american kennel club and unit kennel club to clearli identifi the characterist of dog subject to regul as "pit bull."
+new mexico[edit]
+in garcia v. villag of tijera, 767 p.2d 355 (1988), the new mexico court of appeal review an ordin of the villag of tijera that ban the ownership or possess of a breed of dog "known as american pit bull terrier"; ani dog found in violat of the ordin after a court hear would be euthan. the court held against each of the defend' claim and upheld the ordin on the follow ground:
+
+the defend claim the ordin violat their due process right becaus it wa vagu in how it defin "pit bull"; howev, the ordin wa not vagu becaus vagu appli in the sens of "to whom doe the law appli." the law wa therefor not vagu sinc the defend knew the ordin appli to them.
+the defend claim the ordin wa not ration relat to the purpos of prevent pit bull attack becaus environ and train ar more import than genet in determin how a dog act; howev, the court held there wa substanti, credibl evid of breed-specif issu that the villag's action were warrant.
+the defend claim that the ordin violat equal protect right becaus it singl out the owner of pit bull; howev, the court rule that there wa substanti, credibl evid that pit bull pose a special threat to the peopl of tijera and that there were no ground to overturn the ordin.
+the defend claim the ordin deni them procedur due process against the loss of properti; howev, the court rule that the court hear specifi by the ordin were suffici due process to ensur the owner had "the opportun to be heard and present evid would occur at a meaning time, that is, prior to the destruct of the dog."
+the defend claim the ordin would depriv them of properti without compens; howev, the court rule that well-establish preced did not requir compens for properti seiz under a citi's polic power.[73]
+
+new york[edit]
+in new york citi, the new york citi hous author, which is not a legislatur but rather a citi govern author which provid afford hous for low- and moder-incom resid and administ a citywid govern-legislatur-approv section 8 leas hous program, in mai 2009 prohibit resid of the author from own the follow dog breed: akita inu, alangu mastiff, alano español, american pit bull terrier, american staffordshir terrier, argentin dogo, bedlington terrier, boston terrier, bull and terrier, bull terrier, bulli kutta, cane corso, dogu de bordeaux, dogo sardesco, english mastiff, fila brasileiro, gull dong, gull terr, irish staffordshir bull terrier, korean jindo dog, lottator brindisino, neapolitan mastiff, perro de presa canario, perro de presa mallorquin, shar pei, staffordshir bull terrier, tosa inu.[74]
+ohio[edit]
+in toledo v. tell – revers – 871 n.e.2d 1152 (ohio, 2007), the ohio sixth district court of appeal struck down a portion of the toledo, ohio municip code that limit peopl to own onli on pit bull. the law reli on a state definit of a viciou dog as on that ha bitten or kill a human, ha kill anoth dog, or "belong to a breed that is commonli known as a pit bull dog." the court held that the legisl wa void for violat of a pit bull owner's right to due process sinc the owner could not appeal a design of hi pet as a viciou dog. the court held that,
+
+"sinc we conclud that there is no evid that pit bull ar inher danger or viciou, then the citi ordin limit on ownership is also arbitrari, unreason and discriminatori."[75]
+
+the suprem court of ohio revers the court of appeal (toledo v. tell, 114 ohio st.3d 278, 2007-ohio-3724), and reinstat the toledo ordin for the follow reason:
+
+
+{¶ 30} the court of appeal found r.c. 955.11 and 955.22 and toledo municip code 505.14 unconstitut with respect to procedur due process, substant due process, and equal protect, and under the void-for-vagu doctrin. we disagre.
+{¶ 31} first, the court of appeal declar that the law violat procedur due process pursuant to state v. cowan, 103 ohio st.3d 144, 2004-ohio-4777, 814 n.e.2d 846. in cowan, a portag counti deputi dog warden determin two dog to be viciou follow a complaint that the dog had attack a woman. id. at ¶ 1. the dog were determin to be viciou becaus of the alleg attack, not becaus thei were pit bull. we held that when a dog is determin to be "viciou" under r.c. 955.11(a)(4)(a), procedur due process requir that the owner have notic and an opportun to be heard befor the owner is charg with a crime. id. at ¶ 13.
+{¶ 32} in cowan, the dog were determin to be viciou under the first two subsect of r.c. 955.11(a)(4)(a) becaus thei had caus injuri to a person. thu, the case concern the dog warden's unilater classif of the dog as viciou. howev, in thi case, the "viciou dog" at issu ar those classifi as pit bull under the third subsect of r.c. 955.11(a)(4)(a). unlik the situat in cowan, the gener assembl ha classifi pit bull gener as viciou; there is no concern about unilater administr decis-make on a case-by-case basi. the clear statutori languag alert all owner of pit bull that failur to abid by the law relat to viciou dog and pit bull is a crime. therefor, the law do not violat the right of pit bull owner to procedur due process.
+{¶ 33} second, r.c. 955.11 and 955.22 and toledo municip code 505.14 ar not unconstitut for violat substant due process or equal protect right. law limit right, other than fundament right, ar constitut with respect to substant due process and equal protect if the law ar ration relat to a legitim goal of govern. see state v. thompkin (1996), 75 ohio st.3d 558, 560–561, 664 n.e.2d 926. as we discuss previous when evalu whether the statut and ordin in question ar valid exercis of state and citi polic power, r.c. 955.11 and 955.22 januari term, 2007 and toledo municip code 505.14 ar ration relat to a legitim govern interest.
+{¶ 34} final, the court of appeal er in hold that r.c. 955.11 and 955.22 and toledo municip code 505.14 ar void for vagu. thi court ha previous held that the term "pit bull" is not unconstitution void for vagu. in state v. anderson, we state: "in sum, we believ that the physic and behavior trait of pit bull togeth with the commonli avail knowledg of dog breed typic acquir by potenti dog owner or otherwis possess by veterinarian or breeder ar suffici to inform a dog owner as to whether he own a dog commonli known as a pit bull dog." 57 ohio st.3d 168, 173, 566 n.e.2d 1224.
+{¶ 35} in conclus, the state and the citi of toledo possess the constitut author to exercis polic power that ar ration relat to a legitim interest in public health, safeti, moral, or gener welfar. here, evid prove that pit bull caus more damag than other dog when thei attack, caus more fatal in ohio than other dog, and caus toledo polic offic to fire their weapon more often than peopl or other breed of dog caus them to fire their weapon. we hold that the state of ohio and the citi of toledo have a legitim interest in protect citizen from the danger associ with pit bull, and that r.c. 955.11(a)(4)(a)(iii) and 955.22 and toledo municip code 505.14 ar ration relat to that interest and ar constitut.[76]
+
+
+mr. tell appeal the case to the suprem court of the unit state, which declin to hear the case.[77]
+texa[edit]
+in citi of richardson v. respons dog owner of texa, 794 s.w.2d 17 (tex. 1990), sever peopl ("respons dog owner") su the citi of richardson, texa to prevent it from enforc restrict on pit bull within it citi limit on the ground that the texa state legislatur had pass legisl preempt the a citi's power to adopt an ordin regul the keep of dog. the trial court grant summari judgment in favor of the citi, but the texa court of appeal revers the trial court's decis (781 s.w.2d 667). the suprem court of texa revers the court of appeal and upheld the origin decis on the ground that
+
+under articl xi, section 5 of the texa constitut, home-rule citi have broad discretionari power provid that no ordin "shall contain ani provis inconsist with the constitut of the state, or of the gener law enact by the legislatur of thi state...." thu, the mere fact that the legislatur ha enact a law address a subject doe not mean that the subject matter is complet preempt....although there is a small area of overlap in the provis of the narrow statut and the broader ordin, we hold that it is not fatal.[78]
+
+texa health and safeti code[edit]
+in the state of texa, the state health and safeti code prohibit breed-specif legisl as state
+
+sec. 822.047. local regul of danger dog. a counti or municip mai place addit requir or restrict on danger dog if the requir or restrict:
+(1) ar not specif to on breed or sever breed of dog; and
+(2) ar more stringent than restrict provid by thi subchapt.
+
+ad by act 1991, 72nd leg., ch. 916, sec. 1, eff. septemb 1, 1991.[79]
+washington[edit]
+in mcqueen v. kittita counti, 115 wash. 672, 677 (1921), the washington suprem court establish the broadli accept preced that citi have the power to regul dog, even to the point of ban specif breed.
+
+[d]og do not stand on the same plane as hors, cattl, sheep, and other domest anim[80]...on the gener question, it is the almost univers current of author that dog ar a subject of the polic power of the state, and their keep subject to ani kind of licens or regul, even to absolut prohibit...sinc dog ar a subject of the polic power, we see no reason why the legislatur mai not make distinct between breed, size and the local in which thei mai be kept. the object of the statut is protect. the purpos is to prevent injuri to person and properti by dog. ani distinct found upon reason at least, is therefor valid..."[81]
+
+in american dog owner ass'n v. citi of yakima, 777 p.2d 1046 (wash.1989, en banc), the washington suprem court review a pit bull ban in yakima, washington. the dog owner ask a state court to prevent yakima from enforc it ban on pit bull dog. the trial court issu a temporari injunct against the citi and accept motion for summari judgment from both the dog owner and the citi. the court decid in favor of the citi and lift the injunct, whereupon the dog owner appeal to the washington suprem court on the ground that the ordin wa vagu becaus a person of ordinari intellig could not tell what wa prohibit, and that the trial court had improperli decid the summari judgment in favor of the citi.
+the washington suprem court rule that the ordin wa not unconstitution vagu becaus it specifi the dog breed that togeth fit the definit of "pit bull", wherea an earlier case in massachusett, american dog owner ass'n, inc. v. lynn, 404 mass. 73, 533 n.e.2d 642 (1989), had result in the pit bull ban be annul becaus the ordin did not specifi in suffici detail what a "pit bull" wa; in addit, the higher court rule that the summari judgment had been properli award, thu uphold the yakima pit bull ban.[82]
+wisconsin[edit]
+in dog feder of wisconsin, inc. v. citi of south milwauke, 178 wi.2d 353, 504 n.w.2d 375 (wi.app.,1993), the wisconsin court of appeal review the appeal of a trial court decis uphold a pit bull ban in south milwauke, wisconsin. the court of appeal upheld the trial court on the follow ground:
+
+the dog owner claim that the definit of "pit bull" in the ordin wa too vagu in it descript of a "pit bull"; howev, the court of appeal found that the ordin's refer to the breed descript of the american kennel club and unit kennel club were enough to allow someon to know whether thei own a "pit bull" or not
+the dog owner claim the pit bull ban ordin wa overbroad becaus it treat "all pit bull as if thei ar inher danger, and more prone to caus harm than other dog as a matter of law"; howev, the higher court found that the prohibit against "overbroad" ordin protect onli fundament right such as the freedom of speech, and that there wa no fundament right to own a particular breed of dog.
+the dog owner claim the pit bull ban violat their right to equal protect sinc pit bull were singl out for prohibit, for which there wa "no scientif or empir basi" and that danger is a function of "environ, train, and upbring." the court of appeal found that the evid of the uniqu danger pose by pit bull-type dog wa suffici that the dog owner could not prove beyond a reason doubt that the discrimin wa unfound, as requir by previou court preced.[83]
+
+worldwid[edit]
+a number of other countri have breed-specif legisl on the book. the unit kingdom (includ northern ireland) restrict the ownership of pit-bull type dog and other breed. in mai 2010, a pit-bull type dog name lennox wa impound from hi disabl owner and deem to be a danger to the public by author in belfast, northern ireland, under the danger dog (ni) order 1991.[84] the impound and subsequ court order to destroi lennox spark a two-year-long legal battl and heat public relat campaign over the fate of the dog that includ an intern letter-write and social media campaign; a petit sign by more than 214,000 peopl worldwid;[85] street protest in belfast, london, and new york citi; public appeal from celebr like the boxer lennox lewi and the first minist of northern ireland peter robinson; and threaten letter and act of violenc direct at some of belfast's dog warden. dog trainer and intern televis celebr victoria stilwel campaign to save lennox's life, appeal to the belfast citi council and minist for agricultur and rural develop, michel o'neill to allow her to re-home lennox in the unit state, where sever rescu organ had offer him sanctuari. all appeal, includ stilwel's were ignor by belfast citi councillor, and lennox wa euthanis on juli 11, 2012. belfast citi council declin to return lennox's bodi, hi collar, or hi ash to hi famili.[86]
+
+
+nation
+local
+date
+type
+detail
+
+
+australia
+
+2010-09-02
+ban for import
+dogo argentino; fila brasileiro; japanes tosa; american pit bull terrier or pit bull terrier; perro de presa canario or presa canario; and advertis matter for these breed.[87]
+
+
+brazil
+state of rio de janeiro
+april 9, 1999
+ban for import, commerci, breed and unauthor creation
+pit bull in gener and breed deriv from them.
+
+articl 1 – it is prohibit throughout the state of rio de janeiro the import, the market and the breed of dog of the pitt-bull [sic] breed as well as breed result from the crossbreed with the pitt-bull, in kennel or in isol.
+articl 2 – it is mandatori from 06 (six) month of ag, the steril of all pitbul dog, or deriv therefrom, in the state of rio de janeiro.
+articl 3 – it will onli be allow to keep anim of the pitt-bull breed, or deriv therefrom, upon proof of steril and updat vaccin.[88]
+
+
+
+
+bermuda
+
+juli 21, 2003
+ban
+import or breed of ani "breed of dog that mai be perceiv as danger" is prohibit. proscrib breed includ (among other) the pitbul terrier, staffordshir, sever of the mastiff breed, australian dingo, akita, and crossbre thereof, as well as "ani exot or uncommon breed" at the govern's discret.[89]
+
+
+denmark
+
+juli 1, 2010
+ban
+as of juli 1, 2010, breed, sell and import of the follow breed is ban: american pit bull terrier, japanes tosa, american staffordshir terrier, american bulldog, central asian shepherd dog, boerboel, dogo argentino, kangal, caucasian shepherd dog, tornjak, Šarplaninac, fila brasileiro, south russian shepherd dog and crossbre thereof. current exist dog must be muzzl and leash at all time in public. same restrict against mutt if the owner cannot prove that hi/her dog is not a crossbre.[90]
+it is also a "posit list", list breed that ar look pretti similar to them that ar ban: polski owczarek podhalanski, cão fila de são miguel, dogu de bordeaux, bullmastiff, english mastiff, napolitan mastiff, cane corso, staffordshir bull terrier, dogo canario, anatolian shepherd dog, iberian dogg. owner of these breed must have document for the breed or type, but dog on the posit list ar not ban by law.
+
+
+
+ecuador
+
+march 2009
+ban
+privat ownership of pit bull-type dog and rottweil is prohibit.[91]
+
+
+franc
+
+april 30, 1999
+restrict
+non-pure-breed anim resembl pit-bull ar to be spai/neuter[92][93]
+
+
+germani
+
+februari 2001
+restrict
+
+import of the pitbul terrier, american staffordshir terrier, staffordshir bull terrier, or bull terrier is prohibit in some state.[94]
+
+
+
+israel
+
+2004
+ban for import
+
+dogo argentino, pitbul terrier, bull terrier, american staffordshir terrier, staffordshir bull terrier, rottweil, fila brasileiro (brazilian mastiff) and tosa inu ar ban for import. [95]
+
+
+
+ireland, republ of
+
+1998
+restrict
+the control of dog regul 1998 place control on 10 breed of dog, name the american pit bull terrier; english bull terrier; staffordshir bull terrier; bull mastiff; doberman pinscher; german shepherd (alsatian); rhodesian ridgeback; rottweil; japanes akita; japanes tosa and to everi dog of the type commonli known as a ban dog (or bandog).
+the control, which must be observ when the dog is in a public place, requir that these dog, or strain and cross thereof, must be secur muzzl and kept on a strong short lead [onli up to 2 metr long] by a person over 16 year of ag who is capabl of control them. dog that ar not kept under control will be euthan.[96]
+
+
+
+malaysia
+
+2002
+ban
+the follow breed ar ban in malaysia: akita, american bulldog, american pit bull terrier, dogo argentino, fila brasileiro, japanes tosa, kai ken, ovcharka[disambigu need], perro de presa mallorquin, perro de presa canario, russo-european laika, or tibetan mastiff[97]
+
+
+restrict
+the follow breed ar restrict in malaysia: alaskan malamut, american staffordshir terrier, belgian shepherd, dogu de bordeaux, east-european shepherd, estrela mountain dog, german shepherd, miniatur bull terrier, neapolitan mastiff, rafeiro do alentejo, rottweil, staffordshir bull terrier[97]
+
+
+malta
+
+februari 17, 1998
+restrict
+the follow breed mai not be import into malta: american pitbul terrier, argentin dogo, fila brasileiro, or japanes tosa[98]
+
+
+new zealand
+
+novemb 17, 2003
+restrict
+the follow restrict appli to dog of these breed: american pit bull terrier, dogo argentino, fila brasileiro, or japanes tosa
+
+it is illeg to import them aliv or as semen, ova, or embryo
+thei ar automat consid "menac dog", which must be muzzl and on leash in public
+region council mai order them spai/neuter
+thei must be microchip[99]
+
+
+
+
+norwai
+
+juli 4, 1991,
+amend august 20, 2004
+ban
+the follow breed ar forbidden to give, sell, breed or import, includ those in embryon form, but dog bred befor the law came into effect ar legal to possess:
+
+pit bull terrier
+american staffordshir terrier
+fila brasileiro
+tosa inu (incorrectli list as "toso")
+dogo argentino
+czechoslovakian wolfdog and ani wolf hybrid
+
+dog of these breed that ar kept legal, also have to be microchip.[100]
+
+
+
+poland
+
+1997
+restrict
+owner can have pit bull but must displai clear warn sign and keep the dog behind reinforc fenc.[101]
+
+
+portug
+
+
+restrict
+owner can have these breed but thei have to have them muzzl when outdoor, regist and steril. thei also have to submit your own crimin record when thei regist the dog.
+
+the restrict affect the staffordshir bull terrier, rottweil, american staffordshir terrier, fila brasileiro, dogo argentino, tosa inu and pit bull.[101]
+
+
+puerto rico
+
+juli 23, 1998
+ban
+the introduct, import, possess, acquisit, breed, purchas, sale and transfer in ani form in the island of puerto rico, of the dog known as "pitbul terrier", or hybrid produc by cross-breed with dog of other breed, is ... prohibit.
+the matter concern the product of cross-breed bulldog and terrier. thi product is defin as a breed of bull terrier which includ staffordshir bull terrier, argentin dogo, american staffordshir terrier, american pitbul terrier and crossbre of these and other terrier strain. owner of exist pit bull-type dog had until march 23, 1999 to regist their dog.[102]
+
+
+
+romania
+
+april 26, 2002
+restrict
+the follow restrict appli:
+
+owner of the follow breed of dog must be at least 18 year old, be certifi psycholog fit to own a dog of thi breed, and have a court order allow them to own the dog: pit bull, boerboel, bandog, american staffordshir terrier, staffordshir bull terrier, tosa, rottweil, dogo argentino, and neapolitan mastiff.
+the import of pit bull-type dog, boerboel, and bandog is prohibit.
+the follow dog must be muzzl in public place: belgian malinoi, german shepherd dog, doberman pinscher, presa canario, komondor, giant schnauzer, and kuvasz.[103]
+
+
+
+
+singapor
+
+june 4, 1991
+restrict
+the follow breed of dog and their cross ar not allow to be import into singapor – pit bull (which includ the american pit bull terrier also known as the american pit bull and pit bull terrier, american staffordshir terrier, staffordshir bull terrier, the american bulldog, and cross between them and with other breed); neapolitan mastiff, tosa, akita, dogo argentino, boerboel, fila brasileiro and their cross.[104]
+owner of these breed of dog alreadi in singapor must compli with the follow requir:
+
+the dog shall be implant with a microchip;
+the dog, if over 6 month of ag, shall be sterilis;
+the license shall have in forc a polici of insur approv by the director-gener for an amount of not less than $100,000 to cover ani injuri to person or anim or damag to properti that might be caus by the dog; and
+the license shall furnish to the director-gener secur in the form of a banker's guarante for $5,000, which shall be forfeit if —
+
+the owner allow the dog to be in a public place otherwis than on a leash and secur fit with a muzzl suffici to prevent it from bite a person; or
+the dog is report lost.
+the follow dog breed must be leash and muzzl at all time when in public – bull terrier, bull mastiff, doberman pinscher, german shepherd or ani shepherd relat dog breed, rottweil and perro de presa canario.[105]
+
+
+
+
+
+
+spain
+
+2002
+restrict
+a royal decre restrict sever breed, includ the american pit bull terrier, american staffordshir terrier, argentin dogo, bull terrier and staffordshir bull terrier.[101][106]
+
+
+switzerland
+
+2012
+
+
+
+
+
+breed-specif legisl in switzerland, mai 2012. red: breed-specif legisl enact, breed on the list ar ban. yellow: bsl enact, breed on the list ar subject to author. red/yellow: bsl enact, some of the breed on the list ar ban. green: no bsl
+
+
+
+vari by canton; some canton have adopt extens bsl, other have no such legisl whatsoev. sever decis of the suprem court have found that canton bsl is constitut. there is no bsl on the feder level; feder bill that would have enact it di in 2006 and 2010.
+
+
+turkei
+
+2004
+restrict
+the breed, bui, sell, exchang and advertis of pit bull, japanes tosa dog, and other "wild anim" is ban. pit bull owner must regist and steril their dog.[107]
+
+
+ukrain
+
+1998
+restrict
+danger breed list approv by cabinet resolut from juli 9, 2002, ha over 80 breed, includ sever varieti of bull terrier, bulldog, livestock guardian dog, boxer, briar, labrador retriev, welsh terrier, german shepherd and their mix. complianc requir includ mandatori insur and micro chip, walk on a short leash and muzzl in public place, other restrict. ukrain allow adapt local municip law to enforc further restrict.
+in ukrain capit, kiev, as per law adapt at 1998, the list of breed forbidden for breed and requir mandatori steril, includ akbash, apbt, presa canario, kangal, romanian shepherd, greek shepherd, alek roshhin doberman, superdog and superdog mainkong mix and 18 other recogn and unrecogn breed. besid mandatori spai, law request muzzl, insur, short leash, veri high licens fee and other measur.
+as per ukrainian kennel club ksu, danger breed list includ over 20 breed, such as american bulldog, american staffordshir terrier, english mastiff, dogo argentino, dogu de bordeaux.[108]
+
+
+
+unit kingdom
+
+august 12, 1991
+ban/restrict
+danger dog act 1991: own dog of the type known as the pit bull terrier, japanes tosa, argentin dogo, or fila brasileiro is prohibit.[109] no person shall—
+
+breed, or breed from, a prohibit dog type;
+sell or exchang such a dog or offer, advertis or expos such a dog for sale or exchang;
+make or offer to make a gift of such a dog or advertis or expos such a dog as a gift;
+allow such a dog of which he is the owner or of which he is for the time be in charg to be in a public place without be muzzl and kept on a lead; or
+abandon such a dog of which he is the owner or, be the owner or for the time be in charg of such a dog, allow it to strai.
+
+note: the danger dog act of 1991 doe not appli in northern ireland;[110] howev, the same restrict appli in northern ireland under the danger dog (northern ireland) order 1991.[84]
+
+
+
+venezuela
+
+2014
+ban
+it will be illeg to import, breed, adopt, rais, or sell pit bull-type dog start decemb 31, 2014.[111]
+
+
+refer[edit]
+
+
+^ a b "garrison polici memorandum #08-10, mandatori pet micro-chip and pet control". us armi instal manag command, fort drum, ny. 2009-02-03. retriev 2009-08-03. 
+^ a b c "marin corp hous manag" (pdf). unit state marin corp. 2009-08-11. archiv from the origin (pdf) on novemb 14, 2011. 
+^ "state prohibit or allow breed specif ordin". american veterinari medic associ. octob 2007. archiv from the origin on 2010-06-07. retriev 2009-07-12. 
+^ a b c campbel, dana (juli–august 2009). "pit bull ban: the state of breed–specif legisl". gp-solo. american bar associ. 26 (5). retriev juli 30, 2009. 
+^ lynn, colleen (2009). "about dogsbit.org: common sens law". dogsbit.org. retriev 2009-07-11. 
+^ nelson, kori (2005). "on citi's experi: why pit bull ar more danger and why breed-specif legisl is justifi" (pdf). municip lawyer. 46 (6) (publish august 2005). pp. 12–15. retriev 2009-07-11. 
+^ "hsu statement on danger dog". human societi of the unit state. 2009. archiv from the origin on 2009-03-31. retriev 2009-07-11. 
+^ "a commun approach to dog bite prevent" (pdf). journal of the american veterinari medic associ. 218 (11). june 1, 2001. pp. 1731–1749. archiv from the origin (pdf) on 2009-02-06. retriev 2009-07-11. 
+^ phillip, kenneth (octob 10, 2008). "breed specif law". dogbitelaw.com. retriev 2009-07-11. 
+^ barlow, karen (2005-05-03). "nsw ban pit bull terrier breed". sydnei, australia: australian broadcast corpor. retriev 2009-12-23. 
+^ hugh, gari (2009-10-20). "pit bull bite prompt call for nation approach to danger dog breed". the australian. sydnei, australia. retriev 2009-12-23. 
+^ "breed of dog involv in fatal human attack in the unit state between 1979 and 1998" (pdf). center for diseas control and prevent. 2000. archiv from the origin (pdf) on 2015-04-11. retriev 2016-01-23. 
+^ "american veterinari medic associ statement on 'breed of dog involv in fatal human attack in the unit state between 1979 and 1998'" (pdf). american veterinari medic associ. 2000. archiv from the origin (pdf) on 2015-04-11. retriev 2016-01-23. 
+^ "custom (prohibit import) regul 1956 no. 90, as amend – schedul 1". commonwealth of australia. 2009-07-06. retriev 2009-07-18. 
+^ "companion anim act 1998 no. 87; section 55 – interpret". new south wale parliament. 2009-07-06. retriev 2009-07-18. 
+^ "restrict dog". blacktown citi council, nsw, australia. 2006-01-13. archiv from the origin on 2009-07-13. retriev 2009-07-17. 
+^ "regul dog". govern of queensland. 2009-03-04. retriev 2009-07-19. 
+^ "anim manag (cat and dog) 2008" (pdf). govern of queensland. 2009-03-04. retriev 2009-07-19. 
+^ "dog and cat manag act (1995)" (pdf). govern of south australia. 2005-07-01. archiv from the origin (pdf) on 2009-09-14. retriev 2009-07-19. 
+^ "thing you should know about restrict breed dog" (pdf). depart of primari industri, victoria, australia. 2005-11-04. archiv from the origin (pdf) on 2009-09-30. retriev 2009-07-18. 
+^ "danger dog". citi of melbourn, victoria, australia. archiv from the origin on 2008-07-31. retriev 2009-07-18. 
+^ "law for respons dog owner – the dog act of 1976" (pdf). govern of western australia. archiv from the origin (pdf) on 2007-08-29. retriev 2009-07-18. 
+^ a b "an act to amend the dog owner’ liabil act to increas public safeti in relat to dog, includ pit bull, and to make relat amend to the anim for research act". govern of ontario, canada. 2005-08-29. retriev 2009-07-13. 
+^ "inform on the dog owner' liabil act and public safeti relat to dog statut law amend act, 2005". ministri of the attornei gener, ontario, canada. 2005-08-29. retriev 2009-07-13. 
+^ "frequent ask question: ban breed – pit bull & danger dog". govern of winnipeg, manitoba, canada. 2005-08-29. retriev 2009-07-13. 
+^ "the pound by-law". govern of winnipeg, manitoba, canada. 2005-08-29. retriev 2009-07-13. 
+^ a b c "cochran v. ontario (attornei gener), 2007 canlii 9231 (on s.c.)" (pdf). ontario superior court of justic. 2007-03-23. archiv from the origin (pdf) on 2016-01-07. retriev 2009-07-21. 
+^ a b "who let the dog out?". center for constitut studi, univers of alberta, canada. 2009-06-12. archiv from the origin on 2011-06-14. retriev 2009-07-21. 
+^ "cochran v. ontario (attornei gener), 2008 onca 718" (pdf). ontario court of appeal. 2008-10-24. archiv from the origin (pdf) on 2015-09-04. retriev 2009-07-21. 
+^ [1]
+^ a b Ó súilleabháin, páraic (april 2015). "human hospitalis due to dog bite in ireland, 1998-2013: implic for current breed specif legisl". the veterinari journal. 204: 357–359. doi:10.1016/j.tvjl.2015.04.021. retriev april 23, 2015. 
+^ "type of dog prohibit in great britain : guidanc on the recognit of prohibit dog in great britain" (pdf). defra. 2003. archiv from the origin (pdf) on march 9, 2007. retriev 7 februari 2013.  via internet archiv wayback machin
+^ danger dog act 1991 short titl, interpret, commenc and extent, on the statut law databas
+^ the danger dog (northern ireland) order 1991, on the statut law databas
+^ "citi code of maumel, arkansa". citi of maumel, arkansa. retriev 2009-08-30. 
+^ "citi code of the citi of aurora, colorado". citi of aurora, colorado. 2009-01-12. retriev 2009-08-01. 
+^ "revis municip code – citi and counti of denver, colorado". citi of denver, colorado. 2009-05-19. retriev 2009-07-21. 
+^ miami-dade counti. "miami-dade counti, florida, code of ordin". miami-dade counti, fl. retriev 2010-11-07. 
+^ "council bluff ban pit bull". ketv.com. 2004-11-09. archiv from the origin on 2012-02-22. retriev 2009-07-09. 
+^ "chapter 4.20 anim control". municipalcod.lexisnexi.com. retriev 2009-07-09. 
+^ "council pass ban on pit bull". sioux citi journal. 2008-09-16. retriev 2009-07-08. 
+^ "pit bull ordin". sioux citi anim control. retriev 2009-07-08. 
+^ "overland park municip code, titl vi, chapter 6.10 – danger anim" (pdf). overland park, kansa. 2006-09-30. archiv from the origin (pdf) on 2010-11-27. retriev 2010-11-16. 
+^ "dog ordin". union counti, kentucki. 2006. retriev 2009-07-30. 
+^ "anim manag group" (pdf). princ georg's depart of environment resourc. 2008-10-01. archiv from the origin (pdf) on 2010-05-28. retriev 2009-07-08. 
+^ "polici prohibit the adopt or placement of pit bull terrier" (pdf). livingston counti, mi board of commission. 2008-05-19. retriev 2009-07-08. [perman dead link]
+^ "code of ordin, chapter 4, articl ii, divis 5: "pit bull terrier"". citi of melvindal, michigan. 2008-05-19. retriev 2009-07-08. 
+^ "anim servic". citi of independ, missouri. retriev 2009-02-02. 
+^ "independ pass pit bull ban". kmbc-tv, kansa citi, missouri. august 28, 2006. archiv from the origin on juli 19, 2011. retriev 2009-07-08. 
+^ "the municip code of the citi of kearnei". sullivan public. octob 20, 2008. archiv from the origin on juli 16, 2011. retriev 2009-07-21. 
+^ "code – citi of springfield, missouri". citi of springfield, missouri. 2009-03-23. retriev 2009-07-21. 
+^ "codifi ordin, citi of garfield height, ohio – part five, gener offens code" (pdf). retriev 2009-09-25. 
+^ "toledo municip code, chapter 505 .14 (limit on danger dog)". citi of toledo. 2009-01-09. retriev 2009-07-21. 
+^ "hous bill 621-hous bill 865-an act to amend tennesse code annot, titl 44, chapter 8, rel to danger and viciou dog." (pdf). www.capitol.tn.gov. 2013-01-31. retriev 2014-02-03. 
+^ "tennesse breed specif law". www.dogsbit.org. retriev 2014-02-03. 
+^ "sparta municip code, titl 10, chapter 3:pit bull, p. 187" (pdf). citi of sparta, www.spartatn.com. 2006-07-06. retriev 2014-02-03. 
+^ citi of enumclaw, washington (2009-02-23). "enumclaw municip code". code publish, inc. retriev 2009-07-22. 
+^ citi of royal citi, washington (2009-05-09). "municip code, citi of royal citi, washington". www.municod.com. retriev 2009-07-22. 
+^ citi of yakima, washington (2008-12-09). "yakima municip code". code publish compani. retriev 2009-07-31. 
+^ "codifi ordin of the citi of wheel, west virginia". w. h. drane co. – codifi ordin. 2009-03-03. archiv from the origin on 2011-06-08. retriev 2009-07-22. 
+^ "municip code: citi of south milwauke, wisconsin". citi of south milwauke. april 17, 2007. retriev 2009-08-13. 
+^ "sentel v. new orlean and carrolton railroad compani, 166 u.s. 698 (1897)". suprem court of the unit state. 1897-04-16. 
+^ "vanat v. villag of south point, 717 f. supp. 1236 (d. ohio 1989)". retriev 2009-06-30. 
+^ "american dog owner ass'n, inc. v. dade counti, fla., 728 f.supp. 1533 (s.d.fla.,1989)". retriev 2009-07-31. 
+^ "american canin feder and florenc vianzon v. citi of aurora, colorado, 618 f.supp.2d 1271" (pdf). unit state circuit court of colorado. retriev 2009-08-20. 
+^ "holt v. citi of maumel, 817 s.w.2d 208 (ar., 1991)" (pdf). arkansa suprem court. 1991-10-28. retriev 2009-08-30. 
+^ "colorado dog fancier v. citi and counti of denver, colorado, 820 p.2d 644 (colo. 1991)". anim legal and histor center. 1991-11-12. retriev 2009-07-30. 
+^ nelson, kori (2005-04-15). "denver's pit bull ordin: a review of it histori and judici rule" (pdf). archiv from the origin (pdf) on 2008-11-20. retriev 2009-07-30. 
+^ "state of florida v. peter, 534 so.2d 760 (fla.app. 3 dist. 1988)". 1988. retriev 2009-08-15. 
+^ "hearn v. citi of overland park, 772 p.2d 758 (kan. 1989)". 1989. retriev 2009-07-09. 
+^ "bess v. bracken counti fiscal court, 210 s.w.3d 177 (ky.app.,2006)" (pdf). kentucki court of justic. 2006-12-01. archiv from the origin (pdf) on 2011-07-23. retriev 2009-07-30. 
+^ "american dog owner ass'n, inc. v. citi of lynn, 404 mass. 73, 533 n.e.2d 642 (mass.,1989)". archiv from the origin on 2016-03-09. retriev 2009-08-09. 
+^ "garcia v. villag of tijera, 767 p.2d 355 (1988)". retriev 2009-08-15. 
+^ "chang to nycha's pet polici" (pdf). new york citi hous author journal. 39 (4). april 2009. archiv from the origin (pdf) on 2012-01-11. 
+^ "toledo v. tell – revers – 871 n.e.2d 1152 (ohio, 2007)". retriev 2009-08-15. 
+^ "toledo v. tell, 114 ohio st.3d 278, 2007-ohio-3724." (pdf). suprem court of ohio. retriev 2009-06-29. 
+^ "certeriorari – summari disposit (order list: 552 u.s.)" (pdf). unit state suprem court. 2008-02-19. retriev 2009-08-03. 
+^ "citi of richardson v. respons dog owner of texa, 794 s.w.2d 17". retriev 2009-07-28. 
+^ titl 10. health and safeti of anim http://www.statut.legi.state.tx.us/doc/hs/htm/hs.822.htm
+^ karp, adam (march 2004). "the law of breed-specif legisl" (pdf). skagit counti bar associ new. retriev 2009-08-30. 
+^ weight, michael (februari 1987). "citi bite dog – legisl viciou dog/pit bull terrier" (pdf). legal note. municip research and servic center of washington. 444. archiv from the origin (pdf) on 2003-06-17. retriev 2009-08-30. 
+^ "american dog owner ass'n v. citi of yakima, 777 p.2d 1046 (wash.1989)". retriev 2009-07-28. 
+^ "dog feder of wisconsin, inc. v. citi of south milwauke, 178 wi.2d 353, 504 n.w.2d 375 (wi.app.,1993)". retriev 2009-08-13. 
+^ a b "danger dog (northern ireland) order 1991". offic of public sector inform. 1991-10-31. archiv from the origin on 2012-08-05. retriev 2009-09-21. 
+^ [save and releas lennox | http://www.savelennoxpetit.co.uk/]petit onlin
+^ [lennox the dog "human put to sleep"| http://www.telegraph.co.uk/famili/pet/9391766/lennox-the-dog-human-put-to-sleep.html] the telegraph, juli 11, 2012
+^ "custom (prohibit import) regul 1956 – schedul 1 good the import of which is prohibit absolut". austlii.edu.au. retriev 2011-11-14. 
+^ "ordinari law – provid for the import, market, creation, and bear of pitt-bull dog, and give other procedur". rio de janeiro legisl assembl – alerj. archiv from the origin on 2013-07-26. retriev 2012-04-20. 
+^ "restrict dog breed". bermuda minist of the environ. januari 14, 2004. archiv from the origin on 2011-06-08. retriev 2010-05-26. 
+^ inform, ret (2010-03-17). "lov om ændring af lov om hund og dyreværnsloven" (in danish). ministri of justic of denmark. retriev 2010-03-17. 
+^ "ecuador descalifica a perro pit bull y rottweil como mascota" (in spanish). ecuador: diaro hoi. 2009-02-04. archiv from the origin on 2009-03-12. retriev 2009-08-24. 
+^ "rural code, articl l211-11 to l211-28" (in french). govern of franc. april 30, 1999. retriev 2009-08-10. 
+^ "ministeri decis" (in french). govern of franc. april 30, 1999. retriev 2009-08-10. 
+^ "danger dog". bundesministerium der finanzen ("feder financ ministri"). 2010-11-02. archiv from the origin on 2012-04-21. retriev 2012-03-10. 
+^ http://petolog.com/articl/ban-dog.html#israel
+^ "danger dog". depart of environ, heritag, and local govern. 2007. retriev 2009-08-16. 
+^ a b "isu anj terlarang/terhad". depart of veterinari servic of malaysia. 2011-04-18. archiv from the origin on 2016-01-07. retriev 2013-06-19. 
+^ "subsidiari legisl 36.42: import of dog and cat regul." (pdf). govern of malta. 1998-02-17. retriev 2010-07-05. 
+^ "dog control amend act of 2003". new zealand depart of intern affair. 2009-07-02. retriev 2009-08-02. 
+^ "for 2004-08-20 nr 1204: forskrift om hunder." (in norwegian). govern of norwai. retriev 2009-10-02. 
+^ a b c straka, alena (2005-02-17). "danger dog: protect strategi". citi of vancouv, british columbia, canada. retriev 2010-09-11. 
+^ "h.b. 595 (law 198) – approv juli 23, 1998" (pdf). puerto rico offic of legisl servic. 1998-07-23. archiv from the origin (pdf) on 2011-09-27. retriev 2009-08-04. 
+^ "cainii din rasa pitbul vor fi interzisi in romania". adevǎrul (in romanian). bucharest, romania. 2002-04-26. archiv from the origin on 18 novemb 2009. retriev 2009-11-16. 
+^ "veterinari condit for the import of dog/cat for countri under categori a (1/4)" (pdf). agri-food and veterinari author of singapor. 2008-08-04. retriev 2009-08-04. [perman dead link]
+^ "dog licens and control rule 2007" (pdf). govern of singapor. 2007-08-06. archiv from the origin (pdf) on 2009-12-29. retriev 2009-08-04. 
+^ r.d. 287/2002, de 22 de marzo, por el que se desarrolla la lei 50/1999, de 23 de diciembr, sobr el régimen jurídico de la tenencia de animal potencialment peligroso en el boe
+^ eğrıkavuk, işil. "pit bull attack reignit debat on turkish ban against breed". hürriyet. istanbul, turkei. retriev 2010-04-30. 
+^ "justic must be blind". mir sobak. march 2006. retriev 2009-11-14. 
+^ "clampdown on danger dog". depart for environ, food and rural affair. 2012. retriev 2013-04-28. 
+^ "danger dog act of 1991". offic of public sector inform. 2001-07-25. archiv from the origin on 2009-08-06. retriev 2009-08-02. 
+^ "venezuela restring tenencia de perro pit bull". la prensa (in spanish). managua, nicaragua. 2010-01-06. archiv from the origin on 2010-07-20. retriev 2010-01-08. 
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+dog
+
+
+
+mind
+
+
+
+bark
+behavior
+commun
+emot
+human-canin bond
+intellig
+
+
+
+
+
+health
+
+
+
+ag
+anatomi
+coat
+diseas
+heartworm
+odor
+rabi
+reproduct
+skin disord
+vaccin
+
+
+
+
+
+train
+
+
+
+clicker
+crate train
+collar
+
+har
+
+
+train
+housebreak
+obedi
+puppi
+rescu
+social
+
+
+
+
+
+type
+
+
+
+bandog
+bai dog
+bird dog
+catch dog
+companion dog
+crossbr dog
+cur
+eskimo dog
+feral dog
+fight dog
+guard dog
+gun dog
+herd dog
+hound
+hunt dog
+lap dog
+livestock guardian dog
+mongrel
+mountain dog
+moloss
+meat dog
+pointer
+purebr dog
+retriev
+setter
+scenthound
+sighthound
+sled dog
+spaniel
+spitz
+street dog
+terrier
+turnspit dog
+villag dog
+water dog
+wild dog
+
+
+
+
+
+breed
+
+
+
+list of breed
+list of crossbre
+breed group
+breed
+conform
+crossbre
+extinct breed
+most popular
+purebr
+rare breed
+
+
+
+
+
+work
+
+
+
+assist dog
+attack dog
+detect dog
+guard dog
+guid dog
+hear dog
+herd dog
+hunt dog
+livestock guardian dog
+pet dog
+polic dog
+search and rescu dog
+servic dog
+sled dog
+therapi dog
+war dog
+work group (dog)
+
+
+
+
+
+human–dog
+interact
+
+
+
+anim test
+bait
+breed-specif legisl
+dog attack
+dog park
+human-canin bond
+dog sport
+dog walk
+dog daycar
+dog groom
+famou dog
+therapi
+fear of dog
+dog licens
+dog meat
+dog food
+dog in religion
+origin
+
+
+
+
+
+
+
+
+ book
+ categori
+ portal
+
+
+
+
+
+
+
+
+
+
+ 
+						retriev from "http://en.wikipedia.org/w/index.php?titl=breed-specif_legisl&oldid=799642592"					
+categori: dog lawhidden categori: all articl with dead extern linksarticl with dead extern link from juli 2017articl with perman dead extern linksc1 danish-languag sourc (da)cs1 spanish-languag sourc (es)cs1 french-languag sourc (fr)cs1 norwegian-languag sourc (no)cs1 romanian-languag sourc (ro)articl with dead extern link from novemb 2016articl with limit geograph scope from novemb 2016usa-centrical articl with link need disambiguationarticl with link need disambigu from april 2015 
+
+
+
+navig menu
+
+
+person tool
+
+not log intalkcontributionscr accountlog in 
+
+
+
+namespac
+
+articl
+talk
+
+
+
+
+variant
+
+
+
+
+
+
+
+
+
+view
+
+read
+edit
+view histori
+
+
+
+more
+
+
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navig
+
+
+main pagecontentsfeatur contentcurr eventsrandom articledon to wikipediawikipedia store 
+
+
+
+interact
+
+
+helpabout wikipediacommun portalrec changescontact page 
+
+
+
+tool
+
+
+what link hererel changesupload filespeci pagesperman linkpag informationwikidata itemcit thi page 
+
+
+
+print/export
+
+
+creat a bookdownload as pdfprintabl version 
+
+
+
+languag
+
+
+Češtinadeutschespañolفارسیfrançaisbahasa melayu 
+edit link 
+
+
+
+
+
+ thi page wa last edit on 8 septemb 2017, at 23:40.
+text is avail under the creativ common attribut-sharealik licens;
+addit term mai appli.  by us thi site, you agre to the term of us and privaci polici. wikipedia® is a regist trademark of the wikimedia foundat, inc., a non-profit organ.
+
+
+privaci polici
+about wikipedia
+disclaim
+contact wikipedia
+develop
+cooki statement
+mobil view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputim":"0.844","walltim":"0.917","ppvisitednod":{"valu":4838,"limit":1000000},"ppgeneratednod":{"valu":0,"limit":1500000},"postexpandincludes":{"valu":205019,"limit":2097152},"templatearguments":{"valu":2094,"limit":2097152},"expansiondepth":{"valu":12,"limit":40},"expensivefunctioncount":{"valu":5,"limit":500},"entityaccesscount":{"valu":0,"limit":400},"timingprofil":["100.00%  751.665      1 -total"," 74.63%  560.962      1 templat:reflist"," 51.16%  384.549     91 templat:cite_web","  7.22%   54.295      1 templat:global/us","  4.66%   35.008      8 templat:cite_new","  4.61%   34.661      1 templat:global","  4.07%   30.595      1 templat:ambox","  3.68%   27.625      1 templat:domest_dog","  3.30%   24.792      1 templat:navbox","  2.60%   19.536      4 templat:cite_journal"]},"scribunto":{"limitreport-timeusag":{"valu":"0.436","limit":"10.000"},"limitreport-memusag":{"valu":4798282,"limit":52428800}},"cachereport":{"origin":"mw1273","timestamp":"20171005184728","ttl":1900800,"transientcont":fals}}});});(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetim":97,"wghostnam":"mw1323"});});
+
+

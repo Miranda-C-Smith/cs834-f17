@@ -1,0 +1,847 @@
+
+
+
+motorcycl - wikipedia
+document.documentel.classnam = document.documentel.classnam.replac( /(^|\s)client-noj(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespac":"","wgcanonicalspecialpagenam":fals,"wgnamespacenumb":0,"wgpagenam":"motorcycl","wgtitl":"motorcycl","wgcurrevisionid":804999638,"wgrevisionid":804999638,"wgarticleid":19876,"wgisarticl":true,"wgisredirect":fals,"wgaction":"view","wgusernam":null,"wgusergroup":["*"],"wgcategori":["articl contain german-languag text","all articl lack reliabl refer","articl lack reliabl refer from octob 2014","all articl with unsourc statement","articl with unsourc statement from april 2008","articl lack reliabl refer from septemb 2014","articl with unsourc statement from august 2013","articl prone to spam from mai 2014","articl with dmoz link","us dmy date from august 2012","wikipedia articl with lccn identifi","wikipedia articl with gnd identifi","wikipedia articl with bnf identifi","articl with inconsist citat format","motorcycl technolog","motorcycl","motorcycl","wheel vehicl"],"wgbreakfram":fals,"wgpagecontentlanguag":"en","wgpagecontentmodel":"wikitext","wgseparatortransformt":["",""],"wgdigittransformt":["",""],"wgdefaultdateformat":"dmy","wgmonthnam":["","januari","februari","march","april","mai","june","juli","august","septemb","octob","novemb","decemb"],"wgmonthnamesshort":["","jan","feb","mar","apr","mai","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagenam":"motorcycl","wgrelevantarticleid":19876,"wgrequestid":"weggoqpaek4aahxaucuaaaaj","wgisprobablyedit":true,"wgrelevantpageisprobablyedit":true,"wgrestrictionedit":[],"wgrestrictionmov":[],"wgflaggedrevsparam":{"tag":{}},"wgstablerevisionid":null,"wgwikieditorenabledmodul":{"toolbar":true,"preview":fals,"publish":fals},"wgbetafeaturesfeatur":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":fals,"wgpopupsshouldsendmoduletous":fals,"wgpopupsconflictswithnavpopupgadget":fals,"wgvisualeditor":{"pagelanguagecod":"en","pagelanguagedir":"ltr","pagevariantfallback":"en","usepageimag":true,"usepagedescript":true},"wgpreferredvari":"en","wgmfexpandallsectionsuseropt":fals,"wgmfdisplaywikibasedescript":{"search":true,"nearbi":true,"watchlist":true,"taglin":fals},"wgrelatedarticl":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":fals,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelet":[],"wgcentralnoticecategoriesusinglegaci":["fundrais","fundrais"],"wgcategorytreepagecategoryopt":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespac\":fals}","wgwikibaseitemid":"q34493","wgcentralauthmobiledomain":fals,"wgcodemirroren":fals,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparam":["undo","undoaft","veswitch"],"wgeditsubmitbuttonlabelpublish":fals});mw.loader.state({"ext.gadget.charinsert-style":"readi","ext.globalcssj.user.style":"readi","ext.globalcssj.site.style":"readi","site.style":"readi","noscript":"readi","user.style":"readi","user":"readi","user.option":"readi","user.token":"load","ext.cite.style":"readi","wikibas.client.init":"readi","ext.visualeditor.desktoparticletarget.noscript":"readi","ext.ul.interlanguag":"readi","ext.wikimediabadg":"readi","skin.vector.style.experiment.print":"readi","mediawiki.legaci.share":"readi","mediawiki.legaci.commonprint":"readi","mediawiki.sectionanchor":"readi","mediawiki.skin.interfac":"readi","skin.vector.style":"readi","ext.globalcssj.user":"readi","ext.globalcssj.site":"readi"});mw.loader.implement("user.token@1dqfd7l",function ( $, jqueri, requir, modul ) {
+mw.user.token.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.readi","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahous","ext.gadget.referencetooltip","ext.gadget.watchlist-notic","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-button","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetload","ext.eventlog.subscrib","ext.wikimediaev","ext.navigationtim","ext.ul.eventlogg","ext.ul.init","ext.ul.interfac","ext.centralnotic.geoip","ext.centralnotic.startup","skin.vector.js"]);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+motorcycl
+
+from wikipedia, the free encyclopedia
+
+
+					jump to:					navig, 					search
+
+for other us, see motorcycl (disambigu).
+
+
+
+
+a classic norton motorcycl
+
+
+
+
+
+
+1952 lambretta 125 d scooter
+
+
+
+
+
+
+a bmw sportbik lean in a corner
+
+
+a motorcycl often call a bike, motorbik, or cycl is a two-[1][2] or three-wheel[3][4] motor vehicl. motorcycl design vari greatli to suit a rang of differ purpos: long distanc travel, commut, cruis, sport includ race, and off-road ride. motorcycl is ride a motorcycl and relat social activ such as join a motorcycl club and attend motorcycl ralli.
+in 1894, hildebrand & wolfmüller becam the first seri product motorcycl, and the first to be call a motorcycl. in 2014, the three top motorcycl produc global by volum were honda, yamaha (both from japan), and hero motocorp (india).[5]
+in develop countri, motorcycl ar overwhelmingli utilitarian due to lower price and greater fuel economi. of all the motorcycl in the world, 58% ar in the asia-pacif and southern and eastern asia region, exclud car-centric japan.
+accord to the unit state depart of transport the number of fatal per vehicl mile travel wa 37 time higher for motorcycl than for car.[6]
+
+
+
+content
+
+
+1 type
+2 histori
+
+2.1 experiment and invent
+
+2.1.1 summari of earli invent
+
+
+2.2 first motorcycl compani
+2.3 first world war
+2.4 postwar
+2.5 todai
+
+
+3 technic aspect
+
+3.1 construct
+3.2 fuel economi
+
+3.2.1 electr motorcycl
+
+
+3.3 reliabl
+3.4 dynam
+3.5 accessori
+
+
+4 safeti
+5 motorcycl rider postur
+6 legal definit and restrict
+7 environment impact
+
+7.1 unit state emiss limit
+7.2 europ
+
+
+8 trivia
+9 see also
+10 note
+11 refer
+12 extern link
+
+
+
+type[edit]
+main articl: type of motorcycl
+
+
+
+
+a cruiser (front) and a sportbik (background)
+
+
+
+
+
+
+a ural motorcycl with a sidecar
+
+
+
+
+
+
+french gendarm motorcyclist
+
+
+the term motorcycl ha differ legal definit depend on jurisdict (see #legal definit and restrict).
+there ar three major type of motorcycl: street, off-road, and dual purpos. within these type, there ar mani sub-type of motorcycl for differ purpos. there is often a race counterpart to each type, such as road race and street bike, or motocross and dirt bike.
+street bike includ cruiser, sportbik, scooter and mope, and mani other type. off-road motorcycl includ mani type design for dirt-orient race class such as motocross and ar not street legal in most area. dual purpos machin like the dual-sport style ar made to go off-road but includ featur to make them legal and comfort on the street as well.
+each configur offer either specialis advantag or broad capabl, and each design creat a differ ride postur.
+histori[edit]
+main articl: histori of the motorcycl
+experiment and invent[edit]
+
+
+
+
+replica of the daimler-maybach reitwagen.
+
+
+the first intern combust, petroleum fuel motorcycl wa the daimler reitwagen. it wa design and built by the german inventor gottlieb daimler and wilhelm maybach in bad cannstatt, germani in 1885.[7] thi vehicl wa unlik either the safeti bicycl or the boneshak bicycl of the era in that it had zero degre of steer axi angl and no fork offset, and thu did not us the principl of bicycl and motorcycl dynam develop nearli 70 year earlier. instead, it reli on two outrigg wheel to remain upright while turn.[8]
+the inventor call their invent the reitwagen ("ride car"). it wa design as an expedi testb for their new engin, rather than a true prototyp vehicl.[9][10]
+
+
+
+
+butler's patent velocycl
+
+
+the first commerci design for a self-propel cycl wa a three-wheel design call the butler petrol cycl, conceiv of edward butler in england in 1884.[11] he exhibit hi plan for the vehicl at the stanlei cycl show in london in 1884. the vehicl wa built by the merryweath fire engin compani in greenwich, in 1888.[12]
+the butler petrol cycl wa a three-wheel vehicl, with the rear wheel directli driven by a 5/8hp (466w) 600 cc (40 in3; 2¼×5-inch {57×127-mm}) flat twin four stroke engin (with magneto ignit replac by coil and batteri) equip with rotari valv and a float-fed carburettor (five year befor maybach) and ackermann steer, all of which were state of the art at the time. start wa by compress air. the engin wa liquid-cool, with a radiat over the rear drive wheel. speed wa control by mean of a throttl valv lever. no brake system wa fit; the vehicl wa stop by rais and lower the rear drive wheel us a foot-oper lever; the weight of the machin wa then born by two small castor wheel. the driver wa seat between the front wheel. it wasn't, howev, a success, as butler fail to find suffici financi back.[13]
+mani author have exclud steam power, electr motorcycl or diesel-power two-wheeler from the definit of a 'motorcycl', and credit the daimler reitwagen as the world's first motorcycl.[14][15][16] given the rapid rise in us of electr motorcycl worldwid,[17] defin onli intern-combust power two-wheeler as 'motorcycl' is increasingli problemat.
+if a two-wheel vehicl with steam propuls is consid a motorcycl, then the first motorcycl built seem to be the french michaux-perreaux steam velociped which patent applic wa fill in decemb 1868,[9][10] construct around the same time as the american roper steam velociped, built by sylvest h. roper roxburi, massachusett.[9][10] who demonstr hi machin at fair and circus in the eastern u.s. in 1867,[7] roper built about 10 steam car and cycl from the 1860s until hi death in 1896.[16]
+summari of earli invent[edit]
+
+
+year
+vehicl
+number of wheel
+inventor
+engin type
+note
+
+
+1867–1868
+michaux-perreaux steam velociped
+2
+pierr michaux
+loui-guillaum perreaux
+steam
+
+
+on made
+
+
+
+
+1867–1868
+roper steam velociped
+2
+sylvest roper
+steam
+
+
+on made
+
+
+
+
+1885
+daimler reitwagen
+2 (plu 2 outrigg)
+gottlieb daimler
+wilhelm maybach
+petroleum intern-combust
+
+
+on made
+
+
+
+
+1887
+butler petrol cycl
+3 (plu 2 castor)
+edward butler
+petroleum intern-combust
+
+
+
+1894
+hildebrand & wolfmüller
+2
+heinrich hidebrand
+wilhelm hidebrand
+aloi wolfmüller
+petroleum intern-combust
+
+
+modern configur
+first mass-produc motorcycl
+first machin to be call "motorcycl"
+
+
+
+
+first motorcycl compani[edit]
+
+
+
+
+diagram of 1894 hildebrand & wolfmüller
+
+
+in 1894, hildebrand & wolfmüller becam the first seri product motorcycl, and the first to be call a motorcycl (german: motorrad).[9][10][16][18] excelsior motor compani, origin a bicycl manufactur compani base in coventri, england, began product of their first motorcycl model in 1896. the first product motorcycl in the us wa the orient-aster, built by charl metz in 1898 at hi factori in waltham, massachusett.
+in the earli period of motorcycl histori, mani produc of bicycl adapt their design to accommod the new intern combust engin. as the engin becam more power and design outgrew the bicycl origin, the number of motorcycl produc increas. mani of the nineteenth centuri inventor who work on earli motorcycl often move on to other invent. daimler and roper, for exampl, both went on to develop automobil.
+at the turn of the centuri the first major mass-product firm were set up. in 1898, triumph motorcycl in england began produc motorbik, and by 1903 it wa produc over 500 bike. other british firm were royal enfield, norton and birmingham small arm compani who began motorbik product in 1899, 1902 and 1910, respect.[19] indian began product in 1901 and harlei-davidson wa establish two year later. by the outbreak of the first world war, the largest motorcycl manufactur in the world wa indian,[20][21] produc over 20,000 bike per year.[22]
+first world war[edit]
+
+
+
+
+triumph motorcycl model h, mass-produc for the war effort and notabl for it reliabl
+
+
+dure the first world war, motorbik product wa greatli ramp up for the war effort to suppli effect commun with front line troop. messeng on hors were replac with despatch rider on motorcycl carri messag, perform reconnaiss and act as a militari polic. american compani harlei-davidson wa devot over 50% of it factori output toward militari contract by the end of the war. the british compani triumph motorcycl sold more than 30,000 of it triumph type h model to alli forc dure the war. with the rear wheel driven by a belt, the model h wa fit with a 499 cc (30.5 cu in) air-cool four-stroke singl-cylind engin. it wa also the first triumph without pedal.[23][better sourc need]
+the model h in particular, is regard by mani as have been the first "modern motorcycl".[24] introduc in 1915 it had a 550 cc side-valv four-stroke engin with a three-speed gearbox and belt transmiss. it wa so popular with it user that it wa nicknam the "trusti triumph."[25]
+postwar[edit]
+by 1920, harlei-davidson wa the largest manufactur,[26] with their motorcycl be sold by dealer in 67 countri.[27][28] by the late 1920s or earli 1930s, dkw in germani took over as the largest manufactur.[29][30][31]
+
+
+
+
+nsu sportmax streamlin motorcycl, 250 cc class winner of the 1955 grand prix season
+
+
+in the 1950s, streamlin began to plai an increas part in the develop of race motorcycl and the "dustbin fair" held out the possibl of radic chang to motorcycl design. nsu and moto guzzi were in the vanguard of thi develop, both produc veri radic design well ahead of their time.[32] nsu produc the most advanc design, but after the death of four nsu rider in the 1954–1956 season, thei abandon further develop and quit grand prix motorcycl race.[33]
+moto guzzi produc competit race machin, and by 1957 nearli all the grand prix race were be won by streamlin machin.[citat need] the follow year, 1958, full enclosur fair were ban from race by the fim in the light of the safeti concern.
+from the 1960s through the 1990s, small two-stroke motorcycl were popular worldwid, partli as a result of east german walter kaaden's engin work in the 1950s.[34]
+
+todai[edit]
+
+
+
+
+royal enfield bullet
+
+
+in the 21st centuri, the motorcycl industri is mainli domin by the chines motorcycl industri and by japanes motorcycl compani. in addit to the larg capac motorcycl, there is a larg market in smaller capac (less than 300 cc) motorcycl, mostli concentr in asian and african countri and produc in china and india. a japanes exampl is the 1958 honda super cub, which went on to becom the biggest sell vehicl of all time, with it 60 millionth unit produc in april 2008.[35] todai, thi area is domin by mostli indian compani with hero motocorp emerg as the world's largest manufactur of two wheeler. it splendor model ha sold more than 8.5 million to date.[36] other major produc ar bajaj and tv motor.[37]
+technic aspect[edit]
+
+
+
+
+a suzuki gs500 with a clearli visibl frame (paint silver).
+
+
+construct[edit]
+see also: motorcycl compon and motorcycl design
+motorcycl construct is the engin, manufactur, and assembl of compon and system for a motorcycl which result in the perform, cost, and aesthet desir by the design. with some except, construct of modern mass-produc motorcycl ha standardis on a steel or aluminium frame, telescop fork hold the front wheel, and disc brake. some other bodi part, design for either aesthet or perform reason mai be ad. a petrol power engin typic consist of between on and four cylind (and less commonli, up to eight cylind) coupl to a manual five- or six-speed sequenti transmiss drive the swingarm-mount rear wheel by a chain, driveshaft or belt.
+fuel economi[edit]
+motorcycl fuel economi vari greatli with engin displac and ride style.[38] a streamlin, fulli fair matzu matsuzawa honda xl125 achiev 470 mpg‑us (0.50 l/100 km; 560 mpg‑imp) in the craig vetter fuel economi challeng "on real highwai –  in real condit."[39] due to low engin displac (100 cc–200 cc), and high power-to-mass ratio, motorcycl offer good fuel economi. under condit of fuel scarciti like 1950s britain and modern develop nation, motorcycl claim larg share of the vehicl market.
+electr motorcycl[edit]
+main articl: electr motorcycl
+veri high fuel economi equival ar often deriv by electr motorcycl. electr motorcycl ar nearli silent, zero-emiss electr motor-driven vehicl. oper rang and top speed ar limit by batteri technolog.[40] fuel cell and petroleum-electr hybrid ar also under develop to extend the rang and improv perform of the electr drive system.
+reliabl[edit]
+a 2013 survei of 4,424 reader of the us consum report magazin collect reliabl data on 4,680 motorcycl purchas new from 2009 to 2012.[41] the most common problem area were accessori, brake, electr (includ starter, charg, ignit), and fuel system, and the type of motorcycl with the greatest problem were tour, off-road/dual sport, sport-tour, and cruiser.[41] there were not enough sport bike in the survei for a statist signific conclus, though the data hint at reliabl as good as cruiser.[41] these result mai be partial explain by accessori includ such equip as fair, luggag, and auxiliari light, which ar frequent ad to tour, adventur tour/dual sport and sport tour bike.[42] troubl with fuel system is often the result of improp winter storag, and brake problem mai also be due to poor mainten.[41] of the five brand with enough data to draw conclus, honda, kawasaki and yamaha were statist ti, with 11 to 14% of those bike in the survei experienc major repair.[41] harlei-davidson had a rate of 24%, while bmw did worst, with 30% of those need major repair.[41] there were not enough triumph and suzuki motorcycl survei for a statist sound conclus, though it appear suzuki were as reliabl as the other three japanes brand while triumph were compar to harlei-davidson and bmw.[41] three fourth of the repair in the survei cost less than us$200 and two third of the motorcycl were repair in less than two dai.[41] in spite of their rel wors reliabl in thi survei, harlei-davidson and bmw owner show the greatest owner satisfact, and three fourth of them said thei would bui the same bike again, follow by 72% of honda owner and 60 to 63% of kawasaki and yamaha owner.[41]
+dynam[edit]
+
+
+
+
+race motorcycl lean in a turn.
+
+
+main articl: bicycl and motorcycl dynam
+differ type of motorcycl have differ dynam and these plai a role in how a motorcycl perform in given condit. for exampl, on with a longer wheelbas provid the feel of more stabil by respond less to disturb.[43] motorcycl tyre have a larg influenc over handl.
+motorcycl must be lean in order to make turn. thi lean is induc by the method known as counterst, in which the rider momentarili steer the handlebar in the direct opposit of the desir turn. thi practic is counterintuit and therefor often confus to novic –  and even mani experienc motorcyclist.[44][45][46]
+with such short wheelbas, motorcycl can gener enough torqu at the rear wheel, and enough stop forc at the front wheel, to lift the opposit wheel off the road. these action, if perform on purpos, ar known as wheeli and stoppi (or endo) respect.
+accessori[edit]
+main articl: motorcycl accessori
+variou featur and accessori mai be attach to a motorcycl either as oem (factori-fit) or aftermarket. such accessori ar select by the owner to enhanc the motorcycl's appear, safeti, perform, or comfort, and mai includ anyth from mobil electron to sidecar and trailer.
+safeti[edit]
+main articl: motorcycl safeti and motorcycl safeti cloth
+motorcycl have a higher rate of fatal accid than automobil or truck and buse. unit state depart of transport data for 2005 from the fatal analysi report system show that for passeng car, 18.62 fatal crash occur per 100,000 regist vehicl. for motorcycl thi figur is higher at 75.19 per 100,000 regist vehicl –  four time higher than for car.[47] the same data show that 1.56 fatal occur per 100 million vehicl mile travel for passeng car, wherea for motorcycl the figur is 43.47 which is 28 time higher than for car (37 time more death per mile travel in 2007).[6] furthermor, for motorcycl the accid rate have increas significantli sinc the end of the 1990s, while the rate have drop for passeng car.
+
+
+
+
+wear a motorcycl helmet reduc the risk of death or head injuri in a motorcycl crash
+
+
+the most common configur of motorcycl accid in the unit state is when a motorist pull out or turn in front of a motorcyclist, violat their right-of-wai.[48] thi is sometim call a smidsi, an acronym form from the motorist' common respons of "sorri mate, i didn't see you".[49] motorcyclist can anticip and avoid some of these crash with proper train, increas their visibl to other traffic, keep the speed limit, and not consum alcohol or other drug befor ride.[50]
+the unit kingdom ha sever organis dedic to improv motorcycl safeti by provid advanc rider train beyond what is necessari to pass the basic motorcycl licenc test. these includ the institut of advanc motorist (iam) and the royal societi for the prevent of accid (rospa). along with increas person safeti, rider with these advanc qualif mai benefit from reduc insur cost [51]
+in south africa, the think bike campaign is dedic to increas both motorcycl safeti and the awar of motorcycl on the countri's road. the campaign, while strongest in the gauteng provinc, ha represent in western cape, kwazulu natal and the free state. it ha dozen of train marshal avail for variou event such as cycl race and is deepli involv in numer other project such as the annual motorcycl toi run.[52]
+
+
+
+
+an msf rider cours for novic
+
+
+motorcycl safeti educ is offer throughout the unit state by organis rang from state agenc to non-profit organis to corpor. most state us the cours design by the motorcycl safeti foundat (msf), while oregon and idaho develop their own. all of the train program includ a basic rider cours, an intermedi rider cours and an advanc rider cours.
+in ireland, sinc 2010,[53] in the uk and some australian jurisdict, such as victoria, new south wale,[54] the australian capit territori,[55] tasmania[56] and the northern territori,[57] it is compulsori to complet a basic rider train cours befor be issu a learner licenc, after which thei can ride on public road.
+in canada, motorcycl rider train is compulsori in quebec and manitoba onli, but all provinc and territori have graduat licenc program which place restrict on new driver until thei have gain experi. elig for a full motorcycl licenc or endors for complet a motorcycl safeti cours vari by provinc. the canada safeti council, a non-profit safeti organis, offer the gear up program across canada and is endors by the motorcycl and mope industri council.[58] train cours graduat mai qualifi for reduc insur premium.
+motorcycl rider postur[edit]
+
+
+
+
+bmw c1, with a more upright seat posit
+
+
+
+
+
+
+bombardi can-am spyder, show locat of rider on the trike
+
+
+the motorcyclist's ride posit depend on rider bodi-geometri (anthropometri) combin with the geometri of the motorcycl itself. these factor creat a set of three basic postur.[59]
+
+sport –  the rider lean forward into the wind and the weight of the upper torso is support by the rider's core at low speed and air pressur at high speed (e.g., abov 50 mph (80 km/h)). the footpeg ar below the rider or to the rear. the reduc frontal area cut wind resist and allow higher speed. at low-speed thi posit throw the weight of the rider onto the arm, which can tire the rider's wrist.
+standard –  the rider sit upright or lean forward slightli. the feet ar below the rider. these ar motorcycl that ar not specialis to on task, so thei do not excel in ani particular area.[60][61] the standard postur is us with tour and commut as well as dirt and dual-sport bike, and mai offer advantag for beginn.[62]
+cruiser –  the rider sit at a lower seat height with the upper torso upright or lean slightli rearward. leg ar extend forward, sometim out of reach of the regular control on cruiser peg. the low seat height can be a consider for new or short rider. handlebar tend to be high and wide. the emphasi is on comfort, while compromis corner abil becaus of low ground clearanc and the greater likelihood of scrape foot peg, floor board, or other part if turn ar taken at the speed other motorcycl can more readili accomplish.[63][64]
+
+factor of a motorcycl's ergonom geometri that determin the seat postur includ the height, angl and locat of footpeg, seat and handlebar. factor in a rider's physic geometri that contribut to seat postur includ torso, arm, thigh and leg length, and overal rider height.
+legal definit and restrict[edit]
+main articl: legal definit of motorcycl
+a motorcycl is broadli defin by law in most countri for the purpos of registr, taxat and rider licens as a power two-wheel motor vehicl. most countri distinguish between mope of 49 cc and the more power, larger vehicl (scooter do not count as a separ categori). mani jurisdict includ some form of three-wheel car as motorcycl.
+environment impact[edit]
+motorcycl and scooter' low fuel consumpt ha attract interest in the unit state from environmentalist and those whom increas fuel price affect.[65][66] piaggio group america support thi interest with the launch of a "vespanom" websit and platform, claim lower per-mile carbon emiss of 0.4 lb/mile (113 g/km) less than the averag car, a 65% reduct, and better fuel economi.[67]
+howev, a motorcycl's exhaust emiss mai contain 10–20 time more oxid of nitrogen (nox), carbon monoxid, and unburn hydrocarbon than exhaust from a similar-year passeng car or suv.[65][68] thi is becaus mani motorcycl lack a catalyt convert, and the emiss standard is much more permiss for motorcycl than for other vehicl.[65] while catalyt convert have been instal in most gasolin-power car and truck sinc 1975 in the unit state, thei can present fitment and heat difficulti in motorcycl applic.[65][better sourc need]
+unit state environment protect agenc 2007 certif result report for all vehicl versu on highwai motorcycl (which also includ scooter),[69] the averag certifi emiss level for 12,327 vehicl test wa 0.734. the averag "nox+co end-of-us-life-emiss" for 3,863 motorcycl test wa 0.8531. 54% of the test 2007-model motorcycl were equip with a catalyt convert.
+unit state emiss limit[edit]
+the follow tabl show maximum accept legal emiss of the combin of hydrocarbon, oxid of nitrogen, and carbon monoxid for new motorcycl sold in the unit state with 280 cc or greater piston displac.[70]
+
+
+tier
+model year
+hc+nox (g/km)
+co (g/km)
+
+
+tier 1
+2006–2009
+1.4
+12.0
+
+
+tier 2
+2010 and later
+0.8
+12.0
+
+
+the maximum accept legal emiss of hydrocarbon and carbon monoxid for new class i and ii motorcycl (50 cc–169 cc and 170 cc–279 cc respect) sold in the unit state ar as follow:[70]
+
+
+model year
+hc (g/km)
+co (g/km)
+
+
+2006 and later
+1.0
+12.0
+
+
+europ[edit]
+european emiss standard for motorcycl ar similar to those for car.[citat need] new motorcycl must meet euro iii standard,[71] while car must meet euro v standard. motorcycl emiss control ar be updat and it ha been propos to updat to euro iv in 2012 and euro v in 2015.[72]
+trivia[edit]
+the longest motorcycl in the world wa creat by bharat sinh parmar in india. it measur at 26.29 m (86 ft 3 in) long.[73]
+see also[edit]
+
+
+motorcycl race portal
+
+
+
+list of motorcycl manufactur
+motorcycl industri in china
+streamlin motorcycl
+
+
+note[edit]
+
+
+^ >"definit of motorcycl by merriam-webster". merriam-webster. retriev march 17, 2016. 
+^ foal, toni (2006). motorcycl handl and chassi design. toni foal design. pp. 4–1. isbn 978-84-933286-3-4. 
+^ "bureau of motor vehicl". bmv. retriev march 17, 2016. 
+^ cossalt, vittor (2006). motorcycl dynam. lulu. isbn 978-1-4303-0861-4. 
+^ "top five global motorcycl compani: perform, strategi and competit analysi". researchandmarket.com. august 2013. retriev 2016-01-24. 
+^ a b "traffic safeti fact, 2008. report no. dot hs-811-159" (pdf). nhtsa's nation center for statist and analysi. 2008. retriev 15 septemb 2010. 
+^ a b "the past – 1800s: first motorcycl". the histori and futur of motorcycl and motorcycl – from 1885 to the futur, total motorcycl websit. retriev 28 june 2007. 
+^ lienhard, john h. (2005). invent modern: grow up with x-rai, skyscrap, and tailfin. oxford univers press us. pp. 120–121. isbn 0-19-518951-5. 
+^ a b c d setright, l.j.k. (1979). the guin book of motorcycl fact and feat. guin superl. pp. 8–18. isbn 978-0-85112-200-7. 
+^ a b c d falco, charl m.; guggenheim museum staff (1998). "issu in the evolut of the motorcycl". in kren, thoma; drutt, matthew. the art of the motorcycl. harri n. abram. pp. 24–31. isbn 0-89207-207-5. 
+^ "motorcycl (vehicl)". encyclopædia britannica. 
+^ g.n. georgano, p. 22
+^ g.n. georgano, pp. 20-22
+^ "motorcycl, n.". oxford english dictionari onlin. oxford univers press. march 2009. 1. a two-wheel motor-driven road vehicl, resembl a bicycl but power by an intern-combust engin; (now) spec. on with an engin capac, top speed, or weight greater than that of a mope. 
+^ long, toni (30 august 2007). "aug. 30, 1885: daimler give world first 'true' motorcycl". wire. issn 1059-1028. 
+^ a b c kresnak, bill (2008). motorcycl for dummi. hoboken, new jersei: for dummi, wilei publish. isbn 0-470-24587-5. 
+^ "electr bike drive global sale". retriev 5 march 2015. 
+^ "brief histori of the marqu: hildebrand & wolfmul". hildebrand & wolfmul motorad, european motorcycl univers. retriev 28 june 2007. 
+^ "histori of motorbik". 
+^ walker, mick (2006). motorcycl: evolut, design, passion. jhu press. isbn 978-0-8018-8530-3. 
+^ georg hende. the ama motorcycl hall of fame museum. retriev 8 august 2009. 
+^ youngblood, ed (june 2001). "the rise and fall". american motorcyclist. 55 (6). american motorcyclist assoc. 
+^ "triumph histori". archiv from the origin on 8 septemb 2008. retriev 20 mai 2009. 
+^ "triumph motorcycl histori". 
+^ ian chadwick. "triumph motorcycl timelin". 
+^ "histori of harlei-davidson motor compani". 
+^ prashad, sharda (16 april 2006). "hog wild; u of t professor brendan calder is on of the legion of babi boomer who have help to ensur the success of the harlei-davidson brand name, not to mention it bottom line.". toronto star. toronto, ont. p. a.16. 
+^ cato, jeremi (8 august 2003). "harlei-davidson at 100". the vancouv sun. vancouv, b.c. p. e.1.fro. 
+^ vanc, bill (24 april 2009). "motor memori: dkw/auto union, 1928–1966". canadian driver. 
+^ de cet, mirco (2002). the illustr directori of motorcycl. motorbook/mbi publish compani. p. 128. isbn 978-0-7603-1417-3. 
+^ walker, mick (1999). mick walker's german race motorcycl. redlin book. p. 61. isbn 978-0-9531311-2-9. 
+^ willoughbi, vic (1982). exot motorcycl. london: osprei publish, ltd. isbn 0-85045-322-4. 
+^ "rupert hollau". motorsport memori. retriev 3 april 2008. 
+^ ed youngblood. "motocross goe intern, 1947 through 1965". the histori of motocross, part two, motorcycl hall of fame museum. retriev 29 june 2007. 
+^ squatriglia, chuck (23 mai 2008). "honda sell it 60 millionth – ye, millionth – super cub". autopia. wire. retriev 28 januari 2010. 
+^ "hero honda splendor sell more than 8.5 million unit". indiacar.net. archiv from the origin on 21 februari 2008. retriev 10 august 2008. 
+^ o'mallei greenburg, zack (13 august 2007). "world's cheapest car". forb. retriev 28 januari 2010. 
+^ "motorcycl fuel consumpt & real world perform guid". mfc websit. retriev 13 june 2008. 
+^ vetter, craig. "do more with less energi". the craig vetter fuel economi contest – 1980 through 1985. retriev 15 august 2006. 
+^ "electr motorcycl". solo moto. retriev 15 mai 2016. 
+^ a b c d e f g h i "most reliabl motorcycl; japanes bike have fewer problem than bmw and harlei model", consum report, mai 2013, retriev 26 march 2013 
+^ bartlett, jeff (26 march 2013), "motorcycl reliabl survei show what goe wrong", consum report, retriev 26 march 2013 
+^ gaetano, cocco (2004). motorcycl design and technolog. minneapoli: motorbook/mbi publish compani. pp. 34–35. isbn 978-0-7603-1990-1. so with the same disturb, the rider with a longer wheelbas will feel less oscil movement on the handlebar, and therefor, will have a percept of greater stabil on the motorcycl. 
+^ joel fajan (juli 2000). "steer in bicycl and motorcycl" (pdf). american journal of physic. 68 (7): 654–59. doi:10.1119/1.19504. retriev 4 august 2006. 
+^ dr. hugh h. hurt, phd. (januari 1981). "motorcycl accid caus factor and identif of countermeasur, volum 1: technic report, hurt, h.h., ouellet, j.v. and thom, d.r., traffic safeti center, univers of southern california, lo angel, california 90007, contract no. dot hs-5-01160" (pdf). u.s. depart of transport, nhtsa. 
+^ crouch, tom d. (1989). the bishop's boi. new york: w. w. norton. p. 170. isbn 0-393-30695-x. 
+^ "vehicl involv in fatal crash, 1994–2011 – state: usa". fatal analysi report system. unit state depart of transport. retriev 18 mai 2014. 
+^ "motorcycl accid caus factor and identif of countermeasur volum i: technic report, traffic safeti center - univers of southern california" (pdf). 1981. p. 416. 
+^ "the 'sorri mate i didn't see you' campaign". south gloucestershir council. retriev 21 mai 2008. 
+^ quick tip: gener guidelin for ride a motorcycl safe (pdf), motorcycl safeti foundat, octob 2006, retriev 13 june 2012 
+^ "motorcycl : think! : roadsafeti". think.direct.gov.uk. retriev 2016-06-01. 
+^ "about think bike". think bike. retriev 21 march 2010. 
+^ "gdl rollout". road safeti associ of ireland. retriev 2015-08-15. 
+^ "learner rider licenc". motorcycl rider train scheme, road and traffic author, nsw. retriev 16 mai 2007. 
+^ "learner licenc". road transport inform manag, www.rego.act.gov.au. retriev 16 mai 2007. 
+^ "ta learner licenc". depart of infrastructur, energi and resourc. retriev 13 june 2009. 
+^ "motorcyclist educ train and licens (metal)". northern territori depart of plan and infrastructur, www.ip.nt.gov.au. archiv from the origin on 7 mai 2007. retriev 16 mai 2007. 
+^ "mmic inform". motorcycl and mope industri council. retriev 16 mai 2007. 
+^ "a three dimension analysi of ride postur in three differ style of motorcycl" (pdf). motorcycl safeti foundat. march 2006. archiv from the origin (pdf) on 27 march 2012. retriev 31 januari 2008. 
+^ maher, kevin; greisler, ben (1998), chilton's motorcycl handbook, hayn north america, pp. 2.2–2.18, isbn 0-8019-9099-8 
+^ duglin kennedi, shirlei (2005). the savvi guid to motorcycl. indi tech publish. p. 75. isbn 978-0-7906-1316-1. 
+^ stermer, bill (2006). streetbik: everyth you need to know. motorbook/mbi publish compani. p. 16. isbn 978-0-7603-2362-5. 
+^ stermer, bill (2006). streetbik: everyth you need to know. motorbook/mbi publish compani. p. 10. isbn 978-0-7603-2362-5. 
+^ duglin kennedi, shirlei (2005). the savvi guid to motorcycl. indi tech publish. p. 71. isbn 978-0-7906-1316-1. 
+^ a b c d carpent, susan (11 june 2008). "motorcycl and emiss: the surpris fact". la time. retriev 8 august 2008. 
+^ judi dahl (septemb 2007). "babi, you can drive my vespa". madison magazin. archiv from the origin on 11 octob 2007. retriev 8 august 2008. 
+^ "vespanom – vespa econom" (pdf). piaggio group usa. retriev 8 februari 2010. 
+^ umbra fisk (28 mai 2003). "on motorcycl – ask umbra". grist. 
+^ "certifi highwai motorcycl test result report data (2007)". us epa. 8 januari 2008. 
+^ a b "epa emiss regul for 1978 and later new motorcycl, gener provis". unit state environment protect agenc. retriev 7 decemb 2013. 
+^ madson, bart (15 februari 2007). "motorcycl emiss reg examin". motorcycl-usa.com. retriev 28 januari 2010. 
+^ "euro 5 cycl emiss propos for 2015". dealernew.com. 8 decemb 2008. retriev 28 januari 2010. 
+^ "longest motorcycl". guin world record. retriev 2016-12-14. 
+
+
+refer[edit]
+
+g.n. georgano (2002). earli and vintag year, 1885-1930: the golden era of coachbuild. mason crest publish. 
+
+extern link[edit]
+
+
+
+wikimedia common ha media relat to motorcycl.
+
+
+
+motorcycl at dmoz
+
+
+
+
+
+
+
+v
+t
+e
+
+
+motorcycl and motorcycl (outlin)
+
+
+
+gener topic
+
+
+
+definit
+histori
+museum
+motorcycl occup
+safeti
+
+
+
+
+
+type
+
+
+
+street
+
+cruiser
+sport
+tour / sport tour
+univers japanes motorcycl
+
+
+custom
+dual-sport
+off-road
+
+enduro
+motocross
+track race
+trial
+
+
+
+
+
+
+
+design
+
+
+
+compon
+
+accessori
+brake
+chassi
+
+frame
+suspens
+fork
+
+
+engin
+transmiss
+saddl
+tire
+wheel
+fair
+
+
+test and measur
+
+
+
+
+
+manufactur
+
+
+
+bajaj
+bmw
+ducati
+harlei-davidson
+hero
+ktm
+japanes big four
+
+honda
+kawasaki
+suzuki
+yamaha
+
+
+triumph
+tv
+
+
+
+
+
+media
+
+
+
+book
+biker film
+magazin
+
+
+
+
+
+tour
+
+
+
+motorcycl ralli
+list of long-distanc motorcycl rider
+
+
+
+
+
+equip
+
+
+
+armor
+boot
+helmet
+jacket
+
+
+
+
+
+sport
+
+
+
+motorcycl land-speed record
+product motorcycl (by speed / by acceler)
+freestyl motocross
+race
+stunt
+trial
+
+
+
+
+
+organ
+
+
+
+motorcycl club
+
+list of motorcycl club
+
+
+motorcycl gang
+
+color
+list of outlaw motorcycl club
+
+
+
+
+
+
+
+
+
+
+
+author control
+
+
+
+lccn: sh85087665
+gnd: 4040392-0
+bnf: cb11932539c (data)
+ndl: 00568991
+
+
+
+
+
+
+
+
+
+
+ 
+						retriev from "http://en.wikipedia.org/w/index.php?titl=motorcycl&oldid=804999638"					
+categori: motorcycl technologymotorcyclesmotorcyclingwheel vehicleshidden categori: articl contain german-languag textal articl lack reliabl referencesarticl lack reliabl refer from octob 2014all articl with unsourc statementsarticl with unsourc statement from april 2008articl lack reliabl refer from septemb 2014articl with unsourc statement from august 2013articl prone to spam from mai 2014articl with dmoz linksus dmy date from august 2012wikipedia articl with lccn identifierswikipedia articl with gnd identifierswikipedia articl with bnf identifiersarticl with inconsist citat format 
+
+
+
+navig menu
+
+
+person tool
+
+not log intalkcontributionscr accountlog in 
+
+
+
+namespac
+
+articl
+talk
+
+
+
+
+variant
+
+
+
+
+
+
+
+
+
+view
+
+read
+edit
+view histori
+
+
+
+more
+
+
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navig
+
+
+main pagecontentsfeatur contentcurr eventsrandom articledon to wikipediawikipedia store 
+
+
+
+interact
+
+
+helpabout wikipediacommun portalrec changescontact page 
+
+
+
+tool
+
+
+what link hererel changesupload filespeci pagesperman linkpag informationwikidata itemcit thi page 
+
+
+
+print/export
+
+
+creat a bookdownload as pdfprintabl version 
+
+
+
+in other project
+
+
+wikimedia common 
+
+
+
+languag
+
+
+العربيةazərbaycancaবাংলাbân-lâm-gúБеларускаяБеларуская (тарашкевіца)‎БългарскиcatalàЧӑвашлаČeštinacorsucymraegdanskdeutschdiné bizaadeestiΕλληνικάespañolesperantoeuskaraفارسیfrançaisgaeilgegalego贛語客家語/hak-kâ-ngî한국어Հայերենहिन्दीhrvatskibahasa indonesiaÍslenskaitalianoעבריתbasa jawaქართულიҚазақшаkiswahilikurdîລາວlatinalatvišulietuviųlingálalumbaartmagyarМакедонскиമലയാളംbahasa melayumìng-dĕ̤ng-ngṳ̄mirandésМонголမြန်မာဘာသာnederlandनेपाली日本語norsknorsk nynorskਪੰਜਾਬੀپنجابیpiemontèispolskiportuguêsromânăruna simiРусскийscotsseeltersksicilianuසිංහලsimpl englishسنڌيslovenčinaslovenščinasoomaaligaСрпски / srpskisrpskohrvatski / српскохрватскиbasa sundasuomisvenskatagalogதமிழ்తెలుగుไทยtürkçethuɔŋjäŋᨅᨔ ᨕᨘᨁᨗУкраїнськаاردوtiếng việtwinaraiייִדיש粵語中文 
+edit link 
+
+
+
+
+
+ thi page wa last edit on 12 octob 2017, at 12:42.
+text is avail under the creativ common attribut-sharealik licens;
+addit term mai appli.  by us thi site, you agre to the term of us and privaci polici. wikipedia® is a regist trademark of the wikimedia foundat, inc., a non-profit organ.
+
+
+privaci polici
+about wikipedia
+disclaim
+contact wikipedia
+develop
+cooki statement
+mobil view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputim":"0.688","walltim":"0.817","ppvisitednod":{"valu":3984,"limit":1000000},"ppgeneratednod":{"valu":0,"limit":1500000},"postexpandincludes":{"valu":143634,"limit":2097152},"templatearguments":{"valu":2672,"limit":2097152},"expansiondepth":{"valu":13,"limit":40},"expensivefunctioncount":{"valu":8,"limit":500},"entityaccesscount":{"valu":1,"limit":400},"timingprofil":["100.00%  680.395      1 -total"," 56.55%  384.764      1 templat:reflist"," 25.82%  175.665     40 templat:cite_web"," 10.56%   71.847     19 templat:cite_book","  7.78%   52.950      4 templat:fix","  5.65%   38.448      7 templat:categori_handler","  5.07%   34.524      2 templat:better_sourc","  4.91%   33.413      4 templat:delink","  4.19%   28.495      1 templat:lang-de","  4.16%   28.308      3 templat:convert"]},"scribunto":{"limitreport-timeusag":{"valu":"0.359","limit":"10.000"},"limitreport-memusag":{"valu":8214959,"limit":52428800}},"cachereport":{"origin":"mw1210","timestamp":"20171014045302","ttl":1900800,"transientcont":fals}}});});(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetim":96,"wghostnam":"mw1219"});});
+
+
