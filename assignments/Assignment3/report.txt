@@ -1,0 +1,44 @@
+﻿6.3. Implement a simple pseudo-relevance feedback algorithm for the Galago
+search engine. Provide examples of the query expansions that your algorithm does,
+and summarize the problems and successes of your approach.
+
+6.4. Assuming you had a gazetteer of place names available, sketch out an algorithm
+for detecting place names or locations in queries. Show examples of the
+types of queries where your algorithm would succeed and where it would fail.
+
+6.7. Implement a simple algorithm that selects phrases from the top-ranked pages
+as the basis for result clusters. Phrases should be considered as any two-word sequence.
+Your algorithm should take into account phrase frequency in the results,
+phrase frequency in the collection, and overlap in the clusters associated with the
+phrases.
+
+
+7.2. Can you think of another measure of similarity that could be used in the vector
+space model? Compare your measure with the cosine correlation using some
+example documents and queries with made-up weights. Browse the IR literature
+on the Web and see whether your measure has been studied (start with van Rijsbergen’s
+book).
+
+7.5. Implement a BM25 module for Galago. Show that it works and document
+it.
+
+7.6. Show the effect of changing parameter values in your BM25 implementation.
+
+
+7.8. Using the Galago implementation of query likelihood, study the impact of
+short queries and long queries on effectiveness. Do the parameter settings make a
+difference?
+
+
+7.9. Implement the relevance model approach to pseudo-relevance feedback in
+Galago. Show it works by generating some expansion terms for queries and document
+it.
+
+7.13. Write an interface program that will take a user’s query as text and transform
+it into an inference network query. Make sure you use proximity operators.
+Compare the performance of the simple queries and the transformed queries.
+
+
+MLN2: using the small wikipedia example, choose 10 words and compute
+MIM, EMIM, chi square, dice association measures for full document
+& 5 word windows (cf. pp. 203-205)
