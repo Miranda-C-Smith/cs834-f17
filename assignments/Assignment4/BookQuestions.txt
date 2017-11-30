@@ -1,0 +1,56 @@
+8.3. For one query in the CACM collection (provided at the book website), generate a ranking using Galago, and then calculate average precision, NDCG at 5 and 10, precision at 10, and the reciprocal rank by hand.
+
+8.4. For two queries in the CACM collection, generate two uninterpolated recallprecision graphs, a table of interpolated precision values at standard recall levels, and the average interpolated recall-precision graph.
+
+8.5. Generate the mean average precision, recall-precision graph, average NDCG at 5 and 10, and precision at 10 for the entire CACM query set.
+
+8.7. Another measure that has been used in a number of evaluations isR-precision. This is defined as the precision at R documents, where R is the number of relevant
+documents for a query. It is used in situations where there is a large variation in
+the number of relevant documents per query. Calculate the average R-precision
+for the CACM query set and compare it to the other measures.
+
+8.8. Generate another set of rankings for 10 CACM queries by adding structure
+to the queries manually. Compare the effectiveness of these queries to the simple
+queries using MAP, NDCG, and precision at 10. Check for significance using the
+t-test, Wilcoxon test, and the sign test.
+338 8 Evaluating Search Engines
+
+8.9. For one query in the CACM collection, generate a ranking and calculate
+BPREF. Show that the two formulations of BPREF give the same value.
+
+8.10. Consider a test collection that contains judgments for a large number of
+time-sensitive queries, such as “olympics” and “miss universe”. Suppose that the
+judgments for these queries were made in 2002. Why is this a problem? How can
+online testing be used to alleviate the problem?
+
+
+9.4. For some classification data set, compute estimates for P(w|c) for all words
+wusing both the multiple-Bernoulli and multinomial models. Compare the multipleBernoulli
+estimates with the multinomial estimates. How do they differ? Do the
+estimates diverge more for certain types of terms?
+
+9.6. Compare the accuracy of a one versus all SVM classifier and a one versus
+one SVM classifier on a multiclass classification data set. Discuss any differences
+observed in terms of the efficiency and effectiveness of the two approaches.
+
+9.8. Cluster the following set of two-dimensional instances into three clusters using
+each of the five agglomerative clustering methods:
+(–4, –2), (–3, –2), (–2, –2), (–1, –2), (1, –1), (1, 1), (2, 3), (3, 2), (3, 4), (4, 3)
+Discuss the differences in the clusters across methods. Which methods produce
+the same clusters? How do these clusters compare to how you would manually
+cluster the points?
+
+9.9. Use K-means and spherical K-means to cluster the data points in Exercise
+
+9.8. How do the clusterings differ?
+
+9.10. Nearest neighbor clusters are not symmetric, in the sense that if instance A
+is one of instance B’s nearest neighbors, the reverse is not necessarily true. Explain
+how this can happen with a diagram.
+
+9.11. The K nearest neighbors of a document could be represented by links to
+those documents. Describe two ways this representation could be used in a search
+application.
+
+9.13. Test the cluster hypothesis on the CACM collection using both methods
+shown in Figure 9.18. What do you conclude from these tests?
