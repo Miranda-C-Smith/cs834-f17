@@ -1,4 +1,3 @@
-8.3. For one query in the CACM collection (provided at the book website), generate a ranking using Galago, and then calculate average precision, NDCG at 5 and 10, precision at 10, and the reciprocal rank by hand.
 
 8.4. For two queries in the CACM collection, generate two uninterpolated recallprecision graphs, a table of interpolated precision values at standard recall levels, and the average interpolated recall-precision graph.
 
