@@ -9,7 +9,7 @@ Any research paper in "references and further reading" from chapters
 the email list)
 
 Written report: 2017-12-15:
-Chose 5 of: 10.2, 10.3, 10.5, 10.6, 10.8, 10.9, 10.11, 10.12, 11.5, 11.9, 11.11
+Chose 5 of: 10.2, 10.3, 10.8, 10.9,  10.12,  11.9, 11.11
 
 Extra Credit: SVMlight, 10 points extra credit:
 see: http://www.cs.cornell.edu/People/tj/svm_light/
